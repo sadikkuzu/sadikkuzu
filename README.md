@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## [![statsGit](https://github-readme-stats.vercel.app/api?username=sadikkuzu&show_icons=true&theme=dark)](https://github.com/sadikkuzu)
+
 <!--
 **sadikkuzu/sadikkuzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
