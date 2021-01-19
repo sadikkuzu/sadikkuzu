@@ -4,6 +4,11 @@
 
 ## [![sadikkuzu's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadikkuzu&layout=compact&theme=dark&hide_title=true)](https://github.com/sadikkuzu)
 
+---
+
+[![Developer-Y/math-science-video-lectures](https://github-readme-stats.vercel.app/api/pin/?username=Developer-Y&repo=math-science-video-lectures&show_owner=true&layout=compact&theme=dark)](https://github.com/Developer-Y/math-science-video-lectures)
+[![missing-semester/missing-semester](https://github-readme-stats.vercel.app/api/pin/?username=missing-semester&repo=missing-semester&show_owner=true&layout=compact&theme=dark)](https://github.com/missing-semester/missing-semester)
+
 <!--
 **sadikkuzu/sadikkuzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
