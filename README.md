@@ -6,6 +6,10 @@
 
 ---
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=sadikkuzu&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 [![Developer-Y/math-science-video-lectures](https://github-readme-stats.vercel.app/api/pin/?username=Developer-Y&repo=math-science-video-lectures&show_owner=true&layout=compact&theme=dark)](https://github.com/Developer-Y/math-science-video-lectures)
 [![missing-semester/missing-semester](https://github-readme-stats.vercel.app/api/pin/?username=missing-semester&repo=missing-semester&show_owner=true&layout=compact&theme=dark)](https://github.com/missing-semester/missing-semester)
 
