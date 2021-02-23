@@ -1,9 +1,7 @@
-### Hi there 👋
+### Hi there! This is Sadık from (beautiful) Istanbul 👋
 
 [![sadikkuzu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadikkuzu&show_icons=true&theme=dark&hide=stars&hide_title=true)](https://github.com/sadikkuzu)
-<br/>
-[![sadikkuzu's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadikkuzu&langs_count=12&theme=dark&hide_title=true)](https://github.com/sadikkuzu)
-
+[![sadikkuzu's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadikkuzu&langs_count=6&layout=compact&theme=dark&hide_title=true)](https://github.com/sadikkuzu)
 ---
 
 [![Developer-Y/math-science-video-lectures](https://github-readme-stats.vercel.app/api/pin/?username=Developer-Y&repo=math-science-video-lectures&show_owner=true&layout=compact&theme=dark)](https://github.com/Developer-Y/math-science-video-lectures) 
