@@ -25,7 +25,7 @@
 - [When BERT Plays The Lottery, All Tickets Are Winning](https://thegradient.pub/when-bert-plays-the-lottery-all-tickets-are-winning/) (3 months ago)
 
 
-#### [MATH 538 Algebraic Topology II](https://www.youtube.com/playlist?list=PLBMmiR8tC9UmP3YhW1R2tNSqTCpq-kaDh) by [Prof.Dr. Yıldıray Ozan](http://users.metu.edu.tr/ozan/indexEng.html)
+#### 🎼 [MATH 538 Algebraic Topology II](https://www.youtube.com/playlist?list=PLBMmiR8tC9UmP3YhW1R2tNSqTCpq-kaDh) by [Prof.Dr. Yıldıray Ozan](http://users.metu.edu.tr/ozan/indexEng.html)
 
 - [Math 538-1](https://www.youtube.com/watch?v=pUcb8QkYp7E) (1 week ago)
 - [Math 538-2](https://www.youtube.com/watch?v=xqBTFQDlWQE) (1 week ago)
@@ -33,3 +33,5 @@
 - [Math 538-4](https://www.youtube.com/watch?v=IhmA_gXjPVc) (5 days ago)
 - [Math 538-5](https://www.youtube.com/watch?v=S4e5jGol5Nk) (today)
 - [Math 538-6](https://www.youtube.com/watch?v=zQ--uRnYu7o) (today)
+
+
