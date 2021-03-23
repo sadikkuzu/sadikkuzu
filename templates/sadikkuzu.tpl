@@ -6,7 +6,7 @@
 ---
 
 #### 🔭 Check out my recent followers
-{{range followers 5}}
+{{range followers 7}}
 - [{{.Login}}]({{.URL}}) {{.Name}}
 {{- end}}
 
