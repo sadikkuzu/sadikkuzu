@@ -12,6 +12,8 @@
 - [thefoodotbar](https://github.com/thefoodotbar) Gregory Xebec
 - [Daminhao](https://github.com/Daminhao) Damião
 - [iedmrc](https://github.com/iedmrc) ibrahim ethem demirci
+- [osmanatam](https://github.com/osmanatam) 
+- [mpolatcan](https://github.com/mpolatcan) Mutlu Polatcan
 
 
 #### 🔻 [The Gradient](https://thegradient.pub)
