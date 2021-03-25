@@ -25,7 +25,16 @@
 - [When BERT Plays The Lottery, All Tickets Are Winning](https://thegradient.pub/when-bert-plays-the-lottery-all-tickets-are-winning/) (3 months ago)
 
 
-#### 🎼 [MATH 538 Algebraic Topology II](https://www.youtube.com/playlist?list=PLBMmiR8tC9UmP3YhW1R2tNSqTCpq-kaDh) by [Prof.Dr. Yıldıray Ozan](http://users.metu.edu.tr/ozan/indexEng.html)
+#### 🔛 NATS
+
+- [NATS and Certificate Authorities - Intermediate Rolls](https://nats.io/blog/nats-blogpost-ca/) (4 months ago)
+- [Introducing the Synadia Adaptive Edge Architecture](https://nats.io/blog/synadia-adaptive-edge/) (4 months ago)
+- [NATS Connect Live 2020!](https://nats.io/blog/nats-connect-live-2020/) (11 months ago)
+- [Appsecco Chooses NATS](https://nats.io/blog/appsecco-chooses-nats/) (1 year ago)
+- [Guest Post: Using NATS to Implement Service Mesh Functionality, Part 4: Load Balancing and Routing Control](https://nats.io/blog/nats-to-implement-service-mesh-functionality-part3-metrics/) (1 year ago)
+
+
+#### ➕ [MATH 538 Algebraic Topology II](https://www.youtube.com/playlist?list=PLBMmiR8tC9UmP3YhW1R2tNSqTCpq-kaDh) by [Prof.Dr. Yıldıray Ozan](http://users.metu.edu.tr/ozan/indexEng.html)
 
 - [Math 538-6](https://www.youtube.com/watch?v=zQ--uRnYu7o) (2 days ago)
 - [Math 538-5](https://www.youtube.com/watch?v=S4e5jGol5Nk) (2 days ago)
@@ -33,5 +42,6 @@
 - [Math 538-3](https://www.youtube.com/watch?v=ouhicmNal20) (1 week ago)
 - [Math 538-2](https://www.youtube.com/watch?v=xqBTFQDlWQE) (1 week ago)
 - [Math 538-1](https://www.youtube.com/watch?v=pUcb8QkYp7E) (1 week ago)
+
 
 
