@@ -27,10 +27,10 @@
 
 #### 🎼 [MATH 538 Algebraic Topology II](https://www.youtube.com/playlist?list=PLBMmiR8tC9UmP3YhW1R2tNSqTCpq-kaDh) by [Prof.Dr. Yıldıray Ozan](http://users.metu.edu.tr/ozan/indexEng.html)
 
-- [Math 538-6](https://www.youtube.com/watch?v=zQ--uRnYu7o) (1 day ago)
-- [Math 538-5](https://www.youtube.com/watch?v=S4e5jGol5Nk) (1 day ago)
-- [Math 538-4](https://www.youtube.com/watch?v=IhmA_gXjPVc) (6 days ago)
-- [Math 538-3](https://www.youtube.com/watch?v=ouhicmNal20) (6 days ago)
+- [Math 538-6](https://www.youtube.com/watch?v=zQ--uRnYu7o) (2 days ago)
+- [Math 538-5](https://www.youtube.com/watch?v=S4e5jGol5Nk) (2 days ago)
+- [Math 538-4](https://www.youtube.com/watch?v=IhmA_gXjPVc) (1 week ago)
+- [Math 538-3](https://www.youtube.com/watch?v=ouhicmNal20) (1 week ago)
 - [Math 538-2](https://www.youtube.com/watch?v=xqBTFQDlWQE) (1 week ago)
 - [Math 538-1](https://www.youtube.com/watch?v=pUcb8QkYp7E) (1 week ago)
 
