@@ -28,7 +28,7 @@
 #### 🔛 NATS
 
 - [NATS and Certificate Authorities - Intermediate Rolls](https://nats.io/blog/nats-blogpost-ca/) (4 months ago)
-- [Introducing the Synadia Adaptive Edge Architecture](https://nats.io/blog/synadia-adaptive-edge/) (4 months ago)
+- [Introducing the Synadia Adaptive Edge Architecture](https://nats.io/blog/synadia-adaptive-edge/) (5 months ago)
 - [NATS Connect Live 2020!](https://nats.io/blog/nats-connect-live-2020/) (11 months ago)
 - [Appsecco Chooses NATS](https://nats.io/blog/appsecco-chooses-nats/) (1 year ago)
 - [Guest Post: Using NATS to Implement Service Mesh Functionality, Part 4: Load Balancing and Routing Control](https://nats.io/blog/nats-to-implement-service-mesh-functionality-part3-metrics/) (1 year ago)
@@ -36,10 +36,10 @@
 
 #### ➕ [MATH 538 Algebraic Topology II](https://www.youtube.com/playlist?list=PLBMmiR8tC9UmP3YhW1R2tNSqTCpq-kaDh) by [Prof.Dr. Yıldıray Ozan](http://users.metu.edu.tr/ozan/indexEng.html)
 
-- [Math 538-8](https://www.youtube.com/watch?v=e5yO7Dh6e70) (3 days ago)
-- [Math 538-7](https://www.youtube.com/watch?v=4H4QaPwjb7o) (3 days ago)
-- [Math 538-6](https://www.youtube.com/watch?v=zQ--uRnYu7o) (5 days ago)
-- [Math 538-5](https://www.youtube.com/watch?v=S4e5jGol5Nk) (5 days ago)
+- [Math 538-8](https://www.youtube.com/watch?v=e5yO7Dh6e70) (4 days ago)
+- [Math 538-7](https://www.youtube.com/watch?v=4H4QaPwjb7o) (4 days ago)
+- [Math 538-6](https://www.youtube.com/watch?v=zQ--uRnYu7o) (6 days ago)
+- [Math 538-5](https://www.youtube.com/watch?v=S4e5jGol5Nk) (6 days ago)
 - [Math 538-4](https://www.youtube.com/watch?v=IhmA_gXjPVc) (1 week ago)
 - [Math 538-3](https://www.youtube.com/watch?v=ouhicmNal20) (1 week ago)
 - [Math 538-2](https://www.youtube.com/watch?v=xqBTFQDlWQE) (1 week ago)
