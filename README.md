@@ -8,12 +8,12 @@
 #### 🔭 Check out my recent followers
 
 - [mustafasencer](https://github.com/mustafasencer) Mustafa Sencer Özcan
-- [rohankumar997](https://github.com/rohankumar997) Rohan Kumar Dubey
 - [iedmrc](https://github.com/iedmrc) ibrahim ethem demirci
 - [osmanatam](https://github.com/osmanatam) 
 - [mpolatcan](https://github.com/mpolatcan) Mutlu Polatcan
 - [OmidZamani](https://github.com/OmidZamani) OMID Zamani
 - [inveon-yakupdurmus](https://github.com/inveon-yakupdurmus) inveon-yakupdurmus
+- [UysalMustafaa](https://github.com/UysalMustafaa) Mustafa UYSAL
 
 
 #### 🔻 [The Gradient](https://thegradient.pub)
