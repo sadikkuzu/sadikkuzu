@@ -19,7 +19,7 @@
 #### 🔻 [The Gradient](https://thegradient.pub)
 
 - [Catching Cyberbullies with Neural Networks](https://thegradient.pub/catching-cyberbullies-with-neural-networks/) (1 month ago)
-- [Can AI Let Justice Be Done?](https://thegradient.pub/robot-judges/) (1 month ago)
+- [Can AI Let Justice Be Done?](https://thegradient.pub/robot-judges/) (2 months ago)
 - [A Visual History of Interpretation for Image Recognition](https://thegradient.pub/a-visual-history-of-interpretation-for-image-recognition/) (2 months ago)
 - [Knocking on Turing’s door: Quantum Computing and Machine Learning](https://thegradient.pub/knocking-on-turings-door-quantum-computing-and-machine-learning/) (2 months ago)
 - [When BERT Plays The Lottery, All Tickets Are Winning](https://thegradient.pub/when-bert-plays-the-lottery-all-tickets-are-winning/) (3 months ago)
@@ -36,10 +36,10 @@
 
 #### ➕ [MATH 538 Algebraic Topology II](https://www.youtube.com/playlist?list=PLBMmiR8tC9UmP3YhW1R2tNSqTCpq-kaDh) by [Prof.Dr. Yıldıray Ozan](http://users.metu.edu.tr/ozan/indexEng.html)
 
-- [Math 538-10](https://www.youtube.com/watch?v=6uHBO7i_Rac) (today)
-- [Math 538-9](https://www.youtube.com/watch?v=ufL4DoyVKg4) (today)
-- [Math 538-8](https://www.youtube.com/watch?v=e5yO7Dh6e70) (5 days ago)
-- [Math 538-7](https://www.youtube.com/watch?v=4H4QaPwjb7o) (5 days ago)
+- [Math 538-10](https://www.youtube.com/watch?v=6uHBO7i_Rac) (1 day ago)
+- [Math 538-9](https://www.youtube.com/watch?v=ufL4DoyVKg4) (1 day ago)
+- [Math 538-8](https://www.youtube.com/watch?v=e5yO7Dh6e70) (6 days ago)
+- [Math 538-7](https://www.youtube.com/watch?v=4H4QaPwjb7o) (6 days ago)
 - [Math 538-6](https://www.youtube.com/watch?v=zQ--uRnYu7o) (1 week ago)
 - [Math 538-5](https://www.youtube.com/watch?v=S4e5jGol5Nk) (1 week ago)
 - [Math 538-4](https://www.youtube.com/watch?v=IhmA_gXjPVc) (1 week ago)
