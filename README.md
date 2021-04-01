@@ -36,6 +36,8 @@
 
 #### ➕ [MATH 538 Algebraic Topology II](https://www.youtube.com/playlist?list=PLBMmiR8tC9UmP3YhW1R2tNSqTCpq-kaDh) by [Prof.Dr. Yıldıray Ozan](http://users.metu.edu.tr/ozan/indexEng.html)
 
+- [Math 538-11](https://www.youtube.com/watch?v=YkpWe1fjOX8) (today)
+- [Math 538-12](https://www.youtube.com/watch?v=Fr7bi_ErYOg) (today)
 - [Math 538-10](https://www.youtube.com/watch?v=6uHBO7i_Rac) (2 days ago)
 - [Math 538-9](https://www.youtube.com/watch?v=ufL4DoyVKg4) (2 days ago)
 - [Math 538-8](https://www.youtube.com/watch?v=e5yO7Dh6e70) (1 week ago)
