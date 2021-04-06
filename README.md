@@ -36,18 +36,18 @@
 
 #### ➕ [MATH 538 Algebraic Topology II](https://www.youtube.com/playlist?list=PLBMmiR8tC9UmP3YhW1R2tNSqTCpq-kaDh) by [Prof.Dr. Yıldıray Ozan](http://users.metu.edu.tr/ozan/indexEng.html)
 
-- [Math 538-12](https://www.youtube.com/watch?v=Fr7bi_ErYOg) (4 days ago)
-- [Math 538-11](https://www.youtube.com/watch?v=YkpWe1fjOX8) (4 days ago)
-- [Math 538-10](https://www.youtube.com/watch?v=6uHBO7i_Rac) (6 days ago)
-- [Math 538-9](https://www.youtube.com/watch?v=ufL4DoyVKg4) (6 days ago)
+- [Math 538-12](https://www.youtube.com/watch?v=Fr7bi_ErYOg) (5 days ago)
+- [Math 538-11](https://www.youtube.com/watch?v=YkpWe1fjOX8) (5 days ago)
+- [Math 538-10](https://www.youtube.com/watch?v=6uHBO7i_Rac) (1 week ago)
+- [Math 538-9](https://www.youtube.com/watch?v=ufL4DoyVKg4) (1 week ago)
 - [Math 538-8](https://www.youtube.com/watch?v=e5yO7Dh6e70) (1 week ago)
 - [Math 538-7](https://www.youtube.com/watch?v=4H4QaPwjb7o) (1 week ago)
-- [Math 538-6](https://www.youtube.com/watch?v=zQ--uRnYu7o) (1 week ago)
-- [Math 538-5](https://www.youtube.com/watch?v=S4e5jGol5Nk) (1 week ago)
+- [Math 538-6](https://www.youtube.com/watch?v=zQ--uRnYu7o) (2 weeks ago)
+- [Math 538-5](https://www.youtube.com/watch?v=S4e5jGol5Nk) (2 weeks ago)
 - [Math 538-4](https://www.youtube.com/watch?v=IhmA_gXjPVc) (2 weeks ago)
 - [Math 538-3](https://www.youtube.com/watch?v=ouhicmNal20) (2 weeks ago)
-- [Math 538-2](https://www.youtube.com/watch?v=xqBTFQDlWQE) (2 weeks ago)
-- [Math 538-1](https://www.youtube.com/watch?v=pUcb8QkYp7E) (2 weeks ago)
+- [Math 538-2](https://www.youtube.com/watch?v=xqBTFQDlWQE) (3 weeks ago)
+- [Math 538-1](https://www.youtube.com/watch?v=pUcb8QkYp7E) (3 weeks ago)
 
 
 
