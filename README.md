@@ -18,11 +18,11 @@
 
 #### 🔻 [The Gradient](https://thegradient.pub)
 
+- [Decentralized AI For Healthcare](https://thegradient.pub/decentralized-ai-for-healthcare/) (today)
 - [Catching Cyberbullies with Neural Networks](https://thegradient.pub/catching-cyberbullies-with-neural-networks/) (1 month ago)
 - [Can AI Let Justice Be Done?](https://thegradient.pub/robot-judges/) (2 months ago)
 - [A Visual History of Interpretation for Image Recognition](https://thegradient.pub/a-visual-history-of-interpretation-for-image-recognition/) (2 months ago)
 - [Knocking on Turing’s door: Quantum Computing and Machine Learning](https://thegradient.pub/knocking-on-turings-door-quantum-computing-and-machine-learning/) (3 months ago)
-- [When BERT Plays The Lottery, All Tickets Are Winning](https://thegradient.pub/when-bert-plays-the-lottery-all-tickets-are-winning/) (3 months ago)
 
 
 #### 🔛 NATS
