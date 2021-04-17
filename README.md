@@ -18,11 +18,11 @@
 
 #### 🔻 [The Gradient](https://thegradient.pub)
 
+- [Attention in the Human Brain and Its Applications in ML](https://thegradient.pub/attention-in-human-brain-and-its-applications-in-ml/) (today)
 - [Decentralized AI For Healthcare](https://thegradient.pub/decentralized-ai-for-healthcare/) (1 week ago)
 - [Catching Cyberbullies with Neural Networks](https://thegradient.pub/catching-cyberbullies-with-neural-networks/) (2 months ago)
 - [Can AI Let Justice Be Done?](https://thegradient.pub/robot-judges/) (2 months ago)
 - [A Visual History of Interpretation for Image Recognition](https://thegradient.pub/a-visual-history-of-interpretation-for-image-recognition/) (3 months ago)
-- [Knocking on Turing’s door: Quantum Computing and Machine Learning](https://thegradient.pub/knocking-on-turings-door-quantum-computing-and-machine-learning/) (3 months ago)
 
 
 #### 🔛 NATS
