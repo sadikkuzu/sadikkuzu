@@ -21,7 +21,7 @@
 - [Decentralized AI For Healthcare](https://thegradient.pub/decentralized-ai-for-healthcare/) (1 week ago)
 - [Catching Cyberbullies with Neural Networks](https://thegradient.pub/catching-cyberbullies-with-neural-networks/) (2 months ago)
 - [Can AI Let Justice Be Done?](https://thegradient.pub/robot-judges/) (2 months ago)
-- [A Visual History of Interpretation for Image Recognition](https://thegradient.pub/a-visual-history-of-interpretation-for-image-recognition/) (2 months ago)
+- [A Visual History of Interpretation for Image Recognition](https://thegradient.pub/a-visual-history-of-interpretation-for-image-recognition/) (3 months ago)
 - [Knocking on Turing’s door: Quantum Computing and Machine Learning](https://thegradient.pub/knocking-on-turings-door-quantum-computing-and-machine-learning/) (3 months ago)
 
 
@@ -47,8 +47,8 @@
 - [Math 538-7](https://www.youtube.com/watch?v=4H4QaPwjb7o) (3 weeks ago)
 - [Math 538-6](https://www.youtube.com/watch?v=zQ--uRnYu7o) (3 weeks ago)
 - [Math 538-5](https://www.youtube.com/watch?v=S4e5jGol5Nk) (3 weeks ago)
-- [Math 538-4](https://www.youtube.com/watch?v=IhmA_gXjPVc) (4 weeks ago)
-- [Math 538-3](https://www.youtube.com/watch?v=ouhicmNal20) (4 weeks ago)
+- [Math 538-4](https://www.youtube.com/watch?v=IhmA_gXjPVc) (1 month ago)
+- [Math 538-3](https://www.youtube.com/watch?v=ouhicmNal20) (1 month ago)
 - [Math 538-2](https://www.youtube.com/watch?v=xqBTFQDlWQE) (1 month ago)
 - [Math 538-1](https://www.youtube.com/watch?v=pUcb8QkYp7E) (1 month ago)
 
