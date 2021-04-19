@@ -7,13 +7,13 @@
 
 #### 🔭 Check out my recent followers
 
+- [musolee1](https://github.com/musolee1) 
 - [vuchien000](https://github.com/vuchien000) 
 - [mustafasencer](https://github.com/mustafasencer) Mustafa Sencer Özcan
 - [iedmrc](https://github.com/iedmrc) ibrahim ethem demirci
 - [osmanatam](https://github.com/osmanatam) 
 - [mpolatcan](https://github.com/mpolatcan) Mutlu Polatcan
 - [OmidZamani](https://github.com/OmidZamani) OMID Zamani
-- [inveon-yakupdurmus](https://github.com/inveon-yakupdurmus) inveon-yakupdurmus
 
 
 #### 🔻 [The Gradient](https://thegradient.pub)
