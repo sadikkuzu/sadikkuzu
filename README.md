@@ -18,8 +18,8 @@
 
 #### 🔻 [The Gradient](https://thegradient.pub)
 
-- [Attention in the Human Brain and Its Applications in ML](https://thegradient.pub/attention-in-human-brain-and-its-applications-in-ml/) (4 days ago)
-- [Decentralized AI For Healthcare](https://thegradient.pub/decentralized-ai-for-healthcare/) (1 week ago)
+- [Attention in the Human Brain and Its Applications in ML](https://thegradient.pub/attention-in-human-brain-and-its-applications-in-ml/) (5 days ago)
+- [Decentralized AI For Healthcare](https://thegradient.pub/decentralized-ai-for-healthcare/) (2 weeks ago)
 - [Catching Cyberbullies with Neural Networks](https://thegradient.pub/catching-cyberbullies-with-neural-networks/) (2 months ago)
 - [Can AI Let Justice Be Done?](https://thegradient.pub/robot-judges/) (2 months ago)
 - [A Visual History of Interpretation for Image Recognition](https://thegradient.pub/a-visual-history-of-interpretation-for-image-recognition/) (3 months ago)
@@ -27,26 +27,26 @@
 
 #### 🔛 NATS
 
-- [Headers with the NATS.io Java Library](https://nats.io/blog/headers-java-client/) (4 days ago)
+- [Headers with the NATS.io Java Library](https://nats.io/blog/headers-java-client/) (5 days ago)
 - [NATS and Certificate Authorities - Intermediate Rolls](https://nats.io/blog/nats-blogpost-ca/) (5 months ago)
 - [Introducing the Synadia Adaptive Edge Architecture](https://nats.io/blog/synadia-adaptive-edge/) (5 months ago)
-- [NATS Connect Live 2020!](https://nats.io/blog/nats-connect-live-2020/) (11 months ago)
+- [NATS Connect Live 2020!](https://nats.io/blog/nats-connect-live-2020/) (1 year ago)
 - [Appsecco Chooses NATS](https://nats.io/blog/appsecco-chooses-nats/) (1 year ago)
 
 
 #### ➕ [MATH 538 Algebraic Topology II](https://www.youtube.com/playlist?list=PLBMmiR8tC9UmP3YhW1R2tNSqTCpq-kaDh) by [Prof.Dr. Yıldıray Ozan](http://users.metu.edu.tr/ozan/indexEng.html)
 
-- [Math 538-15](https://www.youtube.com/watch?v=yYKRWqFoEAA) (1 week ago)
+- [Math 538-15](https://www.youtube.com/watch?v=yYKRWqFoEAA) (2 weeks ago)
 - [Math 538-14](https://www.youtube.com/watch?v=F-nlSTM2rbk) (2 weeks ago)
 - [Math 538-13](https://www.youtube.com/watch?v=iy_J8-IdNTc) (2 weeks ago)
-- [Math 538-12](https://www.youtube.com/watch?v=Fr7bi_ErYOg) (2 weeks ago)
-- [Math 538-11](https://www.youtube.com/watch?v=YkpWe1fjOX8) (2 weeks ago)
+- [Math 538-12](https://www.youtube.com/watch?v=Fr7bi_ErYOg) (3 weeks ago)
+- [Math 538-11](https://www.youtube.com/watch?v=YkpWe1fjOX8) (3 weeks ago)
 - [Math 538-10](https://www.youtube.com/watch?v=6uHBO7i_Rac) (3 weeks ago)
 - [Math 538-9](https://www.youtube.com/watch?v=ufL4DoyVKg4) (3 weeks ago)
-- [Math 538-8](https://www.youtube.com/watch?v=e5yO7Dh6e70) (3 weeks ago)
-- [Math 538-7](https://www.youtube.com/watch?v=4H4QaPwjb7o) (3 weeks ago)
-- [Math 538-6](https://www.youtube.com/watch?v=zQ--uRnYu7o) (4 weeks ago)
-- [Math 538-5](https://www.youtube.com/watch?v=S4e5jGol5Nk) (4 weeks ago)
+- [Math 538-8](https://www.youtube.com/watch?v=e5yO7Dh6e70) (4 weeks ago)
+- [Math 538-7](https://www.youtube.com/watch?v=4H4QaPwjb7o) (4 weeks ago)
+- [Math 538-6](https://www.youtube.com/watch?v=zQ--uRnYu7o) (1 month ago)
+- [Math 538-5](https://www.youtube.com/watch?v=S4e5jGol5Nk) (1 month ago)
 - [Math 538-4](https://www.youtube.com/watch?v=IhmA_gXjPVc) (1 month ago)
 - [Math 538-3](https://www.youtube.com/watch?v=ouhicmNal20) (1 month ago)
 - [Math 538-2](https://www.youtube.com/watch?v=xqBTFQDlWQE) (1 month ago)
