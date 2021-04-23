@@ -28,10 +28,10 @@
 #### 🔛 NATS
 
 - [Headers with the NATS.io Java Library](https://nats.io/blog/headers-java-client/) (6 days ago)
+- [What&#39;s New in NATS 2.2](https://nats.io/blog/nats-whats-new-22/) (1 week ago)
 - [NATS and Certificate Authorities - Intermediate Rolls](https://nats.io/blog/nats-blogpost-ca/) (5 months ago)
 - [Introducing the Synadia Adaptive Edge Architecture](https://nats.io/blog/synadia-adaptive-edge/) (5 months ago)
 - [NATS Connect Live 2020!](https://nats.io/blog/nats-connect-live-2020/) (1 year ago)
-- [Appsecco Chooses NATS](https://nats.io/blog/appsecco-chooses-nats/) (1 year ago)
 
 
 #### ➕ [MATH 538 Algebraic Topology II](https://www.youtube.com/playlist?list=PLBMmiR8tC9UmP3YhW1R2tNSqTCpq-kaDh) by [Prof.Dr. Yıldıray Ozan](http://users.metu.edu.tr/ozan/indexEng.html)
