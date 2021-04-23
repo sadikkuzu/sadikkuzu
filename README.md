@@ -18,7 +18,7 @@
 
 #### 🔻 [The Gradient](https://thegradient.pub)
 
-- [Attention in the Human Brain and Its Applications in ML](https://thegradient.pub/attention-in-human-brain-and-its-applications-in-ml/) (5 days ago)
+- [Attention in the Human Brain and Its Applications in ML](https://thegradient.pub/attention-in-human-brain-and-its-applications-in-ml/) (6 days ago)
 - [Decentralized AI For Healthcare](https://thegradient.pub/decentralized-ai-for-healthcare/) (2 weeks ago)
 - [Catching Cyberbullies with Neural Networks](https://thegradient.pub/catching-cyberbullies-with-neural-networks/) (2 months ago)
 - [Can AI Let Justice Be Done?](https://thegradient.pub/robot-judges/) (2 months ago)
@@ -27,7 +27,7 @@
 
 #### 🔛 NATS
 
-- [Headers with the NATS.io Java Library](https://nats.io/blog/headers-java-client/) (5 days ago)
+- [Headers with the NATS.io Java Library](https://nats.io/blog/headers-java-client/) (6 days ago)
 - [NATS and Certificate Authorities - Intermediate Rolls](https://nats.io/blog/nats-blogpost-ca/) (5 months ago)
 - [Introducing the Synadia Adaptive Edge Architecture](https://nats.io/blog/synadia-adaptive-edge/) (5 months ago)
 - [NATS Connect Live 2020!](https://nats.io/blog/nats-connect-live-2020/) (1 year ago)
