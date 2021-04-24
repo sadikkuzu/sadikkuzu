@@ -18,7 +18,7 @@
 
 #### 🔻 [The Gradient](https://thegradient.pub)
 
-- [Attention in the Human Brain and Its Applications in ML](https://thegradient.pub/attention-in-human-brain-and-its-applications-in-ml/) (6 days ago)
+- [Attention in the Human Brain and Its Applications in ML](https://thegradient.pub/attention-in-human-brain-and-its-applications-in-ml/) (1 week ago)
 - [Decentralized AI For Healthcare](https://thegradient.pub/decentralized-ai-for-healthcare/) (2 weeks ago)
 - [Catching Cyberbullies with Neural Networks](https://thegradient.pub/catching-cyberbullies-with-neural-networks/) (2 months ago)
 - [Can AI Let Justice Be Done?](https://thegradient.pub/robot-judges/) (2 months ago)
@@ -27,7 +27,7 @@
 
 #### 🔛 NATS
 
-- [Headers with the NATS.io Java Library](https://nats.io/blog/headers-java-client/) (6 days ago)
+- [Headers with the NATS.io Java Library](https://nats.io/blog/headers-java-client/) (1 week ago)
 - [What&#39;s New in NATS 2.2](https://nats.io/blog/nats-whats-new-22/) (1 week ago)
 - [NATS and Certificate Authorities - Intermediate Rolls](https://nats.io/blog/nats-blogpost-ca/) (5 months ago)
 - [Introducing the Synadia Adaptive Edge Architecture](https://nats.io/blog/synadia-adaptive-edge/) (5 months ago)
@@ -43,8 +43,8 @@
 - [Math 538-11](https://www.youtube.com/watch?v=YkpWe1fjOX8) (3 weeks ago)
 - [Math 538-10](https://www.youtube.com/watch?v=6uHBO7i_Rac) (3 weeks ago)
 - [Math 538-9](https://www.youtube.com/watch?v=ufL4DoyVKg4) (3 weeks ago)
-- [Math 538-8](https://www.youtube.com/watch?v=e5yO7Dh6e70) (4 weeks ago)
-- [Math 538-7](https://www.youtube.com/watch?v=4H4QaPwjb7o) (4 weeks ago)
+- [Math 538-8](https://www.youtube.com/watch?v=e5yO7Dh6e70) (1 month ago)
+- [Math 538-7](https://www.youtube.com/watch?v=4H4QaPwjb7o) (1 month ago)
 - [Math 538-6](https://www.youtube.com/watch?v=zQ--uRnYu7o) (1 month ago)
 - [Math 538-5](https://www.youtube.com/watch?v=S4e5jGol5Nk) (1 month ago)
 - [Math 538-4](https://www.youtube.com/watch?v=IhmA_gXjPVc) (1 month ago)
