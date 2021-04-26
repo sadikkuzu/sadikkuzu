@@ -18,7 +18,7 @@
 
 #### 🔻 [The Gradient](https://thegradient.pub)
 
-- [Machine Learning, Ethics, and Open Source Licensing (Part I/II)](https://thegradient.pub/machine-learning-ethics-and-open-source-licensing/) (1 day ago)
+- [Machine Learning, Ethics, and Open Source Licensing (Part I/II)](https://thegradient.pub/machine-learning-ethics-and-open-source-licensing/) (2 days ago)
 - [Attention in the Human Brain and Its Applications in ML](https://thegradient.pub/attention-in-human-brain-and-its-applications-in-ml/) (1 week ago)
 - [Decentralized AI For Healthcare](https://thegradient.pub/decentralized-ai-for-healthcare/) (2 weeks ago)
 - [Catching Cyberbullies with Neural Networks](https://thegradient.pub/catching-cyberbullies-with-neural-networks/) (2 months ago)
@@ -28,7 +28,7 @@
 #### 🔛 NATS
 
 - [Headers with the NATS.io Java Library](https://nats.io/blog/headers-java-client/) (1 week ago)
-- [What&#39;s New in NATS 2.2](https://nats.io/blog/nats-whats-new-22/) (1 week ago)
+- [What&#39;s New in NATS 2.2](https://nats.io/blog/nats-whats-new-22/) (2 weeks ago)
 - [NATS and Certificate Authorities - Intermediate Rolls](https://nats.io/blog/nats-blogpost-ca/) (5 months ago)
 - [Introducing the Synadia Adaptive Edge Architecture](https://nats.io/blog/synadia-adaptive-edge/) (5 months ago)
 - [NATS Connect Live 2020!](https://nats.io/blog/nats-connect-live-2020/) (1 year ago)
