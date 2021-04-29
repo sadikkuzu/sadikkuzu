@@ -36,11 +36,11 @@
 
 #### ⚛ The Verge
 
+- [Nvidia has reinstated its RTX 3060 Ethereum cryptocurrency mining limit](https://www.theverge.com/2021/4/29/22409838/nvidia-rtx-3060-etherium-cryptocurrency-mining-limit-back-driver-update) (today)
+- [How the video game S.T.A.L.K.E.R. inspired a wave of real-world Chernobyl tourists](https://www.theverge.com/2021/4/29/22403796/stalker-chernobyl-exclusion-zone-tourists) (today)
+- [The first trailer for Netflix’s Sweet Tooth introduces a post-apocalyptic fairytale](https://www.theverge.com/2021/4/29/22409732/sweet-tooth-netflix-dc-comic-trailer-premiere-date) (today)
+- [Facebook will spend $5 million paying reporters to join its local news platform](https://www.theverge.com/2021/4/29/22409727/facebook-independent-journalism-platform-5-million-deals-applications-open) (today)
 - [The Apple Watch Series 6 is $249 now at Best Buy](https://www.theverge.com/good-deals/2021/4/29/22408277/apple-watch-6-best-buy-samsung-galaxy-buds-google-wifi-gaming-headset-deal) (today)
-- [The NYPD is sending its controversial robot dog back to the pound](https://www.theverge.com/2021/4/29/22409559/nypd-robot-dog-digidog-boston-dynamics-contract-terminated) (today)
-- [‘It’s time’: Blue Origin teases ticket sales for its New Shepard rocket](https://www.theverge.com/2021/4/29/22409543/blue-origin-ticket-sales-new-shepard-rocket) (today)
-- [Myspace Tom got it right](https://www.theverge.com/2021/4/29/22407403/myspace-tom-legacy-tech-execs-zuckerberg-dorsey) (today)
-- [The Mustang Mach-E is helping Ford find new customers](https://www.theverge.com/2021/4/29/22408369/ford-mustang-mach-e-new-customers) (today)
 
 
 
