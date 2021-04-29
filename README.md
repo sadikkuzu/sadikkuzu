@@ -36,11 +36,11 @@
 
 #### ⚛ The Verge
 
+- [Vivaldi is updating its browsers to block annoying cookie pop-ups](https://www.theverge.com/2021/4/29/22408098/vivaldi-cookie-crumbler-blocks-pop-ups-floc-gdpr) (today)
 - [Would you pay $30 a month for a faster web browser that eats less battery?](https://www.theverge.com/2021/4/29/22408818/mighty-browser-chrome-cloud-streaming-web) (today)
 - [Facebook claims it mistakenly hid posts calling for India’s prime minister to resign](https://www.theverge.com/2021/4/28/22408334/facebook-hides-modi-resign-posts-restore-investigation) (today)
 - [Amazon’s pay raise for over 500,000 workers comes at an interesting time](https://www.theverge.com/2021/4/28/22408440/amazon-hourly-wage-increase-2021-factory-delivery-workers) (1 day ago)
 - [AT&amp;T is giving its top prepaid hotspot plan a big price cut and more data](https://www.theverge.com/2021/4/28/22408326/att-mobile-internet-hotspot-prepaid-plan-5g) (1 day ago)
-- [Space community mourns the death of Apollo 11 astronaut Michael Collins](https://www.theverge.com/2021/4/28/22408090/apollo-11-astronaut-michael-collins-death-nasa-mourning) (1 day ago)
 
 
 
