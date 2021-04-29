@@ -36,11 +36,11 @@
 
 #### ⚛ The Verge
 
-- [Dear wireless carriers: the 5G hype needs to stop](https://www.theverge.com/2021/4/29/22409675/verizon-att-tmobile-5g-mmwave-c-band) (today)
-- [Dish chairman calls T-Mobile the ‘Grinch’ for going back on merger promises](https://www.theverge.com/2021/4/29/22409800/dish-charlie-ergen-t-mobile-cdma-shutdown-grinch) (today)
-- [Volkswagen is being investigated for its ‘Voltswagen’ stunt](https://www.theverge.com/2021/4/29/22409940/volkswagen-voltswagen-sec-probe-investigation-april-fools) (today)
-- [Nvidia has reinstated its RTX 3060 Ethereum cryptocurrency mining limit](https://www.theverge.com/2021/4/29/22409838/nvidia-rtx-3060-etherium-cryptocurrency-mining-limit-back-driver-update) (today)
-- [How the video game S.T.A.L.K.E.R. inspired a wave of real-world Chernobyl tourists](https://www.theverge.com/2021/4/29/22403796/stalker-chernobyl-exclusion-zone-tourists) (today)
+- [The best deals on true wireless earbuds right now](https://www.theverge.com/22307388/wireless-earbuds-deals-airpods-galaxy-buds-powerbeats) (today)
+- [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals) (today)
+- [Target gig workers are getting their bank accounts drained by hackers](https://www.theverge.com/2021/4/29/22409937/scammers-hack-target-gig-workers-drain-bank-accounts) (today)
+- [Snap diversity report shows it’s still mostly white and male](https://www.theverge.com/2021/4/29/22409753/snap-diversity-report-numbers-inclusive-camera) (today)
+- [Here are the best Amazon Echo deals right now](https://www.theverge.com/21546591/best-amazon-echo-deals) (today)
 
 
 
