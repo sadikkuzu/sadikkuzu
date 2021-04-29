@@ -36,11 +36,11 @@
 
 #### ⚛ The Verge
 
+- [Dear wireless carriers: the 5G hype needs to stop](https://www.theverge.com/2021/4/29/22409675/verizon-att-tmobile-5g-mmwave-c-band) (today)
+- [Dish chairman calls T-Mobile the ‘Grinch’ for going back on merger promises](https://www.theverge.com/2021/4/29/22409800/dish-charlie-ergen-t-mobile-cdma-shutdown-grinch) (today)
+- [Volkswagen is being investigated for its ‘Voltswagen’ stunt](https://www.theverge.com/2021/4/29/22409940/volkswagen-voltswagen-sec-probe-investigation-april-fools) (today)
 - [Nvidia has reinstated its RTX 3060 Ethereum cryptocurrency mining limit](https://www.theverge.com/2021/4/29/22409838/nvidia-rtx-3060-etherium-cryptocurrency-mining-limit-back-driver-update) (today)
 - [How the video game S.T.A.L.K.E.R. inspired a wave of real-world Chernobyl tourists](https://www.theverge.com/2021/4/29/22403796/stalker-chernobyl-exclusion-zone-tourists) (today)
-- [The first trailer for Netflix’s Sweet Tooth introduces a post-apocalyptic fairytale](https://www.theverge.com/2021/4/29/22409732/sweet-tooth-netflix-dc-comic-trailer-premiere-date) (today)
-- [Facebook will spend $5 million paying reporters to join its local news platform](https://www.theverge.com/2021/4/29/22409727/facebook-independent-journalism-platform-5-million-deals-applications-open) (today)
-- [The Apple Watch Series 6 is $249 now at Best Buy](https://www.theverge.com/good-deals/2021/4/29/22408277/apple-watch-6-best-buy-samsung-galaxy-buds-google-wifi-gaming-headset-deal) (today)
 
 
 
