@@ -34,23 +34,13 @@
 - [Introducing the Synadia Adaptive Edge Architecture](https://nats.io/blog/synadia-adaptive-edge/) (6 months ago)
 
 
-#### ➕ [MATH 538 Algebraic Topology II](https://www.youtube.com/playlist?list=PLBMmiR8tC9UmP3YhW1R2tNSqTCpq-kaDh) by [Prof.Dr. Yıldıray Ozan](http://users.metu.edu.tr/ozan/indexEng.html)
+#### ⚛ The Verge
 
-- [Math 538-15](https://www.youtube.com/watch?v=yYKRWqFoEAA) (3 weeks ago)
-- [Math 538-14](https://www.youtube.com/watch?v=F-nlSTM2rbk) (3 weeks ago)
-- [Math 538-13](https://www.youtube.com/watch?v=iy_J8-IdNTc) (3 weeks ago)
-- [Math 538-12](https://www.youtube.com/watch?v=Fr7bi_ErYOg) (4 weeks ago)
-- [Math 538-11](https://www.youtube.com/watch?v=YkpWe1fjOX8) (4 weeks ago)
-- [Math 538-10](https://www.youtube.com/watch?v=6uHBO7i_Rac) (1 month ago)
-- [Math 538-9](https://www.youtube.com/watch?v=ufL4DoyVKg4) (1 month ago)
-- [Math 538-8](https://www.youtube.com/watch?v=e5yO7Dh6e70) (1 month ago)
-- [Math 538-7](https://www.youtube.com/watch?v=4H4QaPwjb7o) (1 month ago)
-- [Math 538-6](https://www.youtube.com/watch?v=zQ--uRnYu7o) (1 month ago)
-- [Math 538-5](https://www.youtube.com/watch?v=S4e5jGol5Nk) (1 month ago)
-- [Math 538-4](https://www.youtube.com/watch?v=IhmA_gXjPVc) (1 month ago)
-- [Math 538-3](https://www.youtube.com/watch?v=ouhicmNal20) (1 month ago)
-- [Math 538-2](https://www.youtube.com/watch?v=xqBTFQDlWQE) (1 month ago)
-- [Math 538-1](https://www.youtube.com/watch?v=pUcb8QkYp7E) (1 month ago)
+- [Would you pay $30 a month for a faster web browser that eats less battery?](https://www.theverge.com/2021/4/29/22408818/mighty-browser-chrome-cloud-streaming-web) (today)
+- [Facebook claims it mistakenly hid posts calling for India’s prime minister to resign](https://www.theverge.com/2021/4/28/22408334/facebook-hides-modi-resign-posts-restore-investigation) (today)
+- [Amazon’s pay raise for over 500,000 workers comes at an interesting time](https://www.theverge.com/2021/4/28/22408440/amazon-hourly-wage-increase-2021-factory-delivery-workers) (1 day ago)
+- [AT&amp;T is giving its top prepaid hotspot plan a big price cut and more data](https://www.theverge.com/2021/4/28/22408326/att-mobile-internet-hotspot-prepaid-plan-5g) (1 day ago)
+- [Space community mourns the death of Apollo 11 astronaut Michael Collins](https://www.theverge.com/2021/4/28/22408090/apollo-11-astronaut-michael-collins-death-nasa-mourning) (1 day ago)
 
 
 
