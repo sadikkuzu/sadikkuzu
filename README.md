@@ -36,11 +36,11 @@
 
 #### ⚛ The Verge
 
+- [Feds arrest founder of bitcoin ‘mixer’ they say laundered $335 million over ten years](https://www.theverge.com/2021/4/29/22409501/feds-arrest-founder-bitcoin-mixer-laundered-cryptocurrency) (today)
+- [Dashlane’s new $3.99 password manager plan is cheaper but might not beat free](https://www.theverge.com/2021/4/29/22409780/dashlane-essentials-plan-less-expensive-unlimited-passwords) (today)
+- [Apple says old Magic Keyboard is ‘functionally compatible’ with new 12.9-inch iPad Pro, but warns of imperfect fit](https://www.theverge.com/2021/4/29/22410350/apple-ipad-pro-mini-led-magic-keyboard-case-2020-model-fit-accessory-screen-protector) (today)
 - [‘Disaster Girl’ has sold her popular meme as an NFT for $500,000](https://www.theverge.com/2021/4/29/22410070/disaster-girl-popular-meme-nft-500000-dollars) (today)
 - [Here’s where you can buy a Nintendo Switch](https://www.theverge.com/21257643/nintendo-switch-lite-how-to-buy-in-stock) (today)
-- [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl) (today)
-- [The best video game subscription deals right now](https://www.theverge.com/22348957/best-video-game-subscription-playstation-plus-xbox-game-pass-nintendo-switch-online-deals-price-sale) (today)
-- [The best deals on true wireless earbuds right now](https://www.theverge.com/22307388/wireless-earbuds-deals-airpods-galaxy-buds-powerbeats) (today)
 
 
 
