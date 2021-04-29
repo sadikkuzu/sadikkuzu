@@ -23,8 +23,8 @@
 {{- end}}
 
 
-#### ⚛ The Verge
-{{range rss "https://www.theverge.com/rss/index.xml" 5}}
+#### 📰 Stackoverflow blog
+{{range rss "https://stackoverflow.blog/feed/" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
