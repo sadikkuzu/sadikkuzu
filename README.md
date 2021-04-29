@@ -36,11 +36,11 @@
 
 #### ⚛ The Verge
 
-- [EU adopts controversial law forcing one-hour takedowns of terrorist content](https://www.theverge.com/2021/4/29/22409306/eu-law-one-hour-terrorist-content-takedowns-passes-parliament) (today)
-- [EV charging network ChargePoint now supports Android Auto](https://www.theverge.com/2021/4/29/22409310/chargepoint-android-auto-electric-vehicle-charging-network) (today)
-- [Samsung loses over $270M from Texas plant shutdown as quarterly profits boom](https://www.theverge.com/2021/4/29/22409273/samsung-austin-texas-plant-month-shut-down-losses-smartphone-sales-chip-shortage) (today)
-- [Amazon lawsuit alleging Trump bias in $10 billion military contract clears another hurdle](https://www.theverge.com/2021/4/29/22409245/amazon-microsoft-jedi-contract-reject-motion-dismiss-trump-influence) (today)
-- [PS5 preorders begin in China, almost six months after US launch](https://www.theverge.com/2021/4/29/22409232/ps5-sony-china-launch-may-15th-release-date-price) (today)
+- [Halo Infinite will support crossplay and cross-progression on Xbox and PC](https://www.theverge.com/2021/4/29/22409334/halo-infinite-crossplay-cross-progression-xbox-pc) (today)
+- [Microsoft shakes up PC gaming by reducing Windows store cut to just 12 percent](https://www.theverge.com/2021/4/29/22409285/microsoft-store-cut-windows-pc-games-12-percent) (today)
+- [Spotify’s library redesign makes it easier to find your downloaded content](https://www.theverge.com/2021/4/29/22408438/spotify-library-redesign-update-downloaded-content) (today)
+- [Roku does customizable buttons right on the Voice Remote Pro](https://www.theverge.com/22398024/roku-voice-remote-pro-programmable-buttons-best) (today)
+- [Returnal is dark, challenging, and the perfect PS5 showcase](https://www.theverge.com/2021/4/29/22408468/returnal-ps5-dualsense-3d-audio) (today)
 
 
 
