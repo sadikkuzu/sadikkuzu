@@ -36,11 +36,11 @@
 
 #### ⚛ The Verge
 
+- [EU adopts controversial law forcing one-hour takedowns of terrorist content](https://www.theverge.com/2021/4/29/22409306/eu-law-one-hour-terrorist-content-takedowns-passes-parliament) (today)
+- [EV charging network ChargePoint now supports Android Auto](https://www.theverge.com/2021/4/29/22409310/chargepoint-android-auto-electric-vehicle-charging-network) (today)
 - [Samsung loses over $270M from Texas plant shutdown as quarterly profits boom](https://www.theverge.com/2021/4/29/22409273/samsung-austin-texas-plant-month-shut-down-losses-smartphone-sales-chip-shortage) (today)
 - [Amazon lawsuit alleging Trump bias in $10 billion military contract clears another hurdle](https://www.theverge.com/2021/4/29/22409245/amazon-microsoft-jedi-contract-reject-motion-dismiss-trump-influence) (today)
 - [PS5 preorders begin in China, almost six months after US launch](https://www.theverge.com/2021/4/29/22409232/ps5-sony-china-launch-may-15th-release-date-price) (today)
-- [Vivaldi is updating its browsers to block annoying cookie pop-ups](https://www.theverge.com/2021/4/29/22408098/vivaldi-cookie-crumbler-blocks-pop-ups-floc-gdpr) (today)
-- [Would you pay $30 a month for a faster web browser that eats less battery?](https://www.theverge.com/2021/4/29/22408818/mighty-browser-chrome-cloud-streaming-web) (today)
 
 
 
