@@ -36,11 +36,11 @@
 
 #### ⚛ The Verge
 
+- [The Apple Watch Series 6 is $249 now at Best Buy](https://www.theverge.com/good-deals/2021/4/29/22408277/apple-watch-6-best-buy-samsung-galaxy-buds-google-wifi-gaming-headset-deal) (today)
 - [The NYPD is sending its controversial robot dog back to the pound](https://www.theverge.com/2021/4/29/22409559/nypd-robot-dog-digidog-boston-dynamics-contract-terminated) (today)
 - [‘It’s time’: Blue Origin teases ticket sales for its New Shepard rocket](https://www.theverge.com/2021/4/29/22409543/blue-origin-ticket-sales-new-shepard-rocket) (today)
 - [Myspace Tom got it right](https://www.theverge.com/2021/4/29/22407403/myspace-tom-legacy-tech-execs-zuckerberg-dorsey) (today)
 - [The Mustang Mach-E is helping Ford find new customers](https://www.theverge.com/2021/4/29/22408369/ford-mustang-mach-e-new-customers) (today)
-- [Peacock signs up 9 million after adding WWE and The Office](https://www.theverge.com/2021/4/29/22409431/peacock-subscriber-increase-office-wwe-network-q1-2021) (today)
 
 
 
