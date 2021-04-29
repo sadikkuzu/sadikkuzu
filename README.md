@@ -36,11 +36,11 @@
 
 #### ⚛ The Verge
 
+- [‘Disaster Girl’ has sold her popular meme as an NFT for $500,000](https://www.theverge.com/2021/4/29/22410070/disaster-girl-popular-meme-nft-500000-dollars) (today)
+- [Here’s where you can buy a Nintendo Switch](https://www.theverge.com/21257643/nintendo-switch-lite-how-to-buy-in-stock) (today)
+- [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl) (today)
+- [The best video game subscription deals right now](https://www.theverge.com/22348957/best-video-game-subscription-playstation-plus-xbox-game-pass-nintendo-switch-online-deals-price-sale) (today)
 - [The best deals on true wireless earbuds right now](https://www.theverge.com/22307388/wireless-earbuds-deals-airpods-galaxy-buds-powerbeats) (today)
-- [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals) (today)
-- [Target gig workers are getting their bank accounts drained by hackers](https://www.theverge.com/2021/4/29/22409937/scammers-hack-target-gig-workers-drain-bank-accounts) (today)
-- [Snap diversity report shows it’s still mostly white and male](https://www.theverge.com/2021/4/29/22409753/snap-diversity-report-numbers-inclusive-camera) (today)
-- [Here are the best Amazon Echo deals right now](https://www.theverge.com/21546591/best-amazon-echo-deals) (today)
 
 
 
