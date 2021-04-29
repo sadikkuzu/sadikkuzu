@@ -36,11 +36,11 @@
 
 #### ⚛ The Verge
 
-- [Halo Infinite will support crossplay and cross-progression on Xbox and PC](https://www.theverge.com/2021/4/29/22409334/halo-infinite-crossplay-cross-progression-xbox-pc) (today)
-- [Microsoft shakes up PC gaming by reducing Windows store cut to just 12 percent](https://www.theverge.com/2021/4/29/22409285/microsoft-store-cut-windows-pc-games-12-percent) (today)
-- [Spotify’s library redesign makes it easier to find your downloaded content](https://www.theverge.com/2021/4/29/22408438/spotify-library-redesign-update-downloaded-content) (today)
-- [Roku does customizable buttons right on the Voice Remote Pro](https://www.theverge.com/22398024/roku-voice-remote-pro-programmable-buttons-best) (today)
-- [Returnal is dark, challenging, and the perfect PS5 showcase](https://www.theverge.com/2021/4/29/22408468/returnal-ps5-dualsense-3d-audio) (today)
+- [Myspace Tom got it right](https://www.theverge.com/2021/4/29/22407403/myspace-tom-legacy-tech-execs-zuckerberg-dorsey) (today)
+- [The Mustang Mach-E is helping Ford find new customers](https://www.theverge.com/2021/4/29/22408369/ford-mustang-mach-e-new-customers) (today)
+- [Peacock signs up 9 million after adding WWE and The Office](https://www.theverge.com/2021/4/29/22409431/peacock-subscriber-increase-office-wwe-network-q1-2021) (today)
+- [Lime is bringing its electric mopeds to New York City](https://www.theverge.com/2021/4/29/22409409/lime-electric-moped-nyc-price-announce) (today)
+- [The Apple Watch Series 6 is $249 now at Best Buy and Amazon](https://www.theverge.com/good-deals/2021/4/29/22408277/apple-watch-6-best-buy-samsung-galaxy-buds-google-wifi-gaming-headset-deal) (today)
 
 
 
