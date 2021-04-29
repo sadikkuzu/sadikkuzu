@@ -27,20 +27,20 @@
 
 #### 🔛 NATS
 
+- [JetStream Stream Creation with the NATS.io Java Library](https://nats.io/blog/jetstream-java-client-01-stream-create/) (today)
 - [Intro NATS CLI](https://nats.io/blog/nats-cli-intro/) (2 days ago)
 - [Headers with the NATS.io Java Library](https://nats.io/blog/headers-java-client/) (1 week ago)
 - [What&#39;s New in NATS 2.2](https://nats.io/blog/nats-whats-new-22/) (2 weeks ago)
 - [NATS and Certificate Authorities - Intermediate Rolls](https://nats.io/blog/nats-blogpost-ca/) (5 months ago)
-- [Introducing the Synadia Adaptive Edge Architecture](https://nats.io/blog/synadia-adaptive-edge/) (6 months ago)
 
 
 #### ⚛ The Verge
 
+- [The NYPD is sending its controversial robot dog back to the pound](https://www.theverge.com/2021/4/29/22409559/nypd-robot-dog-digidog-boston-dynamics-contract-terminated) (today)
+- [‘It’s time’: Blue Origin teases ticket sales for its New Shepard rocket](https://www.theverge.com/2021/4/29/22409543/blue-origin-ticket-sales-new-shepard-rocket) (today)
 - [Myspace Tom got it right](https://www.theverge.com/2021/4/29/22407403/myspace-tom-legacy-tech-execs-zuckerberg-dorsey) (today)
 - [The Mustang Mach-E is helping Ford find new customers](https://www.theverge.com/2021/4/29/22408369/ford-mustang-mach-e-new-customers) (today)
 - [Peacock signs up 9 million after adding WWE and The Office](https://www.theverge.com/2021/4/29/22409431/peacock-subscriber-increase-office-wwe-network-q1-2021) (today)
-- [Lime is bringing its electric mopeds to New York City](https://www.theverge.com/2021/4/29/22409409/lime-electric-moped-nyc-price-announce) (today)
-- [The Apple Watch Series 6 is $249 now at Best Buy and Amazon](https://www.theverge.com/good-deals/2021/4/29/22408277/apple-watch-6-best-buy-samsung-galaxy-buds-google-wifi-gaming-headset-deal) (today)
 
 
 
