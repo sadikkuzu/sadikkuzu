@@ -34,13 +34,13 @@
 - [NATS and Certificate Authorities - Intermediate Rolls](https://nats.io/blog/nats-blogpost-ca/) (5 months ago)
 
 
-#### ⚛ The Verge
+#### 📰 Stackoverflow blog
 
-- [Feds arrest founder of bitcoin ‘mixer’ they say laundered $335 million over ten years](https://www.theverge.com/2021/4/29/22409501/feds-arrest-founder-bitcoin-mixer-laundered-cryptocurrency) (today)
-- [Dashlane’s new $3.99 password manager plan is cheaper but might not beat free](https://www.theverge.com/2021/4/29/22409780/dashlane-essentials-plan-less-expensive-unlimited-passwords) (today)
-- [Apple says old Magic Keyboard is ‘functionally compatible’ with new 12.9-inch iPad Pro, but warns of imperfect fit](https://www.theverge.com/2021/4/29/22410350/apple-ipad-pro-mini-led-magic-keyboard-case-2020-model-fit-accessory-screen-protector) (today)
-- [‘Disaster Girl’ has sold her popular meme as an NFT for $500,000](https://www.theverge.com/2021/4/29/22410070/disaster-girl-popular-meme-nft-500000-dollars) (today)
-- [Here’s where you can buy a Nintendo Switch](https://www.theverge.com/21257643/nintendo-switch-lite-how-to-buy-in-stock) (today)
+- [Vote for Stack Overflow in this year’s Webby Awards!](https://stackoverflow.blog/2021/04/29/vote-for-stack-overflow-in-this-years-webby-awards/) (today)
+- [Access broader knowledge with Unified Search](https://stackoverflow.blog/2021/04/28/a-technical-deep-dive-on-unified-search/) (1 day ago)
+- [Level Up: Creative Coding with p5.js – part 7](https://stackoverflow.blog/2021/04/27/level-up-creative-coding-with-p5-js-part-7/) (2 days ago)
+- [Podcast 333: From music to trading cards, software is transforming curation and collecting](https://stackoverflow.blog/2021/04/27/podcast-333-from-music-to-trading-cards-software-is-transforming-curation-and-collecting/) (2 days ago)
+- [Accelerating Stack Overflow’s transformation](https://stackoverflow.blog/2021/04/26/accelerating-stack-overflows-transformation/) (3 days ago)
 
 
 
