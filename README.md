@@ -36,11 +36,11 @@
 
 #### 📰 Stackoverflow blog
 
+- [The Overflow #71: Copied and pasted](https://stackoverflow.blog/2021/04/30/the-overflow-71-copied-and-pasted/) (today)
 - [Podcast 334: A curious journey from personal trainer to frontend mentor](https://stackoverflow.blog/2021/04/30/podcast-334-a-curious-journey-from-personal-trainer-to-frontend-mentor/) (today)
 - [Vote for Stack Overflow in this year’s Webby Awards!](https://stackoverflow.blog/2021/04/29/vote-for-stack-overflow-in-this-years-webby-awards/) (1 day ago)
 - [Access broader knowledge with Unified Search](https://stackoverflow.blog/2021/04/28/a-technical-deep-dive-on-unified-search/) (2 days ago)
 - [Level Up: Creative Coding with p5.js – part 7](https://stackoverflow.blog/2021/04/27/level-up-creative-coding-with-p5-js-part-7/) (3 days ago)
-- [Podcast 333: From music to trading cards, software is transforming curation and collecting](https://stackoverflow.blog/2021/04/27/podcast-333-from-music-to-trading-cards-software-is-transforming-curation-and-collecting/) (3 days ago)
 
 
 
