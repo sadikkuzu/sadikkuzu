@@ -18,11 +18,11 @@
 
 #### 🔻 [The Gradient](https://thegradient.pub)
 
+- [Three Years at the Gradient](https://thegradient.pub/three-years-at-the-gradient/) (today)
 - [Machine Learning, Ethics, and Open Source Licensing (Part I/II)](https://thegradient.pub/machine-learning-ethics-and-open-source-licensing/) (1 week ago)
 - [Attention in the Human Brain and Its Applications in ML](https://thegradient.pub/attention-in-human-brain-and-its-applications-in-ml/) (2 weeks ago)
 - [Decentralized AI For Healthcare](https://thegradient.pub/decentralized-ai-for-healthcare/) (3 weeks ago)
 - [Catching Cyberbullies with Neural Networks](https://thegradient.pub/catching-cyberbullies-with-neural-networks/) (2 months ago)
-- [Can AI Let Justice Be Done?](https://thegradient.pub/robot-judges/) (3 months ago)
 
 
 #### 🔛 NATS
