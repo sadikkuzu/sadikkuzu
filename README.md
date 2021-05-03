@@ -27,11 +27,11 @@
 
 #### 🔛 NATS
 
+- [JetStream Publishing with the NATS.io Java Library](https://nats.io/blog/jetstream-java-client-02-publish/) (today)
 - [JetStream Stream Creation with the NATS.io Java Library](https://nats.io/blog/jetstream-java-client-01-stream-create/) (4 days ago)
 - [Intro NATS CLI](https://nats.io/blog/nats-cli-intro/) (6 days ago)
 - [Headers with the NATS.io Java Library](https://nats.io/blog/headers-java-client/) (2 weeks ago)
 - [What&#39;s New in NATS 2.2](https://nats.io/blog/nats-whats-new-22/) (3 weeks ago)
-- [NATS and Certificate Authorities - Intermediate Rolls](https://nats.io/blog/nats-blogpost-ca/) (5 months ago)
 
 
 #### 📰 Stackoverflow blog
