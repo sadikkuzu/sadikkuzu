@@ -36,11 +36,11 @@
 
 #### 📰 Stackoverflow blog
 
+- [The Overflow #72: From personal trainer to frontend mentor](https://stackoverflow.blog/2021/05/07/the-overflow-72-from-personal-trainer-to-frontend-mentor/) (today)
 - [Podcast 336: NFT art, Ethereum gas, and a deep dive into Gemini’s data lake](https://stackoverflow.blog/2021/05/07/podcast-336-nft-art-ethereum-gas-and-a-deep-dive-into-geminis-data-lake/) (today)
 - [Getting started with… TypeScript](https://stackoverflow.blog/2021/05/05/getting-started-with-typescript/) (2 days ago)
 - [Podcast 335: Open source contributors helped a helicopter fly on Mars](https://stackoverflow.blog/2021/05/04/podcast-335-open-source-contributors-helped-a-helicopter-fly-on-mars/) (3 days ago)
 - [Find knowledge faster: New Articles features](https://stackoverflow.blog/2021/05/03/find-knowledge-faster-new-articles-features/) (4 days ago)
-- [The Overflow #71: Copied and pasted](https://stackoverflow.blog/2021/04/30/the-overflow-71-copied-and-pasted/) (1 week ago)
 
 
 
