@@ -36,11 +36,11 @@
 
 #### 📰 Stackoverflow blog
 
+- [Level Up: Creative Coding with p5.js – part 8](https://stackoverflow.blog/2021/05/08/level-up-creative-coding-with-p5-js-part-8/) (today)
 - [The Overflow #72: From personal trainer to frontend mentor](https://stackoverflow.blog/2021/05/07/the-overflow-72-from-personal-trainer-to-frontend-mentor/) (1 day ago)
 - [Podcast 336: NFT art, Ethereum gas, and a deep dive into Gemini’s data lake](https://stackoverflow.blog/2021/05/07/podcast-336-nft-art-ethereum-gas-and-a-deep-dive-into-geminis-data-lake/) (1 day ago)
 - [Getting started with… TypeScript](https://stackoverflow.blog/2021/05/05/getting-started-with-typescript/) (3 days ago)
 - [Podcast 335: Open source contributors helped a helicopter fly on Mars](https://stackoverflow.blog/2021/05/04/podcast-335-open-source-contributors-helped-a-helicopter-fly-on-mars/) (4 days ago)
-- [Find knowledge faster: New Articles features](https://stackoverflow.blog/2021/05/03/find-knowledge-faster-new-articles-features/) (5 days ago)
 
 
 
