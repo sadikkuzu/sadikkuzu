@@ -7,7 +7,7 @@
 
 #### 🔭 Check out my recent followers
 
-- [selmansisman](https://github.com/selmansisman) Selman Sisman
+- [selmansisman](https://github.com/selmansisman) Selman Sisman, Ph.D.
 - [ahmedalazazy](https://github.com/ahmedalazazy) 
 - [primexdev](https://github.com/primexdev) PrimexAdvice
 - [halimenalbat](https://github.com/halimenalbat) 
