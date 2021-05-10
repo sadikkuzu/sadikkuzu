@@ -18,11 +18,11 @@
 
 #### 🔻 [The Gradient](https://thegradient.pub)
 
+- [Towards Human-Centered Explainable AI: the journey so far](https://thegradient.pub/human-centered-explainable-ai/) (today)
 - [Machine Learning, Ethics, and Open Source Licensing (Part II/II)](https://thegradient.pub/machine-learning-ethics-and-open-source-licensing-2/) (1 week ago)
 - [Three Years at the Gradient](https://thegradient.pub/three-years-at-the-gradient/) (1 week ago)
 - [Machine Learning, Ethics, and Open Source Licensing (Part I/II)](https://thegradient.pub/machine-learning-ethics-and-open-source-licensing/) (2 weeks ago)
 - [Attention in the Human Brain and Its Applications in ML](https://thegradient.pub/attention-in-human-brain-and-its-applications-in-ml/) (3 weeks ago)
-- [Decentralized AI For Healthcare](https://thegradient.pub/decentralized-ai-for-healthcare/) (1 month ago)
 
 
 #### 🔛 NATS
