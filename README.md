@@ -18,7 +18,7 @@
 
 #### 🔻 [The Gradient](https://thegradient.pub)
 
-- [Towards Human-Centered Explainable AI: the journey so far](https://thegradient.pub/human-centered-explainable-ai/) (1 day ago)
+- [Towards Human-Centered Explainable AI: the journey so far](https://thegradient.pub/human-centered-explainable-ai/) (2 days ago)
 - [Machine Learning, Ethics, and Open Source Licensing (Part II/II)](https://thegradient.pub/machine-learning-ethics-and-open-source-licensing-2/) (1 week ago)
 - [Three Years at the Gradient](https://thegradient.pub/three-years-at-the-gradient/) (1 week ago)
 - [Machine Learning, Ethics, and Open Source Licensing (Part I/II)](https://thegradient.pub/machine-learning-ethics-and-open-source-licensing/) (2 weeks ago)
@@ -27,7 +27,7 @@
 
 #### 🔛 NATS
 
-- [Hello World with the NATS.io Java Library](https://nats.io/blog/hello-world-java-client/) (6 days ago)
+- [Hello World with the NATS.io Java Library](https://nats.io/blog/hello-world-java-client/) (1 week ago)
 - [JetStream Publishing with the NATS.io Java Library](https://nats.io/blog/jetstream-java-client-02-publish/) (1 week ago)
 - [JetStream Stream Creation with the NATS.io Java Library](https://nats.io/blog/jetstream-java-client-01-stream-create/) (1 week ago)
 - [Intro NATS CLI](https://nats.io/blog/nats-cli-intro/) (2 weeks ago)
@@ -36,11 +36,11 @@
 
 #### 📰 Stackoverflow blog
 
-- [Network protocols in orbit: Building a space-based ISP](https://stackoverflow.blog/2021/05/11/building-a-space-based-isp/) (today)
-- [Podcast 337: Saying goodbye to our co-host, Sara Chipps](https://stackoverflow.blog/2021/05/11/podcast-337-saying-goodbye-to-our-co-host-sara-chipps/) (today)
-- [Don’t push that button: Exploring the software that flies SpaceX rockets and starships](https://stackoverflow.blog/2021/05/10/dont-push-that-button-exploring-the-software-that-flies-spacex-starships/) (1 day ago)
-- [Level Up: Creative Coding with p5.js – part 8](https://stackoverflow.blog/2021/05/08/level-up-creative-coding-with-p5-js-part-8/) (3 days ago)
-- [The Overflow #72: From personal trainer to frontend mentor](https://stackoverflow.blog/2021/05/07/the-overflow-72-from-personal-trainer-to-frontend-mentor/) (4 days ago)
+- [Network protocols in orbit: Building a space-based ISP](https://stackoverflow.blog/2021/05/11/building-a-space-based-isp/) (1 day ago)
+- [Podcast 337: Saying goodbye to our co-host, Sara Chipps](https://stackoverflow.blog/2021/05/11/podcast-337-saying-goodbye-to-our-co-host-sara-chipps/) (1 day ago)
+- [Don’t push that button: Exploring the software that flies SpaceX rockets and starships](https://stackoverflow.blog/2021/05/10/dont-push-that-button-exploring-the-software-that-flies-spacex-starships/) (2 days ago)
+- [Level Up: Creative Coding with p5.js – part 8](https://stackoverflow.blog/2021/05/08/level-up-creative-coding-with-p5-js-part-8/) (4 days ago)
+- [The Overflow #72: From personal trainer to frontend mentor](https://stackoverflow.blog/2021/05/07/the-overflow-72-from-personal-trainer-to-frontend-mentor/) (5 days ago)
 
 
 
