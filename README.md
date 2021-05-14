@@ -27,11 +27,11 @@
 
 #### 🔛 NATS
 
+- [NATS Java Client JetStream Multi Tool](https://nats.io/blog/jetstream-java-client-multi-tool/) (1 day ago)
 - [Pub-Sub with NATS CLI](https://nats.io/blog/nats-cli-pub-sub/) (3 days ago)
 - [Hello World with the NATS.io Java Library](https://nats.io/blog/hello-world-java-client/) (1 week ago)
 - [JetStream Publishing with the NATS.io Java Library](https://nats.io/blog/jetstream-java-client-02-publish/) (1 week ago)
 - [JetStream Stream Creation with the NATS.io Java Library](https://nats.io/blog/jetstream-java-client-01-stream-create/) (2 weeks ago)
-- [Intro NATS CLI](https://nats.io/blog/nats-cli-intro/) (2 weeks ago)
 
 
 #### 📰 Stackoverflow blog
