@@ -5,6 +5,8 @@
 
 ---
 
+[![Update-action status](https://github.com/sadikkuzu/sadikkuzu/actions/workflows/sadikkuzu.yml/badge.svg)](https://github.com/sadikkuzu/sadikkuzu/actions/workflows/sadikkuzu.yml)
+
 #### 🔭 Check out my recent followers
 {{range followers 7}}
 - [{{.Login}}]({{.URL}}) {{.Name}}
