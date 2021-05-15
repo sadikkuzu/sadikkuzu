@@ -5,6 +5,8 @@
 
 ---
 
+[![Update-action status](https://github.com/sadikkuzu/sadikkuzu/actions/workflows/sadikkuzu.yml/badge.svg)](https://github.com/sadikkuzu/sadikkuzu/actions/workflows/sadikkuzu.yml)
+
 #### 🔭 Check out my recent followers
 
 - [selmansisman](https://github.com/selmansisman) Selman Sisman, Ph.D.
