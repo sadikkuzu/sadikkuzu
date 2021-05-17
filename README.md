@@ -38,11 +38,11 @@
 
 #### 📰 Stackoverflow blog
 
+- [Incremental Static Regeneration: Building static sites a little at a time](https://stackoverflow.blog/2021/05/17/incremental-static-regeneration-building-static-sites-a-little-at-a-time/) (today)
 - [The Overflow #73: Open source helicopters on Mars](https://stackoverflow.blog/2021/05/14/the-overflow-73-open-source-helicopters-on-mars/) (3 days ago)
 - [Podcast 338: Why is it so hard to find Ruby developers?](https://stackoverflow.blog/2021/05/14/podcast-338-why-is-it-so-hard-to-find-ruby-developers/) (3 days ago)
 - [Building the software that helps build SpaceX](https://stackoverflow.blog/2021/05/13/building-the-software-that-helps-build-spacex/) (4 days ago)
 - [Testing software so it’s reliable enough for space](https://stackoverflow.blog/2021/05/11/testing-software-so-its-reliable-enough-for-space/) (6 days ago)
-- [Network protocols in orbit: Building a space-based ISP](https://stackoverflow.blog/2021/05/11/building-a-space-based-isp/) (6 days ago)
 
 
 
