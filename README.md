@@ -29,8 +29,8 @@
 
 #### 🔛 NATS
 
-- [NATS Java Client JetStream Multi Tool](https://nats.io/blog/jetstream-java-client-multi-tool/) (4 days ago)
-- [Pub-Sub with NATS CLI](https://nats.io/blog/nats-cli-pub-sub/) (6 days ago)
+- [NATS Java Client JetStream Multi Tool](https://nats.io/blog/jetstream-java-client-multi-tool/) (5 days ago)
+- [Pub-Sub with NATS CLI](https://nats.io/blog/nats-cli-pub-sub/) (1 week ago)
 - [Hello World with the NATS.io Java Library](https://nats.io/blog/hello-world-java-client/) (1 week ago)
 - [JetStream Publishing with the NATS.io Java Library](https://nats.io/blog/jetstream-java-client-02-publish/) (2 weeks ago)
 - [JetStream Stream Creation with the NATS.io Java Library](https://nats.io/blog/jetstream-java-client-01-stream-create/) (2 weeks ago)
@@ -38,11 +38,11 @@
 
 #### 📰 Stackoverflow blog
 
-- [Incremental Static Regeneration: Building static sites a little at a time](https://stackoverflow.blog/2021/05/17/incremental-static-regeneration-building-static-sites-a-little-at-a-time/) (today)
-- [The Overflow #73: Open source helicopters on Mars](https://stackoverflow.blog/2021/05/14/the-overflow-73-open-source-helicopters-on-mars/) (3 days ago)
-- [Podcast 338: Why is it so hard to find Ruby developers?](https://stackoverflow.blog/2021/05/14/podcast-338-why-is-it-so-hard-to-find-ruby-developers/) (3 days ago)
-- [Building the software that helps build SpaceX](https://stackoverflow.blog/2021/05/13/building-the-software-that-helps-build-spacex/) (4 days ago)
-- [Testing software so it’s reliable enough for space](https://stackoverflow.blog/2021/05/11/testing-software-so-its-reliable-enough-for-space/) (6 days ago)
+- [Incremental Static Regeneration: Building static sites a little at a time](https://stackoverflow.blog/2021/05/17/incremental-static-regeneration-building-static-sites-a-little-at-a-time/) (1 day ago)
+- [The Overflow #73: Open source helicopters on Mars](https://stackoverflow.blog/2021/05/14/the-overflow-73-open-source-helicopters-on-mars/) (4 days ago)
+- [Podcast 338: Why is it so hard to find Ruby developers?](https://stackoverflow.blog/2021/05/14/podcast-338-why-is-it-so-hard-to-find-ruby-developers/) (4 days ago)
+- [Building the software that helps build SpaceX](https://stackoverflow.blog/2021/05/13/building-the-software-that-helps-build-spacex/) (5 days ago)
+- [Testing software so it’s reliable enough for space](https://stackoverflow.blog/2021/05/11/testing-software-so-its-reliable-enough-for-space/) (1 week ago)
 
 
 
