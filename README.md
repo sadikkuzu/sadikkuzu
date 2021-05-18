@@ -29,11 +29,11 @@
 
 #### 🔛 NATS
 
+- [Java client usage on Android with Kotlin](https://nats.io/blog/kotlin-example/) (3 days ago)
 - [NATS Java Client JetStream Multi Tool](https://nats.io/blog/jetstream-java-client-multi-tool/) (5 days ago)
 - [Pub-Sub with NATS CLI](https://nats.io/blog/nats-cli-pub-sub/) (1 week ago)
 - [Hello World with the NATS.io Java Library](https://nats.io/blog/hello-world-java-client/) (1 week ago)
 - [JetStream Publishing with the NATS.io Java Library](https://nats.io/blog/jetstream-java-client-02-publish/) (2 weeks ago)
-- [JetStream Stream Creation with the NATS.io Java Library](https://nats.io/blog/jetstream-java-client-01-stream-create/) (2 weeks ago)
 
 
 #### 📰 Stackoverflow blog
