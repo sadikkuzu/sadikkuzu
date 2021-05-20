@@ -29,8 +29,8 @@
 
 #### 🔛 NATS
 
-- [Java client usage on Android with Kotlin](https://nats.io/blog/kotlin-example/) (4 days ago)
-- [NATS Java Client JetStream Multi Tool](https://nats.io/blog/jetstream-java-client-multi-tool/) (6 days ago)
+- [Java client usage on Android with Kotlin](https://nats.io/blog/kotlin-example/) (5 days ago)
+- [NATS Java Client JetStream Multi Tool](https://nats.io/blog/jetstream-java-client-multi-tool/) (1 week ago)
 - [Pub-Sub with NATS CLI](https://nats.io/blog/nats-cli-pub-sub/) (1 week ago)
 - [Hello World with the NATS.io Java Library](https://nats.io/blog/hello-world-java-client/) (2 weeks ago)
 - [JetStream Publishing with the NATS.io Java Library](https://nats.io/blog/jetstream-java-client-02-publish/) (2 weeks ago)
@@ -38,11 +38,11 @@
 
 #### 📰 Stackoverflow blog
 
-- [Using Kubernetes to rethink your system architecture and ease technical debt](https://stackoverflow.blog/2021/05/19/rethinking-system-architecture-can-kubernetes-help-to-solve-rewrite-anxiety/) (today)
-- [Podcast 339: Where design meets development at Stack Overflow](https://stackoverflow.blog/2021/05/18/podcast-339-where-design-meets-development-at-stack-overflow/) (1 day ago)
-- [Incremental Static Regeneration: Building static sites a little at a time](https://stackoverflow.blog/2021/05/17/incremental-static-regeneration-building-static-sites-a-little-at-a-time/) (2 days ago)
-- [The Overflow #73: Open source helicopters on Mars](https://stackoverflow.blog/2021/05/14/the-overflow-73-open-source-helicopters-on-mars/) (5 days ago)
-- [Podcast 338: Why is it so hard to find Ruby developers?](https://stackoverflow.blog/2021/05/14/podcast-338-why-is-it-so-hard-to-find-ruby-developers/) (5 days ago)
+- [Using Kubernetes to rethink your system architecture and ease technical debt](https://stackoverflow.blog/2021/05/19/rethinking-system-architecture-can-kubernetes-help-to-solve-rewrite-anxiety/) (1 day ago)
+- [Podcast 339: Where design meets development at Stack Overflow](https://stackoverflow.blog/2021/05/18/podcast-339-where-design-meets-development-at-stack-overflow/) (2 days ago)
+- [Incremental Static Regeneration: Building static sites a little at a time](https://stackoverflow.blog/2021/05/17/incremental-static-regeneration-building-static-sites-a-little-at-a-time/) (3 days ago)
+- [The Overflow #73: Open source helicopters on Mars](https://stackoverflow.blog/2021/05/14/the-overflow-73-open-source-helicopters-on-mars/) (6 days ago)
+- [Podcast 338: Why is it so hard to find Ruby developers?](https://stackoverflow.blog/2021/05/14/podcast-338-why-is-it-so-hard-to-find-ruby-developers/) (6 days ago)
 
 
 
