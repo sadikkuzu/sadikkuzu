@@ -29,11 +29,11 @@
 
 #### 🔛 NATS
 
+- [Replace your MQTT broker with NATS Server](https://nats.io/blog/replace-your-mqtt-broker-with-nats/) (today)
 - [Java client usage on Android with Kotlin](https://nats.io/blog/kotlin-example/) (5 days ago)
 - [NATS Java Client JetStream Multi Tool](https://nats.io/blog/jetstream-java-client-multi-tool/) (1 week ago)
 - [Pub-Sub with NATS CLI](https://nats.io/blog/nats-cli-pub-sub/) (1 week ago)
 - [Hello World with the NATS.io Java Library](https://nats.io/blog/hello-world-java-client/) (2 weeks ago)
-- [JetStream Publishing with the NATS.io Java Library](https://nats.io/blog/jetstream-java-client-02-publish/) (2 weeks ago)
 
 
 #### 📰 Stackoverflow blog
