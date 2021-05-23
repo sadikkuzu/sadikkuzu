@@ -29,7 +29,7 @@
 
 #### 🔛 NATS
 
-- [Replace your MQTT broker with NATS Server](https://nats.io/blog/replace-your-mqtt-broker-with-nats/) (2 days ago)
+- [Replace your MQTT broker with NATS Server](https://nats.io/blog/replace-your-mqtt-broker-with-nats/) (3 days ago)
 - [Java client usage on Android with Kotlin](https://nats.io/blog/kotlin-example/) (1 week ago)
 - [NATS Java Client JetStream Multi Tool](https://nats.io/blog/jetstream-java-client-multi-tool/) (1 week ago)
 - [Pub-Sub with NATS CLI](https://nats.io/blog/nats-cli-pub-sub/) (1 week ago)
@@ -38,11 +38,11 @@
 
 #### 📰 Stackoverflow blog
 
-- [Level Up: Linear Regression in Python – Part 1](https://stackoverflow.blog/2021/05/22/level-up-linear-regression-in-python-part-1/) (today)
-- [The Overflow #74: Behind the scenes at SpaceX](https://stackoverflow.blog/2021/05/21/the-overflow-74-behind-the-scenes-at-spacex/) (1 day ago)
-- [Podcast 340: Build engineering at Apple and the future of deploy previews](https://stackoverflow.blog/2021/05/21/podcast-340-build-engineering-at-apple-and-the-future-of-deploy-previews/) (1 day ago)
-- [Using Kubernetes to rethink your system architecture and ease technical debt](https://stackoverflow.blog/2021/05/19/rethinking-system-architecture-can-kubernetes-help-to-solve-rewrite-anxiety/) (3 days ago)
-- [Podcast 339: Where design meets development at Stack Overflow](https://stackoverflow.blog/2021/05/18/podcast-339-where-design-meets-development-at-stack-overflow/) (4 days ago)
+- [Level Up: Linear Regression in Python – Part 1](https://stackoverflow.blog/2021/05/22/level-up-linear-regression-in-python-part-1/) (1 day ago)
+- [The Overflow #74: Behind the scenes at SpaceX](https://stackoverflow.blog/2021/05/21/the-overflow-74-behind-the-scenes-at-spacex/) (2 days ago)
+- [Podcast 340: Build engineering at Apple and the future of deploy previews](https://stackoverflow.blog/2021/05/21/podcast-340-build-engineering-at-apple-and-the-future-of-deploy-previews/) (2 days ago)
+- [Using Kubernetes to rethink your system architecture and ease technical debt](https://stackoverflow.blog/2021/05/19/rethinking-system-architecture-can-kubernetes-help-to-solve-rewrite-anxiety/) (4 days ago)
+- [Podcast 339: Where design meets development at Stack Overflow](https://stackoverflow.blog/2021/05/18/podcast-339-where-design-meets-development-at-stack-overflow/) (5 days ago)
 
 
 
