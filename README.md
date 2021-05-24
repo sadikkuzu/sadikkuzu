@@ -38,11 +38,11 @@
 
 #### 📰 Stackoverflow blog
 
+- [How developers can be their own operations department](https://stackoverflow.blog/2021/05/24/how-developers-can-be-their-own-operations-department/) (today)
 - [Level Up: Linear Regression in Python – Part 1](https://stackoverflow.blog/2021/05/22/level-up-linear-regression-in-python-part-1/) (2 days ago)
 - [The Overflow #74: Behind the scenes at SpaceX](https://stackoverflow.blog/2021/05/21/the-overflow-74-behind-the-scenes-at-spacex/) (3 days ago)
 - [Podcast 340: Build engineering at Apple and the future of deploy previews](https://stackoverflow.blog/2021/05/21/podcast-340-build-engineering-at-apple-and-the-future-of-deploy-previews/) (3 days ago)
 - [Using Kubernetes to rethink your system architecture and ease technical debt](https://stackoverflow.blog/2021/05/19/rethinking-system-architecture-can-kubernetes-help-to-solve-rewrite-anxiety/) (5 days ago)
-- [Podcast 339: Where design meets development at Stack Overflow](https://stackoverflow.blog/2021/05/18/podcast-339-where-design-meets-development-at-stack-overflow/) (6 days ago)
 
 
 
