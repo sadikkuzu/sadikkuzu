@@ -20,7 +20,7 @@
 
 #### 🔻 [The Gradient](https://thegradient.pub)
 
-- [How has AI contributed to dealing with the COVID-19 pandemic?](https://thegradient.pub/how-has-ai-contributed-to-dealing-with-the-covid-19-pandemic/) (today)
+- [How has AI Contributed to Dealing with the COVID-19 Pandemic?](https://thegradient.pub/how-has-ai-contributed-to-dealing-with-the-covid-19-pandemic/) (today)
 - [Towards Human-Centered Explainable AI: the journey so far](https://thegradient.pub/human-centered-explainable-ai/) (2 weeks ago)
 - [Machine Learning, Ethics, and Open Source Licensing (Part II/II)](https://thegradient.pub/machine-learning-ethics-and-open-source-licensing-2/) (3 weeks ago)
 - [Three Years at the Gradient](https://thegradient.pub/three-years-at-the-gradient/) (3 weeks ago)
