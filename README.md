@@ -9,13 +9,13 @@
 
 #### 🔭 Check out my recent followers
 
+- [Mohamedmahrous995](https://github.com/Mohamedmahrous995) 
 - [selmansisman](https://github.com/selmansisman) Selman Sisman, Ph.D.
 - [ahmedalazazy](https://github.com/ahmedalazazy) 
 - [primexdev](https://github.com/primexdev) PrimexAdvice
 - [halimenalbat](https://github.com/halimenalbat) 
 - [musolee1](https://github.com/musolee1) 
 - [vuchien000](https://github.com/vuchien000) 
-- [mustafasencer](https://github.com/mustafasencer) Mustafa Sencer Özcan
 
 
 #### 🔻 [The Gradient](https://thegradient.pub)
