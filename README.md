@@ -38,11 +38,11 @@
 
 #### 📰 Stackoverflow blog
 
+- [The 2021 Developer Survey is now open!](https://stackoverflow.blog/2021/05/25/the-2021-developer-survey-is-now-open/) (today)
 - [Podcast 341: Blocking the haters as a service](https://stackoverflow.blog/2021/05/25/podcast-341-blocking-the-haters-as-a-service/) (today)
 - [How developers can be their own operations department](https://stackoverflow.blog/2021/05/24/how-developers-can-be-their-own-operations-department/) (1 day ago)
 - [Level Up: Linear Regression in Python – Part 1](https://stackoverflow.blog/2021/05/22/level-up-linear-regression-in-python-part-1/) (3 days ago)
 - [The Overflow #74: Behind the scenes at SpaceX](https://stackoverflow.blog/2021/05/21/the-overflow-74-behind-the-scenes-at-spacex/) (4 days ago)
-- [Podcast 340: Build engineering at Apple and the future of deploy previews](https://stackoverflow.blog/2021/05/21/podcast-340-build-engineering-at-apple-and-the-future-of-deploy-previews/) (4 days ago)
 
 
 
