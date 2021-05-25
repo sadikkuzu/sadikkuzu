@@ -14,8 +14,6 @@
 - [ahmedalazazy](https://github.com/ahmedalazazy) 
 - [primexdev](https://github.com/primexdev) PrimexAdvice
 - [halimenalbat](https://github.com/halimenalbat) 
-- [musolee1](https://github.com/musolee1) 
-- [vuchien000](https://github.com/vuchien000) 
 
 
 #### 🔻 [The Gradient](https://thegradient.pub)
@@ -23,8 +21,6 @@
 - [How has AI Contributed to Dealing with the COVID-19 Pandemic?](https://thegradient.pub/how-has-ai-contributed-to-dealing-with-the-covid-19-pandemic/) (1 day ago)
 - [Towards Human-Centered Explainable AI: the journey so far](https://thegradient.pub/human-centered-explainable-ai/) (2 weeks ago)
 - [Machine Learning, Ethics, and Open Source Licensing (Part II/II)](https://thegradient.pub/machine-learning-ethics-and-open-source-licensing-2/) (3 weeks ago)
-- [Three Years at the Gradient](https://thegradient.pub/three-years-at-the-gradient/) (3 weeks ago)
-- [Machine Learning, Ethics, and Open Source Licensing (Part I/II)](https://thegradient.pub/machine-learning-ethics-and-open-source-licensing/) (1 month ago)
 
 
 #### 🔛 NATS
@@ -32,8 +28,6 @@
 - [JetStream Consumers with the NATS.io Java Library](https://nats.io/blog/jetstream-java-client-03-consume/) (4 days ago)
 - [Replace your MQTT broker with NATS Server](https://nats.io/blog/replace-your-mqtt-broker-with-nats/) (5 days ago)
 - [Java client usage on Android with Kotlin](https://nats.io/blog/kotlin-example/) (1 week ago)
-- [NATS Java Client JetStream Multi Tool](https://nats.io/blog/jetstream-java-client-multi-tool/) (1 week ago)
-- [Pub-Sub with NATS CLI](https://nats.io/blog/nats-cli-pub-sub/) (2 weeks ago)
 
 
 #### 📰 Stackoverflow blog
@@ -41,8 +35,15 @@
 - [The 2021 Developer Survey is now open!](https://stackoverflow.blog/2021/05/25/the-2021-developer-survey-is-now-open/) (today)
 - [Podcast 341: Blocking the haters as a service](https://stackoverflow.blog/2021/05/25/podcast-341-blocking-the-haters-as-a-service/) (today)
 - [How developers can be their own operations department](https://stackoverflow.blog/2021/05/24/how-developers-can-be-their-own-operations-department/) (1 day ago)
-- [Level Up: Linear Regression in Python – Part 1](https://stackoverflow.blog/2021/05/22/level-up-linear-regression-in-python-part-1/) (3 days ago)
-- [The Overflow #74: Behind the scenes at SpaceX](https://stackoverflow.blog/2021/05/21/the-overflow-74-behind-the-scenes-at-spacex/) (4 days ago)
 
+
+#### 📢 Facebook
+
+- [Peering automation at Facebook](https://engineering.fb.com/2021/05/20/networking-traffic/peering-automation/) (5 days ago)
+- [Running Border Gateway Protocol in large-scale data centers](https://engineering.fb.com/2021/05/13/data-center-engineering/bgp/) (1 week ago)
+- [Most of computing’s carbon emissions are coming from manufacturing and infrastructure](https://tech.fb.com/sustainable-computing/) (2 weeks ago)
+
+
+#### ⛅ [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
 
