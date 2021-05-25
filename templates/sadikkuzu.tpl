@@ -8,28 +8,36 @@
 [![Update-action status](https://github.com/sadikkuzu/sadikkuzu/actions/workflows/sadikkuzu.yml/badge.svg)](https://github.com/sadikkuzu/sadikkuzu/actions/workflows/sadikkuzu.yml)
 
 #### 🔭 Check out my recent followers
-{{range followers 7}}
+{{range followers 5}}
 - [{{.Login}}]({{.URL}}) {{.Name}}
 {{- end}}
 
 
 #### 🔻 [The Gradient](https://thegradient.pub)
-{{range rss "https://thegradient.pub/rss/" 5}}
+{{range rss "https://thegradient.pub/rss/" 3}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
 
 #### 🔛 NATS
-{{range rss "https://nats.io/blog/index.xml" 5}}
+{{range rss "https://nats.io/blog/index.xml" 3}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
 
 #### 📰 Stackoverflow blog
-{{range rss "https://stackoverflow.blog/feed/" 5}}
+{{range rss "https://stackoverflow.blog/feed/" 3}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
+
+#### 📢 Facebook
+{{range rss "https://engineering.fb.com/feed/" 3}}
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+{{- end}}
+
+
+#### ⛅ [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
 <!--
 
