@@ -47,3 +47,10 @@
 #### ⛅ [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
 
+#### 🔍 Bitbucket
+
+- [Extinguishing our performance fires and rebuilding for the future](https://bitbucket.org/blog/extinguishing-our-performance-fires-and-rebuilding-for-the-future) (3 weeks ago)
+- [Integrate security into development with Snyk, now a seamless part of Bitbucket Cloud](https://bitbucket.org/blog/security-code-scanning) (4 weeks ago)
+- [Editing Pull Requests just got a little easier](https://bitbucket.org/blog/editing-pull-requests-just-got-a-little-easier) (1 month ago)
+
+
