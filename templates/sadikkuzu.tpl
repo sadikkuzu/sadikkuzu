@@ -39,6 +39,12 @@
 
 #### ⛅ [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
+
+#### 🔍 Bitbucket
+{{range rss "https://bitbucket.org/blog/feed/" 3}}
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+{{- end}}
+
 <!--
 
 References:
