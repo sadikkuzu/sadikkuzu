@@ -32,9 +32,9 @@
 
 #### 📰 Stackoverflow blog
 
+- [How to prevent scope creep when managing a project from home](https://stackoverflow.blog/2021/05/27/how-to-prevent-scope-creep-when-managing-a-project-from-home/) (today)
 - [The 2021 Developer Survey is now open!](https://stackoverflow.blog/2021/05/25/the-2021-developer-survey-is-now-open/) (2 days ago)
 - [Podcast 341: Blocking the haters as a service](https://stackoverflow.blog/2021/05/25/podcast-341-blocking-the-haters-as-a-service/) (2 days ago)
-- [How developers can be their own operations department](https://stackoverflow.blog/2021/05/24/how-developers-can-be-their-own-operations-department/) (3 days ago)
 
 
 #### 📢 Facebook
