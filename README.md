@@ -32,9 +32,9 @@
 
 #### 📰 Stackoverflow blog
 
+- [Podcast 342: You’re just as likely to ruin a successful product as make it better](https://stackoverflow.blog/2021/05/28/podcast-342-youre-just-as-likely-to-ruin-a-successful-product-as-make-it-better/) (today)
 - [How to prevent scope creep when managing a project from home](https://stackoverflow.blog/2021/05/27/how-to-prevent-scope-creep-when-managing-a-project-from-home/) (1 day ago)
 - [The 2021 Developer Survey is now open!](https://stackoverflow.blog/2021/05/25/the-2021-developer-survey-is-now-open/) (3 days ago)
-- [Podcast 341: Blocking the haters as a service](https://stackoverflow.blog/2021/05/25/podcast-341-blocking-the-haters-as-a-service/) (3 days ago)
 
 
 #### 📢 Facebook
