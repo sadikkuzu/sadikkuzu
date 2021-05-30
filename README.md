@@ -18,23 +18,23 @@
 
 #### 🔻 [The Gradient](https://thegradient.pub)
 
-- [How has AI Contributed to Dealing with the COVID-19 Pandemic?](https://thegradient.pub/how-has-ai-contributed-to-dealing-with-the-covid-19-pandemic/) (5 days ago)
+- [How has AI Contributed to Dealing with the COVID-19 Pandemic?](https://thegradient.pub/how-has-ai-contributed-to-dealing-with-the-covid-19-pandemic/) (6 days ago)
 - [Towards Human-Centered Explainable AI: the journey so far](https://thegradient.pub/human-centered-explainable-ai/) (2 weeks ago)
 - [Machine Learning, Ethics, and Open Source Licensing (Part II/II)](https://thegradient.pub/machine-learning-ethics-and-open-source-licensing-2/) (3 weeks ago)
 
 
 #### 🔛 NATS
 
-- [Synchronous and Asynchronous Publishing with the NATS.io Java Library](https://nats.io/blog/sync-async-publish-java-client/) (2 days ago)
+- [Synchronous and Asynchronous Publishing with the NATS.io Java Library](https://nats.io/blog/sync-async-publish-java-client/) (3 days ago)
 - [JetStream Consumers with the NATS.io Java Library](https://nats.io/blog/jetstream-java-client-03-consume/) (1 week ago)
 - [Replace your MQTT broker with NATS Server](https://nats.io/blog/replace-your-mqtt-broker-with-nats/) (1 week ago)
 
 
 #### 📰 Stackoverflow blog
 
-- [Level Up: Linear Regression in Python – Part 2](https://stackoverflow.blog/2021/05/29/level-up-linear-regression-in-python-part-2/) (today)
-- [The Overflow #75: Where design meets development](https://stackoverflow.blog/2021/05/28/the-overflow-75-where-design-meets-development/) (1 day ago)
-- [Podcast 342: You’re just as likely to ruin a successful product as make it better](https://stackoverflow.blog/2021/05/28/podcast-342-youre-just-as-likely-to-ruin-a-successful-product-as-make-it-better/) (1 day ago)
+- [Level Up: Linear Regression in Python – Part 2](https://stackoverflow.blog/2021/05/29/level-up-linear-regression-in-python-part-2/) (1 day ago)
+- [The Overflow #75: Where design meets development](https://stackoverflow.blog/2021/05/28/the-overflow-75-where-design-meets-development/) (2 days ago)
+- [Podcast 342: You’re just as likely to ruin a successful product as make it better](https://stackoverflow.blog/2021/05/28/podcast-342-youre-just-as-likely-to-ruin-a-successful-product-as-make-it-better/) (2 days ago)
 
 
 #### 📢 Facebook
