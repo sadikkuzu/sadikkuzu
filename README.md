@@ -32,9 +32,9 @@
 
 #### 📰 Stackoverflow blog
 
+- [Shipping confetti to Stack Overflow’s design system](https://stackoverflow.blog/2021/05/31/shipping-confetti-to-stack-overflows-design-system/) (today)
 - [Level Up: Linear Regression in Python – Part 2](https://stackoverflow.blog/2021/05/29/level-up-linear-regression-in-python-part-2/) (2 days ago)
 - [The Overflow #75: Where design meets development](https://stackoverflow.blog/2021/05/28/the-overflow-75-where-design-meets-development/) (3 days ago)
-- [Podcast 342: You’re just as likely to ruin a successful product as make it better](https://stackoverflow.blog/2021/05/28/podcast-342-youre-just-as-likely-to-ruin-a-successful-product-as-make-it-better/) (3 days ago)
 
 
 #### 📢 Facebook
