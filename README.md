@@ -9,11 +9,11 @@
 
 #### 🔭 Check out my recent followers
 
+- [firstthumb](https://github.com/firstthumb) Erol KOCAMAN
 - [FarukOzderim](https://github.com/FarukOzderim) Ömer Faruk Özdemir
 - [Mohamedmahrous995](https://github.com/Mohamedmahrous995) 
 - [selmansisman](https://github.com/selmansisman) Selman Sisman, Ph.D.
 - [ahmedalazazy](https://github.com/ahmedalazazy) 
-- [primexdev](https://github.com/primexdev) PrimexAdvice
 
 
 #### 🔻 [The Gradient](https://thegradient.pub)
