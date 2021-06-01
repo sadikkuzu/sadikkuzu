@@ -26,7 +26,7 @@
 
 
 #### 📰 Stackoverflow blog
-{{range rss "https://stackoverflow.blog/feed/" 3}}
+{{range rss "https://stackoverflow.blog/engineering/feed/" 3}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
