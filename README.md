@@ -25,16 +25,16 @@
 
 #### 🔛 NATS
 
-- [Synchronous and Asynchronous Publishing with the NATS.io Java Library](https://nats.io/blog/sync-async-publish-java-client/) (4 days ago)
+- [Synchronous and Asynchronous Publishing with the NATS.io Java Library](https://nats.io/blog/sync-async-publish-java-client/) (5 days ago)
 - [JetStream Consumers with the NATS.io Java Library](https://nats.io/blog/jetstream-java-client-03-consume/) (1 week ago)
 - [Replace your MQTT broker with NATS Server](https://nats.io/blog/replace-your-mqtt-broker-with-nats/) (1 week ago)
 
 
 #### 📰 Stackoverflow blog
 
-- [Shipping confetti to Stack Overflow’s design system](https://stackoverflow.blog/2021/05/31/shipping-confetti-to-stack-overflows-design-system/) (today)
-- [Level Up: Linear Regression in Python – Part 2](https://stackoverflow.blog/2021/05/29/level-up-linear-regression-in-python-part-2/) (2 days ago)
-- [The Overflow #75: Where design meets development](https://stackoverflow.blog/2021/05/28/the-overflow-75-where-design-meets-development/) (3 days ago)
+- [Shipping confetti to Stack Overflow’s design system](https://stackoverflow.blog/2021/05/31/shipping-confetti-to-stack-overflows-design-system/) (1 day ago)
+- [Level Up: Linear Regression in Python – Part 2](https://stackoverflow.blog/2021/05/29/level-up-linear-regression-in-python-part-2/) (3 days ago)
+- [The Overflow #75: Where design meets development](https://stackoverflow.blog/2021/05/28/the-overflow-75-where-design-meets-development/) (4 days ago)
 
 
 #### 📢 Facebook
