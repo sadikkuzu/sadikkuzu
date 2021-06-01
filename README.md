@@ -32,9 +32,9 @@
 
 #### 📰 Stackoverflow blog
 
-- [Podcast 343: Unpacking observability and OpenTelemetry with Spiros Xanthos of Splunk](https://stackoverflow.blog/2021/06/01/podcast-343-unpacking-observability-and-opentelemetry-with-spiros-xanthos-of-splunk/) (today)
 - [Shipping confetti to Stack Overflow’s design system](https://stackoverflow.blog/2021/05/31/shipping-confetti-to-stack-overflows-design-system/) (1 day ago)
-- [Level Up: Linear Regression in Python – Part 2](https://stackoverflow.blog/2021/05/29/level-up-linear-regression-in-python-part-2/) (3 days ago)
+- [Best practices can slow your application down](https://stackoverflow.blog/2021/03/03/best-practices-can-slow-your-application-down/) (3 months ago)
+- [Level Up: Mastering statistics with Python – part 2](https://stackoverflow.blog/2021/02/23/level-up-mastering-statistics-with-python-part-2/) (3 months ago)
 
 
 #### 📢 Facebook
