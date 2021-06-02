@@ -39,9 +39,9 @@
 
 #### 📢 Facebook
 
+- [How Facebook deals with PCIe faults to keep our data centers running reliably](https://engineering.fb.com/2021/06/02/data-center-engineering/how-facebook-deals-with-pcie-faults-to-keep-our-data-centers-running-reliably/) (today)
 - [Peering automation at Facebook](https://engineering.fb.com/2021/05/20/networking-traffic/peering-automation/) (1 week ago)
 - [Running Border Gateway Protocol in large-scale data centers](https://engineering.fb.com/2021/05/13/data-center-engineering/bgp/) (2 weeks ago)
-- [Most of computing’s carbon emissions are coming from manufacturing and infrastructure](https://tech.fb.com/sustainable-computing/) (3 weeks ago)
 
 
 #### ⛅ [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
