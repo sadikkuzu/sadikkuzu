@@ -25,9 +25,9 @@
 
 #### 🔛 NATS
 
+- [JetStream Push Consumers with the NATS.io Java Library](https://nats.io/blog/jetstream-java-client-04-push-subscribe/) (today)
 - [Synchronous and Asynchronous Publishing with the NATS.io Java Library](https://nats.io/blog/sync-async-publish-java-client/) (1 week ago)
 - [JetStream Consumers with the NATS.io Java Library](https://nats.io/blog/jetstream-java-client-03-consume/) (1 week ago)
-- [Replace your MQTT broker with NATS Server](https://nats.io/blog/replace-your-mqtt-broker-with-nats/) (2 weeks ago)
 
 
 #### 📰 Stackoverflow blog
