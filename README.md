@@ -25,23 +25,23 @@
 
 #### 🔛 NATS
 
-- [Synchronous and Asynchronous Publishing with the NATS.io Java Library](https://nats.io/blog/sync-async-publish-java-client/) (6 days ago)
+- [Synchronous and Asynchronous Publishing with the NATS.io Java Library](https://nats.io/blog/sync-async-publish-java-client/) (1 week ago)
 - [JetStream Consumers with the NATS.io Java Library](https://nats.io/blog/jetstream-java-client-03-consume/) (1 week ago)
-- [Replace your MQTT broker with NATS Server](https://nats.io/blog/replace-your-mqtt-broker-with-nats/) (1 week ago)
+- [Replace your MQTT broker with NATS Server](https://nats.io/blog/replace-your-mqtt-broker-with-nats/) (2 weeks ago)
 
 
 #### 📰 Stackoverflow blog
 
-- [CSS in SVG in CSS: Shipping confetti to Stack Overflow’s design system](https://stackoverflow.blog/2021/05/31/shipping-confetti-to-stack-overflows-design-system/) (2 days ago)
+- [CSS in SVG in CSS: Shipping confetti to Stack Overflow’s design system](https://stackoverflow.blog/2021/05/31/shipping-confetti-to-stack-overflows-design-system/) (3 days ago)
 - [Best practices can slow your application down](https://stackoverflow.blog/2021/03/03/best-practices-can-slow-your-application-down/) (3 months ago)
 - [Level Up: Mastering statistics with Python – part 2](https://stackoverflow.blog/2021/02/23/level-up-mastering-statistics-with-python-part-2/) (3 months ago)
 
 
 #### 📢 Facebook
 
-- [How Facebook deals with PCIe faults to keep our data centers running reliably](https://engineering.fb.com/2021/06/02/data-center-engineering/how-facebook-deals-with-pcie-faults-to-keep-our-data-centers-running-reliably/) (today)
-- [Peering automation at Facebook](https://engineering.fb.com/2021/05/20/networking-traffic/peering-automation/) (1 week ago)
-- [Running Border Gateway Protocol in large-scale data centers](https://engineering.fb.com/2021/05/13/data-center-engineering/bgp/) (2 weeks ago)
+- [How Facebook deals with PCIe faults to keep our data centers running reliably](https://engineering.fb.com/2021/06/02/data-center-engineering/how-facebook-deals-with-pcie-faults-to-keep-our-data-centers-running-reliably/) (1 day ago)
+- [Peering automation at Facebook](https://engineering.fb.com/2021/05/20/networking-traffic/peering-automation/) (2 weeks ago)
+- [Running Border Gateway Protocol in large-scale data centers](https://engineering.fb.com/2021/05/13/data-center-engineering/bgp/) (3 weeks ago)
 
 
 #### ⛅ [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
