@@ -25,21 +25,21 @@
 
 #### 🔛 NATS
 
-- [JetStream Push Consumers with the NATS.io Java Library](https://nats.io/blog/jetstream-java-client-04-push-subscribe/) (2 days ago)
+- [JetStream Push Consumers with the NATS.io Java Library](https://nats.io/blog/jetstream-java-client-04-push-subscribe/) (3 days ago)
 - [Synchronous and Asynchronous Publishing with the NATS.io Java Library](https://nats.io/blog/sync-async-publish-java-client/) (1 week ago)
 - [JetStream Consumers with the NATS.io Java Library](https://nats.io/blog/jetstream-java-client-03-consume/) (2 weeks ago)
 
 
 #### 📰 Stackoverflow blog
 
-- [CSS in SVG in CSS: Shipping confetti to Stack Overflow’s design system](https://stackoverflow.blog/2021/05/31/shipping-confetti-to-stack-overflows-design-system/) (5 days ago)
+- [CSS in SVG in CSS: Shipping confetti to Stack Overflow’s design system](https://stackoverflow.blog/2021/05/31/shipping-confetti-to-stack-overflows-design-system/) (6 days ago)
 - [Best practices can slow your application down](https://stackoverflow.blog/2021/03/03/best-practices-can-slow-your-application-down/) (3 months ago)
 - [Level Up: Mastering statistics with Python – part 2](https://stackoverflow.blog/2021/02/23/level-up-mastering-statistics-with-python-part-2/) (3 months ago)
 
 
 #### 📢 Facebook
 
-- [How Facebook deals with PCIe faults to keep our data centers running reliably](https://engineering.fb.com/2021/06/02/data-center-engineering/how-facebook-deals-with-pcie-faults-to-keep-our-data-centers-running-reliably/) (3 days ago)
+- [How Facebook deals with PCIe faults to keep our data centers running reliably](https://engineering.fb.com/2021/06/02/data-center-engineering/how-facebook-deals-with-pcie-faults-to-keep-our-data-centers-running-reliably/) (4 days ago)
 - [Peering automation at Facebook](https://engineering.fb.com/2021/05/20/networking-traffic/peering-automation/) (2 weeks ago)
 - [Running Border Gateway Protocol in large-scale data centers](https://engineering.fb.com/2021/05/13/data-center-engineering/bgp/) (3 weeks ago)
 
@@ -49,7 +49,7 @@
 
 #### 🔍 Bitbucket
 
-- [How Statuspage deploys continuously with Bitbucket and Sleuth](https://bitbucket.org/blog/how-statuspage-deploys-continuously-with-bitbucket-and-sleuth) (2 days ago)
+- [How Statuspage deploys continuously with Bitbucket and Sleuth](https://bitbucket.org/blog/how-statuspage-deploys-continuously-with-bitbucket-and-sleuth) (3 days ago)
 - [Extinguishing our performance fires and rebuilding for the future](https://bitbucket.org/blog/extinguishing-our-performance-fires-and-rebuilding-for-the-future) (1 month ago)
 - [Integrate security into development with Snyk, now a seamless part of Bitbucket Cloud](https://bitbucket.org/blog/security-code-scanning) (1 month ago)
 
