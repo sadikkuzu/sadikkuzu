@@ -25,7 +25,7 @@
 
 #### 🔛 NATS
 
-- [JetStream Pull Consumers with the NATS.io Java Library](https://nats.io/blog/jetstream-java-client-05-pull-subscribe/) (3 days ago)
+- [JetStream Pull Consumers with the NATS.io Java Library](https://nats.io/blog/jetstream-java-client-05-pull-subscribe/) (4 days ago)
 - [JetStream Push Consumers with the NATS.io Java Library](https://nats.io/blog/jetstream-java-client-04-push-subscribe/) (1 week ago)
 - [Synchronous and Asynchronous Publishing with the NATS.io Java Library](https://nats.io/blog/sync-async-publish-java-client/) (2 weeks ago)
 
@@ -41,7 +41,7 @@
 
 - [How Facebook deals with PCIe faults to keep our data centers running reliably](https://engineering.fb.com/2021/06/02/data-center-engineering/how-facebook-deals-with-pcie-faults-to-keep-our-data-centers-running-reliably/) (1 week ago)
 - [Peering automation at Facebook](https://engineering.fb.com/2021/05/20/networking-traffic/peering-automation/) (3 weeks ago)
-- [Running Border Gateway Protocol in large-scale data centers](https://engineering.fb.com/2021/05/13/data-center-engineering/bgp/) (4 weeks ago)
+- [Running Border Gateway Protocol in large-scale data centers](https://engineering.fb.com/2021/05/13/data-center-engineering/bgp/) (1 month ago)
 
 
 #### ⛅ [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
