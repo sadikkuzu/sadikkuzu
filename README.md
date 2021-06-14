@@ -18,21 +18,21 @@
 
 #### 🔻 [The Gradient](https://thegradient.pub)
 
-- [How has AI Contributed to Dealing with the COVID-19 Pandemic?](https://thegradient.pub/how-has-ai-contributed-to-dealing-with-the-covid-19-pandemic/) (2 weeks ago)
+- [Are Self-Driving Cars Really Safer Than Human Drivers?](https://thegradient.pub/are-self-driving-cars-really-safer-than-human-drivers/) (1 day ago)
+- [How has AI Contributed to Dealing with the COVID-19 Pandemic?](https://thegradient.pub/how-has-ai-contributed-to-dealing-with-the-covid-19-pandemic/) (3 weeks ago)
 - [Towards Human-Centered Explainable AI: the journey so far](https://thegradient.pub/human-centered-explainable-ai/) (1 month ago)
-- [Machine Learning, Ethics, and Open Source Licensing (Part II/II)](https://thegradient.pub/machine-learning-ethics-and-open-source-licensing-2/) (1 month ago)
 
 
 #### 🔛 NATS
 
-- [JetStream Pull Consumers with the NATS.io Java Library](https://nats.io/blog/jetstream-java-client-05-pull-subscribe/) (5 days ago)
+- [JetStream Pull Consumers with the NATS.io Java Library](https://nats.io/blog/jetstream-java-client-05-pull-subscribe/) (6 days ago)
 - [JetStream Push Consumers with the NATS.io Java Library](https://nats.io/blog/jetstream-java-client-04-push-subscribe/) (1 week ago)
 - [Synchronous and Asynchronous Publishing with the NATS.io Java Library](https://nats.io/blog/sync-async-publish-java-client/) (2 weeks ago)
 
 
 #### 📰 Stackoverflow blog
 
-- [CSS in SVG in CSS: Shipping confetti to Stack Overflow’s design system](https://stackoverflow.blog/2021/05/31/shipping-confetti-to-stack-overflows-design-system/) (1 week ago)
+- [CSS in SVG in CSS: Shipping confetti to Stack Overflow’s design system](https://stackoverflow.blog/2021/05/31/shipping-confetti-to-stack-overflows-design-system/) (2 weeks ago)
 - [Best practices can slow your application down](https://stackoverflow.blog/2021/03/03/best-practices-can-slow-your-application-down/) (3 months ago)
 - [Level Up: Mastering statistics with Python – part 2](https://stackoverflow.blog/2021/02/23/level-up-mastering-statistics-with-python-part-2/) (3 months ago)
 
