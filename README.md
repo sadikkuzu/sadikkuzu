@@ -9,11 +9,11 @@
 
 #### 🔭 Check out my recent followers
 
+- [hirooutdoor](https://github.com/hirooutdoor) hiro
 - [firstthumb](https://github.com/firstthumb) Erol KOCAMAN
 - [FarukOzderim](https://github.com/FarukOzderim) Ömer Faruk Özdemir
 - [Mohamedmahrous995](https://github.com/Mohamedmahrous995) 
 - [selmansisman](https://github.com/selmansisman) Selman Sisman, Ph.D.
-- [ahmedalazazy](https://github.com/ahmedalazazy) 
 
 
 #### 🔻 [The Gradient](https://thegradient.pub)
