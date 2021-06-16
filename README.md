@@ -18,7 +18,7 @@
 
 #### 🔻 [The Gradient](https://thegradient.pub)
 
-- [Are Self-Driving Cars Really Safer Than Human Drivers?](https://thegradient.pub/are-self-driving-cars-really-safer-than-human-drivers/) (2 days ago)
+- [Are Self-Driving Cars Really Safer Than Human Drivers?](https://thegradient.pub/are-self-driving-cars-really-safer-than-human-drivers/) (3 days ago)
 - [How has AI Contributed to Dealing with the COVID-19 Pandemic?](https://thegradient.pub/how-has-ai-contributed-to-dealing-with-the-covid-19-pandemic/) (3 weeks ago)
 - [Towards Human-Centered Explainable AI: the journey so far](https://thegradient.pub/human-centered-explainable-ai/) (1 month ago)
 
@@ -39,8 +39,8 @@
 
 #### 📢 Facebook
 
-- [Network hose: Managing uncertain network demand with model simplicity](https://engineering.fb.com/2021/06/15/data-infrastructure/network-hose/) (today)
-- [How Facebook deals with PCIe faults to keep our data centers running reliably](https://engineering.fb.com/2021/06/02/data-center-engineering/how-facebook-deals-with-pcie-faults-to-keep-our-data-centers-running-reliably/) (1 week ago)
+- [Network hose: Managing uncertain network demand with model simplicity](https://engineering.fb.com/2021/06/15/data-infrastructure/network-hose/) (1 day ago)
+- [How Facebook deals with PCIe faults to keep our data centers running reliably](https://engineering.fb.com/2021/06/02/data-center-engineering/how-facebook-deals-with-pcie-faults-to-keep-our-data-centers-running-reliably/) (2 weeks ago)
 - [Peering automation at Facebook](https://engineering.fb.com/2021/05/20/networking-traffic/peering-automation/) (3 weeks ago)
 
 
