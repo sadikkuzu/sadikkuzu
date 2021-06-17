@@ -18,7 +18,7 @@
 
 #### 🔻 [The Gradient](https://thegradient.pub)
 
-- [Are Self-Driving Cars Really Safer Than Human Drivers?](https://thegradient.pub/are-self-driving-cars-really-safer-than-human-drivers/) (3 days ago)
+- [Are Self-Driving Cars Really Safer Than Human Drivers?](https://thegradient.pub/are-self-driving-cars-really-safer-than-human-drivers/) (4 days ago)
 - [How has AI Contributed to Dealing with the COVID-19 Pandemic?](https://thegradient.pub/how-has-ai-contributed-to-dealing-with-the-covid-19-pandemic/) (3 weeks ago)
 - [Towards Human-Centered Explainable AI: the journey so far](https://thegradient.pub/human-centered-explainable-ai/) (1 month ago)
 
@@ -26,8 +26,8 @@
 #### 🔛 NATS
 
 - [JetStream Pull Consumers with the NATS.io Java Library](https://nats.io/blog/jetstream-java-client-05-pull-subscribe/) (1 week ago)
-- [JetStream Push Consumers with the NATS.io Java Library](https://nats.io/blog/jetstream-java-client-04-push-subscribe/) (1 week ago)
-- [Synchronous and Asynchronous Publishing with the NATS.io Java Library](https://nats.io/blog/sync-async-publish-java-client/) (2 weeks ago)
+- [JetStream Push Consumers with the NATS.io Java Library](https://nats.io/blog/jetstream-java-client-04-push-subscribe/) (2 weeks ago)
+- [Synchronous and Asynchronous Publishing with the NATS.io Java Library](https://nats.io/blog/sync-async-publish-java-client/) (3 weeks ago)
 
 
 #### 📰 Stackoverflow blog
@@ -39,9 +39,9 @@
 
 #### 📢 Facebook
 
-- [Network hose: Managing uncertain network demand with model simplicity](https://engineering.fb.com/2021/06/15/data-infrastructure/network-hose/) (1 day ago)
+- [Network hose: Managing uncertain network demand with model simplicity](https://engineering.fb.com/2021/06/15/data-infrastructure/network-hose/) (2 days ago)
 - [How Facebook deals with PCIe faults to keep our data centers running reliably](https://engineering.fb.com/2021/06/02/data-center-engineering/how-facebook-deals-with-pcie-faults-to-keep-our-data-centers-running-reliably/) (2 weeks ago)
-- [Peering automation at Facebook](https://engineering.fb.com/2021/05/20/networking-traffic/peering-automation/) (3 weeks ago)
+- [Peering automation at Facebook](https://engineering.fb.com/2021/05/20/networking-traffic/peering-automation/) (4 weeks ago)
 
 
 #### ⛅ [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
@@ -49,7 +49,7 @@
 
 #### 🔍 Bitbucket
 
-- [How Statuspage deploys continuously with Bitbucket and Sleuth](https://bitbucket.org/blog/how-statuspage-deploys-continuously-with-bitbucket-and-sleuth) (1 week ago)
+- [How Statuspage deploys continuously with Bitbucket and Sleuth](https://bitbucket.org/blog/how-statuspage-deploys-continuously-with-bitbucket-and-sleuth) (2 weeks ago)
 - [Extinguishing our performance fires and rebuilding for the future](https://bitbucket.org/blog/extinguishing-our-performance-fires-and-rebuilding-for-the-future) (1 month ago)
 - [Integrate security into development with Snyk, now a seamless part of Bitbucket Cloud](https://bitbucket.org/blog/security-code-scanning) (1 month ago)
 
