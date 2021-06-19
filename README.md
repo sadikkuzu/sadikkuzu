@@ -52,5 +52,3 @@
 - [How Statuspage deploys continuously with Bitbucket and Sleuth](https://bitbucket.org/blog/how-statuspage-deploys-continuously-with-bitbucket-and-sleuth) (2 weeks ago)
 - [Extinguishing our performance fires and rebuilding for the future](https://bitbucket.org/blog/extinguishing-our-performance-fires-and-rebuilding-for-the-future) (1 month ago)
 - [Integrate security into development with Snyk, now a seamless part of Bitbucket Cloud](https://bitbucket.org/blog/security-code-scanning) (1 month ago)
-
-
