@@ -26,9 +26,9 @@
 
 #### 🔛 NATS
 
+- [NATS Java Client Latency Benchmarking](https://nats.io/blog/java-client-latency-benchmarking/) (today)
 - [JetStream Pull Consumers with the NATS.io Java Library](https://nats.io/blog/jetstream-java-client-05-pull-subscribe/) (1 week ago)
 - [JetStream Push Consumers with the NATS.io Java Library](https://nats.io/blog/jetstream-java-client-04-push-subscribe/) (2 weeks ago)
-- [Synchronous and Asynchronous Publishing with the NATS.io Java Library](https://nats.io/blog/sync-async-publish-java-client/) (3 weeks ago)
 
 
 #### 📰 Stackoverflow blog
