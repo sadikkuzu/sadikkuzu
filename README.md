@@ -40,9 +40,9 @@
 
 #### 📢 Facebook
 
+- [Meet Kats — a one-stop shop for time series analysis](https://engineering.fb.com/2021/06/21/open-source/kats/) (today)
 - [Network hose: Managing uncertain network demand with model simplicity](https://engineering.fb.com/2021/06/15/data-infrastructure/network-hose/) (6 days ago)
 - [How Facebook deals with PCIe faults to keep our data centers running reliably](https://engineering.fb.com/2021/06/02/data-center-engineering/how-facebook-deals-with-pcie-faults-to-keep-our-data-centers-running-reliably/) (2 weeks ago)
-- [Peering automation at Facebook](https://engineering.fb.com/2021/05/20/networking-traffic/peering-automation/) (1 month ago)
 
 
 #### ⛅ [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
