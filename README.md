@@ -26,8 +26,8 @@
 
 #### 🔛 NATS
 
-- [NATS Java Client Latency Benchmarking](https://nats.io/blog/java-client-latency-benchmarking/) (today)
-- [JetStream Pull Consumers with the NATS.io Java Library](https://nats.io/blog/jetstream-java-client-05-pull-subscribe/) (1 week ago)
+- [NATS Java Client Latency Benchmarking](https://nats.io/blog/java-client-latency-benchmarking/) (1 day ago)
+- [JetStream Pull Consumers with the NATS.io Java Library](https://nats.io/blog/jetstream-java-client-05-pull-subscribe/) (2 weeks ago)
 - [JetStream Push Consumers with the NATS.io Java Library](https://nats.io/blog/jetstream-java-client-04-push-subscribe/) (2 weeks ago)
 
 
@@ -40,9 +40,9 @@
 
 #### 📢 Facebook
 
-- [Consolidating Facebook storage infrastructure with Tectonic file system](https://engineering.fb.com/2021/06/21/data-infrastructure/tectonic-file-system/) (today)
-- [Meet Kats — a one-stop shop for time series analysis](https://engineering.fb.com/2021/06/21/open-source/kats/) (today)
-- [Network hose: Managing uncertain network demand with model simplicity](https://engineering.fb.com/2021/06/15/data-infrastructure/network-hose/) (6 days ago)
+- [Consolidating Facebook storage infrastructure with Tectonic file system](https://engineering.fb.com/2021/06/21/data-infrastructure/tectonic-file-system/) (1 day ago)
+- [Meet Kats — a one-stop shop for time series analysis](https://engineering.fb.com/2021/06/21/open-source/kats/) (1 day ago)
+- [Network hose: Managing uncertain network demand with model simplicity](https://engineering.fb.com/2021/06/15/data-infrastructure/network-hose/) (1 week ago)
 
 
 #### ⛅ [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
