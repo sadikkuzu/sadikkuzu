@@ -19,9 +19,9 @@
 
 #### 🔻 [The Gradient](https://thegradient.pub)
 
+- [How to Do Multi-Task Learning Intelligently](https://thegradient.pub/how-to-do-multi-task-learning-intelligently/) (today)
 - [Are Self-Driving Cars Really Safer Than Human Drivers?](https://thegradient.pub/are-self-driving-cars-really-safer-than-human-drivers/) (1 week ago)
 - [How has AI Contributed to Dealing with the COVID-19 Pandemic?](https://thegradient.pub/how-has-ai-contributed-to-dealing-with-the-covid-19-pandemic/) (4 weeks ago)
-- [Towards Human-Centered Explainable AI: the journey so far](https://thegradient.pub/human-centered-explainable-ai/) (1 month ago)
 
 
 #### 🔛 NATS
