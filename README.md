@@ -40,9 +40,9 @@
 
 #### 📢 Facebook
 
+- [Asicmon: A platform agnostic observability system for AI accelerators](https://engineering.fb.com/2021/06/28/data-center-engineering/asicmon/) (today)
 - [Driving towards an open internet ecosystem to help tackle the digital divide](https://engineering.fb.com/2021/06/28/connectivity/digital-divide/) (today)
 - [Consolidating Facebook storage infrastructure with Tectonic file system](https://engineering.fb.com/2021/06/21/data-infrastructure/tectonic-file-system/) (1 week ago)
-- [Meet Kats — a one-stop shop for time series analysis](https://engineering.fb.com/2021/06/21/open-source/kats/) (1 week ago)
 
 
 #### ⛅ [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
