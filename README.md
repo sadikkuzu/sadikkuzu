@@ -19,29 +19,29 @@
 
 #### 🔻 [The Gradient](https://thegradient.pub)
 
-- [How to Do Multi-Task Learning Intelligently](https://thegradient.pub/how-to-do-multi-task-learning-intelligently/) (5 days ago)
+- [How to Do Multi-Task Learning Intelligently](https://thegradient.pub/how-to-do-multi-task-learning-intelligently/) (6 days ago)
 - [Are Self-Driving Cars Really Safer Than Human Drivers?](https://thegradient.pub/are-self-driving-cars-really-safer-than-human-drivers/) (2 weeks ago)
 - [How has AI Contributed to Dealing with the COVID-19 Pandemic?](https://thegradient.pub/how-has-ai-contributed-to-dealing-with-the-covid-19-pandemic/) (1 month ago)
 
 
 #### 🔛 NATS
 
-- [NATS Java Client Latency Benchmarking](https://nats.io/blog/java-client-latency-benchmarking/) (6 days ago)
+- [NATS Java Client Latency Benchmarking](https://nats.io/blog/java-client-latency-benchmarking/) (1 week ago)
 - [JetStream Pull Consumers with the NATS.io Java Library](https://nats.io/blog/jetstream-java-client-05-pull-subscribe/) (2 weeks ago)
 - [JetStream Push Consumers with the NATS.io Java Library](https://nats.io/blog/jetstream-java-client-04-push-subscribe/) (3 weeks ago)
 
 
 #### 📰 Stackoverflow blog
 
-- [CSS in SVG in CSS: Shipping confetti to Stack Overflow’s design system](https://stackoverflow.blog/2021/05/31/shipping-confetti-to-stack-overflows-design-system/) (3 weeks ago)
+- [CSS in SVG in CSS: Shipping confetti to Stack Overflow’s design system](https://stackoverflow.blog/2021/05/31/shipping-confetti-to-stack-overflows-design-system/) (4 weeks ago)
 - [Best practices can slow your application down](https://stackoverflow.blog/2021/03/03/best-practices-can-slow-your-application-down/) (3 months ago)
 - [Level Up: Mastering statistics with Python – part 2](https://stackoverflow.blog/2021/02/23/level-up-mastering-statistics-with-python-part-2/) (4 months ago)
 
 
 #### 📢 Facebook
 
-- [Consolidating Facebook storage infrastructure with Tectonic file system](https://engineering.fb.com/2021/06/21/data-infrastructure/tectonic-file-system/) (6 days ago)
-- [Meet Kats — a one-stop shop for time series analysis](https://engineering.fb.com/2021/06/21/open-source/kats/) (6 days ago)
+- [Consolidating Facebook storage infrastructure with Tectonic file system](https://engineering.fb.com/2021/06/21/data-infrastructure/tectonic-file-system/) (1 week ago)
+- [Meet Kats — a one-stop shop for time series analysis](https://engineering.fb.com/2021/06/21/open-source/kats/) (1 week ago)
 - [Network hose: Managing uncertain network demand with model simplicity](https://engineering.fb.com/2021/06/15/data-infrastructure/network-hose/) (1 week ago)
 
 
@@ -50,6 +50,6 @@
 
 #### 🔍 Bitbucket
 
-- [What DevOps means to devs](https://bitbucket.org/blog/devops-roundup) (3 days ago)
+- [What DevOps means to devs](https://bitbucket.org/blog/devops-roundup) (4 days ago)
 - [How Statuspage deploys continuously with Bitbucket and Sleuth](https://bitbucket.org/blog/how-statuspage-deploys-continuously-with-bitbucket-and-sleuth) (3 weeks ago)
-- [Extinguishing our performance fires and rebuilding for the future](https://bitbucket.org/blog/extinguishing-our-performance-fires-and-rebuilding-for-the-future) (1 month ago)
+- [Extinguishing our performance fires and rebuilding for the future](https://bitbucket.org/blog/extinguishing-our-performance-fires-and-rebuilding-for-the-future) (2 months ago)
