@@ -33,15 +33,15 @@
 
 #### 📰 Stackoverflow blog
 
-- [CSS in SVG in CSS: Shipping confetti to Stack Overflow’s design system](https://stackoverflow.blog/2021/05/31/shipping-confetti-to-stack-overflows-design-system/) (4 weeks ago)
+- [CSS in SVG in CSS: Shipping confetti to Stack Overflow’s design system](https://stackoverflow.blog/2021/05/31/shipping-confetti-to-stack-overflows-design-system/) (1 month ago)
 - [Best practices can slow your application down](https://stackoverflow.blog/2021/03/03/best-practices-can-slow-your-application-down/) (3 months ago)
 - [Level Up: Mastering statistics with Python – part 2](https://stackoverflow.blog/2021/02/23/level-up-mastering-statistics-with-python-part-2/) (4 months ago)
 
 
 #### 📢 Facebook
 
-- [Asicmon: A platform agnostic observability system for AI accelerators](https://engineering.fb.com/2021/06/28/data-center-engineering/asicmon/) (1 day ago)
-- [Driving towards an open internet ecosystem to help tackle the digital divide](https://engineering.fb.com/2021/06/28/connectivity/digital-divide/) (1 day ago)
+- [Asicmon: A platform agnostic observability system for AI accelerators](https://engineering.fb.com/2021/06/28/data-center-engineering/asicmon/) (2 days ago)
+- [Driving towards an open internet ecosystem to help tackle the digital divide](https://engineering.fb.com/2021/06/28/connectivity/digital-divide/) (2 days ago)
 - [Consolidating Facebook storage infrastructure with Tectonic file system](https://engineering.fb.com/2021/06/21/data-infrastructure/tectonic-file-system/) (1 week ago)
 
 
@@ -50,6 +50,6 @@
 
 #### 🔍 Bitbucket
 
-- [Deprecating Atlassian account password for Git and Bitbucket API activity](https://bitbucket.org/blog/deprecating-atlassian-account-password-for-git-and-bitbucket-api-activity) (today)
-- [What DevOps means to devs](https://bitbucket.org/blog/devops-roundup) (5 days ago)
+- [Deprecating Atlassian account password for Git and Bitbucket API activity](https://bitbucket.org/blog/deprecating-atlassian-account-password-for-git-and-bitbucket-api-activity) (1 day ago)
+- [What DevOps means to devs](https://bitbucket.org/blog/devops-roundup) (6 days ago)
 - [How Statuspage deploys continuously with Bitbucket and Sleuth](https://bitbucket.org/blog/how-statuspage-deploys-continuously-with-bitbucket-and-sleuth) (3 weeks ago)
