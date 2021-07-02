@@ -40,8 +40,8 @@
 
 #### 📢 Facebook
 
-- [Asicmon: A platform agnostic observability system for AI accelerators](https://engineering.fb.com/2021/06/28/data-center-engineering/asicmon/) (3 days ago)
-- [Driving towards an open internet ecosystem to help tackle the digital divide](https://engineering.fb.com/2021/06/28/connectivity/digital-divide/) (3 days ago)
+- [Asicmon: A platform agnostic observability system for AI accelerators](https://engineering.fb.com/2021/06/28/data-center-engineering/asicmon/) (4 days ago)
+- [Driving towards an open internet ecosystem to help tackle the digital divide](https://engineering.fb.com/2021/06/28/connectivity/digital-divide/) (4 days ago)
 - [Consolidating Facebook storage infrastructure with Tectonic file system](https://engineering.fb.com/2021/06/21/data-infrastructure/tectonic-file-system/) (1 week ago)
 
 
@@ -50,6 +50,6 @@
 
 #### 🔍 Bitbucket
 
-- [Deprecating Atlassian account password for Git and Bitbucket API activity](https://bitbucket.org/blog/deprecating-atlassian-account-password-for-git-and-bitbucket-api-activity) (2 days ago)
+- [Deprecating Atlassian account password for Git and Bitbucket API activity](https://bitbucket.org/blog/deprecating-atlassian-account-password-for-git-and-bitbucket-api-activity) (3 days ago)
 - [What DevOps means to devs](https://bitbucket.org/blog/devops-roundup) (1 week ago)
 - [How Statuspage deploys continuously with Bitbucket and Sleuth](https://bitbucket.org/blog/how-statuspage-deploys-continuously-with-bitbucket-and-sleuth) (4 weeks ago)
