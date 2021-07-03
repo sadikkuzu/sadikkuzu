@@ -28,7 +28,7 @@
 
 - [NATS Java Client Latency Benchmarking](https://nats.io/blog/java-client-latency-benchmarking/) (1 week ago)
 - [JetStream Pull Consumers with the NATS.io Java Library](https://nats.io/blog/jetstream-java-client-05-pull-subscribe/) (3 weeks ago)
-- [JetStream Push Consumers with the NATS.io Java Library](https://nats.io/blog/jetstream-java-client-04-push-subscribe/) (4 weeks ago)
+- [JetStream Push Consumers with the NATS.io Java Library](https://nats.io/blog/jetstream-java-client-04-push-subscribe/) (1 month ago)
 
 
 #### 📰 Stackoverflow blog
@@ -40,8 +40,8 @@
 
 #### 📢 Facebook
 
-- [Asicmon: A platform agnostic observability system for AI accelerators](https://engineering.fb.com/2021/06/28/data-center-engineering/asicmon/) (4 days ago)
-- [Driving towards an open internet ecosystem to help tackle the digital divide](https://engineering.fb.com/2021/06/28/connectivity/digital-divide/) (4 days ago)
+- [Asicmon: A platform agnostic observability system for AI accelerators](https://engineering.fb.com/2021/06/28/data-center-engineering/asicmon/) (5 days ago)
+- [Driving towards an open internet ecosystem to help tackle the digital divide](https://engineering.fb.com/2021/06/28/connectivity/digital-divide/) (5 days ago)
 - [Consolidating Facebook storage infrastructure with Tectonic file system](https://engineering.fb.com/2021/06/21/data-infrastructure/tectonic-file-system/) (1 week ago)
 
 
@@ -50,6 +50,6 @@
 
 #### 🔍 Bitbucket
 
-- [Deprecating Atlassian account password for Git and Bitbucket API activity](https://bitbucket.org/blog/deprecating-atlassian-account-password-for-git-and-bitbucket-api-activity) (3 days ago)
+- [Deprecating Atlassian account password for Git and Bitbucket API activity](https://bitbucket.org/blog/deprecating-atlassian-account-password-for-git-and-bitbucket-api-activity) (4 days ago)
 - [What DevOps means to devs](https://bitbucket.org/blog/devops-roundup) (1 week ago)
-- [How Statuspage deploys continuously with Bitbucket and Sleuth](https://bitbucket.org/blog/how-statuspage-deploys-continuously-with-bitbucket-and-sleuth) (4 weeks ago)
+- [How Statuspage deploys continuously with Bitbucket and Sleuth](https://bitbucket.org/blog/how-statuspage-deploys-continuously-with-bitbucket-and-sleuth) (1 month ago)
