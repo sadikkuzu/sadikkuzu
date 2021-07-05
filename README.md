@@ -19,14 +19,14 @@
 
 #### 🔻 [The Gradient](https://thegradient.pub)
 
-- [Prompting: Better Ways of Using Language Models for NLP Tasks](https://thegradient.pub/prompting/) (1 day ago)
+- [Prompting: Better Ways of Using Language Models for NLP Tasks](https://thegradient.pub/prompting/) (2 days ago)
 - [How to Do Multi-Task Learning Intelligently](https://thegradient.pub/how-to-do-multi-task-learning-intelligently/) (1 week ago)
 - [Are Self-Driving Cars Really Safer Than Human Drivers?](https://thegradient.pub/are-self-driving-cars-really-safer-than-human-drivers/) (3 weeks ago)
 
 
 #### 🔛 NATS
 
-- [NATS Java Client Latency Benchmarking](https://nats.io/blog/java-client-latency-benchmarking/) (1 week ago)
+- [NATS Java Client Latency Benchmarking](https://nats.io/blog/java-client-latency-benchmarking/) (2 weeks ago)
 - [JetStream Pull Consumers with the NATS.io Java Library](https://nats.io/blog/jetstream-java-client-05-pull-subscribe/) (3 weeks ago)
 - [JetStream Push Consumers with the NATS.io Java Library](https://nats.io/blog/jetstream-java-client-04-push-subscribe/) (1 month ago)
 
@@ -40,9 +40,9 @@
 
 #### 📢 Facebook
 
-- [Asicmon: A platform agnostic observability system for AI accelerators](https://engineering.fb.com/2021/06/28/data-center-engineering/asicmon/) (6 days ago)
-- [Driving towards an open internet ecosystem to help tackle the digital divide](https://engineering.fb.com/2021/06/28/connectivity/digital-divide/) (6 days ago)
-- [Consolidating Facebook storage infrastructure with Tectonic file system](https://engineering.fb.com/2021/06/21/data-infrastructure/tectonic-file-system/) (1 week ago)
+- [Asicmon: A platform agnostic observability system for AI accelerators](https://engineering.fb.com/2021/06/28/data-center-engineering/asicmon/) (1 week ago)
+- [Driving towards an open internet ecosystem to help tackle the digital divide](https://engineering.fb.com/2021/06/28/connectivity/digital-divide/) (1 week ago)
+- [Consolidating Facebook storage infrastructure with Tectonic file system](https://engineering.fb.com/2021/06/21/data-infrastructure/tectonic-file-system/) (2 weeks ago)
 
 
 #### ⛅ [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
@@ -50,6 +50,6 @@
 
 #### 🔍 Bitbucket
 
-- [Deprecating Atlassian account password for Git and Bitbucket API activity](https://bitbucket.org/blog/deprecating-atlassian-account-password-for-git-and-bitbucket-api-activity) (5 days ago)
+- [Deprecating Atlassian account password for Git and Bitbucket API activity](https://bitbucket.org/blog/deprecating-atlassian-account-password-for-git-and-bitbucket-api-activity) (6 days ago)
 - [What DevOps means to devs](https://bitbucket.org/blog/devops-roundup) (1 week ago)
 - [How Statuspage deploys continuously with Bitbucket and Sleuth](https://bitbucket.org/blog/how-statuspage-deploys-continuously-with-bitbucket-and-sleuth) (1 month ago)
