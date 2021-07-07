@@ -26,9 +26,9 @@
 
 #### 🔛 NATS
 
+- [Using OCSP Stapling with the NATS Java Library](https://nats.io/blog/java-ocsp-stapling/) (1 day ago)
 - [NATS Java Client Latency Benchmarking](https://nats.io/blog/java-client-latency-benchmarking/) (2 weeks ago)
 - [JetStream Pull Consumers with the NATS.io Java Library](https://nats.io/blog/jetstream-java-client-05-pull-subscribe/) (4 weeks ago)
-- [JetStream Push Consumers with the NATS.io Java Library](https://nats.io/blog/jetstream-java-client-04-push-subscribe/) (1 month ago)
 
 
 #### 📰 Stackoverflow blog
