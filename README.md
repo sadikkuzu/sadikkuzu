@@ -19,7 +19,7 @@
 
 #### 🔻 [The Gradient](https://thegradient.pub)
 
-- [Prompting: Better Ways of Using Language Models for NLP Tasks](https://thegradient.pub/prompting/) (3 days ago)
+- [Prompting: Better Ways of Using Language Models for NLP Tasks](https://thegradient.pub/prompting/) (4 days ago)
 - [How to Do Multi-Task Learning Intelligently](https://thegradient.pub/how-to-do-multi-task-learning-intelligently/) (2 weeks ago)
 - [Are Self-Driving Cars Really Safer Than Human Drivers?](https://thegradient.pub/are-self-driving-cars-really-safer-than-human-drivers/) (3 weeks ago)
 
