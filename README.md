@@ -50,6 +50,6 @@
 
 #### 🔍 Bitbucket
 
+- [Encountering some turbulence on Bitbucket’s journey to a new platform](https://bitbucket.org/blog/encountering-some-turbulence-on-bitbuckets-journey-to-a-new-platform) (today)
 - [Deprecating Atlassian account password for Git and Bitbucket API activity](https://bitbucket.org/blog/deprecating-atlassian-account-password-for-git-and-bitbucket-api-activity) (1 week ago)
 - [What DevOps means to devs](https://bitbucket.org/blog/devops-roundup) (2 weeks ago)
-- [How Statuspage deploys continuously with Bitbucket and Sleuth](https://bitbucket.org/blog/how-statuspage-deploys-continuously-with-bitbucket-and-sleuth) (1 month ago)
