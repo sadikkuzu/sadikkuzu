@@ -19,14 +19,14 @@
 
 #### 🔻 [The Gradient](https://thegradient.pub)
 
-- [Prompting: Better Ways of Using Language Models for NLP Tasks](https://thegradient.pub/prompting/) (5 days ago)
+- [Prompting: Better Ways of Using Language Models for NLP Tasks](https://thegradient.pub/prompting/) (6 days ago)
 - [How to Do Multi-Task Learning Intelligently](https://thegradient.pub/how-to-do-multi-task-learning-intelligently/) (2 weeks ago)
 - [Are Self-Driving Cars Really Safer Than Human Drivers?](https://thegradient.pub/are-self-driving-cars-really-safer-than-human-drivers/) (3 weeks ago)
 
 
 #### 🔛 NATS
 
-- [Using OCSP Stapling with the NATS Java Library](https://nats.io/blog/java-ocsp-stapling/) (2 days ago)
+- [Using OCSP Stapling with the NATS Java Library](https://nats.io/blog/java-ocsp-stapling/) (3 days ago)
 - [NATS Java Client Latency Benchmarking](https://nats.io/blog/java-client-latency-benchmarking/) (2 weeks ago)
 - [JetStream Pull Consumers with the NATS.io Java Library](https://nats.io/blog/jetstream-java-client-05-pull-subscribe/) (1 month ago)
 
@@ -50,6 +50,6 @@
 
 #### 🔍 Bitbucket
 
-- [Encountering some turbulence on Bitbucket’s journey to a new platform](https://bitbucket.org/blog/encountering-some-turbulence-on-bitbuckets-journey-to-a-new-platform) (today)
+- [Encountering some turbulence on Bitbucket’s journey to a new platform](https://bitbucket.org/blog/encountering-some-turbulence-on-bitbuckets-journey-to-a-new-platform) (1 day ago)
 - [Deprecating Atlassian account password for Git and Bitbucket API activity](https://bitbucket.org/blog/deprecating-atlassian-account-password-for-git-and-bitbucket-api-activity) (1 week ago)
 - [What DevOps means to devs](https://bitbucket.org/blog/devops-roundup) (2 weeks ago)
