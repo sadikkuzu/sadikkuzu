@@ -21,12 +21,12 @@
 
 - [Prompting: Better Ways of Using Language Models for NLP Tasks](https://thegradient.pub/prompting/) (1 week ago)
 - [How to Do Multi-Task Learning Intelligently](https://thegradient.pub/how-to-do-multi-task-learning-intelligently/) (2 weeks ago)
-- [Are Self-Driving Cars Really Safer Than Human Drivers?](https://thegradient.pub/are-self-driving-cars-really-safer-than-human-drivers/) (3 weeks ago)
+- [Are Self-Driving Cars Really Safer Than Human Drivers?](https://thegradient.pub/are-self-driving-cars-really-safer-than-human-drivers/) (4 weeks ago)
 
 
 #### 🔛 NATS
 
-- [Using OCSP Stapling with the NATS Java Library](https://nats.io/blog/java-ocsp-stapling/) (4 days ago)
+- [Using OCSP Stapling with the NATS Java Library](https://nats.io/blog/java-ocsp-stapling/) (5 days ago)
 - [NATS Java Client Latency Benchmarking](https://nats.io/blog/java-client-latency-benchmarking/) (2 weeks ago)
 - [JetStream Pull Consumers with the NATS.io Java Library](https://nats.io/blog/jetstream-java-client-05-pull-subscribe/) (1 month ago)
 
@@ -40,7 +40,7 @@
 
 #### 📢 Facebook
 
-- [Ribbon filter: Practically smaller than Bloom and Xor](https://engineering.fb.com/2021/07/09/data-infrastructure/ribbon-filter/) (1 day ago)
+- [Ribbon filter: Practically smaller than Bloom and Xor](https://engineering.fb.com/2021/07/09/data-infrastructure/ribbon-filter/) (2 days ago)
 - [Asicmon: A platform agnostic observability system for AI accelerators](https://engineering.fb.com/2021/06/28/data-center-engineering/asicmon/) (1 week ago)
 - [Driving towards an open internet ecosystem to help tackle the digital divide](https://engineering.fb.com/2021/06/28/connectivity/digital-divide/) (1 week ago)
 
@@ -50,6 +50,6 @@
 
 #### 🔍 Bitbucket
 
-- [Encountering some turbulence on Bitbucket’s journey to a new platform](https://bitbucket.org/blog/encountering-some-turbulence-on-bitbuckets-journey-to-a-new-platform) (2 days ago)
+- [Encountering some turbulence on Bitbucket’s journey to a new platform](https://bitbucket.org/blog/encountering-some-turbulence-on-bitbuckets-journey-to-a-new-platform) (3 days ago)
 - [Deprecating Atlassian account password for Git and Bitbucket API activity](https://bitbucket.org/blog/deprecating-atlassian-account-password-for-git-and-bitbucket-api-activity) (1 week ago)
 - [What DevOps means to devs](https://bitbucket.org/blog/devops-roundup) (2 weeks ago)
