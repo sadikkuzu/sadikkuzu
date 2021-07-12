@@ -26,8 +26,8 @@
 
 #### 🔛 NATS
 
-- [Using OCSP Stapling with the NATS Java Library](https://nats.io/blog/java-ocsp-stapling/) (5 days ago)
-- [NATS Java Client Latency Benchmarking](https://nats.io/blog/java-client-latency-benchmarking/) (2 weeks ago)
+- [Using OCSP Stapling with the NATS Java Library](https://nats.io/blog/java-ocsp-stapling/) (6 days ago)
+- [NATS Java Client Latency Benchmarking](https://nats.io/blog/java-client-latency-benchmarking/) (3 weeks ago)
 - [JetStream Pull Consumers with the NATS.io Java Library](https://nats.io/blog/jetstream-java-client-05-pull-subscribe/) (1 month ago)
 
 
@@ -40,9 +40,9 @@
 
 #### 📢 Facebook
 
-- [Ribbon filter: Practically smaller than Bloom and Xor](https://engineering.fb.com/2021/07/09/data-infrastructure/ribbon-filter/) (2 days ago)
-- [Asicmon: A platform agnostic observability system for AI accelerators](https://engineering.fb.com/2021/06/28/data-center-engineering/asicmon/) (1 week ago)
-- [Driving towards an open internet ecosystem to help tackle the digital divide](https://engineering.fb.com/2021/06/28/connectivity/digital-divide/) (1 week ago)
+- [Ribbon filter: Practically smaller than Bloom and Xor](https://engineering.fb.com/2021/07/09/data-infrastructure/ribbon-filter/) (3 days ago)
+- [Asicmon: A platform agnostic observability system for AI accelerators](https://engineering.fb.com/2021/06/28/data-center-engineering/asicmon/) (2 weeks ago)
+- [Driving towards an open internet ecosystem to help tackle the digital divide](https://engineering.fb.com/2021/06/28/connectivity/digital-divide/) (2 weeks ago)
 
 
 #### ⛅ [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
@@ -50,6 +50,6 @@
 
 #### 🔍 Bitbucket
 
-- [Encountering some turbulence on Bitbucket’s journey to a new platform](https://bitbucket.org/blog/encountering-some-turbulence-on-bitbuckets-journey-to-a-new-platform) (3 days ago)
+- [Encountering some turbulence on Bitbucket’s journey to a new platform](https://bitbucket.org/blog/encountering-some-turbulence-on-bitbuckets-journey-to-a-new-platform) (4 days ago)
 - [Deprecating Atlassian account password for Git and Bitbucket API activity](https://bitbucket.org/blog/deprecating-atlassian-account-password-for-git-and-bitbucket-api-activity) (1 week ago)
 - [What DevOps means to devs](https://bitbucket.org/blog/devops-roundup) (2 weeks ago)
