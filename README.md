@@ -40,9 +40,9 @@
 
 #### 📢 Facebook
 
+- [Enforcing encryption at scale](https://engineering.fb.com/2021/07/12/security/enforcing-encryption/) (today)
 - [Ribbon filter: Practically smaller than Bloom and Xor](https://engineering.fb.com/2021/07/09/data-infrastructure/ribbon-filter/) (3 days ago)
 - [Asicmon: A platform agnostic observability system for AI accelerators](https://engineering.fb.com/2021/06/28/data-center-engineering/asicmon/) (2 weeks ago)
-- [Driving towards an open internet ecosystem to help tackle the digital divide](https://engineering.fb.com/2021/06/28/connectivity/digital-divide/) (2 weeks ago)
 
 
 #### ⛅ [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
