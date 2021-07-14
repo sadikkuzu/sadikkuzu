@@ -40,8 +40,8 @@
 
 #### 📢 Facebook
 
-- [Enforcing encryption at scale](https://engineering.fb.com/2021/07/12/security/enforcing-encryption/) (1 day ago)
-- [Ribbon filter: Practically smaller than Bloom and Xor](https://engineering.fb.com/2021/07/09/data-infrastructure/ribbon-filter/) (4 days ago)
+- [Enforcing encryption at scale](https://engineering.fb.com/2021/07/12/security/enforcing-encryption/) (2 days ago)
+- [Ribbon filter: Practically smaller than Bloom and Xor](https://engineering.fb.com/2021/07/09/data-infrastructure/ribbon-filter/) (5 days ago)
 - [Asicmon: A platform agnostic observability system for AI accelerators](https://engineering.fb.com/2021/06/28/data-center-engineering/asicmon/) (2 weeks ago)
 
 
@@ -50,6 +50,6 @@
 
 #### 🔍 Bitbucket
 
-- [Encountering some turbulence on Bitbucket’s journey to a new platform](https://bitbucket.org/blog/encountering-some-turbulence-on-bitbuckets-journey-to-a-new-platform) (5 days ago)
+- [Encountering some turbulence on Bitbucket’s journey to a new platform](https://bitbucket.org/blog/encountering-some-turbulence-on-bitbuckets-journey-to-a-new-platform) (6 days ago)
 - [Deprecating Atlassian account password for Git and Bitbucket API activity](https://bitbucket.org/blog/deprecating-atlassian-account-password-for-git-and-bitbucket-api-activity) (2 weeks ago)
 - [What DevOps means to devs](https://bitbucket.org/blog/devops-roundup) (2 weeks ago)
