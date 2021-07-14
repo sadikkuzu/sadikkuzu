@@ -11,10 +11,10 @@
 #### 🔭 Check out my recent followers
 
 - [ [UsernameUsernameUsern](https://github.com/UsernameUsernameUsern)  ]
-- [ [JustNikhill](https://github.com/JustNikhill) Nikhil Yadav ]
 - [ [Novusvetus](https://github.com/Novusvetus) Novusvetus / Marcel Rudolf ]
 - [ [halisakbal1](https://github.com/halisakbal1) Halis AKBAL ]
 - [ [imsomedev](https://github.com/imsomedev) SomeDev ]
+- [ [hirooutdoor](https://github.com/hirooutdoor) hiro ]
 
 
 #### 🔻 [The Gradient](https://thegradient.pub)
