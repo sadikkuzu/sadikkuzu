@@ -40,9 +40,9 @@
 
 #### 📢 Facebook
 
+- [How WhatsApp enables multi-device capability](https://engineering.fb.com/2021/07/14/security/whatsapp-multi-device/) (today)
 - [Enforcing encryption at scale](https://engineering.fb.com/2021/07/12/security/enforcing-encryption/) (2 days ago)
 - [Ribbon filter: Practically smaller than Bloom and Xor](https://engineering.fb.com/2021/07/09/data-infrastructure/ribbon-filter/) (5 days ago)
-- [Asicmon: A platform agnostic observability system for AI accelerators](https://engineering.fb.com/2021/06/28/data-center-engineering/asicmon/) (2 weeks ago)
 
 
 #### ⛅ [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
