@@ -40,9 +40,9 @@
 
 #### 📢 Facebook
 
-- [How WhatsApp enables multi-device capability](https://engineering.fb.com/2021/07/14/security/whatsapp-multi-device/) (today)
-- [Enforcing encryption at scale](https://engineering.fb.com/2021/07/12/security/enforcing-encryption/) (2 days ago)
-- [Ribbon filter: Practically smaller than Bloom and Xor](https://engineering.fb.com/2021/07/09/data-infrastructure/ribbon-filter/) (5 days ago)
+- [How WhatsApp enables multi-device capability](https://engineering.fb.com/2021/07/14/security/whatsapp-multi-device/) (1 day ago)
+- [Enforcing encryption at scale](https://engineering.fb.com/2021/07/12/security/enforcing-encryption/) (3 days ago)
+- [Ribbon filter: Practically smaller than Bloom and Xor](https://engineering.fb.com/2021/07/09/data-infrastructure/ribbon-filter/) (6 days ago)
 
 
 #### ⛅ [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
@@ -50,6 +50,6 @@
 
 #### 🔍 Bitbucket
 
-- [Encountering some turbulence on Bitbucket’s journey to a new platform](https://bitbucket.org/blog/encountering-some-turbulence-on-bitbuckets-journey-to-a-new-platform) (6 days ago)
+- [Encountering some turbulence on Bitbucket’s journey to a new platform](https://bitbucket.org/blog/encountering-some-turbulence-on-bitbuckets-journey-to-a-new-platform) (1 week ago)
 - [Deprecating Atlassian account password for Git and Bitbucket API activity](https://bitbucket.org/blog/deprecating-atlassian-account-password-for-git-and-bitbucket-api-activity) (2 weeks ago)
-- [What DevOps means to devs](https://bitbucket.org/blog/devops-roundup) (2 weeks ago)
+- [What DevOps means to devs](https://bitbucket.org/blog/devops-roundup) (3 weeks ago)
