@@ -26,7 +26,7 @@
 
 #### 🔛 NATS
 
-- [JetStream for Key-Value Store Tech Preview](https://nats.io/blog/kv-cli/) (today)
+- [JetStream for Key-Value Store Tech Preview](https://nats.io/blog/kv-cli/) (1 day ago)
 - [Using OCSP Stapling with the NATS Java Library](https://nats.io/blog/java-ocsp-stapling/) (1 week ago)
 - [NATS Java Client Latency Benchmarking](https://nats.io/blog/java-client-latency-benchmarking/) (3 weeks ago)
 
@@ -40,9 +40,9 @@
 
 #### 📢 Facebook
 
-- [Fully Sharded Data Parallel: faster AI training with fewer GPUs](https://engineering.fb.com/2021/07/15/open-source/fsdp/) (today)
-- [How WhatsApp enables multi-device capability](https://engineering.fb.com/2021/07/14/security/whatsapp-multi-device/) (1 day ago)
-- [Enforcing encryption at scale](https://engineering.fb.com/2021/07/12/security/enforcing-encryption/) (3 days ago)
+- [Fully Sharded Data Parallel: faster AI training with fewer GPUs](https://engineering.fb.com/2021/07/15/open-source/fsdp/) (1 day ago)
+- [How WhatsApp enables multi-device capability](https://engineering.fb.com/2021/07/14/security/whatsapp-multi-device/) (2 days ago)
+- [Enforcing encryption at scale](https://engineering.fb.com/2021/07/12/security/enforcing-encryption/) (4 days ago)
 
 
 #### ⛅ [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
