@@ -19,9 +19,9 @@
 
 #### 🔻 [The Gradient](https://thegradient.pub)
 
+- [Justitia ex Machina: The Case for Automating Morals](https://thegradient.pub/justitia-ex-machina/) (today)
 - [Prompting: Better Ways of Using Language Models for NLP Tasks](https://thegradient.pub/prompting/) (2 weeks ago)
 - [How to Do Multi-Task Learning Intelligently](https://thegradient.pub/how-to-do-multi-task-learning-intelligently/) (3 weeks ago)
-- [Are Self-Driving Cars Really Safer Than Human Drivers?](https://thegradient.pub/are-self-driving-cars-really-safer-than-human-drivers/) (1 month ago)
 
 
 #### 🔛 NATS
