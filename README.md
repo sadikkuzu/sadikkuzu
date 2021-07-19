@@ -19,16 +19,16 @@
 
 #### 🔻 [The Gradient](https://thegradient.pub)
 
-- [Justitia ex Machina: The Case for Automating Morals](https://thegradient.pub/justitia-ex-machina/) (1 day ago)
+- [Justitia ex Machina: The Case for Automating Morals](https://thegradient.pub/justitia-ex-machina/) (2 days ago)
 - [Prompting: Better Ways of Using Language Models for NLP Tasks](https://thegradient.pub/prompting/) (2 weeks ago)
 - [How to Do Multi-Task Learning Intelligently](https://thegradient.pub/how-to-do-multi-task-learning-intelligently/) (3 weeks ago)
 
 
 #### 🔛 NATS
 
-- [JetStream for Key-Value Store Tech Preview](https://nats.io/blog/kv-cli/) (3 days ago)
+- [JetStream for Key-Value Store Tech Preview](https://nats.io/blog/kv-cli/) (4 days ago)
 - [Using OCSP Stapling with the NATS Java Library](https://nats.io/blog/java-ocsp-stapling/) (1 week ago)
-- [NATS Java Client Latency Benchmarking](https://nats.io/blog/java-client-latency-benchmarking/) (3 weeks ago)
+- [NATS Java Client Latency Benchmarking](https://nats.io/blog/java-client-latency-benchmarking/) (4 weeks ago)
 
 
 #### 📰 Stackoverflow blog
@@ -40,9 +40,9 @@
 
 #### 📢 Facebook
 
-- [Fully Sharded Data Parallel: faster AI training with fewer GPUs](https://engineering.fb.com/2021/07/15/open-source/fsdp/) (3 days ago)
-- [How WhatsApp enables multi-device capability](https://engineering.fb.com/2021/07/14/security/whatsapp-multi-device/) (4 days ago)
-- [Enforcing encryption at scale](https://engineering.fb.com/2021/07/12/security/enforcing-encryption/) (6 days ago)
+- [Fully Sharded Data Parallel: faster AI training with fewer GPUs](https://engineering.fb.com/2021/07/15/open-source/fsdp/) (4 days ago)
+- [How WhatsApp enables multi-device capability](https://engineering.fb.com/2021/07/14/security/whatsapp-multi-device/) (5 days ago)
+- [Enforcing encryption at scale](https://engineering.fb.com/2021/07/12/security/enforcing-encryption/) (1 week ago)
 
 
 #### ⛅ [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
