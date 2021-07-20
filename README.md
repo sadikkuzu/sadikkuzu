@@ -26,9 +26,9 @@
 
 #### 🔛 NATS
 
+- [NATS JetStream Deduplication for LinuxForHealth Blockchain Smart Contract Messaging](https://nats.io/blog/nats-jetstream-deduplication-for-lfh/) (1 day ago)
 - [JetStream for Key-Value Store Tech Preview](https://nats.io/blog/kv-cli/) (5 days ago)
 - [Using OCSP Stapling with the NATS Java Library](https://nats.io/blog/java-ocsp-stapling/) (2 weeks ago)
-- [NATS Java Client Latency Benchmarking](https://nats.io/blog/java-client-latency-benchmarking/) (4 weeks ago)
 
 
 #### 📰 Stackoverflow blog
