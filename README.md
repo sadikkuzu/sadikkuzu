@@ -19,9 +19,9 @@
 
 #### 🔻 [The Gradient](https://thegradient.pub)
 
+- [It’s All Training Data: Using Lessons from Machine Learning to Retrain Your Mind](https://thegradient.pub/its-all-training-data/) (today)
 - [Justitia ex Machina: The Case for Automating Morals](https://thegradient.pub/justitia-ex-machina/) (5 days ago)
 - [Prompting: Better Ways of Using Language Models for NLP Tasks](https://thegradient.pub/prompting/) (2 weeks ago)
-- [How to Do Multi-Task Learning Intelligently](https://thegradient.pub/how-to-do-multi-task-learning-intelligently/) (1 month ago)
 
 
 #### 🔛 NATS
@@ -40,9 +40,9 @@
 
 #### 📢 Facebook
 
+- [Migrating Facebook to MySQL 8.0](https://engineering.fb.com/2021/07/22/data-infrastructure/mysql/) (today)
 - [Fully Sharded Data Parallel: faster AI training with fewer GPUs](https://engineering.fb.com/2021/07/15/open-source/fsdp/) (1 week ago)
 - [How WhatsApp enables multi-device capability](https://engineering.fb.com/2021/07/14/security/whatsapp-multi-device/) (1 week ago)
-- [Enforcing encryption at scale](https://engineering.fb.com/2021/07/12/security/enforcing-encryption/) (1 week ago)
 
 
 #### ⛅ [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
