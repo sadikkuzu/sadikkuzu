@@ -19,14 +19,14 @@
 
 #### 🔻 [The Gradient](https://thegradient.pub)
 
-- [It’s All Training Data: Using Lessons from Machine Learning to Retrain Your Mind](https://thegradient.pub/its-all-training-data/) (1 day ago)
-- [Justitia ex Machina: The Case for Automating Morals](https://thegradient.pub/justitia-ex-machina/) (6 days ago)
-- [Prompting: Better Ways of Using Language Models for NLP Tasks](https://thegradient.pub/prompting/) (2 weeks ago)
+- [It’s All Training Data: Using Lessons from Machine Learning to Retrain Your Mind](https://thegradient.pub/its-all-training-data/) (2 days ago)
+- [Justitia ex Machina: The Case for Automating Morals](https://thegradient.pub/justitia-ex-machina/) (1 week ago)
+- [Prompting: Better Ways of Using Language Models for NLP Tasks](https://thegradient.pub/prompting/) (3 weeks ago)
 
 
 #### 🔛 NATS
 
-- [NATS JetStream Deduplication for LinuxForHealth Blockchain Smart Contract Messaging](https://nats.io/blog/nats-jetstream-deduplication-for-lfh/) (4 days ago)
+- [NATS JetStream Deduplication for LinuxForHealth Blockchain Smart Contract Messaging](https://nats.io/blog/nats-jetstream-deduplication-for-lfh/) (5 days ago)
 - [JetStream for Key-Value Store Tech Preview](https://nats.io/blog/kv-cli/) (1 week ago)
 - [Using OCSP Stapling with the NATS Java Library](https://nats.io/blog/java-ocsp-stapling/) (2 weeks ago)
 
@@ -40,7 +40,7 @@
 
 #### 📢 Facebook
 
-- [Migrating Facebook to MySQL 8.0](https://engineering.fb.com/2021/07/22/data-infrastructure/mysql/) (1 day ago)
+- [Migrating Facebook to MySQL 8.0](https://engineering.fb.com/2021/07/22/data-infrastructure/mysql/) (2 days ago)
 - [Fully Sharded Data Parallel: faster AI training with fewer GPUs](https://engineering.fb.com/2021/07/15/open-source/fsdp/) (1 week ago)
 - [How WhatsApp enables multi-device capability](https://engineering.fb.com/2021/07/14/security/whatsapp-multi-device/) (1 week ago)
 
@@ -50,6 +50,6 @@
 
 #### 🔍 Bitbucket
 
-- [Changes to Bitbucket Pipelines due to crypto mining abuse](https://bitbucket.org/blog/changes-to-bitbucket-pipelines-due-to-crypto-mining-abuse) (4 days ago)
+- [Changes to Bitbucket Pipelines due to crypto mining abuse](https://bitbucket.org/blog/changes-to-bitbucket-pipelines-due-to-crypto-mining-abuse) (5 days ago)
 - [Encountering some turbulence on Bitbucket’s journey to a new platform](https://bitbucket.org/blog/encountering-some-turbulence-on-bitbuckets-journey-to-a-new-platform) (2 weeks ago)
 - [Deprecating Atlassian account password for Git and Bitbucket API activity](https://bitbucket.org/blog/deprecating-atlassian-account-password-for-git-and-bitbucket-api-activity) (3 weeks ago)
