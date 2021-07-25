@@ -10,8 +10,8 @@
 
 #### 🔭 Check out my recent followers
 
-- [ [nimiology](https://github.com/nimiology) Nima ]
 - [ [Novusvetus](https://github.com/Novusvetus) Novusvetus / Marcel Rudolf ]
+- [ [nimiology](https://github.com/nimiology) Nima ]
 - [ [halisakbal1](https://github.com/halisakbal1) Halis AKBAL ]
 - [ [imsomedev](https://github.com/imsomedev) SomeDev ]
 - [ [hirooutdoor](https://github.com/hirooutdoor) hiro ]
