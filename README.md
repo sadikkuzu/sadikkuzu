@@ -26,9 +26,9 @@
 
 #### 🔛 NATS
 
+- [NATS.io .NET C# Client Library JetStream Pre-Release](https://nats.io/blog/jetstream-dotnet-pre-release/) (today)
 - [NATS JetStream Deduplication for LinuxForHealth Blockchain Smart Contract Messaging](https://nats.io/blog/nats-jetstream-deduplication-for-lfh/) (1 week ago)
 - [JetStream for Key-Value Store Tech Preview](https://nats.io/blog/kv-cli/) (1 week ago)
-- [Using OCSP Stapling with the NATS Java Library](https://nats.io/blog/java-ocsp-stapling/) (2 weeks ago)
 
 
 #### 📰 Stackoverflow blog
