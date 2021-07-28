@@ -19,14 +19,14 @@
 
 #### 🔻 [The Gradient](https://thegradient.pub)
 
-- [It’s All Training Data: Using Lessons from Machine Learning to Retrain Your Mind](https://thegradient.pub/its-all-training-data/) (5 days ago)
+- [It’s All Training Data: Using Lessons from Machine Learning to Retrain Your Mind](https://thegradient.pub/its-all-training-data/) (6 days ago)
 - [Justitia ex Machina: The Case for Automating Morals](https://thegradient.pub/justitia-ex-machina/) (1 week ago)
 - [Prompting: Better Ways of Using Language Models for NLP Tasks](https://thegradient.pub/prompting/) (3 weeks ago)
 
 
 #### 🔛 NATS
 
-- [NATS.io .NET C# Client Library JetStream Pre-Release](https://nats.io/blog/jetstream-dotnet-pre-release/) (1 day ago)
+- [NATS.io .NET C# Client Library JetStream Pre-Release](https://nats.io/blog/jetstream-dotnet-pre-release/) (2 days ago)
 - [NATS JetStream Deduplication for LinuxForHealth Blockchain Smart Contract Messaging](https://nats.io/blog/nats-jetstream-deduplication-for-lfh/) (1 week ago)
 - [JetStream for Key-Value Store Tech Preview](https://nats.io/blog/kv-cli/) (1 week ago)
 
@@ -40,9 +40,9 @@
 
 #### 📢 Facebook
 
-- [Migrating Facebook to MySQL 8.0](https://engineering.fb.com/2021/07/22/data-infrastructure/mysql/) (5 days ago)
+- [Migrating Facebook to MySQL 8.0](https://engineering.fb.com/2021/07/22/data-infrastructure/mysql/) (6 days ago)
 - [Fully Sharded Data Parallel: faster AI training with fewer GPUs](https://engineering.fb.com/2021/07/15/open-source/fsdp/) (1 week ago)
-- [How WhatsApp enables multi-device capability](https://engineering.fb.com/2021/07/14/security/whatsapp-multi-device/) (1 week ago)
+- [How WhatsApp enables multi-device capability](https://engineering.fb.com/2021/07/14/security/whatsapp-multi-device/) (2 weeks ago)
 
 
 #### ⛅ [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
