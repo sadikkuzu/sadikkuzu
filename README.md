@@ -40,9 +40,9 @@
 
 #### 📢 Facebook
 
+- [A linear programming approach for optimizing features in ML models](https://engineering.fb.com/2021/07/29/data-infrastructure/linear-programming/) (today)
 - [Migrating Facebook to MySQL 8.0](https://engineering.fb.com/2021/07/22/data-infrastructure/mysql/) (1 week ago)
 - [Fully Sharded Data Parallel: faster AI training with fewer GPUs](https://engineering.fb.com/2021/07/15/open-source/fsdp/) (2 weeks ago)
-- [How WhatsApp enables multi-device capability](https://engineering.fb.com/2021/07/14/security/whatsapp-multi-device/) (2 weeks ago)
 
 
 #### ⛅ [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
