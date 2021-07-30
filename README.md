@@ -10,11 +10,11 @@
 
 #### 🔭 Check out my recent followers
 
-- [ [Mariuskv02](https://github.com/Mariuskv02)  ]
 - [ [AlvaroIsrael](https://github.com/AlvaroIsrael) Alvaro Israel Nunes Leite ]
 - [ [Novusvetus](https://github.com/Novusvetus) Novusvetus / Marcel Rudolf ]
 - [ [halisakbal1](https://github.com/halisakbal1) Halis AKBAL ]
 - [ [imsomedev](https://github.com/imsomedev) SomeDev ]
+- [ [hirooutdoor](https://github.com/hirooutdoor) hiro ]
 
 
 #### 🔻 [The Gradient](https://thegradient.pub)
