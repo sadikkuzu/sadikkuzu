@@ -19,9 +19,9 @@
 
 #### 🔻 [The Gradient](https://thegradient.pub)
 
+- [Machine Translation Shifts Power](https://thegradient.pub/machine-translation-shifts-power/) (today)
 - [It’s All Training Data: Using Lessons from Machine Learning to Retrain Your Mind](https://thegradient.pub/its-all-training-data/) (1 week ago)
 - [Justitia ex Machina: The Case for Automating Morals](https://thegradient.pub/justitia-ex-machina/) (2 weeks ago)
-- [Prompting: Better Ways of Using Language Models for NLP Tasks](https://thegradient.pub/prompting/) (4 weeks ago)
 
 
 #### 🔛 NATS
