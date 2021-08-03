@@ -19,7 +19,7 @@
 
 #### 🔻 [The Gradient](https://thegradient.pub)
 
-- [Machine Translation Shifts Power](https://thegradient.pub/machine-translation-shifts-power/) (2 days ago)
+- [Machine Translation Shifts Power](https://thegradient.pub/machine-translation-shifts-power/) (3 days ago)
 - [It’s All Training Data: Using Lessons from Machine Learning to Retrain Your Mind](https://thegradient.pub/its-all-training-data/) (1 week ago)
 - [Justitia ex Machina: The Case for Automating Morals](https://thegradient.pub/justitia-ex-machina/) (2 weeks ago)
 
@@ -40,7 +40,7 @@
 
 #### 📢 Facebook
 
-- [A linear programming approach for optimizing features in ML models](https://engineering.fb.com/2021/07/29/data-infrastructure/linear-programming/) (4 days ago)
+- [A linear programming approach for optimizing features in ML models](https://engineering.fb.com/2021/07/29/data-infrastructure/linear-programming/) (5 days ago)
 - [Migrating Facebook to MySQL 8.0](https://engineering.fb.com/2021/07/22/data-infrastructure/mysql/) (1 week ago)
 - [Fully Sharded Data Parallel: faster AI training with fewer GPUs](https://engineering.fb.com/2021/07/15/open-source/fsdp/) (2 weeks ago)
 
