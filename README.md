@@ -19,7 +19,7 @@
 
 #### 🔻 [The Gradient](https://thegradient.pub)
 
-- [Machine Translation Shifts Power](https://thegradient.pub/machine-translation-shifts-power/) (5 days ago)
+- [Machine Translation Shifts Power](https://thegradient.pub/machine-translation-shifts-power/) (6 days ago)
 - [It’s All Training Data: Using Lessons from Machine Learning to Retrain Your Mind](https://thegradient.pub/its-all-training-data/) (2 weeks ago)
 - [Justitia ex Machina: The Case for Automating Morals](https://thegradient.pub/justitia-ex-machina/) (2 weeks ago)
 
@@ -40,7 +40,7 @@
 
 #### 📢 Facebook
 
-- [Open sourcing Winterfell: A STARK prover and verifier](https://engineering.fb.com/2021/08/04/open-source/winterfell/) (1 day ago)
+- [Open sourcing Winterfell: A STARK prover and verifier](https://engineering.fb.com/2021/08/04/open-source/winterfell/) (2 days ago)
 - [A linear programming approach for optimizing features in ML models](https://engineering.fb.com/2021/07/29/data-infrastructure/linear-programming/) (1 week ago)
 - [Migrating Facebook to MySQL 8.0](https://engineering.fb.com/2021/07/22/data-infrastructure/mysql/) (2 weeks ago)
 
