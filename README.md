@@ -19,9 +19,9 @@
 
 #### 🔻 [The Gradient](https://thegradient.pub)
 
-- [Machine Translation Shifts Power](https://thegradient.pub/machine-translation-shifts-power/) (6 days ago)
+- [Machine Translation Shifts Power](https://thegradient.pub/machine-translation-shifts-power/) (1 week ago)
 - [It’s All Training Data: Using Lessons from Machine Learning to Retrain Your Mind](https://thegradient.pub/its-all-training-data/) (2 weeks ago)
-- [Justitia ex Machina: The Case for Automating Morals](https://thegradient.pub/justitia-ex-machina/) (2 weeks ago)
+- [Justitia ex Machina: The Case for Automating Morals](https://thegradient.pub/justitia-ex-machina/) (3 weeks ago)
 
 
 #### 🔛 NATS
@@ -40,8 +40,8 @@
 
 #### 📢 Facebook
 
-- [How we built a general purpose key value store for Facebook with ZippyDB](https://engineering.fb.com/2021/08/06/core-data/zippydb/) (today)
-- [Open sourcing Winterfell: A STARK prover and verifier](https://engineering.fb.com/2021/08/04/open-source/winterfell/) (2 days ago)
+- [How we built a general purpose key value store for Facebook with ZippyDB](https://engineering.fb.com/2021/08/06/core-data/zippydb/) (1 day ago)
+- [Open sourcing Winterfell: A STARK prover and verifier](https://engineering.fb.com/2021/08/04/open-source/winterfell/) (3 days ago)
 - [A linear programming approach for optimizing features in ML models](https://engineering.fb.com/2021/07/29/data-infrastructure/linear-programming/) (1 week ago)
 
 
@@ -51,5 +51,5 @@
 #### 🔍 Bitbucket
 
 - [Changes to Bitbucket Pipelines due to crypto mining abuse](https://bitbucket.org/blog/changes-to-bitbucket-pipelines-due-to-crypto-mining-abuse) (2 weeks ago)
-- [Encountering some turbulence on Bitbucket’s journey to a new platform](https://bitbucket.org/blog/encountering-some-turbulence-on-bitbuckets-journey-to-a-new-platform) (4 weeks ago)
+- [Encountering some turbulence on Bitbucket’s journey to a new platform](https://bitbucket.org/blog/encountering-some-turbulence-on-bitbuckets-journey-to-a-new-platform) (1 month ago)
 - [Deprecating Atlassian account password for Git and Bitbucket API activity](https://bitbucket.org/blog/deprecating-atlassian-account-password-for-git-and-bitbucket-api-activity) (1 month ago)
