@@ -19,9 +19,9 @@
 
 #### 🔻 [The Gradient](https://thegradient.pub)
 
+- [Machine Learning Won&#39;t Solve Natural Language Understanding](https://thegradient.pub/machine-learning-wont-solve-the-natural-language-understanding-challenge/) (today)
 - [Machine Translation Shifts Power](https://thegradient.pub/machine-translation-shifts-power/) (1 week ago)
 - [It’s All Training Data: Using Lessons from Machine Learning to Retrain Your Mind](https://thegradient.pub/its-all-training-data/) (2 weeks ago)
-- [Justitia ex Machina: The Case for Automating Morals](https://thegradient.pub/justitia-ex-machina/) (3 weeks ago)
 
 
 #### 🔛 NATS
