@@ -19,7 +19,7 @@
 
 #### 🔻 [The Gradient](https://thegradient.pub)
 
-- [Machine Learning Won&#39;t Solve Natural Language Understanding](https://thegradient.pub/machine-learning-wont-solve-the-natural-language-understanding-challenge/) (today)
+- [Machine Learning Won&#39;t Solve Natural Language Understanding](https://thegradient.pub/machine-learning-wont-solve-the-natural-language-understanding-challenge/) (1 day ago)
 - [Machine Translation Shifts Power](https://thegradient.pub/machine-translation-shifts-power/) (1 week ago)
 - [It’s All Training Data: Using Lessons from Machine Learning to Retrain Your Mind](https://thegradient.pub/its-all-training-data/) (2 weeks ago)
 
@@ -40,8 +40,8 @@
 
 #### 📢 Facebook
 
-- [How we built a general purpose key value store for Facebook with ZippyDB](https://engineering.fb.com/2021/08/06/core-data/zippydb/) (1 day ago)
-- [Open sourcing Winterfell: A STARK prover and verifier](https://engineering.fb.com/2021/08/04/open-source/winterfell/) (3 days ago)
+- [How we built a general purpose key value store for Facebook with ZippyDB](https://engineering.fb.com/2021/08/06/core-data/zippydb/) (2 days ago)
+- [Open sourcing Winterfell: A STARK prover and verifier](https://engineering.fb.com/2021/08/04/open-source/winterfell/) (4 days ago)
 - [A linear programming approach for optimizing features in ML models](https://engineering.fb.com/2021/07/29/data-infrastructure/linear-programming/) (1 week ago)
 
 
