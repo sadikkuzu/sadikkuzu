@@ -19,15 +19,15 @@
 
 #### 🔻 [The Gradient](https://thegradient.pub)
 
-- [Machine Learning Won&#39;t Solve Natural Language Understanding](https://thegradient.pub/machine-learning-wont-solve-the-natural-language-understanding-challenge/) (1 day ago)
+- [Machine Learning Won&#39;t Solve Natural Language Understanding](https://thegradient.pub/machine-learning-wont-solve-the-natural-language-understanding-challenge/) (2 days ago)
 - [Machine Translation Shifts Power](https://thegradient.pub/machine-translation-shifts-power/) (1 week ago)
 - [It’s All Training Data: Using Lessons from Machine Learning to Retrain Your Mind](https://thegradient.pub/its-all-training-data/) (2 weeks ago)
 
 
 #### 🔛 NATS
 
-- [NATS.io .NET C# Client Library JetStream Pre-Release](https://nats.io/blog/jetstream-dotnet-pre-release/) (1 week ago)
-- [NATS JetStream Deduplication for LinuxForHealth Blockchain Smart Contract Messaging](https://nats.io/blog/nats-jetstream-deduplication-for-lfh/) (2 weeks ago)
+- [NATS.io .NET C# Client Library JetStream Pre-Release](https://nats.io/blog/jetstream-dotnet-pre-release/) (2 weeks ago)
+- [NATS JetStream Deduplication for LinuxForHealth Blockchain Smart Contract Messaging](https://nats.io/blog/nats-jetstream-deduplication-for-lfh/) (3 weeks ago)
 - [JetStream for Key-Value Store Tech Preview](https://nats.io/blog/kv-cli/) (3 weeks ago)
 
 
@@ -40,8 +40,8 @@
 
 #### 📢 Facebook
 
-- [How we built a general purpose key value store for Facebook with ZippyDB](https://engineering.fb.com/2021/08/06/core-data/zippydb/) (2 days ago)
-- [Open sourcing Winterfell: A STARK prover and verifier](https://engineering.fb.com/2021/08/04/open-source/winterfell/) (4 days ago)
+- [How we built a general purpose key value store for Facebook with ZippyDB](https://engineering.fb.com/2021/08/06/core-data/zippydb/) (3 days ago)
+- [Open sourcing Winterfell: A STARK prover and verifier](https://engineering.fb.com/2021/08/04/open-source/winterfell/) (5 days ago)
 - [A linear programming approach for optimizing features in ML models](https://engineering.fb.com/2021/07/29/data-infrastructure/linear-programming/) (1 week ago)
 
 
@@ -50,6 +50,6 @@
 
 #### 🔍 Bitbucket
 
-- [Changes to Bitbucket Pipelines due to crypto mining abuse](https://bitbucket.org/blog/changes-to-bitbucket-pipelines-due-to-crypto-mining-abuse) (2 weeks ago)
+- [Changes to Bitbucket Pipelines due to crypto mining abuse](https://bitbucket.org/blog/changes-to-bitbucket-pipelines-due-to-crypto-mining-abuse) (3 weeks ago)
 - [Encountering some turbulence on Bitbucket’s journey to a new platform](https://bitbucket.org/blog/encountering-some-turbulence-on-bitbuckets-journey-to-a-new-platform) (1 month ago)
 - [Deprecating Atlassian account password for Git and Bitbucket API activity](https://bitbucket.org/blog/deprecating-atlassian-account-password-for-git-and-bitbucket-api-activity) (1 month ago)
