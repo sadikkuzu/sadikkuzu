@@ -40,9 +40,9 @@
 
 #### 📢 Facebook
 
+- [Open-sourcing a more precise time appliance](https://engineering.fb.com/2021/08/11/open-source/time-appliance/) (today)
 - [Risk-driven backbone management during COVID-19 and beyond](https://engineering.fb.com/2021/08/09/connectivity/backbone-management/) (2 days ago)
 - [How we built a general purpose key value store for Facebook with ZippyDB](https://engineering.fb.com/2021/08/06/core-data/zippydb/) (5 days ago)
-- [Open sourcing Winterfell: A STARK prover and verifier](https://engineering.fb.com/2021/08/04/open-source/winterfell/) (1 week ago)
 
 
 #### ⛅ [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
