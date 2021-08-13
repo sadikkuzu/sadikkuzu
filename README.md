@@ -19,7 +19,7 @@
 
 #### 🔻 [The Gradient](https://thegradient.pub)
 
-- [Machine Learning Won&#39;t Solve Natural Language Understanding](https://thegradient.pub/machine-learning-wont-solve-the-natural-language-understanding-challenge/) (5 days ago)
+- [Machine Learning Won&#39;t Solve Natural Language Understanding](https://thegradient.pub/machine-learning-wont-solve-the-natural-language-understanding-challenge/) (6 days ago)
 - [Machine Translation Shifts Power](https://thegradient.pub/machine-translation-shifts-power/) (1 week ago)
 - [It’s All Training Data: Using Lessons from Machine Learning to Retrain Your Mind](https://thegradient.pub/its-all-training-data/) (3 weeks ago)
 
@@ -40,9 +40,9 @@
 
 #### 📢 Facebook
 
-- [Open-sourcing a more precise time appliance](https://engineering.fb.com/2021/08/11/open-source/time-appliance/) (1 day ago)
-- [Risk-driven backbone management during COVID-19 and beyond](https://engineering.fb.com/2021/08/09/connectivity/backbone-management/) (3 days ago)
-- [How we built a general purpose key value store for Facebook with ZippyDB](https://engineering.fb.com/2021/08/06/core-data/zippydb/) (6 days ago)
+- [Open-sourcing a more precise time appliance](https://engineering.fb.com/2021/08/11/open-source/time-appliance/) (2 days ago)
+- [Risk-driven backbone management during COVID-19 and beyond](https://engineering.fb.com/2021/08/09/connectivity/backbone-management/) (4 days ago)
+- [How we built a general purpose key value store for Facebook with ZippyDB](https://engineering.fb.com/2021/08/06/core-data/zippydb/) (1 week ago)
 
 
 #### ⛅ [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
@@ -50,6 +50,6 @@
 
 #### 🔍 Bitbucket
 
-- [It’s official! Announcing Runners in Bitbucket Pipelines](https://bitbucket.org/blog/pipelines-runners) (3 days ago)
+- [It’s official! Announcing Runners in Bitbucket Pipelines](https://bitbucket.org/blog/pipelines-runners) (4 days ago)
 - [Changes to Bitbucket Pipelines due to crypto mining abuse](https://bitbucket.org/blog/changes-to-bitbucket-pipelines-due-to-crypto-mining-abuse) (3 weeks ago)
 - [Encountering some turbulence on Bitbucket’s journey to a new platform](https://bitbucket.org/blog/encountering-some-turbulence-on-bitbuckets-journey-to-a-new-platform) (1 month ago)
