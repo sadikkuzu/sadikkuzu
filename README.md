@@ -19,9 +19,9 @@
 
 #### 🔻 [The Gradient](https://thegradient.pub)
 
+- [Systems for Machine Learning](https://thegradient.pub/systems-for-machine-learning/) (today)
 - [Machine Learning Won&#39;t Solve Natural Language Understanding](https://thegradient.pub/machine-learning-wont-solve-the-natural-language-understanding-challenge/) (1 week ago)
 - [Machine Translation Shifts Power](https://thegradient.pub/machine-translation-shifts-power/) (2 weeks ago)
-- [It’s All Training Data: Using Lessons from Machine Learning to Retrain Your Mind](https://thegradient.pub/its-all-training-data/) (3 weeks ago)
 
 
 #### 🔛 NATS
