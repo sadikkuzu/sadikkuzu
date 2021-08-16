@@ -40,9 +40,9 @@
 
 #### 📢 Facebook
 
+- [Apricot subsea cable will boost internet capacity, speeds in the Asia-Pacific region](https://engineering.fb.com/2021/08/15/connectivity/apricot-subsea-cable/) (today)
 - [Open-sourcing a more precise time appliance](https://engineering.fb.com/2021/08/11/open-source/time-appliance/) (5 days ago)
 - [Risk-driven backbone management during COVID-19 and beyond](https://engineering.fb.com/2021/08/09/connectivity/backbone-management/) (1 week ago)
-- [How we built a general purpose key value store for Facebook with ZippyDB](https://engineering.fb.com/2021/08/06/core-data/zippydb/) (1 week ago)
 
 
 #### ⛅ [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
