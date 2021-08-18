@@ -19,7 +19,7 @@
 
 #### 🔻 [The Gradient](https://thegradient.pub)
 
-- [Systems for Machine Learning](https://thegradient.pub/systems-for-machine-learning/) (3 days ago)
+- [Systems for Machine Learning](https://thegradient.pub/systems-for-machine-learning/) (4 days ago)
 - [Machine Learning Won&#39;t Solve Natural Language Understanding](https://thegradient.pub/machine-learning-wont-solve-the-natural-language-understanding-challenge/) (1 week ago)
 - [Machine Translation Shifts Power](https://thegradient.pub/machine-translation-shifts-power/) (2 weeks ago)
 
@@ -27,7 +27,7 @@
 #### 🔛 NATS
 
 - [NATS.io .NET C# Client Library JetStream Pre-Release](https://nats.io/blog/jetstream-dotnet-pre-release/) (3 weeks ago)
-- [NATS JetStream Deduplication for LinuxForHealth Blockchain Smart Contract Messaging](https://nats.io/blog/nats-jetstream-deduplication-for-lfh/) (4 weeks ago)
+- [NATS JetStream Deduplication for LinuxForHealth Blockchain Smart Contract Messaging](https://nats.io/blog/nats-jetstream-deduplication-for-lfh/) (1 month ago)
 - [JetStream for Key-Value Store Tech Preview](https://nats.io/blog/kv-cli/) (1 month ago)
 
 
@@ -40,8 +40,8 @@
 
 #### 📢 Facebook
 
-- [Apricot subsea cable will boost internet capacity, speeds in the Asia-Pacific region](https://engineering.fb.com/2021/08/15/connectivity/apricot-subsea-cable/) (1 day ago)
-- [Open-sourcing a more precise time appliance](https://engineering.fb.com/2021/08/11/open-source/time-appliance/) (6 days ago)
+- [Apricot subsea cable will boost internet capacity, speeds in the Asia-Pacific region](https://engineering.fb.com/2021/08/15/connectivity/apricot-subsea-cable/) (2 days ago)
+- [Open-sourcing a more precise time appliance](https://engineering.fb.com/2021/08/11/open-source/time-appliance/) (1 week ago)
 - [Risk-driven backbone management during COVID-19 and beyond](https://engineering.fb.com/2021/08/09/connectivity/backbone-management/) (1 week ago)
 
 
@@ -50,6 +50,6 @@
 
 #### 🔍 Bitbucket
 
-- [An exciting update on diff and merge performance](https://bitbucket.org/blog/an-exciting-update-on-diff-and-merge-performance) (1 day ago)
+- [An exciting update on diff and merge performance](https://bitbucket.org/blog/an-exciting-update-on-diff-and-merge-performance) (2 days ago)
 - [It’s official! Announcing Runners in Bitbucket Pipelines](https://bitbucket.org/blog/pipelines-runners) (1 week ago)
-- [Changes to Bitbucket Pipelines due to crypto mining abuse](https://bitbucket.org/blog/changes-to-bitbucket-pipelines-due-to-crypto-mining-abuse) (4 weeks ago)
+- [Changes to Bitbucket Pipelines due to crypto mining abuse](https://bitbucket.org/blog/changes-to-bitbucket-pipelines-due-to-crypto-mining-abuse) (1 month ago)
