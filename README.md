@@ -40,9 +40,9 @@
 
 #### 📢 Facebook
 
+- [RAMP-TAO: Layering atomic transactions on Facebook’s online graph store](https://engineering.fb.com/2021/08/18/core-data/ramp-tao/) (today)
 - [Apricot subsea cable will boost internet capacity, speeds in the Asia-Pacific region](https://engineering.fb.com/2021/08/15/connectivity/apricot-subsea-cable/) (2 days ago)
 - [Open-sourcing a more precise time appliance](https://engineering.fb.com/2021/08/11/open-source/time-appliance/) (1 week ago)
-- [Risk-driven backbone management during COVID-19 and beyond](https://engineering.fb.com/2021/08/09/connectivity/backbone-management/) (1 week ago)
 
 
 #### ⛅ [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
