@@ -19,7 +19,7 @@
 
 #### 🔻 [The Gradient](https://thegradient.pub)
 
-- [Systems for Machine Learning](https://thegradient.pub/systems-for-machine-learning/) (5 days ago)
+- [Systems for Machine Learning](https://thegradient.pub/systems-for-machine-learning/) (6 days ago)
 - [Machine Learning Won&#39;t Solve Natural Language Understanding](https://thegradient.pub/machine-learning-wont-solve-the-natural-language-understanding-challenge/) (1 week ago)
 - [Machine Translation Shifts Power](https://thegradient.pub/machine-translation-shifts-power/) (2 weeks ago)
 
@@ -40,8 +40,8 @@
 
 #### 📢 Facebook
 
-- [RAMP-TAO: Layering atomic transactions on Facebook’s online graph store](https://engineering.fb.com/2021/08/18/core-data/ramp-tao/) (1 day ago)
-- [Apricot subsea cable will boost internet capacity, speeds in the Asia-Pacific region](https://engineering.fb.com/2021/08/15/connectivity/apricot-subsea-cable/) (3 days ago)
+- [RAMP-TAO: Layering atomic transactions on Facebook’s online graph store](https://engineering.fb.com/2021/08/18/core-data/ramp-tao/) (2 days ago)
+- [Apricot subsea cable will boost internet capacity, speeds in the Asia-Pacific region](https://engineering.fb.com/2021/08/15/connectivity/apricot-subsea-cable/) (4 days ago)
 - [Open-sourcing a more precise time appliance](https://engineering.fb.com/2021/08/11/open-source/time-appliance/) (1 week ago)
 
 
@@ -50,6 +50,6 @@
 
 #### 🔍 Bitbucket
 
-- [An exciting update on diff and merge performance](https://bitbucket.org/blog/an-exciting-update-on-diff-and-merge-performance) (3 days ago)
+- [An exciting update on diff and merge performance](https://bitbucket.org/blog/an-exciting-update-on-diff-and-merge-performance) (4 days ago)
 - [It’s official! Announcing Runners in Bitbucket Pipelines](https://bitbucket.org/blog/pipelines-runners) (1 week ago)
 - [Changes to Bitbucket Pipelines due to crypto mining abuse](https://bitbucket.org/blog/changes-to-bitbucket-pipelines-due-to-crypto-mining-abuse) (1 month ago)
