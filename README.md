@@ -19,7 +19,7 @@
 
 #### 🔻 [The Gradient](https://thegradient.pub)
 
-- [An Introduction to AI Story Generation](https://thegradient.pub/an-introduction-to-ai-story-generation/) (today)
+- [An Introduction to AI Story Generation](https://thegradient.pub/an-introduction-to-ai-story-generation/) (1 day ago)
 - [Systems for Machine Learning](https://thegradient.pub/systems-for-machine-learning/) (1 week ago)
 - [Machine Learning Won&#39;t Solve Natural Language Understanding](https://thegradient.pub/machine-learning-wont-solve-the-natural-language-understanding-challenge/) (2 weeks ago)
 
@@ -35,13 +35,13 @@
 
 - [CSS in SVG in CSS: Shipping confetti to Stack Overflow’s design system](https://stackoverflow.blog/2021/05/31/shipping-confetti-to-stack-overflows-design-system/) (2 months ago)
 - [Best practices can slow your application down](https://stackoverflow.blog/2021/03/03/best-practices-can-slow-your-application-down/) (5 months ago)
-- [Level Up: Mastering statistics with Python – part 2](https://stackoverflow.blog/2021/02/23/level-up-mastering-statistics-with-python-part-2/) (5 months ago)
+- [Level Up: Mastering statistics with Python – part 2](https://stackoverflow.blog/2021/02/23/level-up-mastering-statistics-with-python-part-2/) (6 months ago)
 
 
 #### 📢 Facebook
 
-- [RAMP-TAO: Layering atomic transactions on Facebook’s online graph store](https://engineering.fb.com/2021/08/18/core-data/ramp-tao/) (3 days ago)
-- [Apricot subsea cable will boost internet capacity, speeds in the Asia-Pacific region](https://engineering.fb.com/2021/08/15/connectivity/apricot-subsea-cable/) (5 days ago)
+- [RAMP-TAO: Layering atomic transactions on Facebook’s online graph store](https://engineering.fb.com/2021/08/18/core-data/ramp-tao/) (4 days ago)
+- [Apricot subsea cable will boost internet capacity, speeds in the Asia-Pacific region](https://engineering.fb.com/2021/08/15/connectivity/apricot-subsea-cable/) (6 days ago)
 - [Open-sourcing a more precise time appliance](https://engineering.fb.com/2021/08/11/open-source/time-appliance/) (1 week ago)
 
 
@@ -50,6 +50,6 @@
 
 #### 🔍 Bitbucket
 
-- [An exciting update on diff and merge performance](https://bitbucket.org/blog/an-exciting-update-on-diff-and-merge-performance) (5 days ago)
+- [An exciting update on diff and merge performance](https://bitbucket.org/blog/an-exciting-update-on-diff-and-merge-performance) (6 days ago)
 - [It’s official! Announcing Runners in Bitbucket Pipelines](https://bitbucket.org/blog/pipelines-runners) (1 week ago)
 - [Changes to Bitbucket Pipelines due to crypto mining abuse](https://bitbucket.org/blog/changes-to-bitbucket-pipelines-due-to-crypto-mining-abuse) (1 month ago)
