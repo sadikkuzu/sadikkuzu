@@ -19,7 +19,7 @@
 
 #### 🔻 [The Gradient](https://thegradient.pub)
 
-- [An Introduction to AI Story Generation](https://thegradient.pub/an-introduction-to-ai-story-generation/) (4 days ago)
+- [An Introduction to AI Story Generation](https://thegradient.pub/an-introduction-to-ai-story-generation/) (5 days ago)
 - [Systems for Machine Learning](https://thegradient.pub/systems-for-machine-learning/) (1 week ago)
 - [Machine Learning Won&#39;t Solve Natural Language Understanding](https://thegradient.pub/machine-learning-wont-solve-the-natural-language-understanding-challenge/) (2 weeks ago)
 
