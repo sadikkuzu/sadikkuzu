@@ -19,9 +19,9 @@
 
 #### 🔻 [The Gradient](https://thegradient.pub)
 
-- [An Introduction to AI Story Generation](https://thegradient.pub/an-introduction-to-ai-story-generation/) (6 days ago)
-- [Systems for Machine Learning](https://thegradient.pub/systems-for-machine-learning/) (1 week ago)
-- [Machine Learning Won&#39;t Solve Natural Language Understanding](https://thegradient.pub/machine-learning-wont-solve-the-natural-language-understanding-challenge/) (2 weeks ago)
+- [An Introduction to AI Story Generation](https://thegradient.pub/an-introduction-to-ai-story-generation/) (1 week ago)
+- [Systems for Machine Learning](https://thegradient.pub/systems-for-machine-learning/) (2 weeks ago)
+- [Machine Learning Won&#39;t Solve Natural Language Understanding](https://thegradient.pub/machine-learning-wont-solve-the-natural-language-understanding-challenge/) (3 weeks ago)
 
 
 #### 🔛 NATS
