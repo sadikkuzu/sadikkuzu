@@ -21,7 +21,7 @@
 
 - [An Introduction to AI Story Generation](https://thegradient.pub/an-introduction-to-ai-story-generation/) (2 weeks ago)
 - [Systems for Machine Learning](https://thegradient.pub/systems-for-machine-learning/) (3 weeks ago)
-- [Machine Learning Won&#39;t Solve Natural Language Understanding](https://thegradient.pub/machine-learning-wont-solve-the-natural-language-understanding-challenge/) (4 weeks ago)
+- [Machine Learning Won&#39;t Solve Natural Language Understanding](https://thegradient.pub/machine-learning-wont-solve-the-natural-language-understanding-challenge/) (1 month ago)
 
 
 #### 🔛 NATS
@@ -40,9 +40,9 @@
 
 #### 📢 Facebook
 
-- [CacheLib, Facebook’s open source caching engine for web-scale services](https://engineering.fb.com/2021/09/02/open-source/cachelib/) (3 days ago)
+- [CacheLib, Facebook’s open source caching engine for web-scale services](https://engineering.fb.com/2021/09/02/open-source/cachelib/) (4 days ago)
 - [RAMP-TAO: Layering atomic transactions on Facebook’s online graph store](https://engineering.fb.com/2021/08/18/core-data/ramp-tao/) (2 weeks ago)
-- [Apricot subsea cable will boost internet capacity, speeds in the Asia-Pacific region](https://engineering.fb.com/2021/08/15/connectivity/apricot-subsea-cable/) (2 weeks ago)
+- [Apricot subsea cable will boost internet capacity, speeds in the Asia-Pacific region](https://engineering.fb.com/2021/08/15/connectivity/apricot-subsea-cable/) (3 weeks ago)
 
 
 #### ⛅ [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
@@ -50,6 +50,6 @@
 
 #### 🔍 Bitbucket
 
-- [Deprecating Atlassian account password for Bitbucket API and Git activity](https://bitbucket.org/blog/deprecating-atlassian-account-password-for-bitbucket-api-and-git-activity) (2 days ago)
-- [An exciting update on diff and merge performance](https://bitbucket.org/blog/an-exciting-update-on-diff-and-merge-performance) (2 weeks ago)
-- [It’s official! Announcing Runners in Bitbucket Pipelines](https://bitbucket.org/blog/pipelines-runners) (3 weeks ago)
+- [Deprecating Atlassian account password for Bitbucket API and Git activity](https://bitbucket.org/blog/deprecating-atlassian-account-password-for-bitbucket-api-and-git-activity) (3 days ago)
+- [An exciting update on diff and merge performance](https://bitbucket.org/blog/an-exciting-update-on-diff-and-merge-performance) (3 weeks ago)
+- [It’s official! Announcing Runners in Bitbucket Pipelines](https://bitbucket.org/blog/pipelines-runners) (4 weeks ago)
