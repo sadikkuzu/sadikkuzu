@@ -40,9 +40,9 @@
 
 #### 📢 Facebook
 
+- [How WhatsApp is enabling end-to-end encrypted backups](https://engineering.fb.com/2021/09/10/security/whatsapp-e2ee-backups/) (today)
 - [CacheLib, Facebook’s open source caching engine for web-scale services](https://engineering.fb.com/2021/09/02/open-source/cachelib/) (1 week ago)
 - [RAMP-TAO: Layering atomic transactions on Facebook’s online graph store](https://engineering.fb.com/2021/08/18/core-data/ramp-tao/) (3 weeks ago)
-- [Apricot subsea cable will boost internet capacity, speeds in the Asia-Pacific region](https://engineering.fb.com/2021/08/15/connectivity/apricot-subsea-cable/) (3 weeks ago)
 
 
 #### ⛅ [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
