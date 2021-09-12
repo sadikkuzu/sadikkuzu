@@ -19,7 +19,7 @@
 
 #### 🔻 [The Gradient](https://thegradient.pub)
 
-- [Has AI found a new Foundation?](https://thegradient.pub/has-ai-found-a-new-foundation/) (today)
+- [Has AI found a new Foundation?](https://thegradient.pub/has-ai-found-a-new-foundation/) (1 day ago)
 - [An Introduction to AI Story Generation](https://thegradient.pub/an-introduction-to-ai-story-generation/) (3 weeks ago)
 - [Systems for Machine Learning](https://thegradient.pub/systems-for-machine-learning/) (4 weeks ago)
 
@@ -40,7 +40,7 @@
 
 #### 📢 Facebook
 
-- [How WhatsApp is enabling end-to-end encrypted backups](https://engineering.fb.com/2021/09/10/security/whatsapp-e2ee-backups/) (1 day ago)
+- [How WhatsApp is enabling end-to-end encrypted backups](https://engineering.fb.com/2021/09/10/security/whatsapp-e2ee-backups/) (2 days ago)
 - [CacheLib, Facebook’s open source caching engine for web-scale services](https://engineering.fb.com/2021/09/02/open-source/cachelib/) (1 week ago)
 - [RAMP-TAO: Layering atomic transactions on Facebook’s online graph store](https://engineering.fb.com/2021/08/18/core-data/ramp-tao/) (3 weeks ago)
 
