@@ -10,11 +10,11 @@
 
 #### 🔭 Check out my recent followers
 
+- [ [mariojbc](https://github.com/mariojbc)  ]
 - [ [zkurucu](https://github.com/zkurucu) Zafer Kurucu ]
 - [ [halisakbal1](https://github.com/halisakbal1) Halis AKBAL ]
 - [ [imsomedev](https://github.com/imsomedev) SomeDev ]
 - [ [hirooutdoor](https://github.com/hirooutdoor) hiro ]
-- [ [firstthumb](https://github.com/firstthumb) Erol KOCAMAN ]
 
 
 #### 🔻 [The Gradient](https://thegradient.pub)
