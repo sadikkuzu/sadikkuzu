@@ -11,10 +11,10 @@
 #### 🔭 Check out my recent followers
 
 - [ [mariojbc](https://github.com/mariojbc)  ]
-- [ [zkurucu](https://github.com/zkurucu) Zafer Kurucu ]
 - [ [halisakbal1](https://github.com/halisakbal1) Halis AKBAL ]
 - [ [imsomedev](https://github.com/imsomedev) SomeDev ]
 - [ [hirooutdoor](https://github.com/hirooutdoor) hiro ]
+- [ [firstthumb](https://github.com/firstthumb) Erol KOCAMAN ]
 
 
 #### 🔻 [The Gradient](https://thegradient.pub)
@@ -40,9 +40,9 @@
 
 #### 📢 Facebook
 
+- [Superpack: Pushing the limits of compression in Facebook’s mobile apps](https://engineering.fb.com/2021/09/13/core-data/superpack/) (today)
 - [How WhatsApp is enabling end-to-end encrypted backups](https://engineering.fb.com/2021/09/10/security/whatsapp-e2ee-backups/) (3 days ago)
 - [CacheLib, Facebook’s open source caching engine for web-scale services](https://engineering.fb.com/2021/09/02/open-source/cachelib/) (1 week ago)
-- [RAMP-TAO: Layering atomic transactions on Facebook’s online graph store](https://engineering.fb.com/2021/08/18/core-data/ramp-tao/) (3 weeks ago)
 
 
 #### ⛅ [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
