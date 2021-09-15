@@ -19,7 +19,7 @@
 
 #### 🔻 [The Gradient](https://thegradient.pub)
 
-- [Has AI found a new Foundation?](https://thegradient.pub/has-ai-found-a-new-foundation/) (3 days ago)
+- [Has AI found a new Foundation?](https://thegradient.pub/has-ai-found-a-new-foundation/) (4 days ago)
 - [An Introduction to AI Story Generation](https://thegradient.pub/an-introduction-to-ai-story-generation/) (3 weeks ago)
 - [Systems for Machine Learning](https://thegradient.pub/systems-for-machine-learning/) (1 month ago)
 
@@ -40,8 +40,8 @@
 
 #### 📢 Facebook
 
-- [Superpack: Pushing the limits of compression in Facebook’s mobile apps](https://engineering.fb.com/2021/09/13/core-data/superpack/) (1 day ago)
-- [How WhatsApp is enabling end-to-end encrypted backups](https://engineering.fb.com/2021/09/10/security/whatsapp-e2ee-backups/) (4 days ago)
+- [Superpack: Pushing the limits of compression in Facebook’s mobile apps](https://engineering.fb.com/2021/09/13/core-data/superpack/) (2 days ago)
+- [How WhatsApp is enabling end-to-end encrypted backups](https://engineering.fb.com/2021/09/10/security/whatsapp-e2ee-backups/) (5 days ago)
 - [CacheLib, Facebook’s open source caching engine for web-scale services](https://engineering.fb.com/2021/09/02/open-source/cachelib/) (1 week ago)
 
 
@@ -51,5 +51,5 @@
 #### 🔍 Bitbucket
 
 - [Deprecating Atlassian account password for Bitbucket API and Git activity](https://bitbucket.org/blog/deprecating-atlassian-account-password-for-bitbucket-api-and-git-activity) (1 week ago)
-- [An exciting update on diff and merge performance](https://bitbucket.org/blog/an-exciting-update-on-diff-and-merge-performance) (4 weeks ago)
+- [An exciting update on diff and merge performance](https://bitbucket.org/blog/an-exciting-update-on-diff-and-merge-performance) (1 month ago)
 - [It’s official! Announcing Runners in Bitbucket Pipelines](https://bitbucket.org/blog/pipelines-runners) (1 month ago)
