@@ -1,12 +1,11 @@
-name: Update sadikkuzu README
+name: Hello new day
 
 on:
-  push:
   schedule:
-    - cron: "0 1-23 * * *"
+    - cron: "1 0 * * *"
 
 jobs:
-  markscribe:
+  midnight-ci:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -27,8 +26,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          commit_message: Update generated sadikkuzu readme
+          commit_message: Hello new day!
           branch: master
-          commit_user_name: readme-scribe 🤖
+          commit_user_name: nights watch 🤖
           commit_user_email: actions@github.com
-          commit_author: readme-scribe 🤖 <actions@github.com>
+          commit_author: nights watch 🤖 <actions@github.com>
