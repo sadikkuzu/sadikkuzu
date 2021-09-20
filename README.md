@@ -19,9 +19,9 @@
 
 #### 🔻 [The Gradient](https://thegradient.pub)
 
-- [The Imperative for Sustainable AI Systems](https://thegradient.pub/sustainable-ai/) (1 day ago)
+- [The Imperative for Sustainable AI Systems](https://thegradient.pub/sustainable-ai/) (2 days ago)
 - [Has AI found a new Foundation?](https://thegradient.pub/has-ai-found-a-new-foundation/) (1 week ago)
-- [An Introduction to AI Story Generation](https://thegradient.pub/an-introduction-to-ai-story-generation/) (4 weeks ago)
+- [An Introduction to AI Story Generation](https://thegradient.pub/an-introduction-to-ai-story-generation/) (1 month ago)
 
 
 #### 🔛 NATS
@@ -40,7 +40,7 @@
 
 #### 📢 Facebook
 
-- [Superpack: Pushing the limits of compression in Facebook’s mobile apps](https://engineering.fb.com/2021/09/13/core-data/superpack/) (6 days ago)
+- [Superpack: Pushing the limits of compression in Facebook’s mobile apps](https://engineering.fb.com/2021/09/13/core-data/superpack/) (1 week ago)
 - [How WhatsApp is enabling end-to-end encrypted backups](https://engineering.fb.com/2021/09/10/security/whatsapp-e2ee-backups/) (1 week ago)
 - [CacheLib, Facebook’s open source caching engine for web-scale services](https://engineering.fb.com/2021/09/02/open-source/cachelib/) (2 weeks ago)
 
