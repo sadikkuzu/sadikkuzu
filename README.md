@@ -19,7 +19,7 @@
 
 #### 🔻 [The Gradient](https://thegradient.pub)
 
-- [The Imperative for Sustainable AI Systems](https://thegradient.pub/sustainable-ai/) (3 days ago)
+- [The Imperative for Sustainable AI Systems](https://thegradient.pub/sustainable-ai/) (4 days ago)
 - [Has AI found a new Foundation?](https://thegradient.pub/has-ai-found-a-new-foundation/) (1 week ago)
 - [An Introduction to AI Story Generation](https://thegradient.pub/an-introduction-to-ai-story-generation/) (1 month ago)
 
