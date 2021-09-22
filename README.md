@@ -50,6 +50,6 @@
 
 #### 🔍 Bitbucket
 
+- [How to integrate security checks into your deployment workflow](https://bitbucket.org/blog/bb-snyk-security) (today)
 - [Deprecating Atlassian account password for Bitbucket API and Git activity](https://bitbucket.org/blog/deprecating-atlassian-account-password-for-bitbucket-api-and-git-activity) (2 weeks ago)
 - [An exciting update on diff and merge performance](https://bitbucket.org/blog/an-exciting-update-on-diff-and-merge-performance) (1 month ago)
-- [It’s official! Announcing Runners in Bitbucket Pipelines](https://bitbucket.org/blog/pipelines-runners) (1 month ago)
