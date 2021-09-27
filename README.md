@@ -40,7 +40,7 @@
 
 #### 📢 Facebook
 
-- [Superpack: Pushing the limits of compression in Facebook’s mobile apps](https://engineering.fb.com/2021/09/13/core-data/superpack/) (1 week ago)
+- [Superpack: Pushing the limits of compression in Facebook’s mobile apps](https://engineering.fb.com/2021/09/13/core-data/superpack/) (2 weeks ago)
 - [How WhatsApp is enabling end-to-end encrypted backups](https://engineering.fb.com/2021/09/10/security/whatsapp-e2ee-backups/) (2 weeks ago)
 - [CacheLib, Facebook’s open source caching engine for web-scale services](https://engineering.fb.com/2021/09/02/open-source/cachelib/) (3 weeks ago)
 
@@ -50,6 +50,6 @@
 
 #### 🔍 Bitbucket
 
-- [How to integrate security checks into your deployment workflow](https://bitbucket.org/blog/bb-snyk-security) (4 days ago)
+- [How to integrate security checks into your deployment workflow](https://bitbucket.org/blog/bb-snyk-security) (5 days ago)
 - [Deprecating Atlassian account password for Bitbucket API and Git activity](https://bitbucket.org/blog/deprecating-atlassian-account-password-for-bitbucket-api-and-git-activity) (3 weeks ago)
 - [An exciting update on diff and merge performance](https://bitbucket.org/blog/an-exciting-update-on-diff-and-merge-performance) (1 month ago)
