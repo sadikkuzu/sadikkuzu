@@ -33,7 +33,7 @@
 
 #### 📰 Stackoverflow blog
 
-- [CSS in SVG in CSS: Shipping confetti to Stack Overflow’s design system](https://stackoverflow.blog/2021/05/31/shipping-confetti-to-stack-overflows-design-system/) (3 months ago)
+- [CSS in SVG in CSS: Shipping confetti to Stack Overflow’s design system](https://stackoverflow.blog/2021/05/31/shipping-confetti-to-stack-overflows-design-system/) (4 months ago)
 - [Best practices can slow your application down](https://stackoverflow.blog/2021/03/03/best-practices-can-slow-your-application-down/) (6 months ago)
 - [Level Up: Mastering statistics with Python – part 2](https://stackoverflow.blog/2021/02/23/level-up-mastering-statistics-with-python-part-2/) (7 months ago)
 
@@ -50,6 +50,6 @@
 
 #### 🔍 Bitbucket
 
-- [How to integrate security checks into your deployment workflow](https://bitbucket.org/blog/bb-snyk-security) (5 days ago)
+- [How to integrate security checks into your deployment workflow](https://bitbucket.org/blog/bb-snyk-security) (6 days ago)
 - [Deprecating Atlassian account password for Bitbucket API and Git activity](https://bitbucket.org/blog/deprecating-atlassian-account-password-for-bitbucket-api-and-git-activity) (3 weeks ago)
 - [An exciting update on diff and merge performance](https://bitbucket.org/blog/an-exciting-update-on-diff-and-merge-performance) (1 month ago)
