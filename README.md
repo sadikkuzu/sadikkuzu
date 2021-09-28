@@ -40,9 +40,9 @@
 
 #### 📢 Facebook
 
+- [2Africa Pearls subsea cable connects Africa, Europe, and Asia to bring affordable, high-speed internet to 3 billion people](https://engineering.fb.com/2021/09/28/connectivity/2africa-pearls/) (today)
 - [Superpack: Pushing the limits of compression in Facebook’s mobile apps](https://engineering.fb.com/2021/09/13/core-data/superpack/) (2 weeks ago)
 - [How WhatsApp is enabling end-to-end encrypted backups](https://engineering.fb.com/2021/09/10/security/whatsapp-e2ee-backups/) (2 weeks ago)
-- [CacheLib, Facebook’s open source caching engine for web-scale services](https://engineering.fb.com/2021/09/02/open-source/cachelib/) (3 weeks ago)
 
 
 #### ⛅ [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
