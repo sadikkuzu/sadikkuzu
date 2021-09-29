@@ -34,13 +34,13 @@
 #### 📰 Stackoverflow blog
 
 - [CSS in SVG in CSS: Shipping confetti to Stack Overflow’s design system](https://stackoverflow.blog/2021/05/31/shipping-confetti-to-stack-overflows-design-system/) (4 months ago)
-- [Best practices can slow your application down](https://stackoverflow.blog/2021/03/03/best-practices-can-slow-your-application-down/) (6 months ago)
+- [Best practices can slow your application down](https://stackoverflow.blog/2021/03/03/best-practices-can-slow-your-application-down/) (7 months ago)
 - [Level Up: Mastering statistics with Python – part 2](https://stackoverflow.blog/2021/02/23/level-up-mastering-statistics-with-python-part-2/) (7 months ago)
 
 
 #### 📢 Facebook
 
-- [2Africa Pearls subsea cable connects Africa, Europe, and Asia to bring affordable, high-speed internet to 3 billion people](https://engineering.fb.com/2021/09/28/connectivity/2africa-pearls/) (today)
+- [2Africa Pearls subsea cable connects Africa, Europe, and Asia to bring affordable, high-speed internet to 3 billion people](https://engineering.fb.com/2021/09/28/connectivity/2africa-pearls/) (1 day ago)
 - [Superpack: Pushing the limits of compression in Facebook’s mobile apps](https://engineering.fb.com/2021/09/13/core-data/superpack/) (2 weeks ago)
 - [How WhatsApp is enabling end-to-end encrypted backups](https://engineering.fb.com/2021/09/10/security/whatsapp-e2ee-backups/) (2 weeks ago)
 
@@ -50,6 +50,6 @@
 
 #### 🔍 Bitbucket
 
-- [How to integrate security checks into your deployment workflow](https://bitbucket.org/blog/bb-snyk-security) (6 days ago)
+- [How to integrate security checks into your deployment workflow](https://bitbucket.org/blog/bb-snyk-security) (1 week ago)
 - [Deprecating Atlassian account password for Bitbucket API and Git activity](https://bitbucket.org/blog/deprecating-atlassian-account-password-for-bitbucket-api-and-git-activity) (3 weeks ago)
 - [An exciting update on diff and merge performance](https://bitbucket.org/blog/an-exciting-update-on-diff-and-merge-performance) (1 month ago)
