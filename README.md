@@ -40,8 +40,8 @@
 
 #### 📢 Facebook
 
-- [Open-sourcing Mariana Trench: Analyzing Android and Java app security in depth](https://engineering.fb.com/2021/09/29/security/mariana-trench/) (today)
-- [2Africa Pearls subsea cable connects Africa, Europe, and Asia to bring affordable, high-speed internet to 3 billion people](https://engineering.fb.com/2021/09/28/connectivity/2africa-pearls/) (1 day ago)
+- [Open-sourcing Mariana Trench: Analyzing Android and Java app security in depth](https://engineering.fb.com/2021/09/29/security/mariana-trench/) (1 day ago)
+- [2Africa Pearls subsea cable connects Africa, Europe, and Asia to bring affordable, high-speed internet to 3 billion people](https://engineering.fb.com/2021/09/28/connectivity/2africa-pearls/) (2 days ago)
 - [Superpack: Pushing the limits of compression in Facebook’s mobile apps](https://engineering.fb.com/2021/09/13/core-data/superpack/) (2 weeks ago)
 
 
