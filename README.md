@@ -10,11 +10,11 @@
 
 #### 🔭 Check out my recent followers
 
+- [ [cagdastopcu](https://github.com/cagdastopcu) Cagdas Topcu ]
 - [ [commodus](https://github.com/commodus)  ]
 - [ [mariojbc](https://github.com/mariojbc)  ]
 - [ [halisakbal1](https://github.com/halisakbal1) Halis AKBAL ]
 - [ [imsomedev](https://github.com/imsomedev) SomeDev ]
-- [ [hirooutdoor](https://github.com/hirooutdoor) hiro ]
 
 
 #### 🔻 [The Gradient](https://thegradient.pub)
