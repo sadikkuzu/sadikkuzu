@@ -19,8 +19,8 @@
 
 #### 🔻 [The Gradient](https://thegradient.pub)
 
-- [The Imperative for Sustainable AI Systems](https://thegradient.pub/sustainable-ai/) (1 week ago)
-- [Has AI found a new Foundation?](https://thegradient.pub/has-ai-found-a-new-foundation/) (2 weeks ago)
+- [The Imperative for Sustainable AI Systems](https://thegradient.pub/sustainable-ai/) (2 weeks ago)
+- [Has AI found a new Foundation?](https://thegradient.pub/has-ai-found-a-new-foundation/) (3 weeks ago)
 - [An Introduction to AI Story Generation](https://thegradient.pub/an-introduction-to-ai-story-generation/) (1 month ago)
 
 
@@ -40,8 +40,8 @@
 
 #### 📢 Facebook
 
-- [Open-sourcing Mariana Trench: Analyzing Android and Java app security in depth](https://engineering.fb.com/2021/09/29/security/mariana-trench/) (2 days ago)
-- [2Africa Pearls subsea cable connects Africa, Europe, and Asia to bring affordable, high-speed internet to 3 billion people](https://engineering.fb.com/2021/09/28/connectivity/2africa-pearls/) (3 days ago)
+- [Open-sourcing Mariana Trench: Analyzing Android and Java app security in depth](https://engineering.fb.com/2021/09/29/security/mariana-trench/) (3 days ago)
+- [2Africa Pearls subsea cable connects Africa, Europe, and Asia to bring affordable, high-speed internet to 3 billion people](https://engineering.fb.com/2021/09/28/connectivity/2africa-pearls/) (4 days ago)
 - [Superpack: Pushing the limits of compression in Facebook’s mobile apps](https://engineering.fb.com/2021/09/13/core-data/superpack/) (2 weeks ago)
 
 
