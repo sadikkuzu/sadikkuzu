@@ -32,12 +32,6 @@
 {{- end}}
 
 
-#### 📢 Facebook
-{{range rss "https://engineering.fb.com/feed/" 3}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}
-
-
 #### ⛅ [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
 
