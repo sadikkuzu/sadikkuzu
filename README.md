@@ -38,6 +38,13 @@
 - [Level Up: Mastering statistics with Python – part 2](https://stackoverflow.blog/2021/02/23/level-up-mastering-statistics-with-python-part-2/) (7 months ago)
 
 
+#### 📢 Facebook
+
+- [Update about the October 4th outage](https://engineering.fb.com/2021/10/04/networking-traffic/outage/) (today)
+- [Open-sourcing Mariana Trench: Analyzing Android and Java app security in depth](https://engineering.fb.com/2021/09/29/security/mariana-trench/) (6 days ago)
+- [2Africa Pearls subsea cable connects Africa, Europe, and Asia to bring affordable, high-speed internet to 3 billion people](https://engineering.fb.com/2021/09/28/connectivity/2africa-pearls/) (1 week ago)
+
+
 #### ⛅ [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
 
