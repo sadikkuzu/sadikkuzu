@@ -40,9 +40,9 @@
 
 #### 📢 Facebook
 
-- [More details about the October 4 outage](https://engineering.fb.com/2021/10/05/networking-traffic/outage-details/) (today)
-- [Update about the October 4th outage](https://engineering.fb.com/2021/10/04/networking-traffic/outage/) (today)
-- [Open-sourcing Mariana Trench: Analyzing Android and Java app security in depth](https://engineering.fb.com/2021/09/29/security/mariana-trench/) (6 days ago)
+- [More details about the October 4 outage](https://engineering.fb.com/2021/10/05/networking-traffic/outage-details/) (1 day ago)
+- [Update about the October 4th outage](https://engineering.fb.com/2021/10/04/networking-traffic/outage/) (1 day ago)
+- [Open-sourcing Mariana Trench: Analyzing Android and Java app security in depth](https://engineering.fb.com/2021/09/29/security/mariana-trench/) (1 week ago)
 
 
 #### ⛅ [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
@@ -50,6 +50,6 @@
 
 #### 🔍 Bitbucket
 
-- [How to integrate security checks into your deployment workflow](https://bitbucket.org/blog/bb-snyk-security) (1 week ago)
+- [How to integrate security checks into your deployment workflow](https://bitbucket.org/blog/bb-snyk-security) (2 weeks ago)
 - [Deprecating Atlassian account password for Bitbucket API and Git activity](https://bitbucket.org/blog/deprecating-atlassian-account-password-for-bitbucket-api-and-git-activity) (1 month ago)
 - [An exciting update on diff and merge performance](https://bitbucket.org/blog/an-exciting-update-on-diff-and-merge-performance) (1 month ago)
