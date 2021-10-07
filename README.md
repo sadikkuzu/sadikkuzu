@@ -40,9 +40,9 @@
 
 #### 📢 Facebook
 
+- [Inside the Lab: Expanding connectivity by sea, land, and air](https://tech.fb.com/inside-the-lab-connectivity/) (today)
 - [More details about the October 4 outage](https://engineering.fb.com/2021/10/05/networking-traffic/outage-details/) (2 days ago)
 - [Update about the October 4th outage](https://engineering.fb.com/2021/10/04/networking-traffic/outage/) (2 days ago)
-- [Open-sourcing Mariana Trench: Analyzing Android and Java app security in depth](https://engineering.fb.com/2021/09/29/security/mariana-trench/) (1 week ago)
 
 
 #### ⛅ [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
