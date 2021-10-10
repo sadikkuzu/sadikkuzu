@@ -40,9 +40,9 @@
 
 #### 📢 Facebook
 
-- [Inside the Lab: Expanding connectivity by sea, land, and air](https://tech.fb.com/inside-the-lab-connectivity/) (2 days ago)
-- [More details about the October 4 outage](https://engineering.fb.com/2021/10/05/networking-traffic/outage-details/) (4 days ago)
-- [Update about the October 4th outage](https://engineering.fb.com/2021/10/04/networking-traffic/outage/) (4 days ago)
+- [Inside the Lab: Expanding connectivity by sea, land, and air](https://tech.fb.com/inside-the-lab-connectivity/) (3 days ago)
+- [More details about the October 4 outage](https://engineering.fb.com/2021/10/05/networking-traffic/outage-details/) (5 days ago)
+- [Update about the October 4th outage](https://engineering.fb.com/2021/10/04/networking-traffic/outage/) (5 days ago)
 
 
 #### ⛅ [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
