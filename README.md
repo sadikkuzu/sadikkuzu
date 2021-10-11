@@ -50,6 +50,6 @@
 
 #### 🔍 Bitbucket
 
+- [Action Required for GitKraken Users using SSH](https://bitbucket.org/blog/action-required-for-gitkraken-users-using-ssh) (today)
 - [How to integrate security checks into your deployment workflow](https://bitbucket.org/blog/bb-snyk-security) (2 weeks ago)
 - [Deprecating Atlassian account password for Bitbucket API and Git activity](https://bitbucket.org/blog/deprecating-atlassian-account-password-for-bitbucket-api-and-git-activity) (1 month ago)
-- [An exciting update on diff and merge performance](https://bitbucket.org/blog/an-exciting-update-on-diff-and-merge-performance) (1 month ago)
