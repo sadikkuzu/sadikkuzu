@@ -20,7 +20,7 @@
 #### 🔻 [The Gradient](https://thegradient.pub)
 
 - [The Imperative for Sustainable AI Systems](https://thegradient.pub/sustainable-ai/) (3 weeks ago)
-- [Has AI found a new Foundation?](https://thegradient.pub/has-ai-found-a-new-foundation/) (4 weeks ago)
+- [Has AI found a new Foundation?](https://thegradient.pub/has-ai-found-a-new-foundation/) (1 month ago)
 - [An Introduction to AI Story Generation](https://thegradient.pub/an-introduction-to-ai-story-generation/) (1 month ago)
 
 
@@ -40,9 +40,9 @@
 
 #### 📢 Facebook
 
-- [Inside the Lab: Expanding connectivity by sea, land, and air](https://tech.fb.com/inside-the-lab-connectivity/) (3 days ago)
-- [More details about the October 4 outage](https://engineering.fb.com/2021/10/05/networking-traffic/outage-details/) (5 days ago)
-- [Update about the October 4th outage](https://engineering.fb.com/2021/10/04/networking-traffic/outage/) (5 days ago)
+- [Inside the Lab: Expanding connectivity by sea, land, and air](https://tech.fb.com/inside-the-lab-connectivity/) (4 days ago)
+- [More details about the October 4 outage](https://engineering.fb.com/2021/10/05/networking-traffic/outage-details/) (6 days ago)
+- [Update about the October 4th outage](https://engineering.fb.com/2021/10/04/networking-traffic/outage/) (6 days ago)
 
 
 #### ⛅ [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
