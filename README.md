@@ -28,7 +28,7 @@
 
 - [NATS.io .NET C# Client Library JetStream Pre-Release](https://nats.io/blog/jetstream-dotnet-pre-release/) (2 months ago)
 - [NATS JetStream Deduplication for LinuxForHealth Blockchain Smart Contract Messaging](https://nats.io/blog/nats-jetstream-deduplication-for-lfh/) (2 months ago)
-- [JetStream for Key-Value Store Tech Preview](https://nats.io/blog/kv-cli/) (2 months ago)
+- [JetStream for Key-Value Store Tech Preview](https://nats.io/blog/kv-cli/) (3 months ago)
 
 
 #### 📰 Stackoverflow blog
@@ -40,7 +40,7 @@
 
 #### 📢 Facebook
 
-- [Inside the Lab: Expanding connectivity by sea, land, and air](https://tech.fb.com/inside-the-lab-connectivity/) (5 days ago)
+- [Inside the Lab: Expanding connectivity by sea, land, and air](https://tech.fb.com/inside-the-lab-connectivity/) (6 days ago)
 - [More details about the October 4 outage](https://engineering.fb.com/2021/10/05/networking-traffic/outage-details/) (1 week ago)
 - [Update about the October 4th outage](https://engineering.fb.com/2021/10/04/networking-traffic/outage/) (1 week ago)
 
@@ -50,6 +50,6 @@
 
 #### 🔍 Bitbucket
 
-- [Action Required for GitKraken Users using SSH](https://bitbucket.org/blog/action-required-for-gitkraken-users-using-ssh) (1 day ago)
-- [How to integrate security checks into your deployment workflow](https://bitbucket.org/blog/bb-snyk-security) (2 weeks ago)
+- [Action Required for GitKraken Users using SSH](https://bitbucket.org/blog/action-required-for-gitkraken-users-using-ssh) (2 days ago)
+- [How to integrate security checks into your deployment workflow](https://bitbucket.org/blog/bb-snyk-security) (3 weeks ago)
 - [Deprecating Atlassian account password for Bitbucket API and Git activity](https://bitbucket.org/blog/deprecating-atlassian-account-password-for-bitbucket-api-and-git-activity) (1 month ago)
