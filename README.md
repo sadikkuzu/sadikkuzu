@@ -27,7 +27,7 @@
 #### 🔛 NATS
 
 - [NATS.io .NET C# Client Library JetStream Pre-Release](https://nats.io/blog/jetstream-dotnet-pre-release/) (2 months ago)
-- [NATS JetStream Deduplication for LinuxForHealth Blockchain Smart Contract Messaging](https://nats.io/blog/nats-jetstream-deduplication-for-lfh/) (2 months ago)
+- [NATS JetStream Deduplication for LinuxForHealth Blockchain Smart Contract Messaging](https://nats.io/blog/nats-jetstream-deduplication-for-lfh/) (3 months ago)
 - [JetStream for Key-Value Store Tech Preview](https://nats.io/blog/kv-cli/) (3 months ago)
 
 
@@ -50,6 +50,6 @@
 
 #### 🔍 Bitbucket
 
-- [Action Required for GitKraken Users using SSH](https://bitbucket.org/blog/action-required-for-gitkraken-users-using-ssh) (5 days ago)
+- [Action Required for GitKraken Users using SSH](https://bitbucket.org/blog/action-required-for-gitkraken-users-using-ssh) (6 days ago)
 - [How to integrate security checks into your deployment workflow](https://bitbucket.org/blog/bb-snyk-security) (3 weeks ago)
 - [Deprecating Atlassian account password for Bitbucket API and Git activity](https://bitbucket.org/blog/deprecating-atlassian-account-password-for-bitbucket-api-and-git-activity) (1 month ago)
