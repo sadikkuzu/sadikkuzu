@@ -40,9 +40,9 @@
 
 #### 📢 Facebook
 
+- [RTMP Go Away: Lossless reconnections for live streaming](https://engineering.fb.com/2021/10/19/open-source/rtmp-go-away/) (today)
 - [Inside the Lab: Expanding connectivity by sea, land, and air](https://tech.fb.com/inside-the-lab-connectivity/) (1 week ago)
 - [More details about the October 4 outage](https://engineering.fb.com/2021/10/05/networking-traffic/outage-details/) (2 weeks ago)
-- [Update about the October 4th outage](https://engineering.fb.com/2021/10/04/networking-traffic/outage/) (2 weeks ago)
 
 
 #### ⛅ [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
