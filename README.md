@@ -40,9 +40,9 @@
 
 #### 📢 Facebook
 
+- [Autonomous testing of services at scale](https://engineering.fb.com/2021/10/20/developer-tools/autonomous-testing/) (today)
 - [Facebook engineers receive 2021 IEEE Computer Society Cybersecurity Award for static analysis tools](https://engineering.fb.com/2021/10/20/security/static-analysis-award/) (today)
 - [RTMP Go Away: Lossless reconnections for live streaming](https://engineering.fb.com/2021/10/19/open-source/rtmp-go-away/) (1 day ago)
-- [Inside the Lab: Expanding connectivity by sea, land, and air](https://tech.fb.com/inside-the-lab-connectivity/) (1 week ago)
 
 
 #### ⛅ [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
