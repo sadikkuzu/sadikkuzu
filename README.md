@@ -33,16 +33,16 @@
 
 #### 📰 Stackoverflow blog
 
+- [Why hooks are the best thing to happen to React](https://stackoverflow.blog/2021/10/20/why-hooks-are-the-best-thing-to-happen-to-react/) (today)
 - [Code quality: a concern for businesses, bottom lines, and empathetic programmers](https://stackoverflow.blog/2021/10/18/code-quality-a-concern-for-businesses-bottom-lines-and-empathetic-programmers/) (2 days ago)
-- [Why solve a problem twice? Design patterns let you apply existing solutions to your code](https://stackoverflow.blog/2021/10/13/why-solve-a-problem-twice-design-patterns-let-you-apply-existing-solutions-to-your-code/) (1 week ago)
 - [CSS in SVG in CSS: Shipping confetti to Stack Overflow’s design system](https://stackoverflow.blog/2021/05/31/shipping-confetti-to-stack-overflows-design-system/) (4 months ago)
 
 
 #### 📢 Facebook
 
+- [Facebook engineers receive 2021 IEEE Computer Society Cybersecurity Award for static analysis tools](https://engineering.fb.com/2021/10/20/security/static-analysis-award/) (today)
 - [RTMP Go Away: Lossless reconnections for live streaming](https://engineering.fb.com/2021/10/19/open-source/rtmp-go-away/) (1 day ago)
 - [Inside the Lab: Expanding connectivity by sea, land, and air](https://tech.fb.com/inside-the-lab-connectivity/) (1 week ago)
-- [More details about the October 4 outage](https://engineering.fb.com/2021/10/05/networking-traffic/outage-details/) (2 weeks ago)
 
 
 #### ⛅ [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
