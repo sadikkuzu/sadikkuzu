@@ -21,7 +21,7 @@
 
 - [The Imperative for Sustainable AI Systems](https://thegradient.pub/sustainable-ai/) (1 month ago)
 - [Has AI found a new Foundation?](https://thegradient.pub/has-ai-found-a-new-foundation/) (1 month ago)
-- [An Introduction to AI Story Generation](https://thegradient.pub/an-introduction-to-ai-story-generation/) (1 month ago)
+- [An Introduction to AI Story Generation](https://thegradient.pub/an-introduction-to-ai-story-generation/) (2 months ago)
 
 
 #### 🔛 NATS
@@ -40,7 +40,7 @@
 
 #### 📢 Facebook
 
-- [RTMP Go Away: Lossless reconnections for live streaming](https://engineering.fb.com/2021/10/19/open-source/rtmp-go-away/) (today)
+- [RTMP Go Away: Lossless reconnections for live streaming](https://engineering.fb.com/2021/10/19/open-source/rtmp-go-away/) (1 day ago)
 - [Inside the Lab: Expanding connectivity by sea, land, and air](https://tech.fb.com/inside-the-lab-connectivity/) (1 week ago)
 - [More details about the October 4 outage](https://engineering.fb.com/2021/10/05/networking-traffic/outage-details/) (2 weeks ago)
 
@@ -51,5 +51,5 @@
 #### 🔍 Bitbucket
 
 - [Action Required for GitKraken Users using SSH](https://bitbucket.org/blog/action-required-for-gitkraken-users-using-ssh) (1 week ago)
-- [How to integrate security checks into your deployment workflow](https://bitbucket.org/blog/bb-snyk-security) (3 weeks ago)
+- [How to integrate security checks into your deployment workflow](https://bitbucket.org/blog/bb-snyk-security) (4 weeks ago)
 - [Deprecating Atlassian account password for Bitbucket API and Git activity](https://bitbucket.org/blog/deprecating-atlassian-account-password-for-bitbucket-api-and-git-activity) (1 month ago)
