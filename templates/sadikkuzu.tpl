@@ -27,7 +27,10 @@
 
 
 #### 📰 Stackoverflow blog
-{{range rss "https://stackoverflow.blog/engineering/feed/" 3}}
+{{range rss "https://stackoverflow.blog/code-for-a-living/feed/" 2}}
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+{{- end}}
+{{range rss "https://stackoverflow.blog/engineering/feed/" 1}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
