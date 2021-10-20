@@ -33,9 +33,10 @@
 
 #### 📰 Stackoverflow blog
 
+- [Code quality: a concern for businesses, bottom lines, and empathetic programmers](https://stackoverflow.blog/2021/10/18/code-quality-a-concern-for-businesses-bottom-lines-and-empathetic-programmers/) (2 days ago)
+- [Why solve a problem twice? Design patterns let you apply existing solutions to your code](https://stackoverflow.blog/2021/10/13/why-solve-a-problem-twice-design-patterns-let-you-apply-existing-solutions-to-your-code/) (1 week ago)
+
 - [CSS in SVG in CSS: Shipping confetti to Stack Overflow’s design system](https://stackoverflow.blog/2021/05/31/shipping-confetti-to-stack-overflows-design-system/) (4 months ago)
-- [Best practices can slow your application down](https://stackoverflow.blog/2021/03/03/best-practices-can-slow-your-application-down/) (7 months ago)
-- [Level Up: Mastering statistics with Python – part 2](https://stackoverflow.blog/2021/02/23/level-up-mastering-statistics-with-python-part-2/) (7 months ago)
 
 
 #### 📢 Facebook
