@@ -19,7 +19,7 @@
 
 #### 🔻 [The Gradient](https://thegradient.pub)
 
-- [Reflections on Foundation Models](https://thegradient.pub/reflections-on-foundation-models/) (today)
+- [Reflections on Foundation Models](https://thegradient.pub/reflections-on-foundation-models/) (1 day ago)
 - [The Imperative for Sustainable AI Systems](https://thegradient.pub/sustainable-ai/) (1 month ago)
 - [Has AI found a new Foundation?](https://thegradient.pub/has-ai-found-a-new-foundation/) (1 month ago)
 
@@ -33,16 +33,16 @@
 
 #### 📰 Stackoverflow blog
 
-- [Why hooks are the best thing to happen to React](https://stackoverflow.blog/2021/10/20/why-hooks-are-the-best-thing-to-happen-to-react/) (today)
-- [Code quality: a concern for businesses, bottom lines, and empathetic programmers](https://stackoverflow.blog/2021/10/18/code-quality-a-concern-for-businesses-bottom-lines-and-empathetic-programmers/) (2 days ago)
+- [Why hooks are the best thing to happen to React](https://stackoverflow.blog/2021/10/20/why-hooks-are-the-best-thing-to-happen-to-react/) (1 day ago)
+- [Code quality: a concern for businesses, bottom lines, and empathetic programmers](https://stackoverflow.blog/2021/10/18/code-quality-a-concern-for-businesses-bottom-lines-and-empathetic-programmers/) (3 days ago)
 - [CSS in SVG in CSS: Shipping confetti to Stack Overflow’s design system](https://stackoverflow.blog/2021/05/31/shipping-confetti-to-stack-overflows-design-system/) (4 months ago)
 
 
 #### 📢 Facebook
 
-- [Autonomous testing of services at scale](https://engineering.fb.com/2021/10/20/developer-tools/autonomous-testing/) (today)
-- [Facebook engineers receive 2021 IEEE Computer Society Cybersecurity Award for static analysis tools](https://engineering.fb.com/2021/10/20/security/static-analysis-award/) (today)
-- [RTMP Go Away: Lossless reconnections for live streaming](https://engineering.fb.com/2021/10/19/open-source/rtmp-go-away/) (1 day ago)
+- [Autonomous testing of services at scale](https://engineering.fb.com/2021/10/20/developer-tools/autonomous-testing/) (1 day ago)
+- [Facebook engineers receive 2021 IEEE Computer Society Cybersecurity Award for static analysis tools](https://engineering.fb.com/2021/10/20/security/static-analysis-award/) (1 day ago)
+- [RTMP Go Away: Lossless reconnections for live streaming](https://engineering.fb.com/2021/10/19/open-source/rtmp-go-away/) (2 days ago)
 
 
 #### ⛅ [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
