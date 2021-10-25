@@ -50,6 +50,6 @@
 
 #### 🔍 Bitbucket
 
+- [Faster CI Builds with Docker Remote Caching](https://bitbucket.org/blog/faster-ci-builds-with-docker-remote-caching) (6 days ago)
+- [Introducing default values for custom pipeline variables](https://bitbucket.org/blog/introducing-default-values-for-custom-pipeline-variables) (1 week ago)
 - [Action Required for GitKraken Users using SSH](https://bitbucket.org/blog/action-required-for-gitkraken-users-using-ssh) (2 weeks ago)
-- [How to integrate security checks into your deployment workflow](https://bitbucket.org/blog/bb-snyk-security) (1 month ago)
-- [Deprecating Atlassian account password for Bitbucket API and Git activity](https://bitbucket.org/blog/deprecating-atlassian-account-password-for-bitbucket-api-and-git-activity) (1 month ago)
