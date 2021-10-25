@@ -33,8 +33,8 @@
 
 #### 📰 Stackoverflow blog
 
+- [Node.js makes fullstack programming easy with server-side JavaScript](https://stackoverflow.blog/2021/10/25/node-js-makes-fullstack-programming-easy-with-server-side-javascript/) (today)
 - [Why hooks are the best thing to happen to React](https://stackoverflow.blog/2021/10/20/why-hooks-are-the-best-thing-to-happen-to-react/) (5 days ago)
-- [Code quality: a concern for businesses, bottom lines, and empathetic programmers](https://stackoverflow.blog/2021/10/18/code-quality-a-concern-for-businesses-bottom-lines-and-empathetic-programmers/) (1 week ago)
 - [CSS in SVG in CSS: Shipping confetti to Stack Overflow’s design system](https://stackoverflow.blog/2021/05/31/shipping-confetti-to-stack-overflows-design-system/) (4 months ago)
 
 
