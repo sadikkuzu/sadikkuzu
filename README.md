@@ -19,7 +19,7 @@
 
 #### 🔻 [The Gradient](https://thegradient.pub)
 
-- [Reflections on Foundation Models](https://thegradient.pub/reflections-on-foundation-models/) (4 days ago)
+- [Reflections on Foundation Models](https://thegradient.pub/reflections-on-foundation-models/) (5 days ago)
 - [The Imperative for Sustainable AI Systems](https://thegradient.pub/sustainable-ai/) (1 month ago)
 - [Has AI found a new Foundation?](https://thegradient.pub/has-ai-found-a-new-foundation/) (1 month ago)
 
@@ -33,16 +33,16 @@
 
 #### 📰 Stackoverflow blog
 
-- [Why hooks are the best thing to happen to React](https://stackoverflow.blog/2021/10/20/why-hooks-are-the-best-thing-to-happen-to-react/) (4 days ago)
-- [Code quality: a concern for businesses, bottom lines, and empathetic programmers](https://stackoverflow.blog/2021/10/18/code-quality-a-concern-for-businesses-bottom-lines-and-empathetic-programmers/) (6 days ago)
+- [Why hooks are the best thing to happen to React](https://stackoverflow.blog/2021/10/20/why-hooks-are-the-best-thing-to-happen-to-react/) (5 days ago)
+- [Code quality: a concern for businesses, bottom lines, and empathetic programmers](https://stackoverflow.blog/2021/10/18/code-quality-a-concern-for-businesses-bottom-lines-and-empathetic-programmers/) (1 week ago)
 - [CSS in SVG in CSS: Shipping confetti to Stack Overflow’s design system](https://stackoverflow.blog/2021/05/31/shipping-confetti-to-stack-overflows-design-system/) (4 months ago)
 
 
 #### 📢 Facebook
 
-- [Autonomous testing of services at scale](https://engineering.fb.com/2021/10/20/developer-tools/autonomous-testing/) (4 days ago)
-- [Facebook engineers receive 2021 IEEE Computer Society Cybersecurity Award for static analysis tools](https://engineering.fb.com/2021/10/20/security/static-analysis-award/) (4 days ago)
-- [RTMP Go Away: Lossless reconnections for live streaming](https://engineering.fb.com/2021/10/19/open-source/rtmp-go-away/) (5 days ago)
+- [Autonomous testing of services at scale](https://engineering.fb.com/2021/10/20/developer-tools/autonomous-testing/) (5 days ago)
+- [Facebook engineers receive 2021 IEEE Computer Society Cybersecurity Award for static analysis tools](https://engineering.fb.com/2021/10/20/security/static-analysis-award/) (5 days ago)
+- [RTMP Go Away: Lossless reconnections for live streaming](https://engineering.fb.com/2021/10/19/open-source/rtmp-go-away/) (6 days ago)
 
 
 #### ⛅ [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
@@ -50,6 +50,6 @@
 
 #### 🔍 Bitbucket
 
-- [Action Required for GitKraken Users using SSH](https://bitbucket.org/blog/action-required-for-gitkraken-users-using-ssh) (1 week ago)
+- [Action Required for GitKraken Users using SSH](https://bitbucket.org/blog/action-required-for-gitkraken-users-using-ssh) (2 weeks ago)
 - [How to integrate security checks into your deployment workflow](https://bitbucket.org/blog/bb-snyk-security) (1 month ago)
 - [Deprecating Atlassian account password for Bitbucket API and Git activity](https://bitbucket.org/blog/deprecating-atlassian-account-password-for-bitbucket-api-and-git-activity) (1 month ago)
