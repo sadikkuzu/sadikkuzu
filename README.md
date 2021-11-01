@@ -19,7 +19,7 @@
 
 #### 🔻 [The Gradient](https://thegradient.pub)
 
-- [Strong AI Requires Autonomous Building of Composable Models](https://thegradient.pub/strong-ai-requires-autonomous-building-of-composable-models/) (1 day ago)
+- [Strong AI Requires Autonomous Building of Composable Models](https://thegradient.pub/strong-ai-requires-autonomous-building-of-composable-models/) (2 days ago)
 - [Reflections on Foundation Models](https://thegradient.pub/reflections-on-foundation-models/) (1 week ago)
 - [The Imperative for Sustainable AI Systems](https://thegradient.pub/sustainable-ai/) (1 month ago)
 
@@ -33,14 +33,14 @@
 
 #### 📰 Stackoverflow blog
 
-- [Node.js makes fullstack programming easy with server-side JavaScript](https://stackoverflow.blog/2021/10/25/node-js-makes-fullstack-programming-easy-with-server-side-javascript/) (6 days ago)
+- [Node.js makes fullstack programming easy with server-side JavaScript](https://stackoverflow.blog/2021/10/25/node-js-makes-fullstack-programming-easy-with-server-side-javascript/) (1 week ago)
 - [Why hooks are the best thing to happen to React](https://stackoverflow.blog/2021/10/20/why-hooks-are-the-best-thing-to-happen-to-react/) (1 week ago)
 - [CSS in SVG in CSS: Shipping confetti to Stack Overflow’s design system](https://stackoverflow.blog/2021/05/31/shipping-confetti-to-stack-overflows-design-system/) (5 months ago)
 
 
 #### 📢 Facebook
 
-- [Kangaroo: A new flash cache optimized for tiny objects](https://engineering.fb.com/2021/10/26/core-data/kangaroo/) (5 days ago)
+- [Kangaroo: A new flash cache optimized for tiny objects](https://engineering.fb.com/2021/10/26/core-data/kangaroo/) (6 days ago)
 - [Autonomous testing of services at scale](https://engineering.fb.com/2021/10/20/developer-tools/autonomous-testing/) (1 week ago)
 - [Facebook engineers receive 2021 IEEE Computer Society Cybersecurity Award for static analysis tools](https://engineering.fb.com/2021/10/20/security/static-analysis-award/) (1 week ago)
 
@@ -51,5 +51,5 @@
 #### 🔍 Bitbucket
 
 - [Faster CI Builds with Docker Remote Caching](https://bitbucket.org/blog/faster-ci-builds-with-docker-remote-caching) (1 week ago)
-- [Introducing default values for custom pipeline variables](https://bitbucket.org/blog/introducing-default-values-for-custom-pipeline-variables) (1 week ago)
-- [Action Required for GitKraken Users using SSH](https://bitbucket.org/blog/action-required-for-gitkraken-users-using-ssh) (2 weeks ago)
+- [Introducing default values for custom pipeline variables](https://bitbucket.org/blog/introducing-default-values-for-custom-pipeline-variables) (2 weeks ago)
+- [Action Required for GitKraken Users using SSH](https://bitbucket.org/blog/action-required-for-gitkraken-users-using-ssh) (3 weeks ago)
