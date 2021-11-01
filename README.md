@@ -50,6 +50,6 @@
 
 #### 🔍 Bitbucket
 
+- [Announcing the Bitbucket Cloud Migration Assistant](https://bitbucket.org/blog/bitbucket-cloud-migration-assistant) (today)
 - [Faster CI Builds with Docker Remote Caching](https://bitbucket.org/blog/faster-ci-builds-with-docker-remote-caching) (1 week ago)
 - [Introducing default values for custom pipeline variables](https://bitbucket.org/blog/introducing-default-values-for-custom-pipeline-variables) (2 weeks ago)
-- [Action Required for GitKraken Users using SSH](https://bitbucket.org/blog/action-required-for-gitkraken-users-using-ssh) (3 weeks ago)
