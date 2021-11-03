@@ -50,6 +50,6 @@
 
 #### 🔍 Bitbucket
 
+- [Bitbucket Cloud has landed in AWS](https://bitbucket.org/blog/bitbucket-cloud-has-landed-in-aws) (today)
 - [Announcing the Bitbucket Cloud Migration Assistant](https://bitbucket.org/blog/bitbucket-cloud-migration-assistant) (2 days ago)
 - [Faster CI Builds with Docker Remote Caching](https://bitbucket.org/blog/faster-ci-builds-with-docker-remote-caching) (2 weeks ago)
-- [Introducing default values for custom pipeline variables](https://bitbucket.org/blog/introducing-default-values-for-custom-pipeline-variables) (2 weeks ago)
