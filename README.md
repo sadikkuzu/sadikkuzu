@@ -10,11 +10,11 @@
 
 #### 🔭 Check out my recent followers
 
-- [ [ErmanEU](https://github.com/ErmanEU) Erman Yazgan ]
 - [ [furkanalptokac](https://github.com/furkanalptokac) Furkan Alp Tokaç ]
 - [ [bobbyiliev](https://github.com/bobbyiliev) Bobby Iliev ]
 - [ [marcomiduri](https://github.com/marcomiduri) Marco Miduri ]
 - [ [ahmetveburak](https://github.com/ahmetveburak) Ahmet Burak ]
+- [ [cagdastopcu](https://github.com/cagdastopcu) Cagdas Topcu ]
 
 
 #### 🔻 [The Gradient](https://thegradient.pub)
