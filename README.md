@@ -19,7 +19,7 @@
 
 #### 🔻 [The Gradient](https://thegradient.pub)
 
-- [Strong AI Requires Autonomous Building of Composable Models](https://thegradient.pub/strong-ai-requires-autonomous-building-of-composable-models/) (4 days ago)
+- [Strong AI Requires Autonomous Building of Composable Models](https://thegradient.pub/strong-ai-requires-autonomous-building-of-composable-models/) (5 days ago)
 - [Reflections on Foundation Models](https://thegradient.pub/reflections-on-foundation-models/) (2 weeks ago)
 - [The Imperative for Sustainable AI Systems](https://thegradient.pub/sustainable-ai/) (1 month ago)
 
@@ -33,7 +33,7 @@
 
 #### 📰 Stackoverflow blog
 
-- [Why SOLID principles are still the foundation for modern software architecture](https://stackoverflow.blog/2021/11/01/why-solid-principles-are-still-the-foundation-for-modern-software-architecture/) (2 days ago)
+- [Why SOLID principles are still the foundation for modern software architecture](https://stackoverflow.blog/2021/11/01/why-solid-principles-are-still-the-foundation-for-modern-software-architecture/) (3 days ago)
 - [Node.js makes fullstack programming easy with server-side JavaScript](https://stackoverflow.blog/2021/10/25/node-js-makes-fullstack-programming-easy-with-server-side-javascript/) (1 week ago)
 - [CSS in SVG in CSS: Shipping confetti to Stack Overflow’s design system](https://stackoverflow.blog/2021/05/31/shipping-confetti-to-stack-overflows-design-system/) (5 months ago)
 
@@ -50,6 +50,6 @@
 
 #### 🔍 Bitbucket
 
-- [Bitbucket Cloud has landed in AWS](https://bitbucket.org/blog/bitbucket-cloud-has-landed-in-aws) (today)
-- [Announcing the Bitbucket Cloud Migration Assistant](https://bitbucket.org/blog/bitbucket-cloud-migration-assistant) (2 days ago)
+- [Bitbucket Cloud has landed in AWS](https://bitbucket.org/blog/bitbucket-cloud-has-landed-in-aws) (1 day ago)
+- [Announcing the Bitbucket Cloud Migration Assistant](https://bitbucket.org/blog/bitbucket-cloud-migration-assistant) (3 days ago)
 - [Faster CI Builds with Docker Remote Caching](https://bitbucket.org/blog/faster-ci-builds-with-docker-remote-caching) (2 weeks ago)
