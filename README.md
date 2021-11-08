@@ -33,8 +33,8 @@
 
 #### 📰 Stackoverflow blog
 
+- [Adapting a design system to work for the Metaverse](https://stackoverflow.blog/2021/11/08/adapting-a-design-system-to-work-for-the-metaverse/) (today)
 - [Why SOLID principles are still the foundation for modern software architecture](https://stackoverflow.blog/2021/11/01/why-solid-principles-are-still-the-foundation-for-modern-software-architecture/) (1 week ago)
-- [Node.js makes fullstack programming easy with server-side JavaScript](https://stackoverflow.blog/2021/10/25/node-js-makes-fullstack-programming-easy-with-server-side-javascript/) (2 weeks ago)
 - [CSS in SVG in CSS: Shipping confetti to Stack Overflow’s design system](https://stackoverflow.blog/2021/05/31/shipping-confetti-to-stack-overflows-design-system/) (5 months ago)
 
 
