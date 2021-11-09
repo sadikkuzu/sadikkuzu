@@ -40,9 +40,9 @@
 
 #### 📢 Facebook
 
+- [OCP Summit 2021: Open networking hardware lays the groundwork for the metaverse](https://engineering.fb.com/2021/11/09/data-center-engineering/ocp-summit-2021/) (today)
 - [Kangaroo: A new flash cache optimized for tiny objects](https://engineering.fb.com/2021/10/26/core-data/kangaroo/) (2 weeks ago)
 - [Autonomous testing of services at scale](https://engineering.fb.com/2021/10/20/developer-tools/autonomous-testing/) (2 weeks ago)
-- [Facebook engineers receive 2021 IEEE Computer Society Cybersecurity Award for static analysis tools](https://engineering.fb.com/2021/10/20/security/static-analysis-award/) (2 weeks ago)
 
 
 #### ⛅ [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
