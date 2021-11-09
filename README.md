@@ -33,14 +33,14 @@
 
 #### 📰 Stackoverflow blog
 
-- [Adapting a design system to work for the Metaverse](https://stackoverflow.blog/2021/11/08/adapting-a-design-system-to-work-for-the-metaverse/) (today)
+- [Adapting a design system to work for the Metaverse](https://stackoverflow.blog/2021/11/08/adapting-a-design-system-to-work-for-the-metaverse/) (1 day ago)
 - [Why SOLID principles are still the foundation for modern software architecture](https://stackoverflow.blog/2021/11/01/why-solid-principles-are-still-the-foundation-for-modern-software-architecture/) (1 week ago)
 - [CSS in SVG in CSS: Shipping confetti to Stack Overflow’s design system](https://stackoverflow.blog/2021/05/31/shipping-confetti-to-stack-overflows-design-system/) (5 months ago)
 
 
 #### 📢 Facebook
 
-- [Kangaroo: A new flash cache optimized for tiny objects](https://engineering.fb.com/2021/10/26/core-data/kangaroo/) (1 week ago)
+- [Kangaroo: A new flash cache optimized for tiny objects](https://engineering.fb.com/2021/10/26/core-data/kangaroo/) (2 weeks ago)
 - [Autonomous testing of services at scale](https://engineering.fb.com/2021/10/20/developer-tools/autonomous-testing/) (2 weeks ago)
 - [Facebook engineers receive 2021 IEEE Computer Society Cybersecurity Award for static analysis tools](https://engineering.fb.com/2021/10/20/security/static-analysis-award/) (2 weeks ago)
 
@@ -50,6 +50,6 @@
 
 #### 🔍 Bitbucket
 
-- [Bitbucket Cloud has landed in AWS](https://bitbucket.org/blog/bitbucket-cloud-has-landed-in-aws) (5 days ago)
+- [Bitbucket Cloud has landed in AWS](https://bitbucket.org/blog/bitbucket-cloud-has-landed-in-aws) (6 days ago)
 - [Announcing the Bitbucket Cloud Migration Assistant](https://bitbucket.org/blog/bitbucket-cloud-migration-assistant) (1 week ago)
-- [Faster CI Builds with Docker Remote Caching](https://bitbucket.org/blog/faster-ci-builds-with-docker-remote-caching) (2 weeks ago)
+- [Faster CI Builds with Docker Remote Caching](https://bitbucket.org/blog/faster-ci-builds-with-docker-remote-caching) (3 weeks ago)
