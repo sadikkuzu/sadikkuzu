@@ -40,9 +40,9 @@
 
 #### 📢 Facebook
 
+- [Malbec subsea cable connects Argentina and Brazil with the rest of the world](https://engineering.fb.com/2021/11/11/connectivity/malbec-subsea-cable/) (today)
 - [OCP Summit 2021: Open networking hardware lays the groundwork for the metaverse](https://engineering.fb.com/2021/11/09/data-center-engineering/ocp-summit-2021/) (2 days ago)
 - [Kangaroo: A new flash cache optimized for tiny objects](https://engineering.fb.com/2021/10/26/core-data/kangaroo/) (2 weeks ago)
-- [Autonomous testing of services at scale](https://engineering.fb.com/2021/10/20/developer-tools/autonomous-testing/) (3 weeks ago)
 
 
 #### ⛅ [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
