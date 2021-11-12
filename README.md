@@ -28,20 +28,20 @@
 
 - [NATS.io .NET C# Client Library JetStream Pre-Release](https://nats.io/blog/jetstream-dotnet-pre-release/) (3 months ago)
 - [NATS JetStream Deduplication for LinuxForHealth Blockchain Smart Contract Messaging](https://nats.io/blog/nats-jetstream-deduplication-for-lfh/) (3 months ago)
-- [JetStream for Key-Value Store Tech Preview](https://nats.io/blog/kv-cli/) (3 months ago)
+- [JetStream for Key-Value Store Tech Preview](https://nats.io/blog/kv-cli/) (4 months ago)
 
 
 #### 📰 Stackoverflow blog
 
-- [Does ES6 make JavaScript frameworks obsolete?](https://stackoverflow.blog/2021/11/10/does-es6-make-javascript-frameworks-obsolete/) (1 day ago)
-- [Adapting a design system to work for the Metaverse](https://stackoverflow.blog/2021/11/08/adapting-a-design-system-to-work-for-the-metaverse/) (3 days ago)
+- [Does ES6 make JavaScript frameworks obsolete?](https://stackoverflow.blog/2021/11/10/does-es6-make-javascript-frameworks-obsolete/) (2 days ago)
+- [Adapting a design system to work for the Metaverse](https://stackoverflow.blog/2021/11/08/adapting-a-design-system-to-work-for-the-metaverse/) (4 days ago)
 - [CSS in SVG in CSS: Shipping confetti to Stack Overflow’s design system](https://stackoverflow.blog/2021/05/31/shipping-confetti-to-stack-overflows-design-system/) (5 months ago)
 
 
 #### 📢 Facebook
 
-- [Malbec subsea cable connects Argentina and Brazil with the rest of the world](https://engineering.fb.com/2021/11/11/connectivity/malbec-subsea-cable/) (today)
-- [OCP Summit 2021: Open networking hardware lays the groundwork for the metaverse](https://engineering.fb.com/2021/11/09/data-center-engineering/ocp-summit-2021/) (2 days ago)
+- [Malbec subsea cable connects Argentina and Brazil with the rest of the world](https://engineering.fb.com/2021/11/11/connectivity/malbec-subsea-cable/) (1 day ago)
+- [OCP Summit 2021: Open networking hardware lays the groundwork for the metaverse](https://engineering.fb.com/2021/11/09/data-center-engineering/ocp-summit-2021/) (3 days ago)
 - [Kangaroo: A new flash cache optimized for tiny objects](https://engineering.fb.com/2021/10/26/core-data/kangaroo/) (2 weeks ago)
 
 
