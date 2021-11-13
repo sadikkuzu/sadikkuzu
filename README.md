@@ -19,7 +19,7 @@
 
 #### 🔻 [The Gradient](https://thegradient.pub)
 
-- [Strong AI Requires Autonomous Building of Composable Models](https://thegradient.pub/strong-ai-requires-autonomous-building-of-composable-models/) (1 week ago)
+- [Strong AI Requires Autonomous Building of Composable Models](https://thegradient.pub/strong-ai-requires-autonomous-building-of-composable-models/) (2 weeks ago)
 - [Reflections on Foundation Models](https://thegradient.pub/reflections-on-foundation-models/) (3 weeks ago)
 - [The Imperative for Sustainable AI Systems](https://thegradient.pub/sustainable-ai/) (1 month ago)
 
@@ -33,15 +33,15 @@
 
 #### 📰 Stackoverflow blog
 
-- [Does ES6 make JavaScript frameworks obsolete?](https://stackoverflow.blog/2021/11/10/does-es6-make-javascript-frameworks-obsolete/) (2 days ago)
-- [Adapting a design system to work for the Metaverse](https://stackoverflow.blog/2021/11/08/adapting-a-design-system-to-work-for-the-metaverse/) (4 days ago)
+- [Does ES6 make JavaScript frameworks obsolete?](https://stackoverflow.blog/2021/11/10/does-es6-make-javascript-frameworks-obsolete/) (3 days ago)
+- [Adapting a design system to work for the Metaverse](https://stackoverflow.blog/2021/11/08/adapting-a-design-system-to-work-for-the-metaverse/) (5 days ago)
 - [CSS in SVG in CSS: Shipping confetti to Stack Overflow’s design system](https://stackoverflow.blog/2021/05/31/shipping-confetti-to-stack-overflows-design-system/) (5 months ago)
 
 
 #### 📢 Facebook
 
-- [Malbec subsea cable connects Argentina and Brazil with the rest of the world](https://engineering.fb.com/2021/11/11/connectivity/malbec-subsea-cable/) (1 day ago)
-- [OCP Summit 2021: Open networking hardware lays the groundwork for the metaverse](https://engineering.fb.com/2021/11/09/data-center-engineering/ocp-summit-2021/) (3 days ago)
+- [Malbec subsea cable connects Argentina and Brazil with the rest of the world](https://engineering.fb.com/2021/11/11/connectivity/malbec-subsea-cable/) (2 days ago)
+- [OCP Summit 2021: Open networking hardware lays the groundwork for the metaverse](https://engineering.fb.com/2021/11/09/data-center-engineering/ocp-summit-2021/) (4 days ago)
 - [Kangaroo: A new flash cache optimized for tiny objects](https://engineering.fb.com/2021/10/26/core-data/kangaroo/) (2 weeks ago)
 
 
