@@ -19,9 +19,9 @@
 
 #### 🔻 [The Gradient](https://thegradient.pub)
 
+- [Explain Yourself - A Primer on ML Interpretability &amp; Explainability](https://thegradient.pub/explain-yourself/) (today)
 - [Strong AI Requires Autonomous Building of Composable Models](https://thegradient.pub/strong-ai-requires-autonomous-building-of-composable-models/) (2 weeks ago)
 - [Reflections on Foundation Models](https://thegradient.pub/reflections-on-foundation-models/) (3 weeks ago)
-- [The Imperative for Sustainable AI Systems](https://thegradient.pub/sustainable-ai/) (1 month ago)
 
 
 #### 🔛 NATS
