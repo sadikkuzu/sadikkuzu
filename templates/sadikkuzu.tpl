@@ -14,36 +14,27 @@
 {{- end}}
 
 
-#### 🔻 [The Gradient](https://thegradient.pub)
-{{range rss "https://thegradient.pub/rss/" 3}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}
-
-
-#### 🔛 NATS
-{{range rss "https://nats.io/blog/index.xml" 3}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}
-
-
-#### 📰 Stackoverflow blog
-{{range rss "https://stackoverflow.blog/code-for-a-living/feed/" 2}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}{{range rss "https://stackoverflow.blog/engineering/feed/" 1}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}
-
-
-#### 📢 Facebook
-{{range rss "https://engineering.fb.com/feed/" 3}}
+#### 🚀 [Getir](https://technology.getir.com)
+{{range rss "https://medium.com/feed/getir" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
 
 #### ⛅ [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
+{{range rss "https://aws.amazon.com/blogs/aws/feed/" 3}}
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+{{- end}}
 
 
 #### 🔍 Bitbucket
 {{range rss "https://bitbucket.org/blog/feed/" 3}}
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+{{- end}}
+
+
+#### 📰 Stackoverflow
+{{range rss "https://stackoverflow.blog/code-for-a-living/feed/" 2}}
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+{{- end}}{{range rss "https://stackoverflow.blog/engineering/feed/" 1}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
