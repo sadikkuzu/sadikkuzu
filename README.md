@@ -17,35 +17,20 @@
 - [ [cagdastopcu](https://github.com/cagdastopcu) Cagdas Topcu ]
 
 
-#### 🔻 [The Gradient](https://thegradient.pub)
+#### 🚀 [Getir](https://technology.getir.com)
 
-- [Explain Yourself - A Primer on ML Interpretability &amp; Explainability](https://thegradient.pub/explain-yourself/) (1 day ago)
-- [Strong AI Requires Autonomous Building of Composable Models](https://thegradient.pub/strong-ai-requires-autonomous-building-of-composable-models/) (2 weeks ago)
-- [Reflections on Foundation Models](https://thegradient.pub/reflections-on-foundation-models/) (3 weeks ago)
-
-
-#### 🔛 NATS
-
-- [NATS.io .NET C# Client Library JetStream Pre-Release](https://nats.io/blog/jetstream-dotnet-pre-release/) (3 months ago)
-- [NATS JetStream Deduplication for LinuxForHealth Blockchain Smart Contract Messaging](https://nats.io/blog/nats-jetstream-deduplication-for-lfh/) (3 months ago)
-- [JetStream for Key-Value Store Tech Preview](https://nats.io/blog/kv-cli/) (4 months ago)
-
-
-#### 📰 Stackoverflow blog
-
-- [Does ES6 make JavaScript frameworks obsolete?](https://stackoverflow.blog/2021/11/10/does-es6-make-javascript-frameworks-obsolete/) (4 days ago)
-- [Adapting a design system to work for the Metaverse](https://stackoverflow.blog/2021/11/08/adapting-a-design-system-to-work-for-the-metaverse/) (6 days ago)
-- [CSS in SVG in CSS: Shipping confetti to Stack Overflow’s design system](https://stackoverflow.blog/2021/05/31/shipping-confetti-to-stack-overflows-design-system/) (5 months ago)
-
-
-#### 📢 Facebook
-
-- [Malbec subsea cable connects Argentina and Brazil with the rest of the world](https://engineering.fb.com/2021/11/11/connectivity/malbec-subsea-cable/) (3 days ago)
-- [OCP Summit 2021: Open networking hardware lays the groundwork for the metaverse](https://engineering.fb.com/2021/11/09/data-center-engineering/ocp-summit-2021/) (5 days ago)
-- [Kangaroo: A new flash cache optimized for tiny objects](https://engineering.fb.com/2021/10/26/core-data/kangaroo/) (2 weeks ago)
+- [Why so cross-functional?](https://medium.com/getir/why-so-cross-functional-e411271265fc?source=rss----5138a1e0a250---4) (1 month ago)
+- [Effective Product Backlog Management for the Best Chefs in the Kitchen](https://medium.com/getir/effective-product-backlog-management-for-best-chefs-in-the-kitchen-d44a023d9c0b?source=rss----5138a1e0a250---4) (2 months ago)
+- [Design Thinking and Agile](https://medium.com/getir/design-thinking-and-agile-21d5159f429?source=rss----5138a1e0a250---4) (3 months ago)
+- [Introduction to Evidence Based Management — Time to Market KVA](https://medium.com/getir/introduction-to-evidence-based-management-time-to-market-kva-ce880fb71477?source=rss----5138a1e0a250---4) (7 months ago)
+- [Effective Goal Setting Method: OKR](https://medium.com/getir/effective-goal-setting-method-okr-e072238f626a?source=rss----5138a1e0a250---4) (8 months ago)
 
 
 #### ⛅ [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
+
+- [Meet the latest AWS Heroes – November 2021](https://aws.amazon.com/blogs/aws/meet-the-latest-aws-heroes-november-2021/) (2 days ago)
+- [New – EC2 Instances (G5) with NVIDIA A10G Tensor Core GPUs](https://aws.amazon.com/blogs/aws/new-ec2-instances-g5-with-nvidia-a10g-tensor-core-gpus/) (2 days ago)
+- [Measure and Improve Your Application Resilience with AWS Resilience Hub](https://aws.amazon.com/blogs/aws/monitor-and-improve-your-application-resiliency-with-resilience-hub/) (4 days ago)
 
 
 #### 🔍 Bitbucket
@@ -53,3 +38,10 @@
 - [Bitbucket Cloud has landed in AWS](https://bitbucket.org/blog/bitbucket-cloud-has-landed-in-aws) (1 week ago)
 - [Announcing the Bitbucket Cloud Migration Assistant](https://bitbucket.org/blog/bitbucket-cloud-migration-assistant) (1 week ago)
 - [Faster CI Builds with Docker Remote Caching](https://bitbucket.org/blog/faster-ci-builds-with-docker-remote-caching) (3 weeks ago)
+
+
+#### 📰 Stackoverflow
+
+- [Does ES6 make JavaScript frameworks obsolete?](https://stackoverflow.blog/2021/11/10/does-es6-make-javascript-frameworks-obsolete/) (4 days ago)
+- [Adapting a design system to work for the Metaverse](https://stackoverflow.blog/2021/11/08/adapting-a-design-system-to-work-for-the-metaverse/) (6 days ago)
+- [CSS in SVG in CSS: Shipping confetti to Stack Overflow’s design system](https://stackoverflow.blog/2021/05/31/shipping-confetti-to-stack-overflows-design-system/) (5 months ago)
