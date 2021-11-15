@@ -35,9 +35,9 @@
 
 #### 🔍 Bitbucket
 
+- [Help us welcome Horizontal Navigation to Bitbucket Cloud!](https://bitbucket.org/blog/new-horizontal-nav) (5 days ago)
 - [Bitbucket Cloud has landed in AWS](https://bitbucket.org/blog/bitbucket-cloud-has-landed-in-aws) (1 week ago)
 - [Announcing the Bitbucket Cloud Migration Assistant](https://bitbucket.org/blog/bitbucket-cloud-migration-assistant) (2 weeks ago)
-- [Faster CI Builds with Docker Remote Caching](https://bitbucket.org/blog/faster-ci-builds-with-docker-remote-caching) (3 weeks ago)
 
 
 #### 📰 Stackoverflow
