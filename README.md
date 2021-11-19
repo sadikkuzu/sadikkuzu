@@ -35,9 +35,9 @@
 
 #### 🔍 Bitbucket
 
+- [Automatically refresh caches when build dependencies are updated](https://bitbucket.org/blog/automatically-refresh-caches-when-build-dependencies-are-updated) (today)
 - [Help us welcome Horizontal Navigation to Bitbucket Cloud!](https://bitbucket.org/blog/new-horizontal-nav) (1 week ago)
 - [Bitbucket Cloud has landed in AWS](https://bitbucket.org/blog/bitbucket-cloud-has-landed-in-aws) (2 weeks ago)
-- [Announcing the Bitbucket Cloud Migration Assistant](https://bitbucket.org/blog/bitbucket-cloud-migration-assistant) (2 weeks ago)
 
 
 #### 📰 Stackoverflow
