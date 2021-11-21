@@ -25,21 +25,21 @@
 
 #### ⛅ [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
-- [Scalable, Cost-Effective Disaster Recovery in the Cloud](https://aws.amazon.com/blogs/aws/scalable-cost-effective-disaster-recovery-in-the-cloud/) (3 days ago)
+- [Scalable, Cost-Effective Disaster Recovery in the Cloud](https://aws.amazon.com/blogs/aws/scalable-cost-effective-disaster-recovery-in-the-cloud/) (4 days ago)
 - [Meet the latest AWS Heroes – November 2021](https://aws.amazon.com/blogs/aws/meet-the-latest-aws-heroes-november-2021/) (1 week ago)
 - [New – EC2 Instances (G5) with NVIDIA A10G Tensor Core GPUs](https://aws.amazon.com/blogs/aws/new-ec2-instances-g5-with-nvidia-a10g-tensor-core-gpus/) (1 week ago)
 
 
 #### 🔍 Bitbucket
 
-- [Automatically refresh caches when build dependencies are updated](https://bitbucket.org/blog/automatically-refresh-caches-when-build-dependencies-are-updated) (1 day ago)
+- [Automatically refresh caches when build dependencies are updated](https://bitbucket.org/blog/automatically-refresh-caches-when-build-dependencies-are-updated) (2 days ago)
 - [Help us welcome Horizontal Navigation to Bitbucket Cloud!](https://bitbucket.org/blog/new-horizontal-nav) (1 week ago)
 - [Bitbucket Cloud has landed in AWS](https://bitbucket.org/blog/bitbucket-cloud-has-landed-in-aws) (2 weeks ago)
 
 
 #### 📰 Stackoverflow
 
-- [Building a QA process for your deep learning pipeline in practice](https://stackoverflow.blog/2021/11/15/building-a-qa-process-for-your-deep-learning-pipeline-in-practice/) (5 days ago)
+- [Building a QA process for your deep learning pipeline in practice](https://stackoverflow.blog/2021/11/15/building-a-qa-process-for-your-deep-learning-pipeline-in-practice/) (6 days ago)
 - [Does ES6 make JavaScript frameworks obsolete?](https://stackoverflow.blog/2021/11/10/does-es6-make-javascript-frameworks-obsolete/) (1 week ago)
 - [CSS in SVG in CSS: Shipping confetti to Stack Overflow’s design system](https://stackoverflow.blog/2021/05/31/shipping-confetti-to-stack-overflows-design-system/) (5 months ago)
 
