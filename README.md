@@ -42,8 +42,3 @@
 - [Building a QA process for your deep learning pipeline in practice](https://stackoverflow.blog/2021/11/15/building-a-qa-process-for-your-deep-learning-pipeline-in-practice/) (1 week ago)
 - [Does ES6 make JavaScript frameworks obsolete?](https://stackoverflow.blog/2021/11/10/does-es6-make-javascript-frameworks-obsolete/) (2 weeks ago)
 - [CSS in SVG in CSS: Shipping confetti to Stack Overflow’s design system](https://stackoverflow.blog/2021/05/31/shipping-confetti-to-stack-overflows-design-system/) (5 months ago)
-
----
-
-[![sadikkuzu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadikkuzu&show_icons=true&theme=dark&hide=stars&hide_title=true)](https://github.com/sadikkuzu)
-[![sadikkuzu's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadikkuzu&langs_count=6&layout=compact&theme=dark&hide_title=true)](https://github.com/sadikkuzu)
