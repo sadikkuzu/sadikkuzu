@@ -25,9 +25,9 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
+- [AWS Free Tier Data Transfer Expansion – 100 GB From Regions and 1 TB From Amazon CloudFront Per Month](https://aws.amazon.com/blogs/aws/aws-free-tier-data-transfer-expansion-100-gb-from-regions-and-1-tb-from-amazon-cloudfront-per-month/) (today)
 - [Announcing AWS Graviton2 Support for AWS Fargate – Get up to 40% Better Price-Performance for Your Serverless Containers](https://aws.amazon.com/blogs/aws/announcing-aws-graviton2-support-for-aws-fargate-get-up-to-40-better-price-performance-for-your-serverless-containers/) (1 day ago)
 - [AWS Cloud Adoption Framework (CAF) 3.0 is Now Available](https://aws.amazon.com/blogs/aws/aws-cloud-adoption-framework-caf-3-0-is-now-available/) (1 day ago)
-- [New – Amazon EC2 R6i Memory-Optimized Instances Powered by the Latest Generation Intel Xeon Scalable Processors](https://aws.amazon.com/blogs/aws/new-amazon-ec2-r6i-memory-optimized-instances-powered-by-the-latest-generation-intel-xeon-scalable-processors/) (2 days ago)
 
 
 #### 🔍 &nbsp; Bitbucket
