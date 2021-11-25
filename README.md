@@ -25,14 +25,14 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
-- [New – AWS Proton Supports Terraform and Git Repositories to Manage Templates](https://aws.amazon.com/blogs/aws/new-aws-proton-supports-terraform-and-git-repositories-to-manage-templates/) (today)
-- [AWS Free Tier Data Transfer Expansion – 100 GB From Regions and 1 TB From Amazon CloudFront Per Month](https://aws.amazon.com/blogs/aws/aws-free-tier-data-transfer-expansion-100-gb-from-regions-and-1-tb-from-amazon-cloudfront-per-month/) (today)
-- [Announcing AWS Graviton2 Support for AWS Fargate – Get up to 40% Better Price-Performance for Your Serverless Containers](https://aws.amazon.com/blogs/aws/announcing-aws-graviton2-support-for-aws-fargate-get-up-to-40-better-price-performance-for-your-serverless-containers/) (1 day ago)
+- [New – AWS Proton Supports Terraform and Git Repositories to Manage Templates](https://aws.amazon.com/blogs/aws/new-aws-proton-supports-terraform-and-git-repositories-to-manage-templates/) (1 day ago)
+- [AWS Free Tier Data Transfer Expansion – 100 GB From Regions and 1 TB From Amazon CloudFront Per Month](https://aws.amazon.com/blogs/aws/aws-free-tier-data-transfer-expansion-100-gb-from-regions-and-1-tb-from-amazon-cloudfront-per-month/) (1 day ago)
+- [Announcing AWS Graviton2 Support for AWS Fargate – Get up to 40% Better Price-Performance for Your Serverless Containers](https://aws.amazon.com/blogs/aws/announcing-aws-graviton2-support-for-aws-fargate-get-up-to-40-better-price-performance-for-your-serverless-containers/) (2 days ago)
 
 
 #### 🔍 &nbsp; Bitbucket
 
-- [Automatically refresh caches when build dependencies are updated](https://bitbucket.org/blog/automatically-refresh-caches-when-build-dependencies-are-updated) (5 days ago)
+- [Automatically refresh caches when build dependencies are updated](https://bitbucket.org/blog/automatically-refresh-caches-when-build-dependencies-are-updated) (6 days ago)
 - [Help us welcome Horizontal Navigation to Bitbucket Cloud!](https://bitbucket.org/blog/new-horizontal-nav) (2 weeks ago)
 - [Bitbucket Cloud has landed in AWS](https://bitbucket.org/blog/bitbucket-cloud-has-landed-in-aws) (3 weeks ago)
 
