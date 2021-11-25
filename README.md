@@ -16,11 +16,11 @@
 
 #### 🚀 &nbsp; [Getir](https://technology.getir.com)
 
+- [Agile Practices in Non-Software Industries](https://medium.com/getir/agile-practices-in-non-software-industries-5e71c522aea2?source=rss----5138a1e0a250---4) (today)
 - [Why so cross-functional?](https://medium.com/getir/why-so-cross-functional-e411271265fc?source=rss----5138a1e0a250---4) (1 month ago)
 - [Effective Product Backlog Management for the Best Chefs in the Kitchen](https://medium.com/getir/effective-product-backlog-management-for-best-chefs-in-the-kitchen-d44a023d9c0b?source=rss----5138a1e0a250---4) (2 months ago)
 - [Design Thinking and Agile](https://medium.com/getir/design-thinking-and-agile-21d5159f429?source=rss----5138a1e0a250---4) (3 months ago)
 - [Introduction to Evidence Based Management — Time to Market KVA](https://medium.com/getir/introduction-to-evidence-based-management-time-to-market-kva-ce880fb71477?source=rss----5138a1e0a250---4) (7 months ago)
-- [Effective Goal Setting Method: OKR](https://medium.com/getir/effective-goal-setting-method-okr-e072238f626a?source=rss----5138a1e0a250---4) (8 months ago)
 
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
