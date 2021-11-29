@@ -25,9 +25,9 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
+- [re:Invent Session Preview – Under the Hood at Amazon Ads](https://aws.amazon.com/blogs/aws/reinvent-session-preview-under-the-hood-at-amazon-ads/) (today)
 - [Top Announcements of AWS re:Invent 2021](https://aws.amazon.com/blogs/aws/top-announcements-of-aws-reinvent-2021/) (today)
 - [Amazon CodeGuru Reviewer Introduces Secrets Detector to Identify Hardcoded Secrets and Secure Them with AWS Secrets Manager](https://aws.amazon.com/blogs/aws/codeguru-reviewer-secrets-detector-identify-hardcoded-secrets/) (today)
-- [Preview – AWS IoT RoboRunner for Building Robot Fleet Management Applications](https://aws.amazon.com/blogs/aws/preview-aws-iot-roborunner-for-building-robot-fleet-management-applications/) (today)
 
 
 #### 🔍 &nbsp; Bitbucket
