@@ -25,9 +25,9 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
-- [Join the Preview – Amazon EC2 C7g Instances Powered by New AWS Graviton3 Processors](https://aws.amazon.com/blogs/aws/join-the-preview-amazon-ec2-c7g-instances-powered-by-new-aws-graviton3-processors/) (today)
-- [New – Use Amazon S3 Event Notifications with Amazon EventBridge](https://aws.amazon.com/blogs/aws/new-use-amazon-s3-event-notifications-with-amazon-eventbridge/) (today)
-- [New – Amazon EBS Snapshots Archive](https://aws.amazon.com/blogs/aws/new-amazon-ebs-snapshots-archive/) (today)
+- [Announcing Amazon SageMaker Canvas – a Visual, No Code Machine Learning Capability for Business Analysts](https://aws.amazon.com/blogs/aws/announcing-amazon-sagemaker-canvas-a-visual-no-code-machine-learning-capability-for-business-analysts/) (today)
+- [Amazon Kinesis Data Streams On-Demand – Stream Data at Scale Without Managing Capacity](https://aws.amazon.com/blogs/aws/amazon-kinesis-data-streams-on-demand-stream-data-at-scale-without-managing-capacity/) (today)
+- [Introducing Amazon Redshift Serverless – Run Analytics At Any Scale Without Having to Manage Data Warehouse Infrastructure](https://aws.amazon.com/blogs/aws/introducing-amazon-redshift-serverless-run-analytics-at-any-scale-without-having-to-manage-infrastructure/) (today)
 
 
 #### 🔍 &nbsp; Bitbucket
