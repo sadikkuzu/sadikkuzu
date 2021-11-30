@@ -16,7 +16,7 @@
 
 #### 🚀 &nbsp; [Getir](https://technology.getir.com)
 
-- [Agile Practices in Non-Software Industries](https://medium.com/getir/agile-practices-in-non-software-industries-5e71c522aea2?source=rss----5138a1e0a250---4) (4 days ago)
+- [Agile Practices in Non-Software Industries](https://medium.com/getir/agile-practices-in-non-software-industries-5e71c522aea2?source=rss----5138a1e0a250---4) (5 days ago)
 - [Why so cross-functional?](https://medium.com/getir/why-so-cross-functional-e411271265fc?source=rss----5138a1e0a250---4) (1 month ago)
 - [Effective Product Backlog Management for the Best Chefs in the Kitchen](https://medium.com/getir/effective-product-backlog-management-for-best-chefs-in-the-kitchen-d44a023d9c0b?source=rss----5138a1e0a250---4) (2 months ago)
 - [Design Thinking and Agile](https://medium.com/getir/design-thinking-and-agile-21d5159f429?source=rss----5138a1e0a250---4) (4 months ago)
@@ -25,9 +25,9 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
-- [Improved, Automated Vulnerability Management for Cloud Workloads with a New Amazon Inspector](https://aws.amazon.com/blogs/aws/improved-automated-vulnerability-management-for-cloud-workloads-with-a-new-amazon-inspector/) (today)
-- [Announcing AWS Well-Architected Custom Lenses: Extend the Well-Architected Framework with Your Internal Best Practices](https://aws.amazon.com/blogs/aws/well-architected-custom-lenses-internal-best-practices/) (today)
-- [Announcing Pull Through Cache Repositories for Amazon Elastic Container Registry](https://aws.amazon.com/blogs/aws/announcing-pull-through-cache-repositories-for-amazon-elastic-container-registry/) (today)
+- [New – AWS Marketplace for Containers Anywhere to Deploy Your Kubernetes Cluster in Any Environment](https://aws.amazon.com/blogs/aws/new-aws-marketplace-for-containers-anywhere-to-deploy-your-kubernetes-cluster-in-any-environment/) (1 day ago)
+- [Announcing AWS Data Exchange for APIs: Find, Subscribe to, and Use Third-party APIs with Consistent Authentication](https://aws.amazon.com/blogs/aws/data-exchange-for-apis-find-subscribe-use-third-party-apis-consistent-authentication/) (1 day ago)
+- [Improved, Automated Vulnerability Management for Cloud Workloads with a New Amazon Inspector](https://aws.amazon.com/blogs/aws/improved-automated-vulnerability-management-for-cloud-workloads-with-a-new-amazon-inspector/) (1 day ago)
 
 
 #### 🔍 &nbsp; Bitbucket
@@ -39,6 +39,6 @@
 
 #### 📰 &nbsp; Stackoverflow
 
-- [The four engineering metrics that will streamline your software delivery](https://stackoverflow.blog/2021/11/29/the-four-engineering-metrics-that-will-streamline-your-software-delivery/) (today)
+- [The four engineering metrics that will streamline your software delivery](https://stackoverflow.blog/2021/11/29/the-four-engineering-metrics-that-will-streamline-your-software-delivery/) (1 day ago)
 - [Building a QA process for your deep learning pipeline in practice](https://stackoverflow.blog/2021/11/15/building-a-qa-process-for-your-deep-learning-pipeline-in-practice/) (2 weeks ago)
 - [CSS in SVG in CSS: Shipping confetti to Stack Overflow’s design system](https://stackoverflow.blog/2021/05/31/shipping-confetti-to-stack-overflows-design-system/) (6 months ago)
