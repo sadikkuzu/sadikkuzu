@@ -25,9 +25,9 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
-- [Announcing Amazon SageMaker Canvas – a Visual, No Code Machine Learning Capability for Business Analysts](https://aws.amazon.com/blogs/aws/announcing-amazon-sagemaker-canvas-a-visual-no-code-machine-learning-capability-for-business-analysts/) (today)
-- [Amazon Kinesis Data Streams On-Demand – Stream Data at Scale Without Managing Capacity](https://aws.amazon.com/blogs/aws/amazon-kinesis-data-streams-on-demand-stream-data-at-scale-without-managing-capacity/) (today)
-- [Introducing Amazon Redshift Serverless – Run Analytics At Any Scale Without Having to Manage Data Warehouse Infrastructure](https://aws.amazon.com/blogs/aws/introducing-amazon-redshift-serverless-run-analytics-at-any-scale-without-having-to-manage-infrastructure/) (today)
+- [AWS Nitro SSD – High Performance Storage for your I/O-Intensive Applications](https://aws.amazon.com/blogs/aws/aws-nitro-ssd-high-performance-storage-for-your-i-o-intensive-applications/) (today)
+- [New Storage-Optimized Amazon EC2 Instances (Im4gn and Is4gen) Powered by AWS Graviton2 Processors](https://aws.amazon.com/blogs/aws/new-storage-optimized-amazon-ec2-instances-im4gn-and-is4gen-powered-by-aws-graviton2-processors/) (today)
+- [Machine Learning-Powered Amazon Connect, Now With Call Summarization](https://aws.amazon.com/blogs/aws/machine-learning-powered-amazon-connect-now-with-call-summarization/) (today)
 
 
 #### 🔍 &nbsp; Bitbucket
