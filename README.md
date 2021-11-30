@@ -25,9 +25,9 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
-- [New – AWS Marketplace for Containers Anywhere to Deploy Your Kubernetes Cluster in Any Environment](https://aws.amazon.com/blogs/aws/new-aws-marketplace-for-containers-anywhere-to-deploy-your-kubernetes-cluster-in-any-environment/) (1 day ago)
-- [Announcing AWS Data Exchange for APIs: Find, Subscribe to, and Use Third-party APIs with Consistent Authentication](https://aws.amazon.com/blogs/aws/data-exchange-for-apis-find-subscribe-use-third-party-apis-consistent-authentication/) (1 day ago)
-- [Improved, Automated Vulnerability Management for Cloud Workloads with a New Amazon Inspector](https://aws.amazon.com/blogs/aws/improved-automated-vulnerability-management-for-cloud-workloads-with-a-new-amazon-inspector/) (1 day ago)
+- [New – Use Amazon S3 Event Notifications with Amazon EventBridge](https://aws.amazon.com/blogs/aws/new-use-amazon-s3-event-notifications-with-amazon-eventbridge/) (today)
+- [New – Amazon EBS Snapshots Archive](https://aws.amazon.com/blogs/aws/new-amazon-ebs-snapshots-archive/) (today)
+- [New – AWS Control Tower Account Factory for Terraform](https://aws.amazon.com/blogs/aws/new-aws-control-tower-account-factory-for-terraform/) (today)
 
 
 #### 🔍 &nbsp; Bitbucket
