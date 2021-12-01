@@ -25,9 +25,9 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
+- [New AWS Scholarship Program Helps Underrepresented and Underserved Students Prep for Careers in AI and ML](https://aws.amazon.com/blogs/aws/new-aws-scholarship-program-helps-underrepresented-and-underserved-students-prep-for-careers-in-ai-and-ml/) (today)
+- [Now in Preview – Amazon SageMaker Studio Lab, a Free Service to Learn and Experiment with ML](https://aws.amazon.com/blogs/aws/now-in-preview-amazon-sagemaker-studio-lab-a-free-service-to-learn-and-experiment-with-ml/) (today)
 - [Announcing Amazon SageMaker Inference Recommender](https://aws.amazon.com/blogs/aws/announcing-amazon-sagemaker-inference-recommender/) (today)
-- [New – Introducing SageMaker Training Compiler](https://aws.amazon.com/blogs/aws/new-introducing-sagemaker-training-compiler/) (today)
-- [New – Create and Manage EMR Clusters and Spark Jobs with Amazon SageMaker Studio](https://aws.amazon.com/blogs/aws/new-create-and-manage-emr-clusters-and-spark-jobs-with-amazon-sagemaker-studio/) (today)
 
 
 #### 🔍 &nbsp; Bitbucket
