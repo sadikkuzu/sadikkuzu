@@ -39,6 +39,6 @@
 
 #### 📰 &nbsp; Stackoverflow
 
+- [Migrating metrics from InfluxDB to M3](https://stackoverflow.blog/2021/12/01/migrating-metrics-from-influxdb-to-m3/) (today)
 - [The four engineering metrics that will streamline your software delivery](https://stackoverflow.blog/2021/11/29/the-four-engineering-metrics-that-will-streamline-your-software-delivery/) (2 days ago)
-- [Building a QA process for your deep learning pipeline in practice](https://stackoverflow.blog/2021/11/15/building-a-qa-process-for-your-deep-learning-pipeline-in-practice/) (2 weeks ago)
 - [CSS in SVG in CSS: Shipping confetti to Stack Overflow’s design system](https://stackoverflow.blog/2021/05/31/shipping-confetti-to-stack-overflows-design-system/) (6 months ago)
