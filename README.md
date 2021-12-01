@@ -25,9 +25,9 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
+- [Enhanced Amazon S3 Integration for Amazon FSx for Lustre](https://aws.amazon.com/blogs/aws/enhanced-amazon-s3-integration-for-amazon-fsx-for-lustre/) (today)
+- [New – Offline Tape Migration Using AWS Snowball Edge](https://aws.amazon.com/blogs/aws/new-offline-tape-migration-using-aws-snowball-edge/) (today)
 - [Preview – AWS Backup Adds Support for Amazon S3](https://aws.amazon.com/blogs/aws/preview-aws-backup-adds-support-for-amazon-s3/) (today)
-- [Amazon S3 Glacier is the Best Place to Archive Your Data – Introducing the S3 Glacier Instant Retrieval Storage Class](https://aws.amazon.com/blogs/aws/amazon-s3-glacier-is-the-best-place-to-archive-your-data-introducing-the-s3-glacier-instant-retrieval-storage-class/) (today)
-- [New – Simplify Access Management for Data Stored in Amazon S3](https://aws.amazon.com/blogs/aws/new-simplify-access-management-for-data-stored-in-amazon-s3/) (today)
 
 
 #### 🔍 &nbsp; Bitbucket
