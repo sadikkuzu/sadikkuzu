@@ -25,9 +25,9 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
-- [New DynamoDB Table Class – Save Up To 60% in Your DynamoDB Costs](https://aws.amazon.com/blogs/aws/new-dynamodb-table-class-save-up-to-60-in-your-dynamodb-costs/) (today)
-- [New – Amazon RDS Custom for SQL Server Is Generally Available](https://aws.amazon.com/blogs/aws/new-amazon-rds-custom-for-sql-server-is-generally-available/) (today)
-- [New – Amazon DevOps Guru for RDS to Detect, Diagnose, and Resolve Amazon Aurora-Related Issues using ML](https://aws.amazon.com/blogs/aws/new-amazon-devops-guru-for-rds-to-detect-diagnose-and-resolve-amazon-aurora-related-issues-using-ml/) (today)
+- [Announcing Amazon SageMaker Inference Recommender](https://aws.amazon.com/blogs/aws/announcing-amazon-sagemaker-inference-recommender/) (today)
+- [New – Introducing SageMaker Training Compiler](https://aws.amazon.com/blogs/aws/new-introducing-sagemaker-training-compiler/) (today)
+- [New – Create and Manage EMR Clusters and Spark Jobs with Amazon SageMaker Studio](https://aws.amazon.com/blogs/aws/new-create-and-manage-emr-clusters-and-spark-jobs-with-amazon-sagemaker-studio/) (today)
 
 
 #### 🔍 &nbsp; Bitbucket
