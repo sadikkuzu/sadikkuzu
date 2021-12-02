@@ -25,9 +25,9 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
+- [New – FreeRTOS Extended Maintenance Plan for Up to 10 Years](https://aws.amazon.com/blogs/aws/new-freertos-extended-maintenance-plan-for-up-to-10-years/) (today)
+- [AWS re:Post – A Reimagined Q&amp;A Experience for the AWS Community](https://aws.amazon.com/blogs/aws/aws-repost-a-reimagined-qa-experience-for-the-aws-community/) (today)
 - [New – Sustainability Pillar for AWS Well-Architected Framework](https://aws.amazon.com/blogs/aws/sustainability-pillar-well-architected-framework/) (today)
-- [Announcing General Availability of Construct Hub and AWS Cloud Development Kit Version 2](https://aws.amazon.com/blogs/aws/announcing-general-availability-of-construct-hub-and-aws-cloud-development-kit-version-2/) (today)
-- [Use New Amazon EC2 M1 Mac Instances to Build &amp; Test Apps for iPhone, iPad, Mac, Apple Watch, and Apple TV](https://aws.amazon.com/blogs/aws/use-amazon-ec2-m1-mac-instances-to-build-test-macos-ios-ipados-tvos-and-watchos-apps/) (today)
 
 
 #### 🔍 &nbsp; Bitbucket
