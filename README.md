@@ -25,20 +25,20 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
-- [New – FreeRTOS Extended Maintenance Plan for Up to 10 Years](https://aws.amazon.com/blogs/aws/new-freertos-extended-maintenance-plan-for-up-to-10-years/) (today)
-- [AWS re:Post – A Reimagined Q&amp;A Experience for the AWS Community](https://aws.amazon.com/blogs/aws/aws-repost-a-reimagined-qa-experience-for-the-aws-community/) (today)
-- [New – Sustainability Pillar for AWS Well-Architected Framework](https://aws.amazon.com/blogs/aws/sustainability-pillar-well-architected-framework/) (today)
+- [New – FreeRTOS Extended Maintenance Plan for Up to 10 Years](https://aws.amazon.com/blogs/aws/new-freertos-extended-maintenance-plan-for-up-to-10-years/) (1 day ago)
+- [AWS re:Post – A Reimagined Q&amp;A Experience for the AWS Community](https://aws.amazon.com/blogs/aws/aws-repost-a-reimagined-qa-experience-for-the-aws-community/) (1 day ago)
+- [New – Sustainability Pillar for AWS Well-Architected Framework](https://aws.amazon.com/blogs/aws/sustainability-pillar-well-architected-framework/) (1 day ago)
 
 
 #### 🔍 &nbsp; Bitbucket
 
-- [Automatically refresh caches when build dependencies are updated](https://bitbucket.org/blog/automatically-refresh-caches-when-build-dependencies-are-updated) (1 week ago)
+- [Automatically refresh caches when build dependencies are updated](https://bitbucket.org/blog/automatically-refresh-caches-when-build-dependencies-are-updated) (2 weeks ago)
 - [Help us welcome Horizontal Navigation to Bitbucket Cloud!](https://bitbucket.org/blog/new-horizontal-nav) (3 weeks ago)
-- [Bitbucket Cloud has landed in AWS](https://bitbucket.org/blog/bitbucket-cloud-has-landed-in-aws) (4 weeks ago)
+- [Bitbucket Cloud has landed in AWS](https://bitbucket.org/blog/bitbucket-cloud-has-landed-in-aws) (1 month ago)
 
 
 #### 📰 &nbsp; Stackoverflow
 
-- [Migrating metrics from InfluxDB to M3](https://stackoverflow.blog/2021/12/01/migrating-metrics-from-influxdb-to-m3/) (1 day ago)
-- [The four engineering metrics that will streamline your software delivery](https://stackoverflow.blog/2021/11/29/the-four-engineering-metrics-that-will-streamline-your-software-delivery/) (3 days ago)
+- [Migrating metrics from InfluxDB to M3](https://stackoverflow.blog/2021/12/01/migrating-metrics-from-influxdb-to-m3/) (2 days ago)
+- [The four engineering metrics that will streamline your software delivery](https://stackoverflow.blog/2021/11/29/the-four-engineering-metrics-that-will-streamline-your-software-delivery/) (4 days ago)
 - [CSS in SVG in CSS: Shipping confetti to Stack Overflow’s design system](https://stackoverflow.blog/2021/05/31/shipping-confetti-to-stack-overflows-design-system/) (6 months ago)
