@@ -25,9 +25,9 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
-- [New – FreeRTOS Extended Maintenance Plan for Up to 10 Years](https://aws.amazon.com/blogs/aws/new-freertos-extended-maintenance-plan-for-up-to-10-years/) (2 days ago)
-- [AWS re:Post – A Reimagined Q&amp;A Experience for the AWS Community](https://aws.amazon.com/blogs/aws/aws-repost-a-reimagined-qa-experience-for-the-aws-community/) (2 days ago)
-- [New – Sustainability Pillar for AWS Well-Architected Framework](https://aws.amazon.com/blogs/aws/sustainability-pillar-well-architected-framework/) (2 days ago)
+- [New – FreeRTOS Extended Maintenance Plan for Up to 10 Years](https://aws.amazon.com/blogs/aws/new-freertos-extended-maintenance-plan-for-up-to-10-years/) (3 days ago)
+- [AWS re:Post – A Reimagined Q&amp;A Experience for the AWS Community](https://aws.amazon.com/blogs/aws/aws-repost-a-reimagined-qa-experience-for-the-aws-community/) (3 days ago)
+- [New – Sustainability Pillar for AWS Well-Architected Framework](https://aws.amazon.com/blogs/aws/sustainability-pillar-well-architected-framework/) (3 days ago)
 
 
 #### 🔍 &nbsp; Bitbucket
@@ -39,6 +39,6 @@
 
 #### 📰 &nbsp; Stackoverflow
 
-- [Migrating metrics from InfluxDB to M3](https://stackoverflow.blog/2021/12/01/migrating-metrics-from-influxdb-to-m3/) (3 days ago)
-- [The four engineering metrics that will streamline your software delivery](https://stackoverflow.blog/2021/11/29/the-four-engineering-metrics-that-will-streamline-your-software-delivery/) (5 days ago)
+- [Migrating metrics from InfluxDB to M3](https://stackoverflow.blog/2021/12/01/migrating-metrics-from-influxdb-to-m3/) (4 days ago)
+- [The four engineering metrics that will streamline your software delivery](https://stackoverflow.blog/2021/11/29/the-four-engineering-metrics-that-will-streamline-your-software-delivery/) (6 days ago)
 - [CSS in SVG in CSS: Shipping confetti to Stack Overflow’s design system](https://stackoverflow.blog/2021/05/31/shipping-confetti-to-stack-overflows-design-system/) (6 months ago)
