@@ -39,6 +39,6 @@
 
 #### 📰 &nbsp; Stackoverflow
 
+- [Vision AI hardware for software developers](https://stackoverflow.blog/2021/12/08/vision-ai-hardware-for-software-developers/) (today)
 - [Migrating metrics from InfluxDB to M3](https://stackoverflow.blog/2021/12/01/migrating-metrics-from-influxdb-to-m3/) (1 week ago)
-- [The four engineering metrics that will streamline your software delivery](https://stackoverflow.blog/2021/11/29/the-four-engineering-metrics-that-will-streamline-your-software-delivery/) (1 week ago)
 - [CSS in SVG in CSS: Shipping confetti to Stack Overflow’s design system](https://stackoverflow.blog/2021/05/31/shipping-confetti-to-stack-overflows-design-system/) (6 months ago)
