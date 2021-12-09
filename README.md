@@ -39,6 +39,6 @@
 
 #### 📰 &nbsp; Stackoverflow
 
+- [Smashing bugs to set a world record: AWS BugBust](https://stackoverflow.blog/2021/12/09/smashing-bugs-to-set-a-world-record-aws-bugbust/) (today)
 - [Vision AI hardware for software developers](https://stackoverflow.blog/2021/12/08/vision-ai-hardware-for-software-developers/) (1 day ago)
-- [Migrating metrics from InfluxDB to M3](https://stackoverflow.blog/2021/12/01/migrating-metrics-from-influxdb-to-m3/) (1 week ago)
 - [CSS in SVG in CSS: Shipping confetti to Stack Overflow’s design system](https://stackoverflow.blog/2021/05/31/shipping-confetti-to-stack-overflows-design-system/) (6 months ago)
