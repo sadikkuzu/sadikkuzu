@@ -32,13 +32,13 @@
 
 #### 🔍 &nbsp; Bitbucket
 
-- [Infrastructure Changes – New Outbound IP Addresses](https://bitbucket.org/blog/infrastructure-changes-new-outbound-ip-addresses) (today)
-- [Automatically refresh caches when build dependencies are updated](https://bitbucket.org/blog/automatically-refresh-caches-when-build-dependencies-are-updated) (2 weeks ago)
-- [Help us welcome Horizontal Navigation to Bitbucket Cloud!](https://bitbucket.org/blog/new-horizontal-nav) (4 weeks ago)
+- [Infrastructure Changes – New Outbound IP Addresses](https://bitbucket.org/blog/infrastructure-changes-new-outbound-ip-addresses) (1 day ago)
+- [Automatically refresh caches when build dependencies are updated](https://bitbucket.org/blog/automatically-refresh-caches-when-build-dependencies-are-updated) (3 weeks ago)
+- [Help us welcome Horizontal Navigation to Bitbucket Cloud!](https://bitbucket.org/blog/new-horizontal-nav) (1 month ago)
 
 
 #### 📰 &nbsp; Stackoverflow
 
-- [Smashing bugs to set a world record: AWS BugBust](https://stackoverflow.blog/2021/12/09/smashing-bugs-to-set-a-world-record-aws-bugbust/) (today)
-- [Vision AI hardware for software developers](https://stackoverflow.blog/2021/12/08/vision-ai-hardware-for-software-developers/) (1 day ago)
+- [Smashing bugs to set a world record: AWS BugBust](https://stackoverflow.blog/2021/12/09/smashing-bugs-to-set-a-world-record-aws-bugbust/) (1 day ago)
+- [Vision AI hardware for software developers](https://stackoverflow.blog/2021/12/08/vision-ai-hardware-for-software-developers/) (2 days ago)
 - [CSS in SVG in CSS: Shipping confetti to Stack Overflow’s design system](https://stackoverflow.blog/2021/05/31/shipping-confetti-to-stack-overflows-design-system/) (6 months ago)
