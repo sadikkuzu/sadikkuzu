@@ -32,9 +32,9 @@
 
 #### 🔍 &nbsp; Bitbucket
 
+- [Configuring multiple Docker services with different memory limits](https://bitbucket.org/blog/configuring-multiple-docker-services-with-different-memory-limits) (today)
 - [Infrastructure Changes – New Outbound IP Addresses](https://bitbucket.org/blog/infrastructure-changes-new-outbound-ip-addresses) (1 day ago)
 - [Automatically refresh caches when build dependencies are updated](https://bitbucket.org/blog/automatically-refresh-caches-when-build-dependencies-are-updated) (3 weeks ago)
-- [Help us welcome Horizontal Navigation to Bitbucket Cloud!](https://bitbucket.org/blog/new-horizontal-nav) (1 month ago)
 
 
 #### 📰 &nbsp; Stackoverflow
