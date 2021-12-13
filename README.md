@@ -17,7 +17,7 @@
 #### 🚀 &nbsp; [Getir](https://technology.getir.com)
 
 - [Agile Practices in Non-Software Industries](https://medium.com/getir/agile-practices-in-non-software-industries-5e71c522aea2?source=rss----5138a1e0a250---4) (2 weeks ago)
-- [Why so cross-functional?](https://medium.com/getir/why-so-cross-functional-e411271265fc?source=rss----5138a1e0a250---4) (1 month ago)
+- [Why so cross-functional?](https://medium.com/getir/why-so-cross-functional-e411271265fc?source=rss----5138a1e0a250---4) (2 months ago)
 - [Effective Product Backlog Management for the Best Chefs in the Kitchen](https://medium.com/getir/effective-product-backlog-management-for-best-chefs-in-the-kitchen-d44a023d9c0b?source=rss----5138a1e0a250---4) (3 months ago)
 - [Design Thinking and Agile](https://medium.com/getir/design-thinking-and-agile-21d5159f429?source=rss----5138a1e0a250---4) (4 months ago)
 - [Introduction to Evidence Based Management — Time to Market KVA](https://medium.com/getir/introduction-to-evidence-based-management-time-to-market-kva-ce880fb71477?source=rss----5138a1e0a250---4) (8 months ago)
@@ -32,13 +32,13 @@
 
 #### 🔍 &nbsp; Bitbucket
 
-- [Configuring multiple Docker services with different memory limits](https://bitbucket.org/blog/configuring-multiple-docker-services-with-different-memory-limits) (2 days ago)
-- [Infrastructure Changes – New Outbound IP Addresses](https://bitbucket.org/blog/infrastructure-changes-new-outbound-ip-addresses) (3 days ago)
+- [Configuring multiple Docker services with different memory limits](https://bitbucket.org/blog/configuring-multiple-docker-services-with-different-memory-limits) (3 days ago)
+- [Infrastructure Changes – New Outbound IP Addresses](https://bitbucket.org/blog/infrastructure-changes-new-outbound-ip-addresses) (4 days ago)
 - [Automatically refresh caches when build dependencies are updated](https://bitbucket.org/blog/automatically-refresh-caches-when-build-dependencies-are-updated) (3 weeks ago)
 
 
 #### 📰 &nbsp; Stackoverflow
 
-- [Smashing bugs to set a world record: AWS BugBust](https://stackoverflow.blog/2021/12/09/smashing-bugs-to-set-a-world-record-aws-bugbust/) (3 days ago)
-- [Vision AI hardware for software developers](https://stackoverflow.blog/2021/12/08/vision-ai-hardware-for-software-developers/) (4 days ago)
+- [Smashing bugs to set a world record: AWS BugBust](https://stackoverflow.blog/2021/12/09/smashing-bugs-to-set-a-world-record-aws-bugbust/) (4 days ago)
+- [Vision AI hardware for software developers](https://stackoverflow.blog/2021/12/08/vision-ai-hardware-for-software-developers/) (5 days ago)
 - [CSS in SVG in CSS: Shipping confetti to Stack Overflow’s design system](https://stackoverflow.blog/2021/05/31/shipping-confetti-to-stack-overflows-design-system/) (6 months ago)
