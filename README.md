@@ -25,9 +25,9 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
+- [Now Open – AWS Asia Pacific (Jakarta) Region](https://aws.amazon.com/blogs/aws/now-open-aws-asia-pacific-jakarta-region/) (today)
 - [New – FreeRTOS Extended Maintenance Plan for Up to 10 Years](https://aws.amazon.com/blogs/aws/new-freertos-extended-maintenance-plan-for-up-to-10-years/) (1 week ago)
 - [AWS re:Post – A Reimagined Q&amp;A Experience for the AWS Community](https://aws.amazon.com/blogs/aws/aws-repost-a-reimagined-qa-experience-for-the-aws-community/) (1 week ago)
-- [New – Sustainability Pillar for AWS Well-Architected Framework](https://aws.amazon.com/blogs/aws/sustainability-pillar-well-architected-framework/) (1 week ago)
 
 
 #### 🔍 &nbsp; Bitbucket
