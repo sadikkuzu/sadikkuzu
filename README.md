@@ -32,9 +32,9 @@
 
 #### 🔍 &nbsp; Bitbucket
 
+- [Log4shell fix with the Bitbucket Cloud and Snyk integration](https://bitbucket.org/blog/log4shell-fix-with-the-bitbucket-cloud-and-snyk-integration) (today)
 - [Configuring multiple Docker services with different memory limits](https://bitbucket.org/blog/configuring-multiple-docker-services-with-different-memory-limits) (5 days ago)
 - [Infrastructure Changes – New Outbound IP Addresses](https://bitbucket.org/blog/infrastructure-changes-new-outbound-ip-addresses) (6 days ago)
-- [Automatically refresh caches when build dependencies are updated](https://bitbucket.org/blog/automatically-refresh-caches-when-build-dependencies-are-updated) (3 weeks ago)
 
 
 #### 📰 &nbsp; Stackoverflow
