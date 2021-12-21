@@ -39,6 +39,6 @@
 
 #### 📰 &nbsp; Stackoverflow
 
+- [“This should never happen. If it does, call the developers.”](https://stackoverflow.blog/2021/12/21/creating-a-good-feedback-loop-between-ops-and-devs-using-documentation/) (today)
 - [Fulfilling the promise of CI/CD](https://stackoverflow.blog/2021/12/20/fulfilling-the-promise-of-ci-cd/) (1 day ago)
-- [Smashing bugs to set a world record: AWS BugBust](https://stackoverflow.blog/2021/12/09/smashing-bugs-to-set-a-world-record-aws-bugbust/) (1 week ago)
 - [CSS in SVG in CSS: Shipping confetti to Stack Overflow’s design system](https://stackoverflow.blog/2021/05/31/shipping-confetti-to-stack-overflows-design-system/) (6 months ago)
