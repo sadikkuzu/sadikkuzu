@@ -32,13 +32,13 @@
 
 #### 🔍 &nbsp; Bitbucket
 
-- [Log4Shell fix with the Bitbucket Cloud and Snyk integration](https://bitbucket.org/blog/log4shell-fix-with-the-bitbucket-cloud-and-snyk-integration) (6 days ago)
+- [Log4Shell fix with the Bitbucket Cloud and Snyk integration](https://bitbucket.org/blog/log4shell-fix-with-the-bitbucket-cloud-and-snyk-integration) (1 week ago)
 - [Configuring multiple Docker services with different memory limits](https://bitbucket.org/blog/configuring-multiple-docker-services-with-different-memory-limits) (1 week ago)
 - [Infrastructure Changes – New Outbound IP Addresses](https://bitbucket.org/blog/infrastructure-changes-new-outbound-ip-addresses) (1 week ago)
 
 
 #### 📰 &nbsp; Stackoverflow
 
-- [“This should never happen. If it does, call the developers.”](https://stackoverflow.blog/2021/12/21/creating-a-good-feedback-loop-between-ops-and-devs-using-documentation/) (today)
-- [Fulfilling the promise of CI/CD](https://stackoverflow.blog/2021/12/20/fulfilling-the-promise-of-ci-cd/) (1 day ago)
+- [“This should never happen. If it does, call the developers.”](https://stackoverflow.blog/2021/12/21/creating-a-good-feedback-loop-between-ops-and-devs-using-documentation/) (1 day ago)
+- [Fulfilling the promise of CI/CD](https://stackoverflow.blog/2021/12/20/fulfilling-the-promise-of-ci-cd/) (2 days ago)
 - [CSS in SVG in CSS: Shipping confetti to Stack Overflow’s design system](https://stackoverflow.blog/2021/05/31/shipping-confetti-to-stack-overflows-design-system/) (6 months ago)
