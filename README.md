@@ -39,6 +39,6 @@
 
 #### 📰 &nbsp; Stackoverflow
 
+- [Best practices can slow your application down](https://stackoverflow.blog/2021/12/22/best-practices-can-slow-your-application-down/) (today)
 - [“This should never happen. If it does, call the developers.”](https://stackoverflow.blog/2021/12/21/creating-a-good-feedback-loop-between-ops-and-devs-using-documentation/) (1 day ago)
-- [Fulfilling the promise of CI/CD](https://stackoverflow.blog/2021/12/20/fulfilling-the-promise-of-ci-cd/) (2 days ago)
-- [CSS in SVG in CSS: Shipping confetti to Stack Overflow’s design system](https://stackoverflow.blog/2021/05/31/shipping-confetti-to-stack-overflows-design-system/) (6 months ago)
+- [Best practices can slow your application down](https://stackoverflow.blog/2021/12/22/best-practices-can-slow-your-application-down/) (today)
