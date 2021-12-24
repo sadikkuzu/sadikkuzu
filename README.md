@@ -33,12 +33,12 @@
 #### 🔍 &nbsp; Bitbucket
 
 - [Log4Shell fix with the Bitbucket Cloud and Snyk integration](https://bitbucket.org/blog/log4shell-fix-with-the-bitbucket-cloud-and-snyk-integration) (1 week ago)
-- [Configuring multiple Docker services with different memory limits](https://bitbucket.org/blog/configuring-multiple-docker-services-with-different-memory-limits) (1 week ago)
+- [Configuring multiple Docker services with different memory limits](https://bitbucket.org/blog/configuring-multiple-docker-services-with-different-memory-limits) (2 weeks ago)
 - [Infrastructure Changes – New Outbound IP Addresses](https://bitbucket.org/blog/infrastructure-changes-new-outbound-ip-addresses) (2 weeks ago)
 
 
 #### 📰 &nbsp; Stackoverflow
 
-- [Best practices for writing code comments](https://stackoverflow.blog/2021/12/23/best-practices-for-writing-code-comments/) (today)
-- [Best practices can slow your application down](https://stackoverflow.blog/2021/12/22/best-practices-can-slow-your-application-down/) (1 day ago)
-- [Best practices can slow your application down](https://stackoverflow.blog/2021/12/22/best-practices-can-slow-your-application-down/) (1 day ago)
+- [Best practices for writing code comments](https://stackoverflow.blog/2021/12/23/best-practices-for-writing-code-comments/) (1 day ago)
+- [Best practices can slow your application down](https://stackoverflow.blog/2021/12/22/best-practices-can-slow-your-application-down/) (2 days ago)
+- [Best practices can slow your application down](https://stackoverflow.blog/2021/12/22/best-practices-can-slow-your-application-down/) (2 days ago)
