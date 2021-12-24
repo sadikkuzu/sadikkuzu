@@ -39,6 +39,6 @@
 
 #### 📰 &nbsp; Stackoverflow
 
+- [Sequencing your DNA with a USB dongle and open source code](https://stackoverflow.blog/2021/12/24/sequencing-your-dna-with-a-usb-dongle-and-open-source-code/) (today)
 - [Best practices for writing code comments](https://stackoverflow.blog/2021/12/23/best-practices-for-writing-code-comments/) (1 day ago)
-- [Best practices can slow your application down](https://stackoverflow.blog/2021/12/22/best-practices-can-slow-your-application-down/) (2 days ago)
 - [Best practices can slow your application down](https://stackoverflow.blog/2021/12/22/best-practices-can-slow-your-application-down/) (2 days ago)
