@@ -16,7 +16,7 @@
 
 #### 🚀 &nbsp; [Getir](https://technology.getir.com)
 
-- [Agile Practices in Non-Software Industries](https://medium.com/getir/agile-practices-in-non-software-industries-5e71c522aea2?source=rss----5138a1e0a250---4) (4 weeks ago)
+- [Agile Practices in Non-Software Industries](https://medium.com/getir/agile-practices-in-non-software-industries-5e71c522aea2?source=rss----5138a1e0a250---4) (1 month ago)
 - [Why so cross-functional?](https://medium.com/getir/why-so-cross-functional-e411271265fc?source=rss----5138a1e0a250---4) (2 months ago)
 - [Effective Product Backlog Management for the Best Chefs in the Kitchen](https://medium.com/getir/effective-product-backlog-management-for-best-chefs-in-the-kitchen-d44a023d9c0b?source=rss----5138a1e0a250---4) (3 months ago)
 - [Design Thinking and Agile](https://medium.com/getir/design-thinking-and-agile-21d5159f429?source=rss----5138a1e0a250---4) (4 months ago)
@@ -39,6 +39,6 @@
 
 #### 📰 &nbsp; Stackoverflow
 
-- [Sequencing your DNA with a USB dongle and open source code](https://stackoverflow.blog/2021/12/24/sequencing-your-dna-with-a-usb-dongle-and-open-source-code/) (today)
-- [Best practices for writing code comments](https://stackoverflow.blog/2021/12/23/best-practices-for-writing-code-comments/) (1 day ago)
-- [Best practices can slow your application down](https://stackoverflow.blog/2021/12/22/best-practices-can-slow-your-application-down/) (2 days ago)
+- [Sequencing your DNA with a USB dongle and open source code](https://stackoverflow.blog/2021/12/24/sequencing-your-dna-with-a-usb-dongle-and-open-source-code/) (1 day ago)
+- [Best practices for writing code comments](https://stackoverflow.blog/2021/12/23/best-practices-for-writing-code-comments/) (2 days ago)
+- [Best practices can slow your application down](https://stackoverflow.blog/2021/12/22/best-practices-can-slow-your-application-down/) (3 days ago)
