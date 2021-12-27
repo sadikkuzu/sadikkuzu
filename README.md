@@ -7,11 +7,11 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [AbhishekRavindranHere](https://github.com/AbhishekRavindranHere)  ]
 - [ [Salihselim07](https://github.com/Salihselim07)  ]
 - [ [PremChapagain](https://github.com/PremChapagain) Prem Chapagain ]
 - [ [furkanalptokac](https://github.com/furkanalptokac) Furkan Alp Tokaç ]
 - [ [bobbyiliev](https://github.com/bobbyiliev) Bobby Iliev ]
-- [ [marcomiduri](https://github.com/marcomiduri) Marco Miduri ]
 
 
 #### 🚀 &nbsp; [Getir](https://technology.getir.com)
