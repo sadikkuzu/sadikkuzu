@@ -39,6 +39,6 @@
 
 #### 📰 &nbsp; Stackoverflow
 
+- [What I wish I had known about single page applications](https://stackoverflow.blog/2021/12/28/what-i-wish-i-had-known-about-single-page-applications/) (today)
 - [Don’t push that button: Exploring the software that flies SpaceX rockets and Starships](https://stackoverflow.blog/2021/12/27/dont-push-that-button-exploring-the-software-that-flies-spacex-starships/) (1 day ago)
-- [Sequencing your DNA with a USB dongle and open source code](https://stackoverflow.blog/2021/12/24/sequencing-your-dna-with-a-usb-dongle-and-open-source-code/) (4 days ago)
 - [Best practices can slow your application down](https://stackoverflow.blog/2021/12/22/best-practices-can-slow-your-application-down/) (6 days ago)
