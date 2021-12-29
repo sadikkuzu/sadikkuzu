@@ -39,6 +39,6 @@
 
 #### 📰 &nbsp; Stackoverflow
 
+- [I followed my dreams and got demoted to software developer](https://stackoverflow.blog/2021/12/29/moving-from-designer-to-developer-stack-overflow/) (today)
 - [What I wish I had known about single page applications](https://stackoverflow.blog/2021/12/28/what-i-wish-i-had-known-about-single-page-applications/) (1 day ago)
-- [Don’t push that button: Exploring the software that flies SpaceX rockets and Starships](https://stackoverflow.blog/2021/12/27/dont-push-that-button-exploring-the-software-that-flies-spacex-starships/) (2 days ago)
 - [Best practices can slow your application down](https://stackoverflow.blog/2021/12/22/best-practices-can-slow-your-application-down/) (1 week ago)
