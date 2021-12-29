@@ -32,13 +32,13 @@
 
 #### 🔍 &nbsp; Bitbucket
 
-- [Log4Shell fix with the Bitbucket Cloud and Snyk integration](https://bitbucket.org/blog/log4shell-fix-with-the-bitbucket-cloud-and-snyk-integration) (1 week ago)
+- [Log4Shell fix with the Bitbucket Cloud and Snyk integration](https://bitbucket.org/blog/log4shell-fix-with-the-bitbucket-cloud-and-snyk-integration) (2 weeks ago)
 - [Configuring multiple Docker services with different memory limits](https://bitbucket.org/blog/configuring-multiple-docker-services-with-different-memory-limits) (2 weeks ago)
 - [Infrastructure Changes – New Outbound IP Addresses](https://bitbucket.org/blog/infrastructure-changes-new-outbound-ip-addresses) (2 weeks ago)
 
 
 #### 📰 &nbsp; Stackoverflow
 
-- [What I wish I had known about single page applications](https://stackoverflow.blog/2021/12/28/what-i-wish-i-had-known-about-single-page-applications/) (today)
-- [Don’t push that button: Exploring the software that flies SpaceX rockets and Starships](https://stackoverflow.blog/2021/12/27/dont-push-that-button-exploring-the-software-that-flies-spacex-starships/) (1 day ago)
-- [Best practices can slow your application down](https://stackoverflow.blog/2021/12/22/best-practices-can-slow-your-application-down/) (6 days ago)
+- [What I wish I had known about single page applications](https://stackoverflow.blog/2021/12/28/what-i-wish-i-had-known-about-single-page-applications/) (1 day ago)
+- [Don’t push that button: Exploring the software that flies SpaceX rockets and Starships](https://stackoverflow.blog/2021/12/27/dont-push-that-button-exploring-the-software-that-flies-spacex-starships/) (2 days ago)
+- [Best practices can slow your application down](https://stackoverflow.blog/2021/12/22/best-practices-can-slow-your-application-down/) (1 week ago)
