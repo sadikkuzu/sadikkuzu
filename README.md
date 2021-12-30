@@ -26,19 +26,19 @@
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
 - [Now Open – AWS Asia Pacific (Jakarta) Region](https://aws.amazon.com/blogs/aws/now-open-aws-asia-pacific-jakarta-region/) (2 weeks ago)
-- [New – FreeRTOS Extended Maintenance Plan for Up to 10 Years](https://aws.amazon.com/blogs/aws/new-freertos-extended-maintenance-plan-for-up-to-10-years/) (3 weeks ago)
-- [AWS re:Post – A Reimagined Q&amp;A Experience for the AWS Community](https://aws.amazon.com/blogs/aws/aws-repost-a-reimagined-qa-experience-for-the-aws-community/) (3 weeks ago)
+- [New – FreeRTOS Extended Maintenance Plan for Up to 10 Years](https://aws.amazon.com/blogs/aws/new-freertos-extended-maintenance-plan-for-up-to-10-years/) (4 weeks ago)
+- [AWS re:Post – A Reimagined Q&amp;A Experience for the AWS Community](https://aws.amazon.com/blogs/aws/aws-repost-a-reimagined-qa-experience-for-the-aws-community/) (4 weeks ago)
 
 
 #### 🔍 &nbsp; Bitbucket
 
 - [Log4Shell fix with the Bitbucket Cloud and Snyk integration](https://bitbucket.org/blog/log4shell-fix-with-the-bitbucket-cloud-and-snyk-integration) (2 weeks ago)
 - [Configuring multiple Docker services with different memory limits](https://bitbucket.org/blog/configuring-multiple-docker-services-with-different-memory-limits) (2 weeks ago)
-- [Infrastructure Changes – New Outbound IP Addresses](https://bitbucket.org/blog/infrastructure-changes-new-outbound-ip-addresses) (2 weeks ago)
+- [Infrastructure Changes – New Outbound IP Addresses](https://bitbucket.org/blog/infrastructure-changes-new-outbound-ip-addresses) (3 weeks ago)
 
 
 #### 📰 &nbsp; Stackoverflow
 
-- [I followed my dreams and got demoted to software developer](https://stackoverflow.blog/2021/12/29/moving-from-designer-to-developer-stack-overflow/) (today)
-- [What I wish I had known about single page applications](https://stackoverflow.blog/2021/12/28/what-i-wish-i-had-known-about-single-page-applications/) (1 day ago)
+- [I followed my dreams and got demoted to software developer](https://stackoverflow.blog/2021/12/29/moving-from-designer-to-developer-stack-overflow/) (1 day ago)
+- [What I wish I had known about single page applications](https://stackoverflow.blog/2021/12/28/what-i-wish-i-had-known-about-single-page-applications/) (2 days ago)
 - [Best practices can slow your application down](https://stackoverflow.blog/2021/12/22/best-practices-can-slow-your-application-down/) (1 week ago)
