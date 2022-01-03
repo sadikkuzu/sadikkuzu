@@ -39,6 +39,6 @@
 
 #### 📰 &nbsp; Stackoverflow
 
+- [Favor real dependencies for unit testing](https://stackoverflow.blog/2022/01/03/favor-real-dependencies-for-unit-testing/) (today)
 - [700,000 lines of code, 20 years, and one developer: How Dwarf Fortress is built](https://stackoverflow.blog/2021/12/31/700000-lines-of-code-20-years-and-one-developer-how-dwarf-fortress-is-built/) (3 days ago)
-- [I followed my dreams and got demoted to software developer](https://stackoverflow.blog/2021/12/29/moving-from-designer-to-developer-stack-overflow/) (5 days ago)
 - [Best practices can slow your application down](https://stackoverflow.blog/2021/12/22/best-practices-can-slow-your-application-down/) (1 week ago)
