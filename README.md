@@ -16,7 +16,7 @@
 
 #### 🚀 &nbsp; [Getir](https://technology.getir.com)
 
-- [Getir 2021](https://medium.com/getir/getir-2021-cae852cc4e6c?source=rss----5138a1e0a250---4) (2 days ago)
+- [Getir 2021](https://medium.com/getir/getir-2021-cae852cc4e6c?source=rss----5138a1e0a250---4) (3 days ago)
 - [Agile Practices in Non-Software Industries](https://medium.com/getir/agile-practices-in-non-software-industries-5e71c522aea2?source=rss----5138a1e0a250---4) (1 month ago)
 - [Why so cross-functional?](https://medium.com/getir/why-so-cross-functional-e411271265fc?source=rss----5138a1e0a250---4) (2 months ago)
 - [Effective Product Backlog Management for the Best Chefs in the Kitchen](https://medium.com/getir/effective-product-backlog-management-for-best-chefs-in-the-kitchen-d44a023d9c0b?source=rss----5138a1e0a250---4) (3 months ago)
@@ -39,6 +39,6 @@
 
 #### 📰 &nbsp; Stackoverflow
 
-- [700,000 lines of code, 20 years, and one developer: How Dwarf Fortress is built](https://stackoverflow.blog/2021/12/31/700000-lines-of-code-20-years-and-one-developer-how-dwarf-fortress-is-built/) (2 days ago)
-- [I followed my dreams and got demoted to software developer](https://stackoverflow.blog/2021/12/29/moving-from-designer-to-developer-stack-overflow/) (4 days ago)
+- [700,000 lines of code, 20 years, and one developer: How Dwarf Fortress is built](https://stackoverflow.blog/2021/12/31/700000-lines-of-code-20-years-and-one-developer-how-dwarf-fortress-is-built/) (3 days ago)
+- [I followed my dreams and got demoted to software developer](https://stackoverflow.blog/2021/12/29/moving-from-designer-to-developer-stack-overflow/) (5 days ago)
 - [Best practices can slow your application down](https://stackoverflow.blog/2021/12/22/best-practices-can-slow-your-application-down/) (1 week ago)
