@@ -16,7 +16,7 @@
 
 #### 🚀 &nbsp; [Getir](https://technology.getir.com)
 
-- [Getir 2021](https://medium.com/getir/getir-2021-cae852cc4e6c?source=rss----5138a1e0a250---4) (3 days ago)
+- [Getir 2021](https://medium.com/getir/getir-2021-cae852cc4e6c?source=rss----5138a1e0a250---4) (4 days ago)
 - [Agile Practices in Non-Software Industries](https://medium.com/getir/agile-practices-in-non-software-industries-5e71c522aea2?source=rss----5138a1e0a250---4) (1 month ago)
 - [Why so cross-functional?](https://medium.com/getir/why-so-cross-functional-e411271265fc?source=rss----5138a1e0a250---4) (2 months ago)
 - [Effective Product Backlog Management for the Best Chefs in the Kitchen](https://medium.com/getir/effective-product-backlog-management-for-best-chefs-in-the-kitchen-d44a023d9c0b?source=rss----5138a1e0a250---4) (3 months ago)
@@ -25,7 +25,7 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
-- [Now Open – AWS Asia Pacific (Jakarta) Region](https://aws.amazon.com/blogs/aws/now-open-aws-asia-pacific-jakarta-region/) (2 weeks ago)
+- [Now Open – AWS Asia Pacific (Jakarta) Region](https://aws.amazon.com/blogs/aws/now-open-aws-asia-pacific-jakarta-region/) (3 weeks ago)
 - [New – FreeRTOS Extended Maintenance Plan for Up to 10 Years](https://aws.amazon.com/blogs/aws/new-freertos-extended-maintenance-plan-for-up-to-10-years/) (1 month ago)
 - [AWS re:Post – A Reimagined Q&amp;A Experience for the AWS Community](https://aws.amazon.com/blogs/aws/aws-repost-a-reimagined-qa-experience-for-the-aws-community/) (1 month ago)
 
@@ -39,6 +39,6 @@
 
 #### 📰 &nbsp; Stackoverflow
 
-- [Favor real dependencies for unit testing](https://stackoverflow.blog/2022/01/03/favor-real-dependencies-for-unit-testing/) (today)
-- [700,000 lines of code, 20 years, and one developer: How Dwarf Fortress is built](https://stackoverflow.blog/2021/12/31/700000-lines-of-code-20-years-and-one-developer-how-dwarf-fortress-is-built/) (3 days ago)
+- [Favor real dependencies for unit testing](https://stackoverflow.blog/2022/01/03/favor-real-dependencies-for-unit-testing/) (1 day ago)
+- [700,000 lines of code, 20 years, and one developer: How Dwarf Fortress is built](https://stackoverflow.blog/2021/12/31/700000-lines-of-code-20-years-and-one-developer-how-dwarf-fortress-is-built/) (4 days ago)
 - [Best practices can slow your application down](https://stackoverflow.blog/2021/12/22/best-practices-can-slow-your-application-down/) (1 week ago)
