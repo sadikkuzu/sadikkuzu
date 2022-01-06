@@ -25,9 +25,9 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
+- [Amazon Elastic Kubernetes Service Adds IPv6 Networking](https://aws.amazon.com/blogs/aws/amazon-elastic-kubernetes-service-adds-ipv6-networking/) (today)
 - [Now Open – AWS Asia Pacific (Jakarta) Region](https://aws.amazon.com/blogs/aws/now-open-aws-asia-pacific-jakarta-region/) (3 weeks ago)
 - [New – FreeRTOS Extended Maintenance Plan for Up to 10 Years](https://aws.amazon.com/blogs/aws/new-freertos-extended-maintenance-plan-for-up-to-10-years/) (1 month ago)
-- [AWS re:Post – A Reimagined Q&amp;A Experience for the AWS Community](https://aws.amazon.com/blogs/aws/aws-repost-a-reimagined-qa-experience-for-the-aws-community/) (1 month ago)
 
 
 #### 🔍 &nbsp; Bitbucket
