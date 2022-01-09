@@ -48,5 +48,3 @@
 - [Scaling productivity on microservices at Lyft (Part 3): Extending our Envoy mesh with staging…](https://eng.lyft.com/scaling-productivity-on-microservices-at-lyft-part-3-extending-our-envoy-mesh-with-staging-fdaafafca82f?source=rss----25cd379abb8---4) (3 weeks ago)
 - [Spotlighting scientists in the Lyft Kyiv office](https://eng.lyft.com/spotlighting-scientists-in-the-lyft-kyiv-office-26c28787bdc2?source=rss----25cd379abb8---4) (3 weeks ago)
 - [Scaling Incentive Campaigns @ Lyft](https://eng.lyft.com/scaling-incentive-campaigns-lyft-84222cf83aa7?source=rss----25cd379abb8---4) (1 month ago)
-- [Scaling productivity on microservices at Lyft (Part 2): Optimizing for fast local development](https://eng.lyft.com/scaling-productivity-on-microservices-at-lyft-part-2-optimizing-for-fast-local-development-9f27a98b47ee?source=rss----25cd379abb8---4) (1 month ago)
-- [Parameter Exploration at Lyft](https://eng.lyft.com/parameter-exploration-at-lyft-b9d2a1483c82?source=rss----25cd379abb8---4) (1 month ago)
