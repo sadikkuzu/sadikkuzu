@@ -48,3 +48,9 @@
 - [Scaling productivity on microservices at Lyft (Part 3): Extending our Envoy mesh with staging…](https://eng.lyft.com/scaling-productivity-on-microservices-at-lyft-part-3-extending-our-envoy-mesh-with-staging-fdaafafca82f?source=rss----25cd379abb8---4) (3 weeks ago)
 - [Spotlighting scientists in the Lyft Kyiv office](https://eng.lyft.com/spotlighting-scientists-in-the-lyft-kyiv-office-26c28787bdc2?source=rss----25cd379abb8---4) (3 weeks ago)
 - [Scaling Incentive Campaigns @ Lyft](https://eng.lyft.com/scaling-incentive-campaigns-lyft-84222cf83aa7?source=rss----25cd379abb8---4) (1 month ago)
+
+#### 🚕 &nbsp; Uber
+
+- [How We Saved 70K Cores Across 30 Mission-Critical Services (Large-Scale, Semi-Automated Go GC Tuning @Uber)](https://eng.uber.com/how-we-saved-70k-cores-across-30-mission-critical-services/) (2 weeks ago)
+- [Cadence Multi-Tenant Task Processing](https://eng.uber.com/cadence-multi-tenant-task-processing/) (3 weeks ago)
+- [CRISP: Critical Path Analysis for Microservice Architectures](https://eng.uber.com/crisp-critical-path-analysis-for-microservice-architectures/) (1 month ago)
