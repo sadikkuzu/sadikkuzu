@@ -37,6 +37,6 @@
 {{- end}}
 
 #### 🚕 &nbsp; Lyft
-{{range rss "https://eng.lyft.com/feed" 5}}
+{{range rss "https://eng.lyft.com/feed" 3}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
