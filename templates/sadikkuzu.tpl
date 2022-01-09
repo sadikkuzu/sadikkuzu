@@ -35,3 +35,8 @@
 {{- end}}{{range rss "https://stackoverflow.blog/engineering/feed/" 1}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
+
+#### 🚕 &nbsp; Lyft
+{{range rss "https://eng.lyft.com/feed" 5}}
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+{{- end}}
