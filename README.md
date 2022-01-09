@@ -7,11 +7,11 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [miqheil](https://github.com/miqheil) miqheil ]
 - [ [cahidal](https://github.com/cahidal)  ]
 - [ [AbhishekRavindranHere](https://github.com/AbhishekRavindranHere)  ]
 - [ [Salihselim07](https://github.com/Salihselim07)  ]
 - [ [PremChapagain](https://github.com/PremChapagain) Prem Chapagain ]
-- [ [furkanalptokac](https://github.com/furkanalptokac) Furkan Alp Tokaç ]
 
 
 #### 🚀 &nbsp; [Getir](https://technology.getir.com)
@@ -42,3 +42,11 @@
 - [Favor real dependencies for unit testing](https://stackoverflow.blog/2022/01/03/favor-real-dependencies-for-unit-testing/) (6 days ago)
 - [700,000 lines of code, 20 years, and one developer: How Dwarf Fortress is built](https://stackoverflow.blog/2021/12/31/700000-lines-of-code-20-years-and-one-developer-how-dwarf-fortress-is-built/) (1 week ago)
 - [Best practices can slow your application down](https://stackoverflow.blog/2021/12/22/best-practices-can-slow-your-application-down/) (2 weeks ago)
+
+#### 🚕 &nbsp; Lyft
+
+- [Scaling productivity on microservices at Lyft (Part 3): Extending our Envoy mesh with staging…](https://eng.lyft.com/scaling-productivity-on-microservices-at-lyft-part-3-extending-our-envoy-mesh-with-staging-fdaafafca82f?source=rss----25cd379abb8---4) (3 weeks ago)
+- [Spotlighting scientists in the Lyft Kyiv office](https://eng.lyft.com/spotlighting-scientists-in-the-lyft-kyiv-office-26c28787bdc2?source=rss----25cd379abb8---4) (3 weeks ago)
+- [Scaling Incentive Campaigns @ Lyft](https://eng.lyft.com/scaling-incentive-campaigns-lyft-84222cf83aa7?source=rss----25cd379abb8---4) (1 month ago)
+- [Scaling productivity on microservices at Lyft (Part 2): Optimizing for fast local development](https://eng.lyft.com/scaling-productivity-on-microservices-at-lyft-part-2-optimizing-for-fast-local-development-9f27a98b47ee?source=rss----25cd379abb8---4) (1 month ago)
+- [Parameter Exploration at Lyft](https://eng.lyft.com/parameter-exploration-at-lyft-b9d2a1483c82?source=rss----25cd379abb8---4) (1 month ago)
