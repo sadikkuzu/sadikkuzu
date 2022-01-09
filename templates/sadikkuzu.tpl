@@ -40,3 +40,8 @@
 {{range rss "https://eng.lyft.com/feed" 3}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
+
+#### 🚕 &nbsp; Uber
+{{range rss "https://eng.uber.com/feed" 3}}
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+{{- end}}
