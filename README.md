@@ -16,7 +16,7 @@
 
 #### 🚀 &nbsp; [Getir](https://technology.getir.com)
 
-- [Useful Tips to Explain the Story Point Logic to Scrum Teams](https://medium.com/getir/useful-tips-to-explain-the-story-point-logic-to-scrum-teams-872a62e95257?source=rss----5138a1e0a250---4) (2 days ago)
+- [Useful Tips to Explain the Story Point Logic to Scrum Teams](https://medium.com/getir/useful-tips-to-explain-the-story-point-logic-to-scrum-teams-872a62e95257?source=rss----5138a1e0a250---4) (3 days ago)
 - [Getir 2021](https://medium.com/getir/getir-2021-cae852cc4e6c?source=rss----5138a1e0a250---4) (1 week ago)
 - [Agile Practices in Non-Software Industries](https://medium.com/getir/agile-practices-in-non-software-industries-5e71c522aea2?source=rss----5138a1e0a250---4) (1 month ago)
 - [Why so cross-functional?](https://medium.com/getir/why-so-cross-functional-e411271265fc?source=rss----5138a1e0a250---4) (2 months ago)
@@ -25,7 +25,7 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
-- [Amazon Elastic Kubernetes Service Adds IPv6 Networking](https://aws.amazon.com/blogs/aws/amazon-elastic-kubernetes-service-adds-ipv6-networking/) (3 days ago)
+- [Amazon Elastic Kubernetes Service Adds IPv6 Networking](https://aws.amazon.com/blogs/aws/amazon-elastic-kubernetes-service-adds-ipv6-networking/) (4 days ago)
 - [Now Open – AWS Asia Pacific (Jakarta) Region](https://aws.amazon.com/blogs/aws/now-open-aws-asia-pacific-jakarta-region/) (3 weeks ago)
 - [New – FreeRTOS Extended Maintenance Plan for Up to 10 Years](https://aws.amazon.com/blogs/aws/new-freertos-extended-maintenance-plan-for-up-to-10-years/) (1 month ago)
 
@@ -39,14 +39,14 @@
 
 #### 📰 &nbsp; Stackoverflow
 
-- [Favor real dependencies for unit testing](https://stackoverflow.blog/2022/01/03/favor-real-dependencies-for-unit-testing/) (6 days ago)
+- [Favor real dependencies for unit testing](https://stackoverflow.blog/2022/01/03/favor-real-dependencies-for-unit-testing/) (1 week ago)
 - [700,000 lines of code, 20 years, and one developer: How Dwarf Fortress is built](https://stackoverflow.blog/2021/12/31/700000-lines-of-code-20-years-and-one-developer-how-dwarf-fortress-is-built/) (1 week ago)
 - [Best practices can slow your application down](https://stackoverflow.blog/2021/12/22/best-practices-can-slow-your-application-down/) (2 weeks ago)
 
 #### 🚕 &nbsp; Lyft
 
 - [Scaling productivity on microservices at Lyft (Part 3): Extending our Envoy mesh with staging…](https://eng.lyft.com/scaling-productivity-on-microservices-at-lyft-part-3-extending-our-envoy-mesh-with-staging-fdaafafca82f?source=rss----25cd379abb8---4) (3 weeks ago)
-- [Spotlighting scientists in the Lyft Kyiv office](https://eng.lyft.com/spotlighting-scientists-in-the-lyft-kyiv-office-26c28787bdc2?source=rss----25cd379abb8---4) (3 weeks ago)
+- [Spotlighting scientists in the Lyft Kyiv office](https://eng.lyft.com/spotlighting-scientists-in-the-lyft-kyiv-office-26c28787bdc2?source=rss----25cd379abb8---4) (4 weeks ago)
 - [Scaling Incentive Campaigns @ Lyft](https://eng.lyft.com/scaling-incentive-campaigns-lyft-84222cf83aa7?source=rss----25cd379abb8---4) (1 month ago)
 
 #### 🚕 &nbsp; Uber
