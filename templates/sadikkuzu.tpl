@@ -12,9 +12,12 @@
 
 
 #### 🚀 &nbsp; [Getir](https://technology.getir.com)
-{{range rss "https://medium.com/feed/getir" 5}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}
+
+- [Useful Tips to Explain the Story Point Logic to Scrum Teams](https://medium.com/getir/useful-tips-to-explain-the-story-point-logic-to-scrum-teams-872a62e95257)
+- [Getir 2021](https://medium.com/getir/getir-2021-cae852cc4e6c)
+- [Agile Practices in Non-Software Industries](https://medium.com/getir/agile-practices-in-non-software-industries-5e71c522aea2)
+- [Why so cross-functional?](https://medium.com/getir/why-so-cross-functional-e411271265fc)
+- [Effective Product Backlog Management for the Best Chefs in the Kitchen](https://medium.com/getir/effective-product-backlog-management-for-best-chefs-in-the-kitchen-d44a023d9c0b)
 
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
