@@ -51,6 +51,6 @@
 
 #### 🚕 &nbsp; Uber
 
+- [The New Version of Orbit (v1.1) is Released: The Improvements, Design Changes, and Exciting Collaborations](https://eng.uber.com/the-new-version-of-orbit-v1-1-is-released/) (today)
 - [How We Saved 70K Cores Across 30 Mission-Critical Services (Large-Scale, Semi-Automated Go GC Tuning @Uber)](https://eng.uber.com/how-we-saved-70k-cores-across-30-mission-critical-services/) (2 weeks ago)
 - [Cadence Multi-Tenant Task Processing](https://eng.uber.com/cadence-multi-tenant-task-processing/) (3 weeks ago)
-- [CRISP: Critical Path Analysis for Microservice Architectures](https://eng.uber.com/crisp-critical-path-analysis-for-microservice-architectures/) (1 month ago)
