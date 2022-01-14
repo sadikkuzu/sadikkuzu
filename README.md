@@ -7,11 +7,11 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [dilarakaragoz](https://github.com/dilarakaragoz)  ]
 - [ [miqheil](https://github.com/miqheil) miqheil ]
 - [ [cahidal](https://github.com/cahidal)  ]
 - [ [AbhishekRavindranHere](https://github.com/AbhishekRavindranHere)  ]
 - [ [Salihselim07](https://github.com/Salihselim07)  ]
-- [ [PremChapagain](https://github.com/PremChapagain) Prem Chapagain ]
 
 
 #### 🚀 &nbsp; [Getir](https://technology.getir.com)
