@@ -39,8 +39,8 @@
 
 #### 📰 &nbsp; Stackoverflow
 
+- [Plan for tradeoffs: You can’t optimize all software quality attributes](https://stackoverflow.blog/2022/01/17/plan-for-tradeoffs-you-cant-optimize-all-software-quality-attributes/) (today)
 - [The Great Resignation is here. What does that mean for developers?](https://stackoverflow.blog/2022/01/10/the-great-resignation-is-here-what-does-that-mean-for-developers/) (1 week ago)
-- [Favor real dependencies for unit testing](https://stackoverflow.blog/2022/01/03/favor-real-dependencies-for-unit-testing/) (2 weeks ago)
 - [Best practices can slow your application down](https://stackoverflow.blog/2021/12/22/best-practices-can-slow-your-application-down/) (3 weeks ago)
 
 #### 🚕 &nbsp; Lyft
