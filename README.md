@@ -25,7 +25,7 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
-- [A New AWS Console Home Experience](https://aws.amazon.com/blogs/aws/a-new-aws-console-home-experience/) (6 days ago)
+- [A New AWS Console Home Experience](https://aws.amazon.com/blogs/aws/a-new-aws-console-home-experience/) (1 week ago)
 - [New – Amazon EC2 Hpc6a Instance Optimized for High Performance Computing](https://aws.amazon.com/blogs/aws/new-amazon-ec2-hpc6a-instance-optimized-for-high-performance-computing/) (1 week ago)
 - [Amazon Elastic Kubernetes Service Adds IPv6 Networking](https://aws.amazon.com/blogs/aws/amazon-elastic-kubernetes-service-adds-ipv6-networking/) (1 week ago)
 
@@ -39,9 +39,9 @@
 
 #### 📰 &nbsp; Stackoverflow
 
-- [Plan for tradeoffs: You can’t optimize all software quality attributes](https://stackoverflow.blog/2022/01/17/plan-for-tradeoffs-you-cant-optimize-all-software-quality-attributes/) (1 day ago)
+- [Plan for tradeoffs: You can’t optimize all software quality attributes](https://stackoverflow.blog/2022/01/17/plan-for-tradeoffs-you-cant-optimize-all-software-quality-attributes/) (2 days ago)
 - [The Great Resignation is here. What does that mean for developers?](https://stackoverflow.blog/2022/01/10/the-great-resignation-is-here-what-does-that-mean-for-developers/) (1 week ago)
-- [Best practices can slow your application down](https://stackoverflow.blog/2021/12/22/best-practices-can-slow-your-application-down/) (3 weeks ago)
+- [Best practices can slow your application down](https://stackoverflow.blog/2021/12/22/best-practices-can-slow-your-application-down/) (4 weeks ago)
 
 #### 🚕 &nbsp; Lyft
 
@@ -52,5 +52,5 @@
 #### 🚕 &nbsp; Uber
 
 - [The New Version of Orbit (v1.1) is Released: The Improvements, Design Changes, and Exciting Collaborations](https://eng.uber.com/the-new-version-of-orbit-v1-1-is-released/) (1 week ago)
-- [How We Saved 70K Cores Across 30 Mission-Critical Services (Large-Scale, Semi-Automated Go GC Tuning @Uber)](https://eng.uber.com/how-we-saved-70k-cores-across-30-mission-critical-services/) (3 weeks ago)
+- [How We Saved 70K Cores Across 30 Mission-Critical Services (Large-Scale, Semi-Automated Go GC Tuning @Uber)](https://eng.uber.com/how-we-saved-70k-cores-across-30-mission-critical-services/) (4 weeks ago)
 - [Cadence Multi-Tenant Task Processing](https://eng.uber.com/cadence-multi-tenant-task-processing/) (1 month ago)
