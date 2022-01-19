@@ -51,6 +51,6 @@
 
 #### 🚕 &nbsp; Uber
 
+- [Capacity Recommendation Engine: Throughput and Utilization Based Predictive Scaling](https://eng.uber.com/capacity-recommendation-engine/) (today)
 - [The New Version of Orbit (v1.1) is Released: The Improvements, Design Changes, and Exciting Collaborations](https://eng.uber.com/the-new-version-of-orbit-v1-1-is-released/) (1 week ago)
 - [How We Saved 70K Cores Across 30 Mission-Critical Services (Large-Scale, Semi-Automated Go GC Tuning @Uber)](https://eng.uber.com/how-we-saved-70k-cores-across-30-mission-critical-services/) (4 weeks ago)
-- [Cadence Multi-Tenant Task Processing](https://eng.uber.com/cadence-multi-tenant-task-processing/) (1 month ago)
