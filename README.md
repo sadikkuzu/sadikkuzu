@@ -25,9 +25,9 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
+- [Amazon GuardDuty Enhances Detection of EC2 Instance Credential Exfiltration](https://aws.amazon.com/blogs/aws/amazon-guardduty-enhances-detection-of-ec2-instance-credential-exfiltration/) (2 days ago)
 - [A New AWS Console Home Experience](https://aws.amazon.com/blogs/aws/a-new-aws-console-home-experience/) (1 week ago)
 - [New – Amazon EC2 Hpc6a Instance Optimized for High Performance Computing](https://aws.amazon.com/blogs/aws/new-amazon-ec2-hpc6a-instance-optimized-for-high-performance-computing/) (1 week ago)
-- [Amazon Elastic Kubernetes Service Adds IPv6 Networking](https://aws.amazon.com/blogs/aws/amazon-elastic-kubernetes-service-adds-ipv6-networking/) (2 weeks ago)
 
 
 #### 🔍 &nbsp; Bitbucket
