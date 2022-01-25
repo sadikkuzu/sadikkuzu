@@ -51,6 +51,6 @@
 
 #### 🚕 &nbsp; Uber
 
+- [Cost Efficiency @ Scale in Big Data File Format](https://eng.uber.com/cost-efficiency-big-data/) (today)
 - [Capacity Recommendation Engine: Throughput and Utilization Based Predictive Scaling](https://eng.uber.com/capacity-recommendation-engine/) (6 days ago)
 - [The New Version of Orbit (v1.1) is Released: The Improvements, Design Changes, and Exciting Collaborations](https://eng.uber.com/the-new-version-of-orbit-v1-1-is-released/) (2 weeks ago)
-- [How We Saved 70K Cores Across 30 Mission-Critical Services (Large-Scale, Semi-Automated Go GC Tuning @Uber)](https://eng.uber.com/how-we-saved-70k-cores-across-30-mission-critical-services/) (1 month ago)
