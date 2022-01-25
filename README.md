@@ -7,11 +7,11 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [vbnmst](https://github.com/vbnmst)  ]
 - [ [jasineri](https://github.com/jasineri) Nerijus Jasinskas ]
 - [ [hibestil](https://github.com/hibestil) Halil Ibrahim Bestil ]
 - [ [dilarakaragoz](https://github.com/dilarakaragoz)  ]
 - [ [miqheil](https://github.com/miqheil) miqheil ]
-- [ [cahidal](https://github.com/cahidal)  ]
 
 
 #### 🚀 &nbsp; [Getir](https://technology.getir.com)
