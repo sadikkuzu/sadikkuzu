@@ -16,11 +16,11 @@
 
 #### 🚀 &nbsp; [Getir](https://technology.getir.com)
 
+- [“java.lang.OutOfMemoryError: Java heap space” in Karate Framework](https://medium.com/getir/java-lang-outofmemoryerror-java-heap-space-in-karate-framework-dc5ad83fcd1b?source=rss----5138a1e0a250---4) (today)
 - [How to start a Rest Assured Project](https://medium.com/getir/how-to-start-a-rest-assured-project-d599181ca855?source=rss----5138a1e0a250---4) (1 week ago)
 - [Load and performance test in Getir](https://medium.com/getir/load-and-performance-test-in-getir-3bc5bf57b1e2?source=rss----5138a1e0a250---4) (1 week ago)
 - [Useful Tips to Explain the Story Point Logic to Scrum Teams](https://medium.com/getir/useful-tips-to-explain-the-story-point-logic-to-scrum-teams-872a62e95257?source=rss----5138a1e0a250---4) (2 weeks ago)
 - [Getir 2021](https://medium.com/getir/getir-2021-cae852cc4e6c?source=rss----5138a1e0a250---4) (3 weeks ago)
-- [Agile Practices in Non-Software Industries](https://medium.com/getir/agile-practices-in-non-software-industries-5e71c522aea2?source=rss----5138a1e0a250---4) (2 months ago)
 
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
