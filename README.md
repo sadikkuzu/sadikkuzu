@@ -7,11 +7,11 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [esin](https://github.com/esin) Andrey Esin ]
+- [ [lilaroky](https://github.com/lilaroky) Lila ]
+- [ [oguz-yayla](https://github.com/oguz-yayla)  ]
 - [ [vbnmst](https://github.com/vbnmst)  ]
 - [ [jasineri](https://github.com/jasineri) Nerijus Jasinskas ]
-- [ [hibestil](https://github.com/hibestil) Halil Ibrahim Bestil ]
-- [ [dilarakaragoz](https://github.com/dilarakaragoz)  ]
-- [ [miqheil](https://github.com/miqheil) miqheil ]
 
 
 #### 🚀 &nbsp; [Getir](https://technology.getir.com)
