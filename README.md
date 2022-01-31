@@ -39,8 +39,8 @@
 
 #### 📰 &nbsp; Stackoverflow
 
+- [The complete beginners guide to dynamic programming](https://stackoverflow.blog/2022/01/31/the-complete-beginners-guide-to-dynamic-programming/) (today)
 - [Psychological safety is critical for high-performing teams](https://stackoverflow.blog/2022/01/27/psychological-safety-is-critical-for-high-performing-teams/) (4 days ago)
-- [Securing the data in your online code repository is a shared responsibility](https://stackoverflow.blog/2022/01/24/securing-the-data-in-your-online-code-repository-is-a-shared-responsibility/) (1 week ago)
 - [Securing the data in your online code repository is a shared responsibility](https://stackoverflow.blog/2022/01/24/securing-the-data-in-your-online-code-repository-is-a-shared-responsibility/) (1 week ago)
 
 #### 🚕 &nbsp; Lyft
