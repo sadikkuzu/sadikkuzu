@@ -51,6 +51,6 @@
 
 #### 🚕 &nbsp; Uber
 
+- [Project RADAR: Intelligent Early Fraud Detection System with Humans in the Loop](https://eng.uber.com/project-radar-intelligent-early-fraud-detection/) (today)
 - [Cost Efficiency @ Scale in Big Data File Format](https://eng.uber.com/cost-efficiency-big-data/) (1 week ago)
 - [Capacity Recommendation Engine: Throughput and Utilization Based Predictive Scaling](https://eng.uber.com/capacity-recommendation-engine/) (1 week ago)
-- [The New Version of Orbit (v1.1) is Released: The Improvements, Design Changes, and Exciting Collaborations](https://eng.uber.com/the-new-version-of-orbit-v1-1-is-released/) (3 weeks ago)
