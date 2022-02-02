@@ -7,11 +7,11 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [ethanflower1903](https://github.com/ethanflower1903) ethan flower ]
 - [ [esin](https://github.com/esin) Andrey Esin ]
 - [ [lilaroky](https://github.com/lilaroky) Lila ]
 - [ [oguz-yayla](https://github.com/oguz-yayla)  ]
 - [ [vbnmst](https://github.com/vbnmst)  ]
-- [ [jasineri](https://github.com/jasineri) Nerijus Jasinskas ]
 
 
 #### 🚀 &nbsp; [Getir](https://technology.getir.com)
