@@ -40,7 +40,7 @@
 #### 📰 &nbsp; Stackoverflow
 
 - [Five ways to create a continuous learning culture within a psychologically safe environment](https://stackoverflow.blog/2022/02/03/five-ways-to-create-a-continuous-learning-culture-within-a-psychologically-safe-environment/) (today)
-- [The complete beginner’s guide to dynamic programming](https://stackoverflow.blog/2022/01/31/the-complete-beginners-guide-to-dynamic-programming/) (3 days ago)
+- [The complete beginners guide to dynamic programming](https://stackoverflow.blog/2022/01/31/the-complete-beginners-guide-to-dynamic-programming/) (3 days ago)
 - [Securing the data in your online code repository is a shared responsibility](https://stackoverflow.blog/2022/01/24/securing-the-data-in-your-online-code-repository-is-a-shared-responsibility/) (1 week ago)
 
 #### 🚕 &nbsp; Lyft
