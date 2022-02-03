@@ -25,9 +25,9 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
+- [Demonstrate your AWS Cloud Storage knowledge and skills with new digital badges!](https://aws.amazon.com/blogs/aws/demonstrate-your-aws-cloud-storage-knowledge-and-skills-with-new-digital-badges/) (today)
 - [New – Amazon EC2 X2iezn Instances Powered by the Fastest Intel Xeon Scalable CPU for Memory-Intensive Workloads](https://aws.amazon.com/blogs/aws/new-amazon-ec2-x2iezn-instances-powered-by-the-fastest-intel-xeon-scalable-cpu-for-memory-intensive-workloads/) (1 week ago)
 - [New – Replication for Amazon Elastic File System (EFS)](https://aws.amazon.com/blogs/aws/new-replication-for-amazon-elastic-file-system-efs/) (1 week ago)
-- [Amazon GuardDuty Enhances Detection of EC2 Instance Credential Exfiltration](https://aws.amazon.com/blogs/aws/amazon-guardduty-enhances-detection-of-ec2-instance-credential-exfiltration/) (1 week ago)
 
 
 #### 🔍 &nbsp; Bitbucket
@@ -40,7 +40,7 @@
 #### 📰 &nbsp; Stackoverflow
 
 - [Five ways to create a continuous learning culture within a psychologically safe environment](https://stackoverflow.blog/2022/02/03/five-ways-to-create-a-continuous-learning-culture-within-a-psychologically-safe-environment/) (today)
-- [The complete beginners guide to dynamic programming](https://stackoverflow.blog/2022/01/31/the-complete-beginners-guide-to-dynamic-programming/) (3 days ago)
+- [The complete beginner’s guide to dynamic programming](https://stackoverflow.blog/2022/01/31/the-complete-beginners-guide-to-dynamic-programming/) (3 days ago)
 - [Securing the data in your online code repository is a shared responsibility](https://stackoverflow.blog/2022/01/24/securing-the-data-in-your-online-code-repository-is-a-shared-responsibility/) (1 week ago)
 
 #### 🚕 &nbsp; Lyft
