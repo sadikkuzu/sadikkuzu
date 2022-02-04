@@ -39,8 +39,8 @@
 
 #### 📰 &nbsp; Stackoverflow
 
+- [Moving from CEO back to IC: A chat with Mitchell Hashimoto on his love for code (Ep. 412)](https://stackoverflow.blog/2022/02/04/moving-from-ceo-back-to-ic-a-chat-with-mitchell-hashimoto-on-his-love-for-code-ep-412/) (today)
 - [Five ways to create a continuous learning culture within a psychologically safe environment](https://stackoverflow.blog/2022/02/03/five-ways-to-create-a-continuous-learning-culture-within-a-psychologically-safe-environment/) (1 day ago)
-- [The complete beginners guide to dynamic programming](https://stackoverflow.blog/2022/01/31/the-complete-beginners-guide-to-dynamic-programming/) (4 days ago)
 - [Securing the data in your online code repository is a shared responsibility](https://stackoverflow.blog/2022/01/24/securing-the-data-in-your-online-code-repository-is-a-shared-responsibility/) (1 week ago)
 
 #### 🚕 &nbsp; Lyft
