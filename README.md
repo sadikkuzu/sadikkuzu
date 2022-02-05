@@ -25,32 +25,32 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
-- [Demonstrate your AWS Cloud Storage knowledge and skills with new digital badges!](https://aws.amazon.com/blogs/aws/demonstrate-your-aws-cloud-storage-knowledge-and-skills-with-new-digital-badges/) (1 day ago)
+- [Demonstrate your AWS Cloud Storage knowledge and skills with new digital badges!](https://aws.amazon.com/blogs/aws/demonstrate-your-aws-cloud-storage-knowledge-and-skills-with-new-digital-badges/) (2 days ago)
 - [New – Amazon EC2 X2iezn Instances Powered by the Fastest Intel Xeon Scalable CPU for Memory-Intensive Workloads](https://aws.amazon.com/blogs/aws/new-amazon-ec2-x2iezn-instances-powered-by-the-fastest-intel-xeon-scalable-cpu-for-memory-intensive-workloads/) (1 week ago)
 - [New – Replication for Amazon Elastic File System (EFS)](https://aws.amazon.com/blogs/aws/new-replication-for-amazon-elastic-file-system-efs/) (1 week ago)
 
 
 #### 🔍 &nbsp; Bitbucket
 
-- [Project Settings are now available in Bitbucket Cloud!](https://bitbucket.org/blog/project-settings-are-now-available-in-bitbucket-cloud) (1 day ago)
+- [Project Settings are now available in Bitbucket Cloud!](https://bitbucket.org/blog/project-settings-are-now-available-in-bitbucket-cloud) (2 days ago)
 - [Log4Shell fix with the Bitbucket Cloud and Snyk integration](https://bitbucket.org/blog/log4shell-fix-with-the-bitbucket-cloud-and-snyk-integration) (1 month ago)
 - [Configuring multiple Docker services with different memory limits](https://bitbucket.org/blog/configuring-multiple-docker-services-with-different-memory-limits) (1 month ago)
 
 
 #### 📰 &nbsp; Stackoverflow
 
-- [Moving from CEO back to IC: A chat with Mitchell Hashimoto on his love for code (Ep. 412)](https://stackoverflow.blog/2022/02/04/moving-from-ceo-back-to-ic-a-chat-with-mitchell-hashimoto-on-his-love-for-code-ep-412/) (today)
-- [Five ways to create a continuous learning culture within a psychologically safe environment](https://stackoverflow.blog/2022/02/03/five-ways-to-create-a-continuous-learning-culture-within-a-psychologically-safe-environment/) (1 day ago)
+- [Moving from CEO back to IC: A chat with Mitchell Hashimoto on his love for code (Ep. 412)](https://stackoverflow.blog/2022/02/04/moving-from-ceo-back-to-ic-a-chat-with-mitchell-hashimoto-on-his-love-for-code-ep-412/) (1 day ago)
+- [Five ways to create a continuous learning culture within a psychologically safe environment](https://stackoverflow.blog/2022/02/03/five-ways-to-create-a-continuous-learning-culture-within-a-psychologically-safe-environment/) (2 days ago)
 - [Securing the data in your online code repository is a shared responsibility](https://stackoverflow.blog/2022/01/24/securing-the-data-in-your-online-code-repository-is-a-shared-responsibility/) (1 week ago)
 
 #### 🚕 &nbsp; Lyft
 
-- [Scaling productivity on microservices at Lyft (Part 4): Gating Deploys with Automated Acceptance…](https://eng.lyft.com/scaling-productivity-on-microservices-at-lyft-part-4-gating-deploys-with-automated-acceptance-4417e0ebc274?source=rss----25cd379abb8---4) (2 days ago)
+- [Scaling productivity on microservices at Lyft (Part 4): Gating Deploys with Automated Acceptance…](https://eng.lyft.com/scaling-productivity-on-microservices-at-lyft-part-4-gating-deploys-with-automated-acceptance-4417e0ebc274?source=rss----25cd379abb8---4) (3 days ago)
 - [Improving Web Vulnerability Management through Automation](https://eng.lyft.com/improving-web-vulnerability-management-through-automation-2631570d8415?source=rss----25cd379abb8---4) (2 weeks ago)
 - [Scaling productivity on microservices at Lyft (Part 3): Extending our Envoy mesh with staging…](https://eng.lyft.com/scaling-productivity-on-microservices-at-lyft-part-3-extending-our-envoy-mesh-with-staging-fdaafafca82f?source=rss----25cd379abb8---4) (1 month ago)
 
 #### 🚕 &nbsp; Uber
 
-- [Project RADAR: Intelligent Early Fraud Detection System with Humans in the Loop](https://eng.uber.com/project-radar-intelligent-early-fraud-detection/) (3 days ago)
+- [Project RADAR: Intelligent Early Fraud Detection System with Humans in the Loop](https://eng.uber.com/project-radar-intelligent-early-fraud-detection/) (4 days ago)
 - [Cost Efficiency @ Scale in Big Data File Format](https://eng.uber.com/cost-efficiency-big-data/) (1 week ago)
 - [Capacity Recommendation Engine: Throughput and Utilization Based Predictive Scaling](https://eng.uber.com/capacity-recommendation-engine/) (2 weeks ago)
