@@ -39,8 +39,8 @@
 
 #### 📰 &nbsp; Stackoverflow
 
+- [Attracting developers with a company brand that slays](https://stackoverflow.blog/2022/02/08/attracting-developers-with-a-company-brand-that-slays/) (today)
 - [Metadata, not data, is what drags your database down](https://stackoverflow.blog/2022/02/07/metadata-not-data-is-what-drags-your-database-down/) (1 day ago)
-- [Moving from CEO back to IC: A chat with Mitchell Hashimoto on his love for code (Ep. 412)](https://stackoverflow.blog/2022/02/04/moving-from-ceo-back-to-ic-a-chat-with-mitchell-hashimoto-on-his-love-for-code-ep-412/) (4 days ago)
 - [Securing the data in your online code repository is a shared responsibility](https://stackoverflow.blog/2022/01/24/securing-the-data-in-your-online-code-repository-is-a-shared-responsibility/) (2 weeks ago)
 
 #### 🚕 &nbsp; Lyft
