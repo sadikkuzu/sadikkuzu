@@ -25,28 +25,28 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
-- [New for App Runner – VPC Support](https://aws.amazon.com/blogs/aws/new-for-app-runner-vpc-support/) (1 day ago)
-- [NEW – Replicate Existing Objects with Amazon S3 Batch Replication](https://aws.amazon.com/blogs/aws/new-replicate-existing-objects-with-amazon-s3-batch-replication/) (1 day ago)
-- [Demonstrate your AWS Cloud Storage knowledge and skills with new digital badges!](https://aws.amazon.com/blogs/aws/demonstrate-your-aws-cloud-storage-knowledge-and-skills-with-new-digital-badges/) (6 days ago)
+- [New for App Runner – VPC Support](https://aws.amazon.com/blogs/aws/new-for-app-runner-vpc-support/) (2 days ago)
+- [NEW – Replicate Existing Objects with Amazon S3 Batch Replication](https://aws.amazon.com/blogs/aws/new-replicate-existing-objects-with-amazon-s3-batch-replication/) (2 days ago)
+- [Demonstrate your AWS Cloud Storage knowledge and skills with new digital badges!](https://aws.amazon.com/blogs/aws/demonstrate-your-aws-cloud-storage-knowledge-and-skills-with-new-digital-badges/) (1 week ago)
 
 
 #### 🔍 &nbsp; Bitbucket
 
-- [Predefine values of custom pipeline variables](https://bitbucket.org/blog/predefine-values-of-custom-pipeline-variables) (1 day ago)
-- [Project Settings are now available in Bitbucket Cloud!](https://bitbucket.org/blog/project-settings-are-now-available-in-bitbucket-cloud) (6 days ago)
+- [Predefine values of custom pipeline variables](https://bitbucket.org/blog/predefine-values-of-custom-pipeline-variables) (2 days ago)
+- [Project Settings are now available in Bitbucket Cloud!](https://bitbucket.org/blog/project-settings-are-now-available-in-bitbucket-cloud) (1 week ago)
 - [Log4Shell fix with the Bitbucket Cloud and Snyk integration](https://bitbucket.org/blog/log4shell-fix-with-the-bitbucket-cloud-and-snyk-integration) (1 month ago)
 
 
 #### 📰 &nbsp; Stackoverflow
 
-- [The three top-paying tech roles in 2022 and the skills you need to land them](https://stackoverflow.blog/2022/02/09/the-three-top-paying-tech-roles-in-2022-and-the-skills-you-need-to-land-them/) (today)
-- [Attracting developers with a company brand that slays](https://stackoverflow.blog/2022/02/08/attracting-developers-with-a-company-brand-that-slays/) (1 day ago)
+- [The three top-paying tech roles in 2022 and the skills you need to land them](https://stackoverflow.blog/2022/02/09/the-three-top-paying-tech-roles-in-2022-and-the-skills-you-need-to-land-them/) (1 day ago)
+- [Attracting developers with a company brand that slays](https://stackoverflow.blog/2022/02/08/attracting-developers-with-a-company-brand-that-slays/) (2 days ago)
 - [Securing the data in your online code repository is a shared responsibility](https://stackoverflow.blog/2022/01/24/securing-the-data-in-your-online-code-repository-is-a-shared-responsibility/) (2 weeks ago)
 
 #### 🚕 &nbsp; Lyft
 
 - [Scaling productivity on microservices at Lyft (Part 4): Gating Deploys with Automated Acceptance…](https://eng.lyft.com/scaling-productivity-on-microservices-at-lyft-part-4-gating-deploys-with-automated-acceptance-4417e0ebc274?source=rss----25cd379abb8---4) (1 week ago)
-- [Improving Web Vulnerability Management through Automation](https://eng.lyft.com/improving-web-vulnerability-management-through-automation-2631570d8415?source=rss----25cd379abb8---4) (2 weeks ago)
+- [Improving Web Vulnerability Management through Automation](https://eng.lyft.com/improving-web-vulnerability-management-through-automation-2631570d8415?source=rss----25cd379abb8---4) (3 weeks ago)
 - [Scaling productivity on microservices at Lyft (Part 3): Extending our Envoy mesh with staging…](https://eng.lyft.com/scaling-productivity-on-microservices-at-lyft-part-3-extending-our-envoy-mesh-with-staging-fdaafafca82f?source=rss----25cd379abb8---4) (1 month ago)
 
 #### 🚕 &nbsp; Uber
