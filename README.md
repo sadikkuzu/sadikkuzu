@@ -51,6 +51,6 @@
 
 #### 🚕 &nbsp; Uber
 
+- [DeepETA: How Uber Predicts Arrival Times Using Deep Learning](https://eng.uber.com/deepeta-how-uber-predicts-arrival-times/) (today)
 - [Project RADAR: Intelligent Early Fraud Detection System with Humans in the Loop](https://eng.uber.com/project-radar-intelligent-early-fraud-detection/) (1 week ago)
 - [Cost Efficiency @ Scale in Big Data File Format](https://eng.uber.com/cost-efficiency-big-data/) (2 weeks ago)
-- [Capacity Recommendation Engine: Throughput and Utilization Based Predictive Scaling](https://eng.uber.com/capacity-recommendation-engine/) (3 weeks ago)
