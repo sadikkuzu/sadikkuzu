@@ -39,8 +39,8 @@
 
 #### 📰 &nbsp; Stackoverflow
 
+- [Foster a continuous learning culture with Stack Overflow for Teams](https://stackoverflow.blog/2022/02/10/foster-a-continuous-learning-culture-with-stack-overflow-for-teams/) (today)
 - [The three top-paying tech roles in 2022 and the skills you need to land them](https://stackoverflow.blog/2022/02/09/the-three-top-paying-tech-roles-in-2022-and-the-skills-you-need-to-land-them/) (1 day ago)
-- [Attracting developers with a company brand that slays](https://stackoverflow.blog/2022/02/08/attracting-developers-with-a-company-brand-that-slays/) (2 days ago)
 - [Securing the data in your online code repository is a shared responsibility](https://stackoverflow.blog/2022/01/24/securing-the-data-in-your-online-code-repository-is-a-shared-responsibility/) (2 weeks ago)
 
 #### 🚕 &nbsp; Lyft
