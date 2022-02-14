@@ -25,9 +25,9 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
+- [Amazon Elastic File System Update – Sub-Millisecond Read Latency](https://aws.amazon.com/blogs/aws/amazon-elastic-file-system-update-sub-millisecond-read-latency/) (today)
 - [New – Amazon EC2 C6a Instances Powered By 3rd Gen AMD EPYC Processors for Compute-Intensive Workloads](https://aws.amazon.com/blogs/aws/new-amazon-ec2-c6a-instances-powered-by-3rd-gen-amd-epyc-processors-for-compute-intensive-workloads/) (today)
 - [New for App Runner – VPC Support](https://aws.amazon.com/blogs/aws/new-for-app-runner-vpc-support/) (6 days ago)
-- [NEW – Replicate Existing Objects with Amazon S3 Batch Replication](https://aws.amazon.com/blogs/aws/new-replicate-existing-objects-with-amazon-s3-batch-replication/) (6 days ago)
 
 
 #### 🔍 &nbsp; Bitbucket
