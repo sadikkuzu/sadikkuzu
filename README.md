@@ -39,8 +39,8 @@
 
 #### 📰 &nbsp; Stackoverflow
 
+- [Work estimates must account for friction](https://stackoverflow.blog/2022/02/14/work-estimates-must-account-for-friction/) (today)
 - [Foster a continuous learning culture with Stack Overflow for Teams](https://stackoverflow.blog/2022/02/10/foster-a-continuous-learning-culture-with-stack-overflow-for-teams/) (4 days ago)
-- [The three top-paying tech roles in 2022 and the skills you need to land them](https://stackoverflow.blog/2022/02/09/the-three-top-paying-tech-roles-in-2022-and-the-skills-you-need-to-land-them/) (5 days ago)
 - [Securing the data in your online code repository is a shared responsibility](https://stackoverflow.blog/2022/01/24/securing-the-data-in-your-online-code-repository-is-a-shared-responsibility/) (3 weeks ago)
 
 #### 🚕 &nbsp; Lyft
