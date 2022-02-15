@@ -45,9 +45,9 @@
 
 #### 🚕 &nbsp; Lyft
 
+- [Lyft and urban mobility](https://eng.lyft.com/lyft-and-urban-mobility-acf7a7571031?source=rss----25cd379abb8---4) (today)
 - [Scaling productivity on microservices at Lyft (Part 4): Gating Deploys with Automated Acceptance…](https://eng.lyft.com/scaling-productivity-on-microservices-at-lyft-part-4-gating-deploys-with-automated-acceptance-4417e0ebc274?source=rss----25cd379abb8---4) (1 week ago)
 - [Improving Web Vulnerability Management through Automation](https://eng.lyft.com/improving-web-vulnerability-management-through-automation-2631570d8415?source=rss----25cd379abb8---4) (3 weeks ago)
-- [Scaling productivity on microservices at Lyft (Part 3): Extending our Envoy mesh with staging…](https://eng.lyft.com/scaling-productivity-on-microservices-at-lyft-part-3-extending-our-envoy-mesh-with-staging-fdaafafca82f?source=rss----25cd379abb8---4) (2 months ago)
 
 #### 🚕 &nbsp; Uber
 
