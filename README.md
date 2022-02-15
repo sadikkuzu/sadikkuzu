@@ -25,22 +25,22 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
-- [Amazon Elastic File System Update – Sub-Millisecond Read Latency](https://aws.amazon.com/blogs/aws/amazon-elastic-file-system-update-sub-millisecond-read-latency/) (today)
-- [New – Amazon EC2 C6a Instances Powered By 3rd Gen AMD EPYC Processors for Compute-Intensive Workloads](https://aws.amazon.com/blogs/aws/new-amazon-ec2-c6a-instances-powered-by-3rd-gen-amd-epyc-processors-for-compute-intensive-workloads/) (today)
-- [New for App Runner – VPC Support](https://aws.amazon.com/blogs/aws/new-for-app-runner-vpc-support/) (6 days ago)
+- [Amazon Elastic File System Update – Sub-Millisecond Read Latency](https://aws.amazon.com/blogs/aws/amazon-elastic-file-system-update-sub-millisecond-read-latency/) (1 day ago)
+- [New – Amazon EC2 C6a Instances Powered By 3rd Gen AMD EPYC Processors for Compute-Intensive Workloads](https://aws.amazon.com/blogs/aws/new-amazon-ec2-c6a-instances-powered-by-3rd-gen-amd-epyc-processors-for-compute-intensive-workloads/) (1 day ago)
+- [New for App Runner – VPC Support](https://aws.amazon.com/blogs/aws/new-for-app-runner-vpc-support/) (1 week ago)
 
 
 #### 🔍 &nbsp; Bitbucket
 
-- [Predefine values of custom pipeline variables](https://bitbucket.org/blog/predefine-values-of-custom-pipeline-variables) (6 days ago)
+- [Predefine values of custom pipeline variables](https://bitbucket.org/blog/predefine-values-of-custom-pipeline-variables) (1 week ago)
 - [Project Settings are now available in Bitbucket Cloud!](https://bitbucket.org/blog/project-settings-are-now-available-in-bitbucket-cloud) (1 week ago)
 - [Log4Shell fix with the Bitbucket Cloud and Snyk integration](https://bitbucket.org/blog/log4shell-fix-with-the-bitbucket-cloud-and-snyk-integration) (2 months ago)
 
 
 #### 📰 &nbsp; Stackoverflow
 
-- [Work estimates must account for friction](https://stackoverflow.blog/2022/02/14/work-estimates-must-account-for-friction/) (today)
-- [Foster a continuous learning culture with Stack Overflow for Teams](https://stackoverflow.blog/2022/02/10/foster-a-continuous-learning-culture-with-stack-overflow-for-teams/) (4 days ago)
+- [Work estimates must account for friction](https://stackoverflow.blog/2022/02/14/work-estimates-must-account-for-friction/) (1 day ago)
+- [Foster a continuous learning culture with Stack Overflow for Teams](https://stackoverflow.blog/2022/02/10/foster-a-continuous-learning-culture-with-stack-overflow-for-teams/) (5 days ago)
 - [Securing the data in your online code repository is a shared responsibility](https://stackoverflow.blog/2022/01/24/securing-the-data-in-your-online-code-repository-is-a-shared-responsibility/) (3 weeks ago)
 
 #### 🚕 &nbsp; Lyft
@@ -51,6 +51,6 @@
 
 #### 🚕 &nbsp; Uber
 
-- [DeepETA: How Uber Predicts Arrival Times Using Deep Learning](https://eng.uber.com/deepeta-how-uber-predicts-arrival-times/) (4 days ago)
-- [Project RADAR: Intelligent Early Fraud Detection System with Humans in the Loop](https://eng.uber.com/project-radar-intelligent-early-fraud-detection/) (1 week ago)
-- [Cost Efficiency @ Scale in Big Data File Format](https://eng.uber.com/cost-efficiency-big-data/) (2 weeks ago)
+- [DeepETA: How Uber Predicts Arrival Times Using Deep Learning](https://eng.uber.com/deepeta-how-uber-predicts-arrival-times/) (5 days ago)
+- [Project RADAR: Intelligent Early Fraud Detection System with Humans in the Loop](https://eng.uber.com/project-radar-intelligent-early-fraud-detection/) (2 weeks ago)
+- [Cost Efficiency @ Scale in Big Data File Format](https://eng.uber.com/cost-efficiency-big-data/) (3 weeks ago)
