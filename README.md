@@ -51,6 +51,6 @@
 
 #### 🚕 &nbsp; Uber
 
+- [Introducing Carbon Feed for Earners: The One-Stop Info Shop](https://eng.uber.com/introducing-carbon-feed-for-earners-the-one-stop-info-shop/) (today)
 - [DeepETA: How Uber Predicts Arrival Times Using Deep Learning](https://eng.uber.com/deepeta-how-uber-predicts-arrival-times/) (6 days ago)
 - [Project RADAR: Intelligent Early Fraud Detection System with Humans in the Loop](https://eng.uber.com/project-radar-intelligent-early-fraud-detection/) (2 weeks ago)
-- [Cost Efficiency @ Scale in Big Data File Format](https://eng.uber.com/cost-efficiency-big-data/) (3 weeks ago)
