@@ -25,9 +25,9 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
-- [New for Amazon CodeGuru Reviewer – Detector Library and Security Detectors for Log-Injection Flaws](https://aws.amazon.com/blogs/aws/new-for-amazon-codeguru-reviewer-detector-library-and-security-detectors-for-log-injection-flaws/) (3 days ago)
-- [Amazon Elastic File System Update – Sub-Millisecond Read Latency](https://aws.amazon.com/blogs/aws/amazon-elastic-file-system-update-sub-millisecond-read-latency/) (4 days ago)
-- [New – Amazon EC2 C6a Instances Powered By 3rd Gen AMD EPYC Processors for Compute-Intensive Workloads](https://aws.amazon.com/blogs/aws/new-amazon-ec2-c6a-instances-powered-by-3rd-gen-amd-epyc-processors-for-compute-intensive-workloads/) (4 days ago)
+- [Happy 10th Birthday, DynamoDB! 🎉🎂🎁](https://aws.amazon.com/blogs/aws/happy-birthday-dynamodb/) (1 day ago)
+- [New for Amazon CodeGuru Reviewer – Detector Library and Security Detectors for Log-Injection Flaws](https://aws.amazon.com/blogs/aws/new-for-amazon-codeguru-reviewer-detector-library-and-security-detectors-for-log-injection-flaws/) (4 days ago)
+- [Amazon Elastic File System Update – Sub-Millisecond Read Latency](https://aws.amazon.com/blogs/aws/amazon-elastic-file-system-update-sub-millisecond-read-latency/) (5 days ago)
 
 
 #### 🔍 &nbsp; Bitbucket
@@ -39,18 +39,18 @@
 
 #### 📰 &nbsp; Stackoverflow
 
-- [Work estimates must account for friction](https://stackoverflow.blog/2022/02/14/work-estimates-must-account-for-friction/) (4 days ago)
+- [Work estimates must account for friction](https://stackoverflow.blog/2022/02/14/work-estimates-must-account-for-friction/) (5 days ago)
 - [Foster a continuous learning culture with Stack Overflow for Teams](https://stackoverflow.blog/2022/02/10/foster-a-continuous-learning-culture-with-stack-overflow-for-teams/) (1 week ago)
 - [Securing the data in your online code repository is a shared responsibility](https://stackoverflow.blog/2022/01/24/securing-the-data-in-your-online-code-repository-is-a-shared-responsibility/) (3 weeks ago)
 
 #### 🚕 &nbsp; Lyft
 
-- [Lyft and urban mobility](https://eng.lyft.com/lyft-and-urban-mobility-acf7a7571031?source=rss----25cd379abb8---4) (3 days ago)
+- [Lyft and urban mobility](https://eng.lyft.com/lyft-and-urban-mobility-acf7a7571031?source=rss----25cd379abb8---4) (4 days ago)
 - [Scaling productivity on microservices at Lyft (Part 4): Gating Deploys with Automated Acceptance…](https://eng.lyft.com/scaling-productivity-on-microservices-at-lyft-part-4-gating-deploys-with-automated-acceptance-4417e0ebc274?source=rss----25cd379abb8---4) (2 weeks ago)
-- [Improving Web Vulnerability Management through Automation](https://eng.lyft.com/improving-web-vulnerability-management-through-automation-2631570d8415?source=rss----25cd379abb8---4) (4 weeks ago)
+- [Improving Web Vulnerability Management through Automation](https://eng.lyft.com/improving-web-vulnerability-management-through-automation-2631570d8415?source=rss----25cd379abb8---4) (1 month ago)
 
 #### 🚕 &nbsp; Uber
 
-- [Introducing Carbon Feed for Earners: The One-Stop Info Shop](https://eng.uber.com/introducing-carbon-feed-for-earners-the-one-stop-info-shop/) (2 days ago)
+- [Introducing Carbon Feed for Earners: The One-Stop Info Shop](https://eng.uber.com/introducing-carbon-feed-for-earners-the-one-stop-info-shop/) (3 days ago)
 - [DeepETA: How Uber Predicts Arrival Times Using Deep Learning](https://eng.uber.com/deepeta-how-uber-predicts-arrival-times/) (1 week ago)
 - [Project RADAR: Intelligent Early Fraud Detection System with Humans in the Loop](https://eng.uber.com/project-radar-intelligent-early-fraud-detection/) (2 weeks ago)
