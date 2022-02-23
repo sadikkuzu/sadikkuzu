@@ -39,8 +39,8 @@
 
 #### 📰 &nbsp; Stackoverflow
 
+- [What you give up when moving into engineering management](https://stackoverflow.blog/2022/02/23/what-you-give-up-when-moving-into-engineering-management/) (today)
 - [Why Flutter is the most popular cross-platform mobile SDK](https://stackoverflow.blog/2022/02/21/why-flutter-is-the-most-popular-cross-platform-mobile-sdk/) (2 days ago)
-- [Work estimates must account for friction](https://stackoverflow.blog/2022/02/14/work-estimates-must-account-for-friction/) (1 week ago)
 - [Securing the data in your online code repository is a shared responsibility](https://stackoverflow.blog/2022/01/24/securing-the-data-in-your-online-code-repository-is-a-shared-responsibility/) (1 month ago)
 
 #### 🚕 &nbsp; Lyft
