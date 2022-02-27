@@ -25,7 +25,7 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
-- [New – Additional Checksum Algorithms for Amazon S3](https://aws.amazon.com/blogs/aws/new-additional-checksum-algorithms-for-amazon-s3/) (1 day ago)
+- [New – Additional Checksum Algorithms for Amazon S3](https://aws.amazon.com/blogs/aws/new-additional-checksum-algorithms-for-amazon-s3/) (2 days ago)
 - [Happy 10th Birthday, DynamoDB! 🎉🎂🎁](https://aws.amazon.com/blogs/aws/happy-birthday-dynamodb/) (1 week ago)
 - [New for Amazon CodeGuru Reviewer – Detector Library and Security Detectors for Log-Injection Flaws](https://aws.amazon.com/blogs/aws/new-for-amazon-codeguru-reviewer-detector-library-and-security-detectors-for-log-injection-flaws/) (1 week ago)
 
@@ -39,8 +39,8 @@
 
 #### 📰 &nbsp; Stackoverflow
 
-- [Sustainable architectures in a world of Agile, DevOps, and cloud](https://stackoverflow.blog/2022/02/24/sustainable-architectures-in-a-world-of-agile-devops-and-cloud/) (2 days ago)
-- [What you give up when moving into engineering management](https://stackoverflow.blog/2022/02/23/what-you-give-up-when-moving-into-engineering-management/) (3 days ago)
+- [Sustainable architectures in a world of Agile, DevOps, and cloud](https://stackoverflow.blog/2022/02/24/sustainable-architectures-in-a-world-of-agile-devops-and-cloud/) (3 days ago)
+- [What you give up when moving into engineering management](https://stackoverflow.blog/2022/02/23/what-you-give-up-when-moving-into-engineering-management/) (4 days ago)
 - [Securing the data in your online code repository is a shared responsibility](https://stackoverflow.blog/2022/01/24/securing-the-data-in-your-online-code-repository-is-a-shared-responsibility/) (1 month ago)
 
 #### 🚕 &nbsp; Lyft
