@@ -25,9 +25,9 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
+- [Let Your IPv6-only Workloads Connect to IPv4 Services](https://aws.amazon.com/blogs/aws/let-your-ipv6-only-workloads-connect-to-ipv4-services/) (today)
 - [New – Additional Checksum Algorithms for Amazon S3](https://aws.amazon.com/blogs/aws/new-additional-checksum-algorithms-for-amazon-s3/) (3 days ago)
 - [Happy 10th Birthday, DynamoDB! 🎉🎂🎁](https://aws.amazon.com/blogs/aws/happy-birthday-dynamodb/) (1 week ago)
-- [New for Amazon CodeGuru Reviewer – Detector Library and Security Detectors for Log-Injection Flaws](https://aws.amazon.com/blogs/aws/new-for-amazon-codeguru-reviewer-detector-library-and-security-detectors-for-log-injection-flaws/) (1 week ago)
 
 
 #### 🔍 &nbsp; Bitbucket
