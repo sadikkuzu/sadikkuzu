@@ -25,9 +25,9 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
+- [New – Customer Carbon Footprint Tool](https://aws.amazon.com/blogs/aws/new-customer-carbon-footprint-tool/) (today)
 - [Let Your IPv6-only Workloads Connect to IPv4 Services](https://aws.amazon.com/blogs/aws/let-your-ipv6-only-workloads-connect-to-ipv4-services/) (1 day ago)
 - [New – Additional Checksum Algorithms for Amazon S3](https://aws.amazon.com/blogs/aws/new-additional-checksum-algorithms-for-amazon-s3/) (4 days ago)
-- [Happy 10th Birthday, DynamoDB! 🎉🎂🎁](https://aws.amazon.com/blogs/aws/happy-birthday-dynamodb/) (1 week ago)
 
 
 #### 🔍 &nbsp; Bitbucket
