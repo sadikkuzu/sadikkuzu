@@ -25,9 +25,9 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
+- [New Amazon RDS for MySQL &amp; PostgreSQL Multi-AZ Deployment Option: Improved Write Performance &amp; Faster Failover](https://aws.amazon.com/blogs/aws/amazon-rds-multi-az-db-cluster/) (today)
 - [New – Customer Carbon Footprint Tool](https://aws.amazon.com/blogs/aws/new-customer-carbon-footprint-tool/) (1 day ago)
 - [Let Your IPv6-only Workloads Connect to IPv4 Services](https://aws.amazon.com/blogs/aws/let-your-ipv6-only-workloads-connect-to-ipv4-services/) (2 days ago)
-- [New – Additional Checksum Algorithms for Amazon S3](https://aws.amazon.com/blogs/aws/new-additional-checksum-algorithms-for-amazon-s3/) (5 days ago)
 
 
 #### 🔍 &nbsp; Bitbucket
