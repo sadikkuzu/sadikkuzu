@@ -25,22 +25,22 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
-- [New Amazon RDS for MySQL &amp; PostgreSQL Multi-AZ Deployment Option: Improved Write Performance &amp; Faster Failover](https://aws.amazon.com/blogs/aws/amazon-rds-multi-az-db-cluster/) (today)
-- [New – Customer Carbon Footprint Tool](https://aws.amazon.com/blogs/aws/new-customer-carbon-footprint-tool/) (1 day ago)
-- [Let Your IPv6-only Workloads Connect to IPv4 Services](https://aws.amazon.com/blogs/aws/let-your-ipv6-only-workloads-connect-to-ipv4-services/) (2 days ago)
+- [New Amazon RDS for MySQL &amp; PostgreSQL Multi-AZ Deployment Option: Improved Write Performance &amp; Faster Failover](https://aws.amazon.com/blogs/aws/amazon-rds-multi-az-db-cluster/) (1 day ago)
+- [New – Customer Carbon Footprint Tool](https://aws.amazon.com/blogs/aws/new-customer-carbon-footprint-tool/) (2 days ago)
+- [Let Your IPv6-only Workloads Connect to IPv4 Services](https://aws.amazon.com/blogs/aws/let-your-ipv6-only-workloads-connect-to-ipv4-services/) (3 days ago)
 
 
 #### 🔍 &nbsp; Bitbucket
 
 - [Predefine values of custom pipeline variables](https://bitbucket.org/blog/predefine-values-of-custom-pipeline-variables) (3 weeks ago)
-- [Project Settings are now available in Bitbucket Cloud!](https://bitbucket.org/blog/project-settings-are-now-available-in-bitbucket-cloud) (3 weeks ago)
+- [Project Settings are now available in Bitbucket Cloud!](https://bitbucket.org/blog/project-settings-are-now-available-in-bitbucket-cloud) (4 weeks ago)
 - [Log4Shell fix with the Bitbucket Cloud and Snyk integration](https://bitbucket.org/blog/log4shell-fix-with-the-bitbucket-cloud-and-snyk-integration) (2 months ago)
 
 
 #### 📰 &nbsp; Stackoverflow
 
-- [Debugging best practices for REST API consumers](https://stackoverflow.blog/2022/02/28/debugging-best-practices-for-rest-api-consumers/) (2 days ago)
-- [Sustainable architectures in a world of Agile, DevOps, and cloud](https://stackoverflow.blog/2022/02/24/sustainable-architectures-in-a-world-of-agile-devops-and-cloud/) (6 days ago)
+- [Debugging best practices for REST API consumers](https://stackoverflow.blog/2022/02/28/debugging-best-practices-for-rest-api-consumers/) (3 days ago)
+- [Sustainable architectures in a world of Agile, DevOps, and cloud](https://stackoverflow.blog/2022/02/24/sustainable-architectures-in-a-world-of-agile-devops-and-cloud/) (1 week ago)
 - [Securing the data in your online code repository is a shared responsibility](https://stackoverflow.blog/2022/01/24/securing-the-data-in-your-online-code-repository-is-a-shared-responsibility/) (1 month ago)
 
 #### 🚕 &nbsp; Lyft
@@ -51,6 +51,6 @@
 
 #### 🚕 &nbsp; Uber
 
-- [Introducing Ballast: An Adaptive Load Test Framework](https://eng.uber.com/introducing-ballast-an-adaptive-load-test-framework/) (1 day ago)
+- [Introducing Ballast: An Adaptive Load Test Framework](https://eng.uber.com/introducing-ballast-an-adaptive-load-test-framework/) (2 days ago)
 - [Introducing Carbon Feed for Earners: The One-Stop Info Shop](https://eng.uber.com/introducing-carbon-feed-for-earners-the-one-stop-info-shop/) (2 weeks ago)
-- [DeepETA: How Uber Predicts Arrival Times Using Deep Learning](https://eng.uber.com/deepeta-how-uber-predicts-arrival-times/) (2 weeks ago)
+- [DeepETA: How Uber Predicts Arrival Times Using Deep Learning](https://eng.uber.com/deepeta-how-uber-predicts-arrival-times/) (3 weeks ago)
