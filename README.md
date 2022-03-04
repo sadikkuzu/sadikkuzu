@@ -32,9 +32,9 @@
 
 #### 🔍 &nbsp; Bitbucket
 
+- [Update on how to submit product feedback](https://bitbucket.org/blog/update-on-how-to-submit-product-feedback) (today)
 - [Bitbucket Cloud is now encrypted at rest](https://bitbucket.org/blog/bitbucket-cloud-is-now-encrypted-at-rest) (1 day ago)
 - [Predefine values of custom pipeline variables](https://bitbucket.org/blog/predefine-values-of-custom-pipeline-variables) (3 weeks ago)
-- [Project Settings are now available in Bitbucket Cloud!](https://bitbucket.org/blog/project-settings-are-now-available-in-bitbucket-cloud) (4 weeks ago)
 
 
 #### 📰 &nbsp; Stackoverflow
