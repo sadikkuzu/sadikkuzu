@@ -25,9 +25,9 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
+- [AWS Week in Review – March 7, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-march-7-2022/) (today)
 - [New Amazon RDS for MySQL &amp; PostgreSQL Multi-AZ Deployment Option: Improved Write Performance &amp; Faster Failover](https://aws.amazon.com/blogs/aws/amazon-rds-multi-az-db-cluster/) (5 days ago)
 - [New – Customer Carbon Footprint Tool](https://aws.amazon.com/blogs/aws/new-customer-carbon-footprint-tool/) (6 days ago)
-- [Let Your IPv6-only Workloads Connect to IPv4 Services](https://aws.amazon.com/blogs/aws/let-your-ipv6-only-workloads-connect-to-ipv4-services/) (1 week ago)
 
 
 #### 🔍 &nbsp; Bitbucket
