@@ -19,38 +19,38 @@
 - [“java.lang.OutOfMemoryError: Java heap space” in Karate Framework](https://medium.com/getir/java-lang-outofmemoryerror-java-heap-space-in-karate-framework-dc5ad83fcd1b?source=rss----5138a1e0a250---4) (1 month ago)
 - [How to start a Rest Assured Project](https://medium.com/getir/how-to-start-a-rest-assured-project-d599181ca855?source=rss----5138a1e0a250---4) (1 month ago)
 - [Load and performance test in Getir](https://medium.com/getir/load-and-performance-test-in-getir-3bc5bf57b1e2?source=rss----5138a1e0a250---4) (1 month ago)
-- [Useful Tips to Explain the Story Point Logic to Scrum Teams](https://medium.com/getir/useful-tips-to-explain-the-story-point-logic-to-scrum-teams-872a62e95257?source=rss----5138a1e0a250---4) (1 month ago)
+- [Useful Tips to Explain the Story Point Logic to Scrum Teams](https://medium.com/getir/useful-tips-to-explain-the-story-point-logic-to-scrum-teams-872a62e95257?source=rss----5138a1e0a250---4) (2 months ago)
 - [Getir 2021](https://medium.com/getir/getir-2021-cae852cc4e6c?source=rss----5138a1e0a250---4) (2 months ago)
 
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
-- [AWS Week in Review – March 7, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-march-7-2022/) (today)
-- [New Amazon RDS for MySQL &amp; PostgreSQL Multi-AZ Deployment Option: Improved Write Performance &amp; Faster Failover](https://aws.amazon.com/blogs/aws/amazon-rds-multi-az-db-cluster/) (5 days ago)
-- [New – Customer Carbon Footprint Tool](https://aws.amazon.com/blogs/aws/new-customer-carbon-footprint-tool/) (6 days ago)
+- [AWS Week in Review – March 7, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-march-7-2022/) (1 day ago)
+- [New Amazon RDS for MySQL &amp; PostgreSQL Multi-AZ Deployment Option: Improved Write Performance &amp; Faster Failover](https://aws.amazon.com/blogs/aws/amazon-rds-multi-az-db-cluster/) (6 days ago)
+- [New – Customer Carbon Footprint Tool](https://aws.amazon.com/blogs/aws/new-customer-carbon-footprint-tool/) (1 week ago)
 
 
 #### 🔍 &nbsp; Bitbucket
 
-- [Update on how to submit product feedback](https://bitbucket.org/blog/update-on-how-to-submit-product-feedback) (3 days ago)
-- [Bitbucket Cloud is now encrypted at rest](https://bitbucket.org/blog/bitbucket-cloud-is-now-encrypted-at-rest) (4 days ago)
-- [Predefine values of custom pipeline variables](https://bitbucket.org/blog/predefine-values-of-custom-pipeline-variables) (3 weeks ago)
+- [Update on how to submit product feedback](https://bitbucket.org/blog/update-on-how-to-submit-product-feedback) (4 days ago)
+- [Bitbucket Cloud is now encrypted at rest](https://bitbucket.org/blog/bitbucket-cloud-is-now-encrypted-at-rest) (5 days ago)
+- [Predefine values of custom pipeline variables](https://bitbucket.org/blog/predefine-values-of-custom-pipeline-variables) (4 weeks ago)
 
 
 #### 📰 &nbsp; Stackoverflow
 
-- [Stop aggregating away the signal in your data](https://stackoverflow.blog/2022/03/03/stop-aggregating-away-the-signal-in-your-data/) (4 days ago)
+- [Stop aggregating away the signal in your data](https://stackoverflow.blog/2022/03/03/stop-aggregating-away-the-signal-in-your-data/) (5 days ago)
 - [Debugging best practices for REST API consumers](https://stackoverflow.blog/2022/02/28/debugging-best-practices-for-rest-api-consumers/) (1 week ago)
 - [Securing the data in your online code repository is a shared responsibility](https://stackoverflow.blog/2022/01/24/securing-the-data-in-your-online-code-repository-is-a-shared-responsibility/) (1 month ago)
 
 #### 🚕 &nbsp; Lyft
 
-- [Lyft and urban mobility](https://eng.lyft.com/lyft-and-urban-mobility-acf7a7571031?source=rss----25cd379abb8---4) (2 weeks ago)
+- [Lyft and urban mobility](https://eng.lyft.com/lyft-and-urban-mobility-acf7a7571031?source=rss----25cd379abb8---4) (3 weeks ago)
 - [Scaling productivity on microservices at Lyft (Part 4): Gating Deploys with Automated Acceptance…](https://eng.lyft.com/scaling-productivity-on-microservices-at-lyft-part-4-gating-deploys-with-automated-acceptance-4417e0ebc274?source=rss----25cd379abb8---4) (1 month ago)
 - [Improving Web Vulnerability Management through Automation](https://eng.lyft.com/improving-web-vulnerability-management-through-automation-2631570d8415?source=rss----25cd379abb8---4) (1 month ago)
 
 #### 🚕 &nbsp; Uber
 
-- [Introducing Ballast: An Adaptive Load Test Framework](https://eng.uber.com/introducing-ballast-an-adaptive-load-test-framework/) (6 days ago)
+- [Introducing Ballast: An Adaptive Load Test Framework](https://eng.uber.com/introducing-ballast-an-adaptive-load-test-framework/) (1 week ago)
 - [Introducing Carbon Feed for Earners: The One-Stop Info Shop](https://eng.uber.com/introducing-carbon-feed-for-earners-the-one-stop-info-shop/) (2 weeks ago)
 - [DeepETA: How Uber Predicts Arrival Times Using Deep Learning](https://eng.uber.com/deepeta-how-uber-predicts-arrival-times/) (3 weeks ago)
