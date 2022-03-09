@@ -16,7 +16,7 @@
 
 #### 🚀 &nbsp; [Getir](https://technology.getir.com)
 
-- [Meet our people: Melis Kayhan, Director of Product Management](https://medium.com/getir/meet-our-people-melis-kayhan-director-of-product-management-27e8f9913648?source=rss----5138a1e0a250---4) (today)
+- [Meet our people: Melis Kayhan, Director of Product Management](https://medium.com/getir/meet-our-people-melis-kayhan-director-of-product-management-27e8f9913648?source=rss----5138a1e0a250---4) (1 day ago)
 - [“java.lang.OutOfMemoryError: Java heap space” in Karate Framework](https://medium.com/getir/java-lang-outofmemoryerror-java-heap-space-in-karate-framework-dc5ad83fcd1b?source=rss----5138a1e0a250---4) (1 month ago)
 - [How to start a Rest Assured Project](https://medium.com/getir/how-to-start-a-rest-assured-project-d599181ca855?source=rss----5138a1e0a250---4) (1 month ago)
 - [Load and performance test in Getir](https://medium.com/getir/load-and-performance-test-in-getir-3bc5bf57b1e2?source=rss----5138a1e0a250---4) (1 month ago)
@@ -25,21 +25,21 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
-- [Breaking the Bias – Women at AWS Developer Relations](https://aws.amazon.com/blogs/aws/breaking-the-bias-women-at-aws-developer-relations/) (today)
-- [AWS Week in Review – March 7, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-march-7-2022/) (1 day ago)
-- [New Amazon RDS for MySQL &amp; PostgreSQL Multi-AZ Deployment Option: Improved Write Performance &amp; Faster Failover](https://aws.amazon.com/blogs/aws/amazon-rds-multi-az-db-cluster/) (6 days ago)
+- [Breaking the Bias – Women at AWS Developer Relations](https://aws.amazon.com/blogs/aws/breaking-the-bias-women-at-aws-developer-relations/) (1 day ago)
+- [AWS Week in Review – March 7, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-march-7-2022/) (2 days ago)
+- [New Amazon RDS for MySQL &amp; PostgreSQL Multi-AZ Deployment Option: Improved Write Performance &amp; Faster Failover](https://aws.amazon.com/blogs/aws/amazon-rds-multi-az-db-cluster/) (1 week ago)
 
 
 #### 🔍 &nbsp; Bitbucket
 
-- [Update on how to submit product feedback](https://bitbucket.org/blog/update-on-how-to-submit-product-feedback) (4 days ago)
-- [Bitbucket Cloud is now encrypted at rest](https://bitbucket.org/blog/bitbucket-cloud-is-now-encrypted-at-rest) (5 days ago)
+- [Update on how to submit product feedback](https://bitbucket.org/blog/update-on-how-to-submit-product-feedback) (5 days ago)
+- [Bitbucket Cloud is now encrypted at rest](https://bitbucket.org/blog/bitbucket-cloud-is-now-encrypted-at-rest) (6 days ago)
 - [Predefine values of custom pipeline variables](https://bitbucket.org/blog/predefine-values-of-custom-pipeline-variables) (4 weeks ago)
 
 
 #### 📰 &nbsp; Stackoverflow
 
-- [Stop aggregating away the signal in your data](https://stackoverflow.blog/2022/03/03/stop-aggregating-away-the-signal-in-your-data/) (5 days ago)
+- [Stop aggregating away the signal in your data](https://stackoverflow.blog/2022/03/03/stop-aggregating-away-the-signal-in-your-data/) (6 days ago)
 - [Debugging best practices for REST API consumers](https://stackoverflow.blog/2022/02/28/debugging-best-practices-for-rest-api-consumers/) (1 week ago)
 - [Securing the data in your online code repository is a shared responsibility](https://stackoverflow.blog/2022/01/24/securing-the-data-in-your-online-code-repository-is-a-shared-responsibility/) (1 month ago)
 
@@ -52,5 +52,5 @@
 #### 🚕 &nbsp; Uber
 
 - [Introducing Ballast: An Adaptive Load Test Framework](https://eng.uber.com/introducing-ballast-an-adaptive-load-test-framework/) (1 week ago)
-- [Introducing Carbon Feed for Earners: The One-Stop Info Shop](https://eng.uber.com/introducing-carbon-feed-for-earners-the-one-stop-info-shop/) (2 weeks ago)
+- [Introducing Carbon Feed for Earners: The One-Stop Info Shop](https://eng.uber.com/introducing-carbon-feed-for-earners-the-one-stop-info-shop/) (3 weeks ago)
 - [DeepETA: How Uber Predicts Arrival Times Using Deep Learning](https://eng.uber.com/deepeta-how-uber-predicts-arrival-times/) (3 weeks ago)
