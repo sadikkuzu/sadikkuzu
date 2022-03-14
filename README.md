@@ -39,8 +39,8 @@
 
 #### 📰 &nbsp; Stackoverflow
 
+- [How sharding a database can make it faster](https://stackoverflow.blog/2022/03/14/how-sharding-a-database-can-make-it-faster/) (today)
 - [Rewriting Bash scripts in Go using black box testing](https://stackoverflow.blog/2022/03/09/rewriting-bash-scripts-in-go-using-black-box-testing/) (5 days ago)
-- [Stop aggregating away the signal in your data](https://stackoverflow.blog/2022/03/03/stop-aggregating-away-the-signal-in-your-data/) (1 week ago)
 - [Securing the data in your online code repository is a shared responsibility](https://stackoverflow.blog/2022/01/24/securing-the-data-in-your-online-code-repository-is-a-shared-responsibility/) (1 month ago)
 
 #### 🚕 &nbsp; Lyft
