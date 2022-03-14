@@ -25,15 +25,15 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
+- [Welcome to AWS Pi Day 2022](https://aws.amazon.com/blogs/aws/welcome-to-aws-pi-day-2022/) (today)
 - [New – Amazon EC2 X2idn and X2iedn Instances for Memory-Intensive Workloads with Higher Network Bandwidth](https://aws.amazon.com/blogs/aws/new-amazon-ec2-x2idn-and-x2iedn-instances-for-memory-intensive-workloads-with-higher-network-bandwidth/) (4 days ago)
 - [Breaking the Bias – Women at AWS Developer Relations](https://aws.amazon.com/blogs/aws/breaking-the-bias-women-at-aws-developer-relations/) (6 days ago)
-- [AWS Week in Review – March 7, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-march-7-2022/) (1 week ago)
 
 
 #### 🔍 &nbsp; Bitbucket
 
 - [Update on how to submit product feedback](https://bitbucket.org/blog/update-on-how-to-submit-product-feedback) (1 week ago)
-- [Bitbucket Cloud is now encrypted at rest](https://bitbucket.org/blog/bitbucket-cloud-is-now-encrypted-at-rest) (1 week ago)
+- [Bitbucket Cloud is now encrypted at rest](https://bitbucket.org/blog/bitbucket-cloud-is-encrypted-at-rest) (1 week ago)
 - [Predefine values of custom pipeline variables](https://bitbucket.org/blog/predefine-values-of-custom-pipeline-variables) (1 month ago)
 
 
