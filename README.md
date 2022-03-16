@@ -16,11 +16,11 @@
 
 #### 🚀 &nbsp; [Getir](https://technology.getir.com)
 
+- [Meet our people: Darienne Page, Head of Government Relations.](https://medium.com/getir/meet-our-people-darienne-page-head-of-government-relations-585f4b50b26d?source=rss----5138a1e0a250---4) (today)
 - [Meet our people: Melis Kayhan, Director of Product Management](https://medium.com/getir/meet-our-people-melis-kayhan-director-of-product-management-27e8f9913648?source=rss----5138a1e0a250---4) (1 week ago)
 - [“java.lang.OutOfMemoryError: Java heap space” in Karate Framework](https://medium.com/getir/java-lang-outofmemoryerror-java-heap-space-in-karate-framework-dc5ad83fcd1b?source=rss----5138a1e0a250---4) (1 month ago)
 - [How to start a Rest Assured Project](https://medium.com/getir/how-to-start-a-rest-assured-project-d599181ca855?source=rss----5138a1e0a250---4) (1 month ago)
 - [Load and performance test in Getir](https://medium.com/getir/load-and-performance-test-in-getir-3bc5bf57b1e2?source=rss----5138a1e0a250---4) (1 month ago)
-- [Useful Tips to Explain the Story Point Logic to Scrum Teams](https://medium.com/getir/useful-tips-to-explain-the-story-point-logic-to-scrum-teams-872a62e95257?source=rss----5138a1e0a250---4) (2 months ago)
 
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
