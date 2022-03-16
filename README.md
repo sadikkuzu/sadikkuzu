@@ -25,9 +25,9 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
-- [AWS Week in Review – March 14, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-march-14-2022/) (1 day ago)
-- [Welcome to AWS Pi Day 2022](https://aws.amazon.com/blogs/aws/welcome-to-aws-pi-day-2022/) (1 day ago)
-- [New – Amazon EC2 X2idn and X2iedn Instances for Memory-Intensive Workloads with Higher Network Bandwidth](https://aws.amazon.com/blogs/aws/new-amazon-ec2-x2idn-and-x2iedn-instances-for-memory-intensive-workloads-with-higher-network-bandwidth/) (5 days ago)
+- [AWS Week in Review – March 14, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-march-14-2022/) (2 days ago)
+- [Welcome to AWS Pi Day 2022](https://aws.amazon.com/blogs/aws/welcome-to-aws-pi-day-2022/) (2 days ago)
+- [New – Amazon EC2 X2idn and X2iedn Instances for Memory-Intensive Workloads with Higher Network Bandwidth](https://aws.amazon.com/blogs/aws/new-amazon-ec2-x2idn-and-x2iedn-instances-for-memory-intensive-workloads-with-higher-network-bandwidth/) (6 days ago)
 
 
 #### 🔍 &nbsp; Bitbucket
@@ -39,18 +39,18 @@
 
 #### 📰 &nbsp; Stackoverflow
 
-- [How sharding a database can make it faster](https://stackoverflow.blog/2022/03/14/how-sharding-a-database-can-make-it-faster/) (1 day ago)
-- [Rewriting Bash scripts in Go using black box testing](https://stackoverflow.blog/2022/03/09/rewriting-bash-scripts-in-go-using-black-box-testing/) (6 days ago)
+- [How sharding a database can make it faster](https://stackoverflow.blog/2022/03/14/how-sharding-a-database-can-make-it-faster/) (2 days ago)
+- [Rewriting Bash scripts in Go using black box testing](https://stackoverflow.blog/2022/03/09/rewriting-bash-scripts-in-go-using-black-box-testing/) (1 week ago)
 - [Securing the data in your online code repository is a shared responsibility](https://stackoverflow.blog/2022/01/24/securing-the-data-in-your-online-code-repository-is-a-shared-responsibility/) (1 month ago)
 
 #### 🚕 &nbsp; Lyft
 
-- [Data Science on Lyft’s Fleet Team](https://eng.lyft.com/data-science-on-lyfts-fleet-team-141c594f656b?source=rss----25cd379abb8---4) (5 days ago)
+- [Data Science on Lyft’s Fleet Team](https://eng.lyft.com/data-science-on-lyfts-fleet-team-141c594f656b?source=rss----25cd379abb8---4) (6 days ago)
 - [Lyft and urban mobility](https://eng.lyft.com/lyft-and-urban-mobility-acf7a7571031?source=rss----25cd379abb8---4) (4 weeks ago)
 - [Scaling productivity on microservices at Lyft (Part 4): Gating Deploys with Automated Acceptance…](https://eng.lyft.com/scaling-productivity-on-microservices-at-lyft-part-4-gating-deploys-with-automated-acceptance-4417e0ebc274?source=rss----25cd379abb8---4) (1 month ago)
 
 #### 🚕 &nbsp; Uber
 
-- [One Stone, Three Birds:  Finer-Grained Encryption @ Apache Parquet™](https://eng.uber.com/one-stone-three-birds-finer-grained-encryption-apache-parquet/) (5 days ago)
+- [One Stone, Three Birds:  Finer-Grained Encryption @ Apache Parquet™](https://eng.uber.com/one-stone-three-birds-finer-grained-encryption-apache-parquet/) (6 days ago)
 - [Introducing Ballast: An Adaptive Load Test Framework](https://eng.uber.com/introducing-ballast-an-adaptive-load-test-framework/) (2 weeks ago)
-- [Introducing Carbon Feed for Earners: The One-Stop Info Shop](https://eng.uber.com/introducing-carbon-feed-for-earners-the-one-stop-info-shop/) (3 weeks ago)
+- [Introducing Carbon Feed for Earners: The One-Stop Info Shop](https://eng.uber.com/introducing-carbon-feed-for-earners-the-one-stop-info-shop/) (4 weeks ago)
