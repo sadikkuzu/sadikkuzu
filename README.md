@@ -25,9 +25,9 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
+- [Get to know the first AWS Heroes of 2022!](https://aws.amazon.com/blogs/aws/get-to-know-the-first-aws-heroes-of-2022/) (today)
 - [AWS Week in Review – March 14, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-march-14-2022/) (2 days ago)
 - [Welcome to AWS Pi Day 2022](https://aws.amazon.com/blogs/aws/welcome-to-aws-pi-day-2022/) (2 days ago)
-- [New – Amazon EC2 X2idn and X2iedn Instances for Memory-Intensive Workloads with Higher Network Bandwidth](https://aws.amazon.com/blogs/aws/new-amazon-ec2-x2idn-and-x2iedn-instances-for-memory-intensive-workloads-with-higher-network-bandwidth/) (6 days ago)
 
 
 #### 🔍 &nbsp; Bitbucket
