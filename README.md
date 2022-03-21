@@ -25,9 +25,9 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
+- [AWS Week in Review – March 21, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-march-21-2022/) (today)
 - [New and Updated AWS Well-Architected Lenses](https://aws.amazon.com/blogs/aws/new-and-updated-aws-well-architected-lenses/) (5 days ago)
 - [Get to know the first AWS Heroes of 2022!](https://aws.amazon.com/blogs/aws/get-to-know-the-first-aws-heroes-of-2022/) (5 days ago)
-- [AWS Week in Review – March 14, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-march-14-2022/) (1 week ago)
 
 
 #### 🔍 &nbsp; Bitbucket
