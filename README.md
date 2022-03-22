@@ -51,6 +51,6 @@
 
 #### 🚕 &nbsp; Uber
 
+- [Avoiding CPU Throttling in a Containerized Environment](https://eng.uber.com/avoiding-cpu-throttling-in-a-containerized-environment/) (today)
 - [One Stone, Three Birds:  Finer-Grained Encryption @ Apache Parquet™](https://eng.uber.com/one-stone-three-birds-finer-grained-encryption-apache-parquet/) (1 week ago)
 - [Introducing Ballast: An Adaptive Load Test Framework](https://eng.uber.com/introducing-ballast-an-adaptive-load-test-framework/) (3 weeks ago)
-- [Introducing Carbon Feed for Earners: The One-Stop Info Shop](https://eng.uber.com/introducing-carbon-feed-for-earners-the-one-stop-info-shop/) (1 month ago)
