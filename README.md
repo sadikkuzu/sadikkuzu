@@ -16,8 +16,8 @@
 
 #### 🚀 &nbsp; [Getir](https://technology.getir.com)
 
-- [Meet our people: Darienne Page, Head of Government Relations.](https://medium.com/getir/meet-our-people-darienne-page-head-of-government-relations-585f4b50b26d?source=rss----5138a1e0a250---4) (5 days ago)
-- [Meet our people: Melis Kayhan, Director of Product Management](https://medium.com/getir/meet-our-people-melis-kayhan-director-of-product-management-27e8f9913648?source=rss----5138a1e0a250---4) (1 week ago)
+- [Meet our people: Darienne Page, Head of Government Relations.](https://medium.com/getir/meet-our-people-darienne-page-head-of-government-relations-585f4b50b26d?source=rss----5138a1e0a250---4) (6 days ago)
+- [Meet our people: Melis Kayhan, Director of Product Management](https://medium.com/getir/meet-our-people-melis-kayhan-director-of-product-management-27e8f9913648?source=rss----5138a1e0a250---4) (2 weeks ago)
 - [“java.lang.OutOfMemoryError: Java heap space” in Karate Framework](https://medium.com/getir/java-lang-outofmemoryerror-java-heap-space-in-karate-framework-dc5ad83fcd1b?source=rss----5138a1e0a250---4) (1 month ago)
 - [How to start a Rest Assured Project](https://medium.com/getir/how-to-start-a-rest-assured-project-d599181ca855?source=rss----5138a1e0a250---4) (2 months ago)
 - [Load and performance test in Getir](https://medium.com/getir/load-and-performance-test-in-getir-3bc5bf57b1e2?source=rss----5138a1e0a250---4) (2 months ago)
@@ -25,21 +25,21 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
-- [AWS Week in Review – March 21, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-march-21-2022/) (today)
-- [New and Updated AWS Well-Architected Lenses](https://aws.amazon.com/blogs/aws/new-and-updated-aws-well-architected-lenses/) (5 days ago)
-- [Get to know the first AWS Heroes of 2022!](https://aws.amazon.com/blogs/aws/get-to-know-the-first-aws-heroes-of-2022/) (5 days ago)
+- [AWS Week in Review – March 21, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-march-21-2022/) (1 day ago)
+- [New and Updated AWS Well-Architected Lenses](https://aws.amazon.com/blogs/aws/new-and-updated-aws-well-architected-lenses/) (6 days ago)
+- [Get to know the first AWS Heroes of 2022!](https://aws.amazon.com/blogs/aws/get-to-know-the-first-aws-heroes-of-2022/) (6 days ago)
 
 
 #### 🔍 &nbsp; Bitbucket
 
-- [Introducing Bitbucket’s redesigned Branch page](https://bitbucket.org/blog/introducing-bitbuckets-redesigned-branch-page) (3 days ago)
+- [Introducing Bitbucket’s redesigned Branch page](https://bitbucket.org/blog/introducing-bitbuckets-redesigned-branch-page) (4 days ago)
 - [Update on how to submit product feedback](https://bitbucket.org/blog/update-on-how-to-submit-product-feedback) (2 weeks ago)
 - [Bitbucket Cloud is now encrypted at rest](https://bitbucket.org/blog/bitbucket-cloud-is-encrypted-at-rest) (2 weeks ago)
 
 
 #### 📰 &nbsp; Stackoverflow
 
-- [AI and nanotechnology are working together to solve real-world problems](https://stackoverflow.blog/2022/03/21/ai-and-nanotechnology-are-working-together-to-solve-real-world-problems/) (today)
+- [AI and nanotechnology are working together to solve real-world problems](https://stackoverflow.blog/2022/03/21/ai-and-nanotechnology-are-working-together-to-solve-real-world-problems/) (1 day ago)
 - [How sharding a database can make it faster](https://stackoverflow.blog/2022/03/14/how-sharding-a-database-can-make-it-faster/) (1 week ago)
 - [Securing the data in your online code repository is a shared responsibility](https://stackoverflow.blog/2022/01/24/securing-the-data-in-your-online-code-repository-is-a-shared-responsibility/) (1 month ago)
 
@@ -52,5 +52,5 @@
 #### 🚕 &nbsp; Uber
 
 - [One Stone, Three Birds:  Finer-Grained Encryption @ Apache Parquet™](https://eng.uber.com/one-stone-three-birds-finer-grained-encryption-apache-parquet/) (1 week ago)
-- [Introducing Ballast: An Adaptive Load Test Framework](https://eng.uber.com/introducing-ballast-an-adaptive-load-test-framework/) (2 weeks ago)
+- [Introducing Ballast: An Adaptive Load Test Framework](https://eng.uber.com/introducing-ballast-an-adaptive-load-test-framework/) (3 weeks ago)
 - [Introducing Carbon Feed for Earners: The One-Stop Info Shop](https://eng.uber.com/introducing-carbon-feed-for-earners-the-one-stop-info-shop/) (1 month ago)
