@@ -25,32 +25,32 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
-- [AWS Week in Review – March 21, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-march-21-2022/) (2 days ago)
+- [AWS Week in Review – March 21, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-march-21-2022/) (3 days ago)
 - [New and Updated AWS Well-Architected Lenses](https://aws.amazon.com/blogs/aws/new-and-updated-aws-well-architected-lenses/) (1 week ago)
 - [Get to know the first AWS Heroes of 2022!](https://aws.amazon.com/blogs/aws/get-to-know-the-first-aws-heroes-of-2022/) (1 week ago)
 
 
 #### 🔍 &nbsp; Bitbucket
 
-- [Introducing Bitbucket’s redesigned Branch page](https://bitbucket.org/blog/introducing-bitbuckets-redesigned-branch-page) (5 days ago)
+- [Introducing Bitbucket’s redesigned Branch page](https://bitbucket.org/blog/introducing-bitbuckets-redesigned-branch-page) (6 days ago)
 - [Update on how to submit product feedback](https://bitbucket.org/blog/update-on-how-to-submit-product-feedback) (2 weeks ago)
-- [Bitbucket Cloud is now encrypted at rest](https://bitbucket.org/blog/bitbucket-cloud-is-encrypted-at-rest) (2 weeks ago)
+- [Bitbucket Cloud is now encrypted at rest](https://bitbucket.org/blog/bitbucket-cloud-is-encrypted-at-rest) (3 weeks ago)
 
 
 #### 📰 &nbsp; Stackoverflow
 
-- [AI and nanotechnology are working together to solve real-world problems](https://stackoverflow.blog/2022/03/21/ai-and-nanotechnology-are-working-together-to-solve-real-world-problems/) (2 days ago)
+- [AI and nanotechnology are working together to solve real-world problems](https://stackoverflow.blog/2022/03/21/ai-and-nanotechnology-are-working-together-to-solve-real-world-problems/) (3 days ago)
 - [How sharding a database can make it faster](https://stackoverflow.blog/2022/03/14/how-sharding-a-database-can-make-it-faster/) (1 week ago)
 - [Securing the data in your online code repository is a shared responsibility](https://stackoverflow.blog/2022/01/24/securing-the-data-in-your-online-code-repository-is-a-shared-responsibility/) (1 month ago)
 
 #### 🚕 &nbsp; Lyft
 
-- [Data Science on Lyft’s Fleet Team](https://eng.lyft.com/data-science-on-lyfts-fleet-team-141c594f656b?source=rss----25cd379abb8---4) (1 week ago)
+- [Data Science on Lyft’s Fleet Team](https://eng.lyft.com/data-science-on-lyfts-fleet-team-141c594f656b?source=rss----25cd379abb8---4) (2 weeks ago)
 - [Lyft and urban mobility](https://eng.lyft.com/lyft-and-urban-mobility-acf7a7571031?source=rss----25cd379abb8---4) (1 month ago)
 - [Scaling productivity on microservices at Lyft (Part 4): Gating Deploys with Automated Acceptance…](https://eng.lyft.com/scaling-productivity-on-microservices-at-lyft-part-4-gating-deploys-with-automated-acceptance-4417e0ebc274?source=rss----25cd379abb8---4) (1 month ago)
 
 #### 🚕 &nbsp; Uber
 
-- [Avoiding CPU Throttling in a Containerized Environment](https://eng.uber.com/avoiding-cpu-throttling-in-a-containerized-environment/) (1 day ago)
-- [One Stone, Three Birds:  Finer-Grained Encryption @ Apache Parquet™](https://eng.uber.com/one-stone-three-birds-finer-grained-encryption-apache-parquet/) (1 week ago)
+- [Avoiding CPU Throttling in a Containerized Environment](https://eng.uber.com/avoiding-cpu-throttling-in-a-containerized-environment/) (2 days ago)
+- [One Stone, Three Birds:  Finer-Grained Encryption @ Apache Parquet™](https://eng.uber.com/one-stone-three-birds-finer-grained-encryption-apache-parquet/) (2 weeks ago)
 - [Introducing Ballast: An Adaptive Load Test Framework](https://eng.uber.com/introducing-ballast-an-adaptive-load-test-framework/) (3 weeks ago)
