@@ -39,8 +39,8 @@
 
 #### 📰 &nbsp; Stackoverflow
 
+- [New data: Top movies and coding music according to developers](https://stackoverflow.blog/2022/03/24/new-data-top-movies-and-coding-music-according-to-developers/) (today)
 - [AI and nanotechnology are working together to solve real-world problems](https://stackoverflow.blog/2022/03/21/ai-and-nanotechnology-are-working-together-to-solve-real-world-problems/) (3 days ago)
-- [How sharding a database can make it faster](https://stackoverflow.blog/2022/03/14/how-sharding-a-database-can-make-it-faster/) (1 week ago)
 - [Securing the data in your online code repository is a shared responsibility](https://stackoverflow.blog/2022/01/24/securing-the-data-in-your-online-code-repository-is-a-shared-responsibility/) (1 month ago)
 
 #### 🚕 &nbsp; Lyft
