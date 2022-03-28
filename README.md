@@ -25,8 +25,8 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
-- [AWS Lambda Now Supports Up to 10 GB Ephemeral Storage](https://aws.amazon.com/blogs/aws/aws-lambda-now-supports-up-to-10-gb-ephemeral-storage/) (3 days ago)
-- [AWS Week in Review – March 21, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-march-21-2022/) (6 days ago)
+- [AWS Lambda Now Supports Up to 10 GB Ephemeral Storage](https://aws.amazon.com/blogs/aws/aws-lambda-now-supports-up-to-10-gb-ephemeral-storage/) (4 days ago)
+- [AWS Week in Review – March 21, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-march-21-2022/) (1 week ago)
 - [New and Updated AWS Well-Architected Lenses](https://aws.amazon.com/blogs/aws/new-and-updated-aws-well-architected-lenses/) (1 week ago)
 
 
@@ -39,18 +39,18 @@
 
 #### 📰 &nbsp; Stackoverflow
 
-- [New data: Top movies and coding music according to developers](https://stackoverflow.blog/2022/03/24/new-data-top-movies-and-coding-music-according-to-developers/) (3 days ago)
-- [AI and nanotechnology are working together to solve real-world problems](https://stackoverflow.blog/2022/03/21/ai-and-nanotechnology-are-working-together-to-solve-real-world-problems/) (6 days ago)
+- [New data: Top movies and coding music according to developers](https://stackoverflow.blog/2022/03/24/new-data-top-movies-and-coding-music-according-to-developers/) (4 days ago)
+- [AI and nanotechnology are working together to solve real-world problems](https://stackoverflow.blog/2022/03/21/ai-and-nanotechnology-are-working-together-to-solve-real-world-problems/) (1 week ago)
 - [Securing the data in your online code repository is a shared responsibility](https://stackoverflow.blog/2022/01/24/securing-the-data-in-your-online-code-repository-is-a-shared-responsibility/) (2 months ago)
 
 #### 🚕 &nbsp; Lyft
 
-- [Orchestrating Data Pipelines at Lyft: comparing Flyte and Airflow](https://eng.lyft.com/orchestrating-data-pipelines-at-lyft-comparing-flyte-and-airflow-72c40d143aad?source=rss----25cd379abb8---4) (3 days ago)
+- [Orchestrating Data Pipelines at Lyft: comparing Flyte and Airflow](https://eng.lyft.com/orchestrating-data-pipelines-at-lyft-comparing-flyte-and-airflow-72c40d143aad?source=rss----25cd379abb8---4) (4 days ago)
 - [Data Science on Lyft’s Fleet Team](https://eng.lyft.com/data-science-on-lyfts-fleet-team-141c594f656b?source=rss----25cd379abb8---4) (2 weeks ago)
 - [Lyft and urban mobility](https://eng.lyft.com/lyft-and-urban-mobility-acf7a7571031?source=rss----25cd379abb8---4) (1 month ago)
 
 #### 🚕 &nbsp; Uber
 
-- [Avoiding CPU Throttling in a Containerized Environment](https://eng.uber.com/avoiding-cpu-throttling-in-a-containerized-environment/) (5 days ago)
+- [Avoiding CPU Throttling in a Containerized Environment](https://eng.uber.com/avoiding-cpu-throttling-in-a-containerized-environment/) (6 days ago)
 - [One Stone, Three Birds:  Finer-Grained Encryption @ Apache Parquet™](https://eng.uber.com/one-stone-three-birds-finer-grained-encryption-apache-parquet/) (2 weeks ago)
 - [Introducing Ballast: An Adaptive Load Test Framework](https://eng.uber.com/introducing-ballast-an-adaptive-load-test-framework/) (3 weeks ago)
