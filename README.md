@@ -39,7 +39,7 @@
 
 #### 📰 &nbsp; Stackoverflow
 
-- [Picture perfect images with the modern  element](https://stackoverflow.blog/2022/03/28/picture-perfect-images-with-the-modern-element/) (today)
+- [Picture perfect images with the modern &lt;img&gt; element](https://stackoverflow.blog/2022/03/28/picture-perfect-images-with-the-modern-element/) (today)
 - [New data: Top movies and coding music according to developers](https://stackoverflow.blog/2022/03/24/new-data-top-movies-and-coding-music-according-to-developers/) (4 days ago)
 - [Securing the data in your online code repository is a shared responsibility](https://stackoverflow.blog/2022/01/24/securing-the-data-in-your-online-code-repository-is-a-shared-responsibility/) (2 months ago)
 
