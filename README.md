@@ -25,9 +25,9 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
+- [AWS Week in Review – March 28, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-march-28-2022/) (today)
 - [AWS Lambda Now Supports Up to 10 GB Ephemeral Storage](https://aws.amazon.com/blogs/aws/aws-lambda-now-supports-up-to-10-gb-ephemeral-storage/) (4 days ago)
 - [AWS Week in Review – March 21, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-march-21-2022/) (1 week ago)
-- [New and Updated AWS Well-Architected Lenses](https://aws.amazon.com/blogs/aws/new-and-updated-aws-well-architected-lenses/) (1 week ago)
 
 
 #### 🔍 &nbsp; Bitbucket
