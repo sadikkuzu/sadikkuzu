@@ -39,8 +39,8 @@
 
 #### 📰 &nbsp; Stackoverflow
 
+- [Best practices to increase the speed for Next.js apps](https://stackoverflow.blog/2022/03/30/best-practices-to-increase-the-speed-for-next-js-apps/) (today)
 - [Picture perfect images with the modern &lt;img&gt; element](https://stackoverflow.blog/2022/03/28/picture-perfect-images-with-the-modern-element/) (2 days ago)
-- [New data: Top movies and coding music according to developers](https://stackoverflow.blog/2022/03/24/new-data-top-movies-and-coding-music-according-to-developers/) (6 days ago)
 - [Securing the data in your online code repository is a shared responsibility](https://stackoverflow.blog/2022/01/24/securing-the-data-in-your-online-code-repository-is-a-shared-responsibility/) (2 months ago)
 
 #### 🚕 &nbsp; Lyft
