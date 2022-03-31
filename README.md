@@ -32,9 +32,9 @@
 
 #### 🔍 &nbsp; Bitbucket
 
+- [Git push size limits are coming to Bitbucket Cloud starting April 4th, 2022](https://bitbucket.org/blog/git-push-size-limits-are-coming-to-bitbucket-cloud-starting-april-4th-2022) (today)
 - [Introducing Bitbucket’s redesigned Branch page](https://bitbucket.org/blog/introducing-bitbuckets-redesigned-branch-page) (1 week ago)
 - [Update on how to submit product feedback](https://bitbucket.org/blog/update-on-how-to-submit-product-feedback) (3 weeks ago)
-- [Bitbucket Cloud is now encrypted at rest](https://bitbucket.org/blog/bitbucket-cloud-is-encrypted-at-rest) (4 weeks ago)
 
 
 #### 📰 &nbsp; Stackoverflow
