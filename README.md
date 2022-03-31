@@ -51,6 +51,6 @@
 
 #### 🚕 &nbsp; Uber
 
+- [Uber’s Emergency Button and The Technologies Behind It](https://eng.uber.com/ubers-emergency-button-and-the-technologies-behind-it/) (today)
 - [Avoiding CPU Throttling in a Containerized Environment](https://eng.uber.com/avoiding-cpu-throttling-in-a-containerized-environment/) (1 week ago)
 - [One Stone, Three Birds:  Finer-Grained Encryption @ Apache Parquet™](https://eng.uber.com/one-stone-three-birds-finer-grained-encryption-apache-parquet/) (3 weeks ago)
-- [Introducing Ballast: An Adaptive Load Test Framework](https://eng.uber.com/introducing-ballast-an-adaptive-load-test-framework/) (1 month ago)
