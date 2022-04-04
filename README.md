@@ -25,9 +25,9 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
+- [AWS Week in Review – April 4, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-april-4-2022/) (today)
 - [New – Cloud NGFW for AWS](https://aws.amazon.com/blogs/aws/new-cloud-ngfw-for-aws/) (5 days ago)
 - [AWS Week in Review – March 28, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-march-28-2022/) (1 week ago)
-- [AWS Lambda Now Supports Up to 10 GB Ephemeral Storage](https://aws.amazon.com/blogs/aws/aws-lambda-now-supports-up-to-10-gb-ephemeral-storage/) (1 week ago)
 
 
 #### 🔍 &nbsp; Bitbucket
