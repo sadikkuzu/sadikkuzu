@@ -16,11 +16,11 @@
 
 #### 🚀 &nbsp; [Getir](https://technology.getir.com)
 
+- [Karate Framework vs Rest Assured](https://medium.com/getir/karate-framework-vs-rest-assured-95482a61002e?source=rss----5138a1e0a250---4) (today)
 - [Meet our people: Ana Forero, Area Manager.](https://medium.com/getir/meet-our-people-ana-forero-area-manager-755cac4941e?source=rss----5138a1e0a250---4) (5 days ago)
 - [Meet our people: Darienne Page, Head of Government Relations.](https://medium.com/getir/meet-our-people-darienne-page-head-of-government-relations-585f4b50b26d?source=rss----5138a1e0a250---4) (2 weeks ago)
 - [Meet our people: Melis Kayhan, Director of Product Management](https://medium.com/getir/meet-our-people-melis-kayhan-director-of-product-management-27e8f9913648?source=rss----5138a1e0a250---4) (3 weeks ago)
 - [“java.lang.OutOfMemoryError: Java heap space” in Karate Framework](https://medium.com/getir/java-lang-outofmemoryerror-java-heap-space-in-karate-framework-dc5ad83fcd1b?source=rss----5138a1e0a250---4) (2 months ago)
-- [How to start a Rest Assured Project](https://medium.com/getir/how-to-start-a-rest-assured-project-d599181ca855?source=rss----5138a1e0a250---4) (2 months ago)
 
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
