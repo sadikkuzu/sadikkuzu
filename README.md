@@ -39,8 +39,8 @@
 
 #### 📰 &nbsp; Stackoverflow
 
+- [Comparing Go vs. C in embedded applications](https://stackoverflow.blog/2022/04/04/comparing-go-vs-c-in-embedded-applications/) (today)
 - [Best practices to increase the speed for Next.js apps](https://stackoverflow.blog/2022/03/30/best-practices-to-increase-the-speed-for-next-js-apps/) (5 days ago)
-- [Picture perfect images with the modern &lt;img&gt; element](https://stackoverflow.blog/2022/03/28/picture-perfect-images-with-the-modern-element/) (1 week ago)
 - [Securing the data in your online code repository is a shared responsibility](https://stackoverflow.blog/2022/01/24/securing-the-data-in-your-online-code-repository-is-a-shared-responsibility/) (2 months ago)
 
 #### 🚕 &nbsp; Lyft
