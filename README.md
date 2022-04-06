@@ -32,7 +32,7 @@
 
 #### 🔍 &nbsp; Bitbucket
 
-- [Announcing the beta for MacOS Runners in Bitbucket Pipelines](https://bitbucket.org/blog/beta-macos-runners-bitbucket) (2 days ago)
+- [Announcing the beta for macOS Runners in Bitbucket Pipelines](https://bitbucket.org/blog/beta-macos-runners-bitbucket) (2 days ago)
 - [Git push size limits are coming to Bitbucket Cloud starting April 4th, 2022](https://bitbucket.org/blog/git-push-size-limits-are-coming-to-bitbucket-cloud-starting-april-4th-2022) (6 days ago)
 - [Introducing Bitbucket’s redesigned Branch page](https://bitbucket.org/blog/introducing-bitbuckets-redesigned-branch-page) (2 weeks ago)
 
