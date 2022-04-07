@@ -51,6 +51,6 @@
 
 #### 🚕 &nbsp; Uber
 
+- [Securing Kafka® Infrastructure at Uber](https://eng.uber.com/securing-kafka-infrastructure-at-uber/) (today)
 - [Uber’s Emergency Button and The Technologies Behind It](https://eng.uber.com/ubers-emergency-button-and-the-technologies-behind-it/) (1 week ago)
 - [Avoiding CPU Throttling in a Containerized Environment](https://eng.uber.com/avoiding-cpu-throttling-in-a-containerized-environment/) (2 weeks ago)
-- [One Stone, Three Birds:  Finer-Grained Encryption @ Apache Parquet™](https://eng.uber.com/one-stone-three-birds-finer-grained-encryption-apache-parquet/) (4 weeks ago)
