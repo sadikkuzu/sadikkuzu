@@ -39,8 +39,8 @@
 
 #### 📰 &nbsp; Stackoverflow
 
+- [You should be reading academic computer science papers](https://stackoverflow.blog/2022/04/07/you-should-be-reading-academic-computer-science-papers/) (today)
 - [Use Git tactically](https://stackoverflow.blog/2022/04/06/use-git-tactically/) (1 day ago)
-- [Comparing Go vs. C in embedded applications](https://stackoverflow.blog/2022/04/04/comparing-go-vs-c-in-embedded-applications/) (3 days ago)
 - [Securing the data in your online code repository is a shared responsibility](https://stackoverflow.blog/2022/01/24/securing-the-data-in-your-online-code-repository-is-a-shared-responsibility/) (2 months ago)
 
 #### 🚕 &nbsp; Lyft
