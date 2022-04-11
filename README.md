@@ -39,8 +39,8 @@
 
 #### 📰 &nbsp; Stackoverflow
 
+- [The complete guide to protecting your APIs with OAuth2](https://stackoverflow.blog/2022/04/11/the-complete-guide-to-protecting-your-apis-with-oauth2/) (today)
 - [You should be reading academic computer science papers](https://stackoverflow.blog/2022/04/07/you-should-be-reading-academic-computer-science-papers/) (4 days ago)
-- [Use Git tactically](https://stackoverflow.blog/2022/04/06/use-git-tactically/) (5 days ago)
 - [Securing the data in your online code repository is a shared responsibility](https://stackoverflow.blog/2022/01/24/securing-the-data-in-your-online-code-repository-is-a-shared-responsibility/) (2 months ago)
 
 #### 🚕 &nbsp; Lyft
