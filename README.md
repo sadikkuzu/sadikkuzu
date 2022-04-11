@@ -25,9 +25,9 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
+- [AWS Week in Review – April 11, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-april-11-2022/) (today)
 - [Announcing AWS Lambda Function URLs: Built-in HTTPS Endpoints for Single-Function Microservices](https://aws.amazon.com/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/) (5 days ago)
 - [AWS Week in Review – April 4, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-april-4-2022/) (1 week ago)
-- [New – Cloud NGFW for AWS](https://aws.amazon.com/blogs/aws/new-cloud-ngfw-for-aws/) (1 week ago)
 
 
 #### 🔍 &nbsp; Bitbucket
