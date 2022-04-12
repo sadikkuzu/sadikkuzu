@@ -25,8 +25,8 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
-- [AWS Week in Review – April 11, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-april-11-2022/) (today)
-- [Announcing AWS Lambda Function URLs: Built-in HTTPS Endpoints for Single-Function Microservices](https://aws.amazon.com/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/) (5 days ago)
+- [AWS Week in Review – April 11, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-april-11-2022/) (1 day ago)
+- [Announcing AWS Lambda Function URLs: Built-in HTTPS Endpoints for Single-Function Microservices](https://aws.amazon.com/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/) (6 days ago)
 - [AWS Week in Review – April 4, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-april-4-2022/) (1 week ago)
 
 
@@ -39,18 +39,18 @@
 
 #### 📰 &nbsp; Stackoverflow
 
-- [The complete guide to protecting your APIs with OAuth2](https://stackoverflow.blog/2022/04/11/the-complete-guide-to-protecting-your-apis-with-oauth2/) (today)
-- [You should be reading academic computer science papers](https://stackoverflow.blog/2022/04/07/you-should-be-reading-academic-computer-science-papers/) (4 days ago)
+- [The complete guide to protecting your APIs with OAuth2](https://stackoverflow.blog/2022/04/11/the-complete-guide-to-protecting-your-apis-with-oauth2/) (1 day ago)
+- [You should be reading academic computer science papers](https://stackoverflow.blog/2022/04/07/you-should-be-reading-academic-computer-science-papers/) (5 days ago)
 - [Securing the data in your online code repository is a shared responsibility](https://stackoverflow.blog/2022/01/24/securing-the-data-in-your-online-code-repository-is-a-shared-responsibility/) (2 months ago)
 
 #### 🚕 &nbsp; Lyft
 
-- [Building Lyft’s In-App Messaging Platform](https://eng.lyft.com/building-lyfts-in-app-messaging-platform-f657e548c8c?source=rss----25cd379abb8---4) (6 days ago)
+- [Building Lyft’s In-App Messaging Platform](https://eng.lyft.com/building-lyfts-in-app-messaging-platform-f657e548c8c?source=rss----25cd379abb8---4) (1 week ago)
 - [How LyftLearn Democratizes Distributed Compute through Kubernetes Spark and Fugue](https://eng.lyft.com/how-lyftlearn-democratizes-distributed-compute-through-kubernetes-spark-and-fugue-c0875b97c3d9?source=rss----25cd379abb8---4) (1 week ago)
 - [Orchestrating Data Pipelines at Lyft: comparing Flyte and Airflow](https://eng.lyft.com/orchestrating-data-pipelines-at-lyft-comparing-flyte-and-airflow-72c40d143aad?source=rss----25cd379abb8---4) (2 weeks ago)
 
 #### 🚕 &nbsp; Uber
 
-- [Securing Kafka® Infrastructure at Uber](https://eng.uber.com/securing-kafka-infrastructure-at-uber/) (4 days ago)
+- [Securing Kafka® Infrastructure at Uber](https://eng.uber.com/securing-kafka-infrastructure-at-uber/) (5 days ago)
 - [Uber’s Emergency Button and The Technologies Behind It](https://eng.uber.com/ubers-emergency-button-and-the-technologies-behind-it/) (1 week ago)
-- [Avoiding CPU Throttling in a Containerized Environment](https://eng.uber.com/avoiding-cpu-throttling-in-a-containerized-environment/) (2 weeks ago)
+- [Avoiding CPU Throttling in a Containerized Environment](https://eng.uber.com/avoiding-cpu-throttling-in-a-containerized-environment/) (3 weeks ago)
