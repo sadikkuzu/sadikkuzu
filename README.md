@@ -45,9 +45,9 @@
 
 #### 🚕 &nbsp; Lyft
 
+- [Monitoring CPU performance of Lyft’s Android applications](https://eng.lyft.com/monitoring-cpu-performance-of-lyfts-android-applications-4e36fafffe12?source=rss----25cd379abb8---4) (today)
 - [Building Lyft’s In-App Messaging Platform](https://eng.lyft.com/building-lyfts-in-app-messaging-platform-f657e548c8c?source=rss----25cd379abb8---4) (1 week ago)
 - [How LyftLearn Democratizes Distributed Compute through Kubernetes Spark and Fugue](https://eng.lyft.com/how-lyftlearn-democratizes-distributed-compute-through-kubernetes-spark-and-fugue-c0875b97c3d9?source=rss----25cd379abb8---4) (1 week ago)
-- [Orchestrating Data Pipelines at Lyft: comparing Flyte and Airflow](https://eng.lyft.com/orchestrating-data-pipelines-at-lyft-comparing-flyte-and-airflow-72c40d143aad?source=rss----25cd379abb8---4) (2 weeks ago)
 
 #### 🚕 &nbsp; Uber
 
