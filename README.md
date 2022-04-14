@@ -39,7 +39,7 @@
 
 #### 📰 &nbsp; Stackoverflow
 
-- [The Authorization Code grant (in excruciating detail)](https://stackoverflow.blog/2022/04/14/the-authorization-code-grant-in-excruciating-detail/) (today)
+- [The Authorization Code grant (in excruciating detail) Part 2 of 2](https://stackoverflow.blog/2022/04/14/the-authorization-code-grant-in-excruciating-detail/) (today)
 - [Will chatbots ever live up to the hype?](https://stackoverflow.blog/2022/04/13/will-chatbots-ever-live-up-to-the-hype/) (1 day ago)
 - [Securing the data in your online code repository is a shared responsibility](https://stackoverflow.blog/2022/01/24/securing-the-data-in-your-online-code-repository-is-a-shared-responsibility/) (2 months ago)
 
