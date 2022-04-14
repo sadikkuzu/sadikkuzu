@@ -39,8 +39,8 @@
 
 #### 📰 &nbsp; Stackoverflow
 
+- [The Authorization Code grant (in excruciating detail)](https://stackoverflow.blog/2022/04/14/the-authorization-code-grant-in-excruciating-detail/) (today)
 - [Will chatbots ever live up to the hype?](https://stackoverflow.blog/2022/04/13/will-chatbots-ever-live-up-to-the-hype/) (1 day ago)
-- [The complete guide to protecting your APIs with OAuth2 (part 1)](https://stackoverflow.blog/2022/04/11/the-complete-guide-to-protecting-your-apis-with-oauth2/) (3 days ago)
 - [Securing the data in your online code repository is a shared responsibility](https://stackoverflow.blog/2022/01/24/securing-the-data-in-your-online-code-repository-is-a-shared-responsibility/) (2 months ago)
 
 #### 🚕 &nbsp; Lyft
