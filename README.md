@@ -25,32 +25,32 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
-- [Amazon FSx for NetApp ONTAP Update – New Single-AZ Deployment Type](https://aws.amazon.com/blogs/aws/amazon-fsx-for-netapp-ontap-update-new-single-az-deployment-type/) (today)
-- [AWS Week in Review – April 11, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-april-11-2022/) (2 days ago)
+- [Amazon FSx for NetApp ONTAP Update – New Single-AZ Deployment Type](https://aws.amazon.com/blogs/aws/amazon-fsx-for-netapp-ontap-update-new-single-az-deployment-type/) (1 day ago)
+- [AWS Week in Review – April 11, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-april-11-2022/) (3 days ago)
 - [Announcing AWS Lambda Function URLs: Built-in HTTPS Endpoints for Single-Function Microservices](https://aws.amazon.com/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/) (1 week ago)
 
 
 #### 🔍 &nbsp; Bitbucket
 
 - [Announcing the beta for macOS Runners in Bitbucket Pipelines](https://bitbucket.org/blog/beta-macos-runners-bitbucket) (1 week ago)
-- [Git push size limits are coming to Bitbucket Cloud starting April 4th, 2022](https://bitbucket.org/blog/git-push-size-limits-are-coming-to-bitbucket-cloud-starting-april-4th-2022) (1 week ago)
+- [Git push size limits are coming to Bitbucket Cloud starting April 4th, 2022](https://bitbucket.org/blog/git-push-size-limits-are-coming-to-bitbucket-cloud-starting-april-4th-2022) (2 weeks ago)
 - [Introducing Bitbucket’s redesigned Branch page](https://bitbucket.org/blog/introducing-bitbuckets-redesigned-branch-page) (3 weeks ago)
 
 
 #### 📰 &nbsp; Stackoverflow
 
-- [Will chatbots ever live up to the hype?](https://stackoverflow.blog/2022/04/13/will-chatbots-ever-live-up-to-the-hype/) (today)
-- [The complete guide to protecting your APIs with OAuth2 (part 1)](https://stackoverflow.blog/2022/04/11/the-complete-guide-to-protecting-your-apis-with-oauth2/) (2 days ago)
+- [Will chatbots ever live up to the hype?](https://stackoverflow.blog/2022/04/13/will-chatbots-ever-live-up-to-the-hype/) (1 day ago)
+- [The complete guide to protecting your APIs with OAuth2 (part 1)](https://stackoverflow.blog/2022/04/11/the-complete-guide-to-protecting-your-apis-with-oauth2/) (3 days ago)
 - [Securing the data in your online code repository is a shared responsibility](https://stackoverflow.blog/2022/01/24/securing-the-data-in-your-online-code-repository-is-a-shared-responsibility/) (2 months ago)
 
 #### 🚕 &nbsp; Lyft
 
-- [Monitoring CPU performance of Lyft’s Android applications](https://eng.lyft.com/monitoring-cpu-performance-of-lyfts-android-applications-4e36fafffe12?source=rss----25cd379abb8---4) (today)
+- [Monitoring CPU performance of Lyft’s Android applications](https://eng.lyft.com/monitoring-cpu-performance-of-lyfts-android-applications-4e36fafffe12?source=rss----25cd379abb8---4) (1 day ago)
 - [Building Lyft’s In-App Messaging Platform](https://eng.lyft.com/building-lyfts-in-app-messaging-platform-f657e548c8c?source=rss----25cd379abb8---4) (1 week ago)
 - [How LyftLearn Democratizes Distributed Compute through Kubernetes Spark and Fugue](https://eng.lyft.com/how-lyftlearn-democratizes-distributed-compute-through-kubernetes-spark-and-fugue-c0875b97c3d9?source=rss----25cd379abb8---4) (1 week ago)
 
 #### 🚕 &nbsp; Uber
 
-- [Securing Kafka® Infrastructure at Uber](https://eng.uber.com/securing-kafka-infrastructure-at-uber/) (6 days ago)
-- [Uber’s Emergency Button and The Technologies Behind It](https://eng.uber.com/ubers-emergency-button-and-the-technologies-behind-it/) (1 week ago)
+- [Securing Kafka® Infrastructure at Uber](https://eng.uber.com/securing-kafka-infrastructure-at-uber/) (1 week ago)
+- [Uber’s Emergency Button and The Technologies Behind It](https://eng.uber.com/ubers-emergency-button-and-the-technologies-behind-it/) (2 weeks ago)
 - [Avoiding CPU Throttling in a Containerized Environment](https://eng.uber.com/avoiding-cpu-throttling-in-a-containerized-environment/) (3 weeks ago)
