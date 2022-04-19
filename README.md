@@ -25,9 +25,9 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
-- [AWS Week in Review – April 18, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-april-18-2022/) (today)
-- [AWS Partner Network (APN) – 10 Years and Going Strong](https://aws.amazon.com/blogs/aws/aws-partner-network-apn-10-years-and-going-strong/) (today)
-- [Amazon FSx for NetApp ONTAP Update – New Single-AZ Deployment Type](https://aws.amazon.com/blogs/aws/amazon-fsx-for-netapp-ontap-update-new-single-az-deployment-type/) (5 days ago)
+- [AWS Week in Review – April 18, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-april-18-2022/) (1 day ago)
+- [AWS Partner Network (APN) – 10 Years and Going Strong](https://aws.amazon.com/blogs/aws/aws-partner-network-apn-10-years-and-going-strong/) (1 day ago)
+- [Amazon FSx for NetApp ONTAP Update – New Single-AZ Deployment Type](https://aws.amazon.com/blogs/aws/amazon-fsx-for-netapp-ontap-update-new-single-az-deployment-type/) (6 days ago)
 
 
 #### 🔍 &nbsp; Bitbucket
@@ -39,18 +39,18 @@
 
 #### 📰 &nbsp; Stackoverflow
 
-- [The Authorization Code grant (in excruciating detail) Part 2 of 2](https://stackoverflow.blog/2022/04/14/the-authorization-code-grant-in-excruciating-detail/) (4 days ago)
-- [Will chatbots ever live up to the hype?](https://stackoverflow.blog/2022/04/13/will-chatbots-ever-live-up-to-the-hype/) (5 days ago)
+- [The Authorization Code grant (in excruciating detail) Part 2 of 2](https://stackoverflow.blog/2022/04/14/the-authorization-code-grant-in-excruciating-detail/) (5 days ago)
+- [Will chatbots ever live up to the hype?](https://stackoverflow.blog/2022/04/13/will-chatbots-ever-live-up-to-the-hype/) (6 days ago)
 - [Securing the data in your online code repository is a shared responsibility](https://stackoverflow.blog/2022/01/24/securing-the-data-in-your-online-code-repository-is-a-shared-responsibility/) (2 months ago)
 
 #### 🚕 &nbsp; Lyft
 
-- [Monitoring CPU performance of Lyft’s Android applications](https://eng.lyft.com/monitoring-cpu-performance-of-lyfts-android-applications-4e36fafffe12?source=rss----25cd379abb8---4) (5 days ago)
-- [Building Lyft’s In-App Messaging Platform](https://eng.lyft.com/building-lyfts-in-app-messaging-platform-f657e548c8c?source=rss----25cd379abb8---4) (1 week ago)
+- [Monitoring CPU performance of Lyft’s Android applications](https://eng.lyft.com/monitoring-cpu-performance-of-lyfts-android-applications-4e36fafffe12?source=rss----25cd379abb8---4) (6 days ago)
+- [Building Lyft’s In-App Messaging Platform](https://eng.lyft.com/building-lyfts-in-app-messaging-platform-f657e548c8c?source=rss----25cd379abb8---4) (2 weeks ago)
 - [How LyftLearn Democratizes Distributed Compute through Kubernetes Spark and Fugue](https://eng.lyft.com/how-lyftlearn-democratizes-distributed-compute-through-kubernetes-spark-and-fugue-c0875b97c3d9?source=rss----25cd379abb8---4) (2 weeks ago)
 
 #### 🚕 &nbsp; Uber
 
-- [Presto® on Apache Kafka® At Uber Scale](https://eng.uber.com/presto-on-apache-kafka-at-uber-scale/) (4 days ago)
+- [Presto® on Apache Kafka® At Uber Scale](https://eng.uber.com/presto-on-apache-kafka-at-uber-scale/) (5 days ago)
 - [Securing Kafka® Infrastructure at Uber](https://eng.uber.com/securing-kafka-infrastructure-at-uber/) (1 week ago)
 - [Uber’s Emergency Button and The Technologies Behind It](https://eng.uber.com/ubers-emergency-button-and-the-technologies-behind-it/) (2 weeks ago)
