@@ -25,9 +25,9 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
+- [AWS Migration Hub Orchestrator – New Migration Orchestration Capability with Customizable Workflow Templates](https://aws.amazon.com/blogs/aws/aws-migration-hub-orchestrator-new-migration-orchestration-capability-with-customizable-workflow-templates/) (today)
 - [AWS Week in Review – April 18, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-april-18-2022/) (2 days ago)
 - [AWS Partner Network (APN) – 10 Years and Going Strong](https://aws.amazon.com/blogs/aws/aws-partner-network-apn-10-years-and-going-strong/) (2 days ago)
-- [Amazon FSx for NetApp ONTAP Update – New Single-AZ Deployment Type](https://aws.amazon.com/blogs/aws/amazon-fsx-for-netapp-ontap-update-new-single-az-deployment-type/) (1 week ago)
 
 
 #### 🔍 &nbsp; Bitbucket
