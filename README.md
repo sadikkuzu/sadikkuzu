@@ -39,8 +39,8 @@
 
 #### 📰 &nbsp; Stackoverflow
 
+- [The robots are coming for (the boring parts of) your job](https://stackoverflow.blog/2022/04/21/the-robots-are-coming-for-the-boring-parts-of-your-job/) (today)
 - [The Authorization Code grant (in excruciating detail) Part 2 of 2](https://stackoverflow.blog/2022/04/14/the-authorization-code-grant-in-excruciating-detail/) (1 week ago)
-- [Will chatbots ever live up to the hype?](https://stackoverflow.blog/2022/04/13/will-chatbots-ever-live-up-to-the-hype/) (1 week ago)
 - [Securing the data in your online code repository is a shared responsibility](https://stackoverflow.blog/2022/01/24/securing-the-data-in-your-online-code-repository-is-a-shared-responsibility/) (2 months ago)
 
 #### 🚕 &nbsp; Lyft
