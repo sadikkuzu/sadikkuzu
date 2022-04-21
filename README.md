@@ -25,9 +25,9 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
+- [Automatically Detect Operational Issues in Lambda Functions with Amazon DevOps Guru for Serverless](https://aws.amazon.com/blogs/aws/automatically-detect-operational-issues-in-lambda-functions-with-amazon-devops-guru-for-serverless/) (today)
 - [AWS Migration Hub Orchestrator – New Migration Orchestration Capability with Customizable Workflow Templates](https://aws.amazon.com/blogs/aws/aws-migration-hub-orchestrator-new-migration-orchestration-capability-with-customizable-workflow-templates/) (1 day ago)
 - [AWS Week in Review – April 18, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-april-18-2022/) (3 days ago)
-- [AWS Partner Network (APN) – 10 Years and Going Strong](https://aws.amazon.com/blogs/aws/aws-partner-network-apn-10-years-and-going-strong/) (3 days ago)
 
 
 #### 🔍 &nbsp; Bitbucket
