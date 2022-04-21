@@ -25,9 +25,9 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
-- [Automatically Detect Operational Issues in Lambda Functions with Amazon DevOps Guru for Serverless](https://aws.amazon.com/blogs/aws/automatically-detect-operational-issues-in-lambda-functions-with-amazon-devops-guru-for-serverless/) (today)
-- [AWS Migration Hub Orchestrator – New Migration Orchestration Capability with Customizable Workflow Templates](https://aws.amazon.com/blogs/aws/aws-migration-hub-orchestrator-new-migration-orchestration-capability-with-customizable-workflow-templates/) (1 day ago)
-- [AWS Week in Review – April 18, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-april-18-2022/) (3 days ago)
+- [Amazon Aurora Serverless v2 is Generally Available: Instant Scaling for Demanding Workloads](https://aws.amazon.com/blogs/aws/amazon-aurora-serverless-v2-is-generally-available-instant-scaling-for-demanding-workloads/) (today)
+- [Announcing the General Availability of AWS Amplify Studio](https://aws.amazon.com/blogs/aws/announcing-the-general-availability-of-aws-amplify-studio/) (today)
+- [AWS IoT TwinMaker Is Now Generally Available](https://aws.amazon.com/blogs/aws/aws-iot-twinmaker-is-now-generally-available/) (today)
 
 
 #### 🔍 &nbsp; Bitbucket
