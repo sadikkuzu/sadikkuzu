@@ -25,9 +25,9 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
+- [Amazon SageMaker Serverless Inference – Machine Learning Inference without Worrying about Servers](https://aws.amazon.com/blogs/aws/amazon-sagemaker-serverless-inference-machine-learning-inference-without-worrying-about-servers/) (today)
 - [Amazon Aurora Serverless v2 is Generally Available: Instant Scaling for Demanding Workloads](https://aws.amazon.com/blogs/aws/amazon-aurora-serverless-v2-is-generally-available-instant-scaling-for-demanding-workloads/) (today)
 - [Announcing the General Availability of AWS Amplify Studio](https://aws.amazon.com/blogs/aws/announcing-the-general-availability-of-aws-amplify-studio/) (today)
-- [AWS IoT TwinMaker Is Now Generally Available](https://aws.amazon.com/blogs/aws/aws-iot-twinmaker-is-now-generally-available/) (today)
 
 
 #### 🔍 &nbsp; Bitbucket
