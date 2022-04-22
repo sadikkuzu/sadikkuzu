@@ -25,9 +25,9 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
-- [Amazon SageMaker Serverless Inference – Machine Learning Inference without Worrying about Servers](https://aws.amazon.com/blogs/aws/amazon-sagemaker-serverless-inference-machine-learning-inference-without-worrying-about-servers/) (today)
-- [Amazon Aurora Serverless v2 is Generally Available: Instant Scaling for Demanding Workloads](https://aws.amazon.com/blogs/aws/amazon-aurora-serverless-v2-is-generally-available-instant-scaling-for-demanding-workloads/) (today)
-- [Announcing the General Availability of AWS Amplify Studio](https://aws.amazon.com/blogs/aws/announcing-the-general-availability-of-aws-amplify-studio/) (today)
+- [Amazon SageMaker Serverless Inference – Machine Learning Inference without Worrying about Servers](https://aws.amazon.com/blogs/aws/amazon-sagemaker-serverless-inference-machine-learning-inference-without-worrying-about-servers/) (1 day ago)
+- [Amazon Aurora Serverless v2 is Generally Available: Instant Scaling for Demanding Workloads](https://aws.amazon.com/blogs/aws/amazon-aurora-serverless-v2-is-generally-available-instant-scaling-for-demanding-workloads/) (1 day ago)
+- [Announcing the General Availability of AWS Amplify Studio](https://aws.amazon.com/blogs/aws/announcing-the-general-availability-of-aws-amplify-studio/) (1 day ago)
 
 
 #### 🔍 &nbsp; Bitbucket
@@ -39,13 +39,13 @@
 
 #### 📰 &nbsp; Stackoverflow
 
-- [The robots are coming for (the boring parts of) your job](https://stackoverflow.blog/2022/04/21/the-robots-are-coming-for-the-boring-parts-of-your-job/) (today)
+- [The robots are coming for (the boring parts of) your job](https://stackoverflow.blog/2022/04/21/the-robots-are-coming-for-the-boring-parts-of-your-job/) (1 day ago)
 - [The Authorization Code grant (in excruciating detail) Part 2 of 2](https://stackoverflow.blog/2022/04/14/the-authorization-code-grant-in-excruciating-detail/) (1 week ago)
 - [Securing the data in your online code repository is a shared responsibility](https://stackoverflow.blog/2022/01/24/securing-the-data-in-your-online-code-repository-is-a-shared-responsibility/) (2 months ago)
 
 #### 🚕 &nbsp; Lyft
 
-- [Challenges in Experimentation](https://eng.lyft.com/challenges-in-experimentation-be9ab98a7ef4?source=rss----25cd379abb8---4) (2 days ago)
+- [Challenges in Experimentation](https://eng.lyft.com/challenges-in-experimentation-be9ab98a7ef4?source=rss----25cd379abb8---4) (3 days ago)
 - [Monitoring CPU performance of Lyft’s Android applications](https://eng.lyft.com/monitoring-cpu-performance-of-lyfts-android-applications-4e36fafffe12?source=rss----25cd379abb8---4) (1 week ago)
 - [Building Lyft’s In-App Messaging Platform](https://eng.lyft.com/building-lyfts-in-app-messaging-platform-f657e548c8c?source=rss----25cd379abb8---4) (2 weeks ago)
 
