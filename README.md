@@ -25,9 +25,9 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
+- [AWS Week in Review – April 25, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-april-25-2022/) (today)
 - [Amazon SageMaker Serverless Inference – Machine Learning Inference without Worrying about Servers](https://aws.amazon.com/blogs/aws/amazon-sagemaker-serverless-inference-machine-learning-inference-without-worrying-about-servers/) (4 days ago)
 - [Amazon Aurora Serverless v2 is Generally Available: Instant Scaling for Demanding Workloads](https://aws.amazon.com/blogs/aws/amazon-aurora-serverless-v2-is-generally-available-instant-scaling-for-demanding-workloads/) (4 days ago)
-- [Announcing the General Availability of AWS Amplify Studio](https://aws.amazon.com/blogs/aws/announcing-the-general-availability-of-aws-amplify-studio/) (4 days ago)
 
 
 #### 🔍 &nbsp; Bitbucket
