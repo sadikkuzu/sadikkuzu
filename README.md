@@ -25,9 +25,9 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
+- [New AWS Wavelength Zone in Toronto – The First in Canada](https://aws.amazon.com/blogs/aws/new-aws-wavelength-zone-in-toronto-the-first-in-canada/) (today)
 - [AWS Week in Review – April 25, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-april-25-2022/) (1 day ago)
 - [Amazon SageMaker Serverless Inference – Machine Learning Inference without Worrying about Servers](https://aws.amazon.com/blogs/aws/amazon-sagemaker-serverless-inference-machine-learning-inference-without-worrying-about-servers/) (5 days ago)
-- [Amazon Aurora Serverless v2 is Generally Available: Instant Scaling for Demanding Workloads](https://aws.amazon.com/blogs/aws/amazon-aurora-serverless-v2-is-generally-available-instant-scaling-for-demanding-workloads/) (5 days ago)
 
 
 #### 🔍 &nbsp; Bitbucket
