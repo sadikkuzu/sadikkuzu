@@ -20,14 +20,14 @@
 - [Meet our people: Ana Forero, Area Manager.](https://medium.com/getir/meet-our-people-ana-forero-area-manager-755cac4941e?source=rss----5138a1e0a250---4) (3 weeks ago)
 - [Meet our people: Darienne Page, Head of Government Relations.](https://medium.com/getir/meet-our-people-darienne-page-head-of-government-relations-585f4b50b26d?source=rss----5138a1e0a250---4) (1 month ago)
 - [Meet our people: Melis Kayhan, Director of Product Management](https://medium.com/getir/meet-our-people-melis-kayhan-director-of-product-management-27e8f9913648?source=rss----5138a1e0a250---4) (1 month ago)
-- [“java.lang.OutOfMemoryError: Java heap space” in Karate Framework](https://medium.com/getir/java-lang-outofmemoryerror-java-heap-space-in-karate-framework-dc5ad83fcd1b?source=rss----5138a1e0a250---4) (2 months ago)
+- [“java.lang.OutOfMemoryError: Java heap space” in Karate Framework](https://medium.com/getir/java-lang-outofmemoryerror-java-heap-space-in-karate-framework-dc5ad83fcd1b?source=rss----5138a1e0a250---4) (3 months ago)
 
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
-- [AWS Week in Review – April 25, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-april-25-2022/) (today)
-- [Amazon SageMaker Serverless Inference – Machine Learning Inference without Worrying about Servers](https://aws.amazon.com/blogs/aws/amazon-sagemaker-serverless-inference-machine-learning-inference-without-worrying-about-servers/) (4 days ago)
-- [Amazon Aurora Serverless v2 is Generally Available: Instant Scaling for Demanding Workloads](https://aws.amazon.com/blogs/aws/amazon-aurora-serverless-v2-is-generally-available-instant-scaling-for-demanding-workloads/) (4 days ago)
+- [AWS Week in Review – April 25, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-april-25-2022/) (1 day ago)
+- [Amazon SageMaker Serverless Inference – Machine Learning Inference without Worrying about Servers](https://aws.amazon.com/blogs/aws/amazon-sagemaker-serverless-inference-machine-learning-inference-without-worrying-about-servers/) (5 days ago)
+- [Amazon Aurora Serverless v2 is Generally Available: Instant Scaling for Demanding Workloads](https://aws.amazon.com/blogs/aws/amazon-aurora-serverless-v2-is-generally-available-instant-scaling-for-demanding-workloads/) (5 days ago)
 
 
 #### 🔍 &nbsp; Bitbucket
@@ -39,15 +39,15 @@
 
 #### 📰 &nbsp; Stackoverflow
 
-- [Empathy for the Dev: Avoiding common pitfalls when communicating with developers](https://stackoverflow.blog/2022/04/25/empathy-for-the-dev-avoiding-common-pitfalls-when-communicating-with-developers/) (today)
-- [The robots are coming for (the boring parts of) your job](https://stackoverflow.blog/2022/04/21/the-robots-are-coming-for-the-boring-parts-of-your-job/) (4 days ago)
+- [Empathy for the Dev: Avoiding common pitfalls when communicating with developers](https://stackoverflow.blog/2022/04/25/empathy-for-the-dev-avoiding-common-pitfalls-when-communicating-with-developers/) (1 day ago)
+- [The robots are coming for (the boring parts of) your job](https://stackoverflow.blog/2022/04/21/the-robots-are-coming-for-the-boring-parts-of-your-job/) (5 days ago)
 - [Securing the data in your online code repository is a shared responsibility](https://stackoverflow.blog/2022/01/24/securing-the-data-in-your-online-code-repository-is-a-shared-responsibility/) (3 months ago)
 
 #### 🚕 &nbsp; Lyft
 
-- [Challenges in Experimentation](https://eng.lyft.com/challenges-in-experimentation-be9ab98a7ef4?source=rss----25cd379abb8---4) (6 days ago)
+- [Challenges in Experimentation](https://eng.lyft.com/challenges-in-experimentation-be9ab98a7ef4?source=rss----25cd379abb8---4) (1 week ago)
 - [Monitoring CPU performance of Lyft’s Android applications](https://eng.lyft.com/monitoring-cpu-performance-of-lyfts-android-applications-4e36fafffe12?source=rss----25cd379abb8---4) (1 week ago)
-- [Building Lyft’s In-App Messaging Platform](https://eng.lyft.com/building-lyfts-in-app-messaging-platform-f657e548c8c?source=rss----25cd379abb8---4) (2 weeks ago)
+- [Building Lyft’s In-App Messaging Platform](https://eng.lyft.com/building-lyfts-in-app-messaging-platform-f657e548c8c?source=rss----25cd379abb8---4) (3 weeks ago)
 
 #### 🚕 &nbsp; Uber
 
