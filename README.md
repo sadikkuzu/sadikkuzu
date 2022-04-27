@@ -25,9 +25,9 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
+- [New – Storage-Optimized Amazon EC2 Instances (I4i) Powered by Intel Xeon Scalable (Ice Lake) Processors](https://aws.amazon.com/blogs/aws/new-storage-optimized-amazon-ec2-instances-i4i-powered-by-intel-xeon-scalable-ice-lake-processors/) (today)
 - [New AWS Wavelength Zone in Toronto – The First in Canada](https://aws.amazon.com/blogs/aws/new-aws-wavelength-zone-in-toronto-the-first-in-canada/) (1 day ago)
 - [AWS Week in Review – April 25, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-april-25-2022/) (2 days ago)
-- [Amazon SageMaker Serverless Inference – Machine Learning Inference without Worrying about Servers](https://aws.amazon.com/blogs/aws/amazon-sagemaker-serverless-inference-machine-learning-inference-without-worrying-about-servers/) (6 days ago)
 
 
 #### 🔍 &nbsp; Bitbucket
