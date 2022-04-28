@@ -25,22 +25,22 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
-- [New – Storage-Optimized Amazon EC2 Instances (I4i) Powered by Intel Xeon Scalable (Ice Lake) Processors](https://aws.amazon.com/blogs/aws/new-storage-optimized-amazon-ec2-instances-i4i-powered-by-intel-xeon-scalable-ice-lake-processors/) (today)
-- [New AWS Wavelength Zone in Toronto – The First in Canada](https://aws.amazon.com/blogs/aws/new-aws-wavelength-zone-in-toronto-the-first-in-canada/) (1 day ago)
-- [AWS Week in Review – April 25, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-april-25-2022/) (2 days ago)
+- [New – Storage-Optimized Amazon EC2 Instances (I4i) Powered by Intel Xeon Scalable (Ice Lake) Processors](https://aws.amazon.com/blogs/aws/new-storage-optimized-amazon-ec2-instances-i4i-powered-by-intel-xeon-scalable-ice-lake-processors/) (1 day ago)
+- [New AWS Wavelength Zone in Toronto – The First in Canada](https://aws.amazon.com/blogs/aws/new-aws-wavelength-zone-in-toronto-the-first-in-canada/) (2 days ago)
+- [AWS Week in Review – April 25, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-april-25-2022/) (3 days ago)
 
 
 #### 🔍 &nbsp; Bitbucket
 
 - [Announcing the beta for macOS Runners in Bitbucket Pipelines](https://bitbucket.org/blog/beta-macos-runners-bitbucket) (3 weeks ago)
-- [Git push size limits are coming to Bitbucket Cloud starting April 4th, 2022](https://bitbucket.org/blog/git-push-size-limits-are-coming-to-bitbucket-cloud-starting-april-4th-2022) (3 weeks ago)
+- [Git push size limits are coming to Bitbucket Cloud starting April 4th, 2022](https://bitbucket.org/blog/git-push-size-limits-are-coming-to-bitbucket-cloud-starting-april-4th-2022) (4 weeks ago)
 - [Introducing Bitbucket’s redesigned Branch page](https://bitbucket.org/blog/introducing-bitbuckets-redesigned-branch-page) (1 month ago)
 
 
 #### 📰 &nbsp; Stackoverflow
 
-- [Underscoring (or dunder-scoring) the importance of native type methods in Python](https://stackoverflow.blog/2022/04/27/underscoring-or-dunder-scoring-the-importance-of-native-type-methods-in-python/) (today)
-- [Empathy for the Dev: Avoiding common pitfalls when communicating with developers](https://stackoverflow.blog/2022/04/25/empathy-for-the-dev-avoiding-common-pitfalls-when-communicating-with-developers/) (2 days ago)
+- [Underscoring (or dunder-scoring) the importance of native type methods in Python](https://stackoverflow.blog/2022/04/27/underscoring-or-dunder-scoring-the-importance-of-native-type-methods-in-python/) (1 day ago)
+- [Empathy for the Dev: Avoiding common pitfalls when communicating with developers](https://stackoverflow.blog/2022/04/25/empathy-for-the-dev-avoiding-common-pitfalls-when-communicating-with-developers/) (3 days ago)
 - [Securing the data in your online code repository is a shared responsibility](https://stackoverflow.blog/2022/01/24/securing-the-data-in-your-online-code-repository-is-a-shared-responsibility/) (3 months ago)
 
 #### 🚕 &nbsp; Lyft
@@ -51,6 +51,6 @@
 
 #### 🚕 &nbsp; Uber
 
-- [Presto® on Apache Kafka® At Uber Scale](https://eng.uber.com/presto-on-apache-kafka-at-uber-scale/) (1 week ago)
-- [Securing Kafka® Infrastructure at Uber](https://eng.uber.com/securing-kafka-infrastructure-at-uber/) (2 weeks ago)
-- [Uber’s Emergency Button and The Technologies Behind It](https://eng.uber.com/ubers-emergency-button-and-the-technologies-behind-it/) (3 weeks ago)
+- [Presto® on Apache Kafka® At Uber Scale](https://eng.uber.com/presto-on-apache-kafka-at-uber-scale/) (2 weeks ago)
+- [Securing Kafka® Infrastructure at Uber](https://eng.uber.com/securing-kafka-infrastructure-at-uber/) (3 weeks ago)
+- [Uber’s Emergency Button and The Technologies Behind It](https://eng.uber.com/ubers-emergency-button-and-the-technologies-behind-it/) (4 weeks ago)
