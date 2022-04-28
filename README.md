@@ -45,9 +45,9 @@
 
 #### 🚕 &nbsp; Lyft
 
+- [Humans of Lyft Science](https://eng.lyft.com/humans-of-lyft-science-372a4ff226c0?source=rss----25cd379abb8---4) (today)
 - [Challenges in Experimentation](https://eng.lyft.com/challenges-in-experimentation-be9ab98a7ef4?source=rss----25cd379abb8---4) (1 week ago)
 - [Monitoring CPU performance of Lyft’s Android applications](https://eng.lyft.com/monitoring-cpu-performance-of-lyfts-android-applications-4e36fafffe12?source=rss----25cd379abb8---4) (2 weeks ago)
-- [Building Lyft’s In-App Messaging Platform](https://eng.lyft.com/building-lyfts-in-app-messaging-platform-f657e548c8c?source=rss----25cd379abb8---4) (3 weeks ago)
 
 #### 🚕 &nbsp; Uber
 
