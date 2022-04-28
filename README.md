@@ -51,6 +51,6 @@
 
 #### 🚕 &nbsp; Uber
 
+- [Dynamic Data Race Detection in Go Code](https://eng.uber.com/dynamic-data-race-detection-in-go-code/) (today)
 - [Presto® on Apache Kafka® At Uber Scale](https://eng.uber.com/presto-on-apache-kafka-at-uber-scale/) (2 weeks ago)
 - [Securing Kafka® Infrastructure at Uber](https://eng.uber.com/securing-kafka-infrastructure-at-uber/) (3 weeks ago)
-- [Uber’s Emergency Button and The Technologies Behind It](https://eng.uber.com/ubers-emergency-button-and-the-technologies-behind-it/) (4 weeks ago)
