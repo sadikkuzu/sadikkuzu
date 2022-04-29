@@ -32,9 +32,9 @@
 
 #### 🔍 &nbsp; Bitbucket
 
+- [A modern approach to change management with Bitbucket Cloud and Jira Service Management](https://bitbucket.org/blog/a-modern-approach-to-change-management-with-bitbucket-and-jira-service-management) (1 week ago)
 - [Announcing the beta for macOS Runners in Bitbucket Pipelines](https://bitbucket.org/blog/beta-macos-runners-bitbucket) (3 weeks ago)
 - [Git push size limits are coming to Bitbucket Cloud starting April 4th, 2022](https://bitbucket.org/blog/git-push-size-limits-are-coming-to-bitbucket-cloud-starting-april-4th-2022) (4 weeks ago)
-- [Introducing Bitbucket’s redesigned Branch page](https://bitbucket.org/blog/introducing-bitbuckets-redesigned-branch-page) (1 month ago)
 
 
 #### 📰 &nbsp; Stackoverflow
