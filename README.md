@@ -25,8 +25,8 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
-- [AWS Week in Review – May 2, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-may-2-2022/) (2 days ago)
-- [Amazon MSK Serverless Now Generally Available–No More Capacity Planning for Your Managed Kafka Clusters](https://aws.amazon.com/blogs/aws/amazon-msk-serverless-now-generally-available-no-more-capacity-planning-for-your-managed-kafka-clusters/) (6 days ago)
+- [AWS Week in Review – May 2, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-may-2-2022/) (3 days ago)
+- [Amazon MSK Serverless Now Generally Available–No More Capacity Planning for Your Managed Kafka Clusters](https://aws.amazon.com/blogs/aws/amazon-msk-serverless-now-generally-available-no-more-capacity-planning-for-your-managed-kafka-clusters/) (1 week ago)
 - [New – Storage-Optimized Amazon EC2 Instances (I4i) Powered by Intel Xeon Scalable (Ice Lake) Processors](https://aws.amazon.com/blogs/aws/new-storage-optimized-amazon-ec2-instances-i4i-powered-by-intel-xeon-scalable-ice-lake-processors/) (1 week ago)
 
 
@@ -39,18 +39,18 @@
 
 #### 📰 &nbsp; Stackoverflow
 
-- [Building a community of open-source documentation contributors](https://stackoverflow.blog/2022/05/02/building-a-community-of-open-source-documentation-contributors/) (2 days ago)
+- [Building a community of open-source documentation contributors](https://stackoverflow.blog/2022/05/02/building-a-community-of-open-source-documentation-contributors/) (3 days ago)
 - [Underscoring (or dunder-scoring) the importance of native type methods in Python](https://stackoverflow.blog/2022/04/27/underscoring-or-dunder-scoring-the-importance-of-native-type-methods-in-python/) (1 week ago)
 - [Securing the data in your online code repository is a shared responsibility](https://stackoverflow.blog/2022/01/24/securing-the-data-in-your-online-code-repository-is-a-shared-responsibility/) (3 months ago)
 
 #### 🚕 &nbsp; Lyft
 
-- [Humans of Lyft Science](https://eng.lyft.com/humans-of-lyft-science-372a4ff226c0?source=rss----25cd379abb8---4) (6 days ago)
+- [Humans of Lyft Science](https://eng.lyft.com/humans-of-lyft-science-372a4ff226c0?source=rss----25cd379abb8---4) (1 week ago)
 - [Challenges in Experimentation](https://eng.lyft.com/challenges-in-experimentation-be9ab98a7ef4?source=rss----25cd379abb8---4) (2 weeks ago)
 - [Monitoring CPU performance of Lyft’s Android applications](https://eng.lyft.com/monitoring-cpu-performance-of-lyfts-android-applications-4e36fafffe12?source=rss----25cd379abb8---4) (3 weeks ago)
 
 #### 🚕 &nbsp; Uber
 
-- [Dynamic Data Race Detection in Go Code](https://eng.uber.com/dynamic-data-race-detection-in-go-code/) (6 days ago)
-- [Presto® on Apache Kafka® At Uber Scale](https://eng.uber.com/presto-on-apache-kafka-at-uber-scale/) (2 weeks ago)
-- [Securing Kafka® Infrastructure at Uber](https://eng.uber.com/securing-kafka-infrastructure-at-uber/) (3 weeks ago)
+- [Dynamic Data Race Detection in Go Code](https://eng.uber.com/dynamic-data-race-detection-in-go-code/) (1 week ago)
+- [Presto® on Apache Kafka® At Uber Scale](https://eng.uber.com/presto-on-apache-kafka-at-uber-scale/) (3 weeks ago)
+- [Securing Kafka® Infrastructure at Uber](https://eng.uber.com/securing-kafka-infrastructure-at-uber/) (4 weeks ago)
