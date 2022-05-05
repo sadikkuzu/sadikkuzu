@@ -39,8 +39,8 @@
 
 #### 📰 &nbsp; Stackoverflow
 
+- [Security needs to shift left into the software development lifecycle](https://stackoverflow.blog/2022/05/05/security-needs-to-shift-left-into-the-software-development-lifecycle/) (today)
 - [Building a community of open-source documentation contributors](https://stackoverflow.blog/2022/05/02/building-a-community-of-open-source-documentation-contributors/) (3 days ago)
-- [Underscoring (or dunder-scoring) the importance of native type methods in Python](https://stackoverflow.blog/2022/04/27/underscoring-or-dunder-scoring-the-importance-of-native-type-methods-in-python/) (1 week ago)
 - [Securing the data in your online code repository is a shared responsibility](https://stackoverflow.blog/2022/01/24/securing-the-data-in-your-online-code-repository-is-a-shared-responsibility/) (3 months ago)
 
 #### 🚕 &nbsp; Lyft
