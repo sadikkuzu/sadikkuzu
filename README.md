@@ -7,11 +7,11 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [alperenkaran](https://github.com/alperenkaran)  ]
 - [ [cemthecebi](https://github.com/cemthecebi) Cem Berke Cebi ]
 - [ [jishanshaikh4](https://github.com/jishanshaikh4) Jishan Shaikh ]
 - [ [uchiha-suraj](https://github.com/uchiha-suraj) suraj ✨  ]
 - [ [Lufzys](https://github.com/Lufzys) Furkan &#34;Lufzys&#34; ]
-- [ [aliemresafak](https://github.com/aliemresafak) Ali Emre Şafak ]
 
 
 #### 🚀 &nbsp; [Getir](https://technology.getir.com)
