@@ -25,7 +25,7 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
-- [AWS Week in Review – May 9, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-may-9-2022/) (today)
+- [AWS Week in Review – May 9, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-may-9-2022/) (1 day ago)
 - [AWS Week in Review – May 2, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-may-2-2022/) (1 week ago)
 - [Amazon MSK Serverless Now Generally Available–No More Capacity Planning for Your Managed Kafka Clusters](https://aws.amazon.com/blogs/aws/amazon-msk-serverless-now-generally-available-no-more-capacity-planning-for-your-managed-kafka-clusters/) (1 week ago)
 
@@ -39,14 +39,14 @@
 
 #### 📰 &nbsp; Stackoverflow
 
-- [Security needs to shift left into the software development lifecycle](https://stackoverflow.blog/2022/05/05/security-needs-to-shift-left-into-the-software-development-lifecycle/) (4 days ago)
+- [Security needs to shift left into the software development lifecycle](https://stackoverflow.blog/2022/05/05/security-needs-to-shift-left-into-the-software-development-lifecycle/) (5 days ago)
 - [Building a community of open-source documentation contributors](https://stackoverflow.blog/2022/05/02/building-a-community-of-open-source-documentation-contributors/) (1 week ago)
 - [Securing the data in your online code repository is a shared responsibility](https://stackoverflow.blog/2022/01/24/securing-the-data-in-your-online-code-repository-is-a-shared-responsibility/) (3 months ago)
 
 #### 🚕 &nbsp; Lyft
 
 - [Humans of Lyft Science](https://eng.lyft.com/humans-of-lyft-science-372a4ff226c0?source=rss----25cd379abb8---4) (1 week ago)
-- [Challenges in Experimentation](https://eng.lyft.com/challenges-in-experimentation-be9ab98a7ef4?source=rss----25cd379abb8---4) (2 weeks ago)
+- [Challenges in Experimentation](https://eng.lyft.com/challenges-in-experimentation-be9ab98a7ef4?source=rss----25cd379abb8---4) (3 weeks ago)
 - [Monitoring CPU performance of Lyft’s Android applications](https://eng.lyft.com/monitoring-cpu-performance-of-lyfts-android-applications-4e36fafffe12?source=rss----25cd379abb8---4) (3 weeks ago)
 
 #### 🚕 &nbsp; Uber
