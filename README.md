@@ -25,27 +25,27 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
-- [AWS Week in Review – May 9, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-may-9-2022/) (1 day ago)
+- [AWS Week in Review – May 9, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-may-9-2022/) (2 days ago)
 - [AWS Week in Review – May 2, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-may-2-2022/) (1 week ago)
 - [Amazon MSK Serverless Now Generally Available–No More Capacity Planning for Your Managed Kafka Clusters](https://aws.amazon.com/blogs/aws/amazon-msk-serverless-now-generally-available-no-more-capacity-planning-for-your-managed-kafka-clusters/) (1 week ago)
 
 
 #### 🔍 &nbsp; Bitbucket
 
-- [Changes to deleting snippet comments](https://bitbucket.org/blog/changes-to-deleting-snippet-comments) (today)
+- [Changes to deleting snippet comments](https://bitbucket.org/blog/changes-to-deleting-snippet-comments) (1 day ago)
 - [A modern approach to change management with Bitbucket Cloud and Jira Service Management](https://bitbucket.org/blog/a-modern-approach-to-change-management-with-bitbucket-and-jira-service-management) (3 weeks ago)
 - [Announcing the beta for macOS Runners in Bitbucket Pipelines](https://bitbucket.org/blog/beta-macos-runners-bitbucket) (1 month ago)
 
 
 #### 📰 &nbsp; Stackoverflow
 
-- [Security needs to shift left into the software development lifecycle](https://stackoverflow.blog/2022/05/05/security-needs-to-shift-left-into-the-software-development-lifecycle/) (5 days ago)
+- [Security needs to shift left into the software development lifecycle](https://stackoverflow.blog/2022/05/05/security-needs-to-shift-left-into-the-software-development-lifecycle/) (6 days ago)
 - [Building a community of open-source documentation contributors](https://stackoverflow.blog/2022/05/02/building-a-community-of-open-source-documentation-contributors/) (1 week ago)
 - [Securing the data in your online code repository is a shared responsibility](https://stackoverflow.blog/2022/01/24/securing-the-data-in-your-online-code-repository-is-a-shared-responsibility/) (3 months ago)
 
 #### 🚕 &nbsp; Lyft
 
-- [Trino: Open Source Infrastructure Upgrading at Lyft](https://eng.lyft.com/trino-open-source-infrastructure-upgrading-at-lyft-83f26b099fa?source=rss----25cd379abb8---4) (today)
+- [Trino: Open Source Infrastructure Upgrading at Lyft](https://eng.lyft.com/trino-open-source-infrastructure-upgrading-at-lyft-83f26b099fa?source=rss----25cd379abb8---4) (1 day ago)
 - [Humans of Lyft Science](https://eng.lyft.com/humans-of-lyft-science-372a4ff226c0?source=rss----25cd379abb8---4) (1 week ago)
 - [Challenges in Experimentation](https://eng.lyft.com/challenges-in-experimentation-be9ab98a7ef4?source=rss----25cd379abb8---4) (3 weeks ago)
 
