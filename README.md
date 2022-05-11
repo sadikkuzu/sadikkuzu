@@ -25,9 +25,9 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
+- [Amazon EC2 Now Supports NitroTPM and UEFI Secure Boot](https://aws.amazon.com/blogs/aws/amazon-ec2-now-supports-nitrotpm-and-uefi-secure-boot/) (today)
 - [AWS Week in Review – May 9, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-may-9-2022/) (2 days ago)
 - [AWS Week in Review – May 2, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-may-2-2022/) (1 week ago)
-- [Amazon MSK Serverless Now Generally Available–No More Capacity Planning for Your Managed Kafka Clusters](https://aws.amazon.com/blogs/aws/amazon-msk-serverless-now-generally-available-no-more-capacity-planning-for-your-managed-kafka-clusters/) (1 week ago)
 
 
 #### 🔍 &nbsp; Bitbucket
