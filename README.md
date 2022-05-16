@@ -39,9 +39,9 @@
 
 #### 📰 &nbsp; Stackoverflow
 
+- [Stack under attack: what we learned about handling DDoS attacks](https://stackoverflow.blog/2022/05/16/stack-under-attack-what-we-learned-about-handling-ddos-attacks/) (today)
 - [Security needs to shift left into the software development lifecycle](https://stackoverflow.blog/2022/05/05/security-needs-to-shift-left-into-the-software-development-lifecycle/) (1 week ago)
-- [Building a community of open-source documentation contributors](https://stackoverflow.blog/2022/05/02/building-a-community-of-open-source-documentation-contributors/) (2 weeks ago)
-- [Securing the data in your online code repository is a shared responsibility](https://stackoverflow.blog/2022/01/24/securing-the-data-in-your-online-code-repository-is-a-shared-responsibility/) (3 months ago)
+- [Stack under attack: what we learned about handling DDoS attacks](https://stackoverflow.blog/2022/05/16/stack-under-attack-what-we-learned-about-handling-ddos-attacks/) (today)
 
 #### 🚕 &nbsp; Lyft
 
