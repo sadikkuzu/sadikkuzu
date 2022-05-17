@@ -32,9 +32,9 @@
 
 #### 🔍 &nbsp; Bitbucket
 
+- [Announcing support for Windows runners in Bitbucket Pipelines](https://bitbucket.org/blog/windows-runners) (today)
 - [Changes to deleting snippet comments](https://bitbucket.org/blog/changes-to-deleting-snippet-comments) (1 week ago)
 - [A modern approach to change management with Bitbucket Cloud and Jira Service Management](https://bitbucket.org/blog/a-modern-approach-to-change-management-with-bitbucket-and-jira-service-management) (4 weeks ago)
-- [Announcing the beta for macOS Runners in Bitbucket Pipelines](https://bitbucket.org/blog/beta-macos-runners-bitbucket) (1 month ago)
 
 
 #### 📰 &nbsp; Stackoverflow
@@ -51,6 +51,6 @@
 
 #### 🚕 &nbsp; Uber
 
+- [Better Load Balancing: Real-Time Dynamic Subsetting](https://eng.uber.com/better-load-balancing-real-time-dynamic-subsetting/) (today)
 - [Dynamic Data Race Detection in Go Code](https://eng.uber.com/dynamic-data-race-detection-in-go-code/) (2 weeks ago)
 - [Presto® on Apache Kafka® At Uber Scale](https://eng.uber.com/presto-on-apache-kafka-at-uber-scale/) (1 month ago)
-- [Securing Kafka® Infrastructure at Uber](https://eng.uber.com/securing-kafka-infrastructure-at-uber/) (1 month ago)
