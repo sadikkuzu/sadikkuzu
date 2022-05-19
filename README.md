@@ -32,9 +32,9 @@
 
 #### 🔍 &nbsp; Bitbucket
 
+- [Improving performance on complex diffs](https://bitbucket.org/blog/improving-performance-on-complex-diffs) (today)
 - [Announcing support for Windows runners in Bitbucket Pipelines](https://bitbucket.org/blog/windows-runners) (2 days ago)
 - [Changes to deleting snippet comments](https://bitbucket.org/blog/changes-to-deleting-snippet-comments) (1 week ago)
-- [A modern approach to change management with Bitbucket Cloud and Jira Service Management](https://bitbucket.org/blog/a-modern-approach-to-change-management-with-bitbucket-and-jira-service-management) (1 month ago)
 
 
 #### 📰 &nbsp; Stackoverflow
