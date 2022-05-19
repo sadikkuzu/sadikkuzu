@@ -25,32 +25,32 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
-- [AWS Backup Now Supports Amazon FSx for NetApp ONTAP](https://aws.amazon.com/blogs/aws/aws-backup-now-supports-amazon-fsx-for-netapp-ontap/) (today)
-- [AWS Week in Review – May 16, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-may-16-2022/) (2 days ago)
+- [AWS Backup Now Supports Amazon FSx for NetApp ONTAP](https://aws.amazon.com/blogs/aws/aws-backup-now-supports-amazon-fsx-for-netapp-ontap/) (1 day ago)
+- [AWS Week in Review – May 16, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-may-16-2022/) (3 days ago)
 - [Amazon EC2 Now Supports NitroTPM and UEFI Secure Boot](https://aws.amazon.com/blogs/aws/amazon-ec2-now-supports-nitrotpm-and-uefi-secure-boot/) (1 week ago)
 
 
 #### 🔍 &nbsp; Bitbucket
 
-- [Announcing support for Windows runners in Bitbucket Pipelines](https://bitbucket.org/blog/windows-runners) (1 day ago)
+- [Announcing support for Windows runners in Bitbucket Pipelines](https://bitbucket.org/blog/windows-runners) (2 days ago)
 - [Changes to deleting snippet comments](https://bitbucket.org/blog/changes-to-deleting-snippet-comments) (1 week ago)
 - [A modern approach to change management with Bitbucket Cloud and Jira Service Management](https://bitbucket.org/blog/a-modern-approach-to-change-management-with-bitbucket-and-jira-service-management) (1 month ago)
 
 
 #### 📰 &nbsp; Stackoverflow
 
-- [Stack under attack: what we learned about handling DDoS attacks](https://stackoverflow.blog/2022/05/16/stack-under-attack-what-we-learned-about-handling-ddos-attacks/) (2 days ago)
-- [Security needs to shift left into the software development lifecycle](https://stackoverflow.blog/2022/05/05/security-needs-to-shift-left-into-the-software-development-lifecycle/) (1 week ago)
-- [Stack under attack: what we learned about handling DDoS attacks](https://stackoverflow.blog/2022/05/16/stack-under-attack-what-we-learned-about-handling-ddos-attacks/) (2 days ago)
+- [Stack under attack: what we learned about handling DDoS attacks](https://stackoverflow.blog/2022/05/16/stack-under-attack-what-we-learned-about-handling-ddos-attacks/) (3 days ago)
+- [Security needs to shift left into the software development lifecycle](https://stackoverflow.blog/2022/05/05/security-needs-to-shift-left-into-the-software-development-lifecycle/) (2 weeks ago)
+- [Stack under attack: what we learned about handling DDoS attacks](https://stackoverflow.blog/2022/05/16/stack-under-attack-what-we-learned-about-handling-ddos-attacks/) (3 days ago)
 
 #### 🚕 &nbsp; Lyft
 
-- [Focus on Impact, Respect and Hospitality: Product culture at Lyft](https://eng.lyft.com/focus-on-impact-respect-and-hospitality-product-culture-at-lyft-6a6259782fed?source=rss----25cd379abb8---4) (6 days ago)
+- [Focus on Impact, Respect and Hospitality: Product culture at Lyft](https://eng.lyft.com/focus-on-impact-respect-and-hospitality-product-culture-at-lyft-6a6259782fed?source=rss----25cd379abb8---4) (1 week ago)
 - [Trino: Open Source Infrastructure Upgrading at Lyft](https://eng.lyft.com/trino-open-source-infrastructure-upgrading-at-lyft-83f26b099fa?source=rss----25cd379abb8---4) (1 week ago)
-- [Humans of Lyft Science](https://eng.lyft.com/humans-of-lyft-science-372a4ff226c0?source=rss----25cd379abb8---4) (2 weeks ago)
+- [Humans of Lyft Science](https://eng.lyft.com/humans-of-lyft-science-372a4ff226c0?source=rss----25cd379abb8---4) (3 weeks ago)
 
 #### 🚕 &nbsp; Uber
 
-- [Better Load Balancing: Real-Time Dynamic Subsetting](https://eng.uber.com/better-load-balancing-real-time-dynamic-subsetting/) (1 day ago)
-- [Dynamic Data Race Detection in Go Code](https://eng.uber.com/dynamic-data-race-detection-in-go-code/) (2 weeks ago)
+- [Better Load Balancing: Real-Time Dynamic Subsetting](https://eng.uber.com/better-load-balancing-real-time-dynamic-subsetting/) (2 days ago)
+- [Dynamic Data Race Detection in Go Code](https://eng.uber.com/dynamic-data-race-detection-in-go-code/) (3 weeks ago)
 - [Presto® on Apache Kafka® At Uber Scale](https://eng.uber.com/presto-on-apache-kafka-at-uber-scale/) (1 month ago)
