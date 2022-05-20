@@ -25,23 +25,23 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
-- [AWS Backup Now Supports Amazon FSx for NetApp ONTAP](https://aws.amazon.com/blogs/aws/aws-backup-now-supports-amazon-fsx-for-netapp-ontap/) (1 day ago)
-- [AWS Week in Review – May 16, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-may-16-2022/) (3 days ago)
+- [AWS Backup Now Supports Amazon FSx for NetApp ONTAP](https://aws.amazon.com/blogs/aws/aws-backup-now-supports-amazon-fsx-for-netapp-ontap/) (2 days ago)
+- [AWS Week in Review – May 16, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-may-16-2022/) (4 days ago)
 - [Amazon EC2 Now Supports NitroTPM and UEFI Secure Boot](https://aws.amazon.com/blogs/aws/amazon-ec2-now-supports-nitrotpm-and-uefi-secure-boot/) (1 week ago)
 
 
 #### 🔍 &nbsp; Bitbucket
 
-- [Improving performance on complex diffs](https://bitbucket.org/blog/improving-performance-on-complex-diffs) (today)
-- [Announcing support for Windows runners in Bitbucket Pipelines](https://bitbucket.org/blog/windows-runners) (2 days ago)
+- [Improving performance on complex diffs](https://bitbucket.org/blog/improving-performance-on-complex-diffs) (1 day ago)
+- [Announcing support for Windows runners in Bitbucket Pipelines](https://bitbucket.org/blog/windows-runners) (3 days ago)
 - [Changes to deleting snippet comments](https://bitbucket.org/blog/changes-to-deleting-snippet-comments) (1 week ago)
 
 
 #### 📰 &nbsp; Stackoverflow
 
-- [Crystal balls and clairvoyance: Future proofing in a world of inevitable change](https://stackoverflow.blog/2022/05/19/crystal-balls-and-clairvoyance-future-proofing-in-a-world-of-inevitable-change/) (today)
-- [Stack under attack: what we learned about handling DDoS attacks](https://stackoverflow.blog/2022/05/16/stack-under-attack-what-we-learned-about-handling-ddos-attacks/) (3 days ago)
-- [Stack under attack: what we learned about handling DDoS attacks](https://stackoverflow.blog/2022/05/16/stack-under-attack-what-we-learned-about-handling-ddos-attacks/) (3 days ago)
+- [Crystal balls and clairvoyance: Future proofing in a world of inevitable change](https://stackoverflow.blog/2022/05/19/crystal-balls-and-clairvoyance-future-proofing-in-a-world-of-inevitable-change/) (1 day ago)
+- [Stack under attack: what we learned about handling DDoS attacks](https://stackoverflow.blog/2022/05/16/stack-under-attack-what-we-learned-about-handling-ddos-attacks/) (4 days ago)
+- [Stack under attack: what we learned about handling DDoS attacks](https://stackoverflow.blog/2022/05/16/stack-under-attack-what-we-learned-about-handling-ddos-attacks/) (4 days ago)
 
 #### 🚕 &nbsp; Lyft
 
@@ -51,6 +51,6 @@
 
 #### 🚕 &nbsp; Uber
 
-- [Better Load Balancing: Real-Time Dynamic Subsetting](https://eng.uber.com/better-load-balancing-real-time-dynamic-subsetting/) (2 days ago)
+- [Better Load Balancing: Real-Time Dynamic Subsetting](https://eng.uber.com/better-load-balancing-real-time-dynamic-subsetting/) (3 days ago)
 - [Dynamic Data Race Detection in Go Code](https://eng.uber.com/dynamic-data-race-detection-in-go-code/) (3 weeks ago)
 - [Presto® on Apache Kafka® At Uber Scale](https://eng.uber.com/presto-on-apache-kafka-at-uber-scale/) (1 month ago)
