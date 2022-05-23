@@ -25,9 +25,9 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
+- [AWS Week In Review – May 23, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-may-27-2022/) (today)
 - [AWS Backup Now Supports Amazon FSx for NetApp ONTAP](https://aws.amazon.com/blogs/aws/aws-backup-now-supports-amazon-fsx-for-netapp-ontap/) (5 days ago)
 - [AWS Week in Review – May 16, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-may-16-2022/) (1 week ago)
-- [Amazon EC2 Now Supports NitroTPM and UEFI Secure Boot](https://aws.amazon.com/blogs/aws/amazon-ec2-now-supports-nitrotpm-and-uefi-secure-boot/) (1 week ago)
 
 
 #### 🔍 &nbsp; Bitbucket
