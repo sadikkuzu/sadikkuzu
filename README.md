@@ -25,9 +25,9 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
+- [New – Amazon EC2 C7g Instances, Powered by AWS Graviton3 Processors](https://aws.amazon.com/blogs/aws/new-amazon-ec2-c7g-instances-powered-by-aws-graviton3-processors/) (today)
 - [AWS Week In Review – May 23, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-may-27-2022/) (today)
 - [AWS Backup Now Supports Amazon FSx for NetApp ONTAP](https://aws.amazon.com/blogs/aws/aws-backup-now-supports-amazon-fsx-for-netapp-ontap/) (5 days ago)
-- [AWS Week in Review – May 16, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-may-16-2022/) (1 week ago)
 
 
 #### 🔍 &nbsp; Bitbucket
