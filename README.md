@@ -39,8 +39,8 @@
 
 #### 📰 &nbsp; Stackoverflow
 
+- [Web3 skeptics and believers both need a reality check](https://stackoverflow.blog/2022/05/25/web3-skeptics-and-believers-both-need-a-reality-check/) (today)
 - [The science of interviewing developers](https://stackoverflow.blog/2022/05/23/the-science-of-interviewing-developers/) (2 days ago)
-- [Crystal balls and clairvoyance: Future proofing in a world of inevitable change](https://stackoverflow.blog/2022/05/19/crystal-balls-and-clairvoyance-future-proofing-in-a-world-of-inevitable-change/) (6 days ago)
 - [Stack under attack: what we learned about handling DDoS attacks](https://stackoverflow.blog/2022/05/16/stack-under-attack-what-we-learned-about-handling-ddos-attacks/) (1 week ago)
 
 #### 🚕 &nbsp; Lyft
