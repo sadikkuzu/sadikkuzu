@@ -25,7 +25,7 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
-- [New for AWS DataSync – Move Data Between AWS and Google Cloud Storage or AWS and Microsoft Azure Files](https://aws.amazon.com/blogs/aws/new-for-aws-datasync-move-data-between-aws-and-google-cloud-storage-or-aws-and-microsoft-azure-files/) (1 day ago)
+- [New for AWS DataSync – Move Data Between AWS and Other Public Locations](https://aws.amazon.com/blogs/aws/new-for-aws-datasync-move-data-between-aws-and-google-cloud-storage-or-aws-and-microsoft-azure-files/) (1 day ago)
 - [New – Amazon EC2 C7g Instances, Powered by AWS Graviton3 Processors](https://aws.amazon.com/blogs/aws/new-amazon-ec2-c7g-instances-powered-by-aws-graviton3-processors/) (2 days ago)
 - [AWS Week In Review – May 23, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-may-27-2022/) (2 days ago)
 
