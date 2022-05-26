@@ -25,32 +25,32 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
-- [New for AWS DataSync – Move Data Between AWS and Other Public Locations](https://aws.amazon.com/blogs/aws/new-for-aws-datasync-move-data-between-aws-and-google-cloud-storage-or-aws-and-microsoft-azure-files/) (1 day ago)
-- [New – Amazon EC2 C7g Instances, Powered by AWS Graviton3 Processors](https://aws.amazon.com/blogs/aws/new-amazon-ec2-c7g-instances-powered-by-aws-graviton3-processors/) (2 days ago)
-- [AWS Week In Review – May 23, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-may-27-2022/) (2 days ago)
+- [New for AWS DataSync – Move Data Between AWS and Other Public Locations](https://aws.amazon.com/blogs/aws/new-for-aws-datasync-move-data-between-aws-and-google-cloud-storage-or-aws-and-microsoft-azure-files/) (2 days ago)
+- [New – Amazon EC2 C7g Instances, Powered by AWS Graviton3 Processors](https://aws.amazon.com/blogs/aws/new-amazon-ec2-c7g-instances-powered-by-aws-graviton3-processors/) (3 days ago)
+- [AWS Week In Review – May 23, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-may-27-2022/) (3 days ago)
 
 
 #### 🔍 &nbsp; Bitbucket
 
-- [Improving performance on complex diffs](https://bitbucket.org/blog/improving-performance-on-complex-diffs) (6 days ago)
+- [Improving performance on complex diffs](https://bitbucket.org/blog/improving-performance-on-complex-diffs) (1 week ago)
 - [Announcing support for Windows runners in Bitbucket Pipelines](https://bitbucket.org/blog/windows-runners) (1 week ago)
 - [Changes to deleting snippet comments](https://bitbucket.org/blog/changes-to-deleting-snippet-comments) (2 weeks ago)
 
 
 #### 📰 &nbsp; Stackoverflow
 
-- [Web3 skeptics and believers both need a reality check](https://stackoverflow.blog/2022/05/25/web3-skeptics-and-believers-both-need-a-reality-check/) (today)
-- [The science of interviewing developers](https://stackoverflow.blog/2022/05/23/the-science-of-interviewing-developers/) (2 days ago)
+- [Web3 skeptics and believers both need a reality check](https://stackoverflow.blog/2022/05/25/web3-skeptics-and-believers-both-need-a-reality-check/) (1 day ago)
+- [The science of interviewing developers](https://stackoverflow.blog/2022/05/23/the-science-of-interviewing-developers/) (3 days ago)
 - [Stack under attack: what we learned about handling DDoS attacks](https://stackoverflow.blog/2022/05/16/stack-under-attack-what-we-learned-about-handling-ddos-attacks/) (1 week ago)
 
 #### 🚕 &nbsp; Lyft
 
-- [Focus on Impact, Respect and Hospitality: Product culture at Lyft](https://eng.lyft.com/focus-on-impact-respect-and-hospitality-product-culture-at-lyft-6a6259782fed?source=rss----25cd379abb8---4) (1 week ago)
+- [Focus on Impact, Respect and Hospitality: Product culture at Lyft](https://eng.lyft.com/focus-on-impact-respect-and-hospitality-product-culture-at-lyft-6a6259782fed?source=rss----25cd379abb8---4) (2 weeks ago)
 - [Trino: Open Source Infrastructure Upgrading at Lyft](https://eng.lyft.com/trino-open-source-infrastructure-upgrading-at-lyft-83f26b099fa?source=rss----25cd379abb8---4) (2 weeks ago)
-- [Humans of Lyft Science](https://eng.lyft.com/humans-of-lyft-science-372a4ff226c0?source=rss----25cd379abb8---4) (3 weeks ago)
+- [Humans of Lyft Science](https://eng.lyft.com/humans-of-lyft-science-372a4ff226c0?source=rss----25cd379abb8---4) (4 weeks ago)
 
 #### 🚕 &nbsp; Uber
 
 - [Better Load Balancing: Real-Time Dynamic Subsetting](https://eng.uber.com/better-load-balancing-real-time-dynamic-subsetting/) (1 week ago)
-- [Dynamic Data Race Detection in Go Code](https://eng.uber.com/dynamic-data-race-detection-in-go-code/) (3 weeks ago)
+- [Dynamic Data Race Detection in Go Code](https://eng.uber.com/dynamic-data-race-detection-in-go-code/) (4 weeks ago)
 - [Presto® on Apache Kafka® At Uber Scale](https://eng.uber.com/presto-on-apache-kafka-at-uber-scale/) (1 month ago)
