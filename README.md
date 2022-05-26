@@ -45,9 +45,9 @@
 
 #### 🚕 &nbsp; Lyft
 
+- [Bringing Lyft Safety Features to the Web](https://eng.lyft.com/bringing-lyft-safety-features-to-the-web-8678c0258bd7?source=rss----25cd379abb8---4) (today)
 - [Focus on Impact, Respect and Hospitality: Product culture at Lyft](https://eng.lyft.com/focus-on-impact-respect-and-hospitality-product-culture-at-lyft-6a6259782fed?source=rss----25cd379abb8---4) (2 weeks ago)
 - [Trino: Open Source Infrastructure Upgrading at Lyft](https://eng.lyft.com/trino-open-source-infrastructure-upgrading-at-lyft-83f26b099fa?source=rss----25cd379abb8---4) (2 weeks ago)
-- [Humans of Lyft Science](https://eng.lyft.com/humans-of-lyft-science-372a4ff226c0?source=rss----25cd379abb8---4) (4 weeks ago)
 
 #### 🚕 &nbsp; Uber
 
