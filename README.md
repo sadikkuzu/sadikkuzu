@@ -25,9 +25,9 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
+- [New – Amazon EC2 M6id and C6id Instances with Up to 7.6 TB Local NVMe Storage](https://aws.amazon.com/blogs/aws/new-amazon-ec2-m6id-and-c6id-instances-with-up-to-7-6-tb-local-nvme-storage/) (today)
 - [New for AWS DataSync – Move Data Between AWS and Other Public Locations](https://aws.amazon.com/blogs/aws/new-for-aws-datasync-move-data-between-aws-and-google-cloud-storage-or-aws-and-microsoft-azure-files/) (2 days ago)
 - [New – Amazon EC2 C7g Instances, Powered by AWS Graviton3 Processors](https://aws.amazon.com/blogs/aws/new-amazon-ec2-c7g-instances-powered-by-aws-graviton3-processors/) (3 days ago)
-- [AWS Week In Review – May 23, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-may-27-2022/) (3 days ago)
 
 
 #### 🔍 &nbsp; Bitbucket
