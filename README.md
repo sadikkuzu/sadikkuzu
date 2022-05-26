@@ -39,8 +39,8 @@
 
 #### 📰 &nbsp; Stackoverflow
 
+- [The complete beginners guide to graph theory](https://stackoverflow.blog/2022/05/26/the-complete-beginners-guide-to-graph-theory/) (today)
 - [Web3 skeptics and believers both need a reality check](https://stackoverflow.blog/2022/05/25/web3-skeptics-and-believers-both-need-a-reality-check/) (1 day ago)
-- [The science of interviewing developers](https://stackoverflow.blog/2022/05/23/the-science-of-interviewing-developers/) (3 days ago)
 - [Stack under attack: what we learned about handling DDoS attacks](https://stackoverflow.blog/2022/05/16/stack-under-attack-what-we-learned-about-handling-ddos-attacks/) (1 week ago)
 
 #### 🚕 &nbsp; Lyft
