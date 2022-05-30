@@ -39,8 +39,8 @@
 
 #### 📰 &nbsp; Stackoverflow
 
+- [Ethical AI isn’t just how you build it, its how you use it](https://stackoverflow.blog/2022/05/30/ethical-ai-isnt-just-how-you-build-it-its-how-you-use-it/) (today)
 - [The complete beginners guide to graph theory](https://stackoverflow.blog/2022/05/26/the-complete-beginners-guide-to-graph-theory/) (4 days ago)
-- [Web3 skeptics and believers both need a reality check](https://stackoverflow.blog/2022/05/25/web3-skeptics-and-believers-both-need-a-reality-check/) (5 days ago)
 - [Stack under attack: what we learned about handling DDoS attacks](https://stackoverflow.blog/2022/05/16/stack-under-attack-what-we-learned-about-handling-ddos-attacks/) (2 weeks ago)
 
 #### 🚕 &nbsp; Lyft
