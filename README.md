@@ -7,11 +7,11 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [jeffersonsimaogoncalves](https://github.com/jeffersonsimaogoncalves) Jefferson Simão Gonçalves ]
 - [ [mehmetrizgic](https://github.com/mehmetrizgic) Mehmet Rizgic ]
 - [ [oguzsenna](https://github.com/oguzsenna) Oğuz SENNA ]
 - [ [alperenkaran](https://github.com/alperenkaran)  ]
 - [ [cemthecebi](https://github.com/cemthecebi) Cem Berke Cebi ]
-- [ [jishanshaikh4](https://github.com/jishanshaikh4) Jishan Shaikh ]
 
 
 #### 🚀 &nbsp; [Getir](https://technology.getir.com)
