@@ -39,8 +39,8 @@
 
 #### 📰 &nbsp; Stackoverflow
 
+- [Talking blockchain, functional programming, and the future with Tezos co-creator Arthur Breitman﻿﻿](https://stackoverflow.blog/2022/06/01/talking-blockchain-functional-programming-and-the-future-with-tezos-co-creator-arthur-breitman/) (today)
 - [Ethical AI isn’t just how you build it, it’s how you use it](https://stackoverflow.blog/2022/05/30/ethical-ai-isnt-just-how-you-build-it-its-how-you-use-it/) (2 days ago)
-- [The complete beginner’s guide to graph theory](https://stackoverflow.blog/2022/05/26/the-complete-beginners-guide-to-graph-theory/) (6 days ago)
 - [Stack under attack: what we learned about handling DDoS attacks](https://stackoverflow.blog/2022/05/16/stack-under-attack-what-we-learned-about-handling-ddos-attacks/) (2 weeks ago)
 
 #### 🚕 &nbsp; Lyft
