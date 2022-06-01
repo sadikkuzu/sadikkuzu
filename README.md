@@ -39,15 +39,15 @@
 
 #### 📰 &nbsp; Stackoverflow
 
-- [Talking blockchain, functional programming, and the future with Tezos co-creator Arthur Breitman﻿﻿](https://stackoverflow.blog/2022/06/01/talking-blockchain-functional-programming-and-the-future-with-tezos-co-creator-arthur-breitman/) (today)
 - [Ethical AI isn’t just how you build it, it’s how you use it](https://stackoverflow.blog/2022/05/30/ethical-ai-isnt-just-how-you-build-it-its-how-you-use-it/) (2 days ago)
+- [The complete beginner’s guide to graph theory](https://stackoverflow.blog/2022/05/26/the-complete-beginners-guide-to-graph-theory/) (6 days ago)
 - [Stack under attack: what we learned about handling DDoS attacks](https://stackoverflow.blog/2022/05/16/stack-under-attack-what-we-learned-about-handling-ddos-attacks/) (2 weeks ago)
 
 #### 🚕 &nbsp; Lyft
 
+- [Full-Spectrum ML Model Monitoring at Lyft](https://eng.lyft.com/full-spectrum-ml-model-monitoring-at-lyft-a4cdaf828e8f?source=rss----25cd379abb8---4) (today)
 - [Bringing Lyft Safety Features to the Web](https://eng.lyft.com/bringing-lyft-safety-features-to-the-web-8678c0258bd7?source=rss----25cd379abb8---4) (6 days ago)
 - [Focus on Impact, Respect and Hospitality: Product culture at Lyft](https://eng.lyft.com/focus-on-impact-respect-and-hospitality-product-culture-at-lyft-6a6259782fed?source=rss----25cd379abb8---4) (2 weeks ago)
-- [Trino: Open Source Infrastructure Upgrading at Lyft](https://eng.lyft.com/trino-open-source-infrastructure-upgrading-at-lyft-83f26b099fa?source=rss----25cd379abb8---4) (3 weeks ago)
 
 #### 🚕 &nbsp; Uber
 
