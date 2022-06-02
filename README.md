@@ -51,6 +51,6 @@
 
 #### 🚕 &nbsp; Uber
 
+- [Data Race Patterns in Go](https://eng.uber.com/data-race-patterns-in-go/) (today)
 - [USL – Uber’s Unified Signup and Login Stack](https://eng.uber.com/usl-ubers-unified-signup-and-login-stack/) (1 week ago)
 - [Better Load Balancing: Real-Time Dynamic Subsetting](https://eng.uber.com/better-load-balancing-real-time-dynamic-subsetting/) (2 weeks ago)
-- [Dynamic Data Race Detection in Go Code](https://eng.uber.com/dynamic-data-race-detection-in-go-code/) (1 month ago)
