@@ -25,9 +25,9 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
-- [Introducing the newest AWS Heroes – June 2022](https://aws.amazon.com/blogs/aws/introducing-the-newest-aws-heroes-june-2022/) (2 days ago)
-- [Amazon EMR Serverless Now Generally Available – Run Big Data Applications without Managing Servers](https://aws.amazon.com/blogs/aws/amazon-emr-serverless-now-generally-available-run-big-data-applications-without-managing-servers/) (3 days ago)
-- [AWS Week In Review – May 30, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-may-30-2022/) (5 days ago)
+- [Introducing the newest AWS Heroes – June 2022](https://aws.amazon.com/blogs/aws/introducing-the-newest-aws-heroes-june-2022/) (3 days ago)
+- [Amazon EMR Serverless Now Generally Available – Run Big Data Applications without Managing Servers](https://aws.amazon.com/blogs/aws/amazon-emr-serverless-now-generally-available-run-big-data-applications-without-managing-servers/) (4 days ago)
+- [AWS Week In Review – May 30, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-may-30-2022/) (6 days ago)
 
 
 #### 🔍 &nbsp; Bitbucket
@@ -39,18 +39,18 @@
 
 #### 📰 &nbsp; Stackoverflow
 
-- [A beginner’s guide to JSON, the data format for the internet](https://stackoverflow.blog/2022/06/02/a-beginners-guide-to-json-the-data-format-for-the-internet/) (2 days ago)
-- [Ethical AI isn’t just how you build it, it’s how you use it](https://stackoverflow.blog/2022/05/30/ethical-ai-isnt-just-how-you-build-it-its-how-you-use-it/) (5 days ago)
+- [A beginner’s guide to JSON, the data format for the internet](https://stackoverflow.blog/2022/06/02/a-beginners-guide-to-json-the-data-format-for-the-internet/) (3 days ago)
+- [Ethical AI isn’t just how you build it, it’s how you use it](https://stackoverflow.blog/2022/05/30/ethical-ai-isnt-just-how-you-build-it-its-how-you-use-it/) (6 days ago)
 - [Stack under attack: what we learned about handling DDoS attacks](https://stackoverflow.blog/2022/05/16/stack-under-attack-what-we-learned-about-handling-ddos-attacks/) (2 weeks ago)
 
 #### 🚕 &nbsp; Lyft
 
-- [Full-Spectrum ML Model Monitoring at Lyft](https://eng.lyft.com/full-spectrum-ml-model-monitoring-at-lyft-a4cdaf828e8f?source=rss----25cd379abb8---4) (3 days ago)
+- [Full-Spectrum ML Model Monitoring at Lyft](https://eng.lyft.com/full-spectrum-ml-model-monitoring-at-lyft-a4cdaf828e8f?source=rss----25cd379abb8---4) (4 days ago)
 - [Bringing Lyft Safety Features to the Web](https://eng.lyft.com/bringing-lyft-safety-features-to-the-web-8678c0258bd7?source=rss----25cd379abb8---4) (1 week ago)
 - [Focus on Impact, Respect and Hospitality: Product culture at Lyft](https://eng.lyft.com/focus-on-impact-respect-and-hospitality-product-culture-at-lyft-6a6259782fed?source=rss----25cd379abb8---4) (3 weeks ago)
 
 #### 🚕 &nbsp; Uber
 
-- [Data Race Patterns in Go](https://eng.uber.com/data-race-patterns-in-go/) (2 days ago)
+- [Data Race Patterns in Go](https://eng.uber.com/data-race-patterns-in-go/) (3 days ago)
 - [USL – Uber’s Unified Signup and Login Stack](https://eng.uber.com/usl-ubers-unified-signup-and-login-stack/) (1 week ago)
 - [Better Load Balancing: Real-Time Dynamic Subsetting](https://eng.uber.com/better-load-balancing-real-time-dynamic-subsetting/) (2 weeks ago)
