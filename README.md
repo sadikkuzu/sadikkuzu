@@ -25,32 +25,32 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
-- [AWS Week In Review – June 6, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-june-6-2022/) (today)
-- [Introducing the newest AWS Heroes – June 2022](https://aws.amazon.com/blogs/aws/introducing-the-newest-aws-heroes-june-2022/) (4 days ago)
-- [Amazon EMR Serverless Now Generally Available – Run Big Data Applications without Managing Servers](https://aws.amazon.com/blogs/aws/amazon-emr-serverless-now-generally-available-run-big-data-applications-without-managing-servers/) (5 days ago)
+- [AWS Week In Review – June 6, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-june-6-2022/) (1 day ago)
+- [Introducing the newest AWS Heroes – June 2022](https://aws.amazon.com/blogs/aws/introducing-the-newest-aws-heroes-june-2022/) (5 days ago)
+- [Amazon EMR Serverless Now Generally Available – Run Big Data Applications without Managing Servers](https://aws.amazon.com/blogs/aws/amazon-emr-serverless-now-generally-available-run-big-data-applications-without-managing-servers/) (6 days ago)
 
 
 #### 🔍 &nbsp; Bitbucket
 
 - [Improving performance on complex diffs](https://bitbucket.org/blog/improving-performance-on-complex-diffs) (2 weeks ago)
-- [Announcing support for Windows runners in Bitbucket Pipelines](https://bitbucket.org/blog/windows-runners) (2 weeks ago)
-- [Changes to deleting snippet comments](https://bitbucket.org/blog/changes-to-deleting-snippet-comments) (3 weeks ago)
+- [Announcing support for Windows runners in Bitbucket Pipelines](https://bitbucket.org/blog/windows-runners) (3 weeks ago)
+- [Changes to deleting snippet comments](https://bitbucket.org/blog/changes-to-deleting-snippet-comments) (4 weeks ago)
 
 
 #### 📰 &nbsp; Stackoverflow
 
-- [Remote work is killing big offices. Cities must change to survive](https://stackoverflow.blog/2022/06/06/remote-work-is-killing-big-offices-cities-must-change-to-survive/) (today)
-- [A beginner’s guide to JSON, the data format for the internet](https://stackoverflow.blog/2022/06/02/a-beginners-guide-to-json-the-data-format-for-the-internet/) (4 days ago)
+- [Remote work is killing big offices. Cities must change to survive](https://stackoverflow.blog/2022/06/06/remote-work-is-killing-big-offices-cities-must-change-to-survive/) (1 day ago)
+- [A beginner’s guide to JSON, the data format for the internet](https://stackoverflow.blog/2022/06/02/a-beginners-guide-to-json-the-data-format-for-the-internet/) (5 days ago)
 - [Stack under attack: what we learned about handling DDoS attacks](https://stackoverflow.blog/2022/05/16/stack-under-attack-what-we-learned-about-handling-ddos-attacks/) (3 weeks ago)
 
 #### 🚕 &nbsp; Lyft
 
-- [Full-Spectrum ML Model Monitoring at Lyft](https://eng.lyft.com/full-spectrum-ml-model-monitoring-at-lyft-a4cdaf828e8f?source=rss----25cd379abb8---4) (5 days ago)
+- [Full-Spectrum ML Model Monitoring at Lyft](https://eng.lyft.com/full-spectrum-ml-model-monitoring-at-lyft-a4cdaf828e8f?source=rss----25cd379abb8---4) (6 days ago)
 - [Bringing Lyft Safety Features to the Web](https://eng.lyft.com/bringing-lyft-safety-features-to-the-web-8678c0258bd7?source=rss----25cd379abb8---4) (1 week ago)
 - [Focus on Impact, Respect and Hospitality: Product culture at Lyft](https://eng.lyft.com/focus-on-impact-respect-and-hospitality-product-culture-at-lyft-6a6259782fed?source=rss----25cd379abb8---4) (3 weeks ago)
 
 #### 🚕 &nbsp; Uber
 
-- [Data Race Patterns in Go](https://eng.uber.com/data-race-patterns-in-go/) (4 days ago)
+- [Data Race Patterns in Go](https://eng.uber.com/data-race-patterns-in-go/) (5 days ago)
 - [USL – Uber’s Unified Signup and Login Stack](https://eng.uber.com/usl-ubers-unified-signup-and-login-stack/) (1 week ago)
-- [Better Load Balancing: Real-Time Dynamic Subsetting](https://eng.uber.com/better-load-balancing-real-time-dynamic-subsetting/) (2 weeks ago)
+- [Better Load Balancing: Real-Time Dynamic Subsetting](https://eng.uber.com/better-load-balancing-real-time-dynamic-subsetting/) (3 weeks ago)
