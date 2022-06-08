@@ -39,8 +39,8 @@
 
 #### 📰 &nbsp; Stackoverflow
 
+- [The Great Decentralization? Geographic shifts and where tech talent is moving next](https://stackoverflow.blog/2022/06/08/the-great-decentralization-geographic-shifts-and-where-tech-talent-is-moving-next/) (today)
 - [Remote work is killing big offices. Cities must change to survive](https://stackoverflow.blog/2022/06/06/remote-work-is-killing-big-offices-cities-must-change-to-survive/) (2 days ago)
-- [A beginner’s guide to JSON, the data format for the internet](https://stackoverflow.blog/2022/06/02/a-beginners-guide-to-json-the-data-format-for-the-internet/) (6 days ago)
 - [Stack under attack: what we learned about handling DDoS attacks](https://stackoverflow.blog/2022/05/16/stack-under-attack-what-we-learned-about-handling-ddos-attacks/) (3 weeks ago)
 
 #### 🚕 &nbsp; Lyft
