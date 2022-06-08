@@ -25,9 +25,9 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
+- [Modernize Your Mainframe Applications &amp; Deploy Them In The Cloud](https://aws.amazon.com/blogs/aws/modernize-your-mainframe-applications-deploy-them-in-the-cloud/) (today)
 - [AWS MGN Update – Configure DR, Convert CentOS Linux to Rocky Linux, and Convert SUSE Linux Subscription](https://aws.amazon.com/blogs/aws/aws-mgn-update-configure-dr-convert-centos-linux-to-rocky-linux-and-convert-suse-linux-subscription/) (today)
 - [AWS Week In Review – June 6, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-june-6-2022/) (2 days ago)
-- [Introducing the newest AWS Heroes – June 2022](https://aws.amazon.com/blogs/aws/introducing-the-newest-aws-heroes-june-2022/) (6 days ago)
 
 
 #### 🔍 &nbsp; Bitbucket
