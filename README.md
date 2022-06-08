@@ -25,9 +25,9 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
+- [AWS MGN Update – Configure DR, Convert CentOS Linux to Rocky Linux, and Convert SUSE Linux Subscription](https://aws.amazon.com/blogs/aws/aws-mgn-update-configure-dr-convert-centos-linux-to-rocky-linux-and-convert-suse-linux-subscription/) (today)
 - [AWS Week In Review – June 6, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-june-6-2022/) (2 days ago)
 - [Introducing the newest AWS Heroes – June 2022](https://aws.amazon.com/blogs/aws/introducing-the-newest-aws-heroes-june-2022/) (6 days ago)
-- [Amazon EMR Serverless Now Generally Available – Run Big Data Applications without Managing Servers](https://aws.amazon.com/blogs/aws/amazon-emr-serverless-now-generally-available-run-big-data-applications-without-managing-servers/) (1 week ago)
 
 
 #### 🔍 &nbsp; Bitbucket
