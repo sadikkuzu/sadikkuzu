@@ -51,6 +51,6 @@
 
 #### 🚕 &nbsp; Uber
 
+- [Uber’s Real-Time Document Check](https://eng.uber.com/ubers-real-time-document-check/) (today)
 - [Data Race Patterns in Go](https://eng.uber.com/data-race-patterns-in-go/) (1 week ago)
 - [USL – Uber’s Unified Signup and Login Stack](https://eng.uber.com/usl-ubers-unified-signup-and-login-stack/) (2 weeks ago)
-- [Better Load Balancing: Real-Time Dynamic Subsetting](https://eng.uber.com/better-load-balancing-real-time-dynamic-subsetting/) (3 weeks ago)
