@@ -16,7 +16,7 @@
 
 #### 🚀 &nbsp; [Getir](https://technology.getir.com)
 
-- [Allure Usage in Maven Projects](https://medium.com/getir/allure-usage-in-maven-projects-1900152e7a11?source=rss----5138a1e0a250---4) (4 weeks ago)
+- [Allure Usage in Maven Projects](https://medium.com/getir/allure-usage-in-maven-projects-1900152e7a11?source=rss----5138a1e0a250---4) (1 month ago)
 - [Karate Framework vs Rest Assured](https://medium.com/getir/karate-framework-vs-rest-assured-95482a61002e?source=rss----5138a1e0a250---4) (2 months ago)
 - [Meet our people: Ana Forero, Area Manager.](https://medium.com/getir/meet-our-people-ana-forero-area-manager-755cac4941e?source=rss----5138a1e0a250---4) (2 months ago)
 - [Meet our people: Darienne Page, Head of Government Relations.](https://medium.com/getir/meet-our-people-darienne-page-head-of-government-relations-585f4b50b26d?source=rss----5138a1e0a250---4) (2 months ago)
@@ -25,9 +25,9 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
-- [New – Amazon EC2 R6id Instances with NVMe Local Instance Storage of up to 7.6 TB](https://aws.amazon.com/blogs/aws/new-amazon-ec2-r6id-instances/) (today)
-- [Modernize Your Mainframe Applications &amp; Deploy Them In The Cloud](https://aws.amazon.com/blogs/aws/modernize-your-mainframe-applications-deploy-them-in-the-cloud/) (1 day ago)
-- [AWS MGN Update – Configure DR, Convert CentOS Linux to Rocky Linux, and Convert SUSE Linux Subscription](https://aws.amazon.com/blogs/aws/aws-mgn-update-configure-dr-convert-centos-linux-to-rocky-linux-and-convert-suse-linux-subscription/) (1 day ago)
+- [New – Amazon EC2 R6id Instances with NVMe Local Instance Storage of up to 7.6 TB](https://aws.amazon.com/blogs/aws/new-amazon-ec2-r6id-instances/) (1 day ago)
+- [Modernize Your Mainframe Applications &amp; Deploy Them In The Cloud](https://aws.amazon.com/blogs/aws/modernize-your-mainframe-applications-deploy-them-in-the-cloud/) (2 days ago)
+- [AWS MGN Update – Configure DR, Convert CentOS Linux to Rocky Linux, and Convert SUSE Linux Subscription](https://aws.amazon.com/blogs/aws/aws-mgn-update-configure-dr-convert-centos-linux-to-rocky-linux-and-convert-suse-linux-subscription/) (2 days ago)
 
 
 #### 🔍 &nbsp; Bitbucket
@@ -39,8 +39,8 @@
 
 #### 📰 &nbsp; Stackoverflow
 
-- [The Great Decentralization? Geographic shifts and where tech talent is moving next](https://stackoverflow.blog/2022/06/08/the-great-decentralization-geographic-shifts-and-where-tech-talent-is-moving-next/) (1 day ago)
-- [Remote work is killing big offices. Cities must change to survive](https://stackoverflow.blog/2022/06/06/remote-work-is-killing-big-offices-cities-must-change-to-survive/) (3 days ago)
+- [The Great Decentralization? Geographic shifts and where tech talent is moving next](https://stackoverflow.blog/2022/06/08/the-great-decentralization-geographic-shifts-and-where-tech-talent-is-moving-next/) (2 days ago)
+- [Remote work is killing big offices. Cities must change to survive](https://stackoverflow.blog/2022/06/06/remote-work-is-killing-big-offices-cities-must-change-to-survive/) (4 days ago)
 - [Stack under attack: what we learned about handling DDoS attacks](https://stackoverflow.blog/2022/05/16/stack-under-attack-what-we-learned-about-handling-ddos-attacks/) (3 weeks ago)
 
 #### 🚕 &nbsp; Lyft
@@ -51,6 +51,6 @@
 
 #### 🚕 &nbsp; Uber
 
-- [Uber’s Real-Time Document Check](https://eng.uber.com/ubers-real-time-document-check/) (today)
+- [Uber’s Real-Time Document Check](https://eng.uber.com/ubers-real-time-document-check/) (1 day ago)
 - [Data Race Patterns in Go](https://eng.uber.com/data-race-patterns-in-go/) (1 week ago)
 - [USL – Uber’s Unified Signup and Login Stack](https://eng.uber.com/usl-ubers-unified-signup-and-login-stack/) (2 weeks ago)
