@@ -25,9 +25,9 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
+- [AWS Week in Review – June 13, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-june-13-2022/) (today)
 - [New – Amazon EC2 R6id Instances with NVMe Local Instance Storage of up to 7.6 TB](https://aws.amazon.com/blogs/aws/new-amazon-ec2-r6id-instances/) (4 days ago)
 - [Modernize Your Mainframe Applications &amp; Deploy Them In The Cloud](https://aws.amazon.com/blogs/aws/modernize-your-mainframe-applications-deploy-them-in-the-cloud/) (5 days ago)
-- [AWS MGN Update – Configure DR, Convert CentOS Linux to Rocky Linux, and Convert SUSE Linux Subscription](https://aws.amazon.com/blogs/aws/aws-mgn-update-configure-dr-convert-centos-linux-to-rocky-linux-and-convert-suse-linux-subscription/) (5 days ago)
 
 
 #### 🔍 &nbsp; Bitbucket
