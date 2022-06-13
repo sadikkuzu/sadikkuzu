@@ -25,9 +25,9 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
-- [New – Amazon EC2 R6id Instances with NVMe Local Instance Storage of up to 7.6 TB](https://aws.amazon.com/blogs/aws/new-amazon-ec2-r6id-instances/) (3 days ago)
-- [Modernize Your Mainframe Applications &amp; Deploy Them In The Cloud](https://aws.amazon.com/blogs/aws/modernize-your-mainframe-applications-deploy-them-in-the-cloud/) (4 days ago)
-- [AWS MGN Update – Configure DR, Convert CentOS Linux to Rocky Linux, and Convert SUSE Linux Subscription](https://aws.amazon.com/blogs/aws/aws-mgn-update-configure-dr-convert-centos-linux-to-rocky-linux-and-convert-suse-linux-subscription/) (4 days ago)
+- [New – Amazon EC2 R6id Instances with NVMe Local Instance Storage of up to 7.6 TB](https://aws.amazon.com/blogs/aws/new-amazon-ec2-r6id-instances/) (4 days ago)
+- [Modernize Your Mainframe Applications &amp; Deploy Them In The Cloud](https://aws.amazon.com/blogs/aws/modernize-your-mainframe-applications-deploy-them-in-the-cloud/) (5 days ago)
+- [AWS MGN Update – Configure DR, Convert CentOS Linux to Rocky Linux, and Convert SUSE Linux Subscription](https://aws.amazon.com/blogs/aws/aws-mgn-update-configure-dr-convert-centos-linux-to-rocky-linux-and-convert-suse-linux-subscription/) (5 days ago)
 
 
 #### 🔍 &nbsp; Bitbucket
@@ -39,9 +39,9 @@
 
 #### 📰 &nbsp; Stackoverflow
 
-- [The Great Decentralization? Geographic shifts and where tech talent is moving next](https://stackoverflow.blog/2022/06/08/the-great-decentralization-geographic-shifts-and-where-tech-talent-is-moving-next/) (4 days ago)
-- [Remote work is killing big offices. Cities must change to survive](https://stackoverflow.blog/2022/06/06/remote-work-is-killing-big-offices-cities-must-change-to-survive/) (6 days ago)
-- [Stack under attack: what we learned about handling DDoS attacks](https://stackoverflow.blog/2022/05/16/stack-under-attack-what-we-learned-about-handling-ddos-attacks/) (3 weeks ago)
+- [The Great Decentralization? Geographic shifts and where tech talent is moving next](https://stackoverflow.blog/2022/06/08/the-great-decentralization-geographic-shifts-and-where-tech-talent-is-moving-next/) (5 days ago)
+- [Remote work is killing big offices. Cities must change to survive](https://stackoverflow.blog/2022/06/06/remote-work-is-killing-big-offices-cities-must-change-to-survive/) (1 week ago)
+- [Stack under attack: what we learned about handling DDoS attacks](https://stackoverflow.blog/2022/05/16/stack-under-attack-what-we-learned-about-handling-ddos-attacks/) (4 weeks ago)
 
 #### 🚕 &nbsp; Lyft
 
@@ -51,6 +51,6 @@
 
 #### 🚕 &nbsp; Uber
 
-- [Uber’s Real-Time Document Check](https://eng.uber.com/ubers-real-time-document-check/) (3 days ago)
+- [Uber’s Real-Time Document Check](https://eng.uber.com/ubers-real-time-document-check/) (4 days ago)
 - [Data Race Patterns in Go](https://eng.uber.com/data-race-patterns-in-go/) (1 week ago)
 - [USL – Uber’s Unified Signup and Login Stack](https://eng.uber.com/usl-ubers-unified-signup-and-login-stack/) (2 weeks ago)
