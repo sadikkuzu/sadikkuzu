@@ -51,6 +51,6 @@
 
 #### 🚕 &nbsp; Uber
 
+- [Enabling Offline Inferences at Uber Scale](https://eng.uber.com/enabling-offline-inferences-at-uber-scale/) (today)
 - [Uber’s Real-Time Document Check](https://eng.uber.com/ubers-real-time-document-check/) (6 days ago)
 - [Data Race Patterns in Go](https://eng.uber.com/data-race-patterns-in-go/) (1 week ago)
-- [USL – Uber’s Unified Signup and Login Stack](https://eng.uber.com/usl-ubers-unified-signup-and-login-stack/) (2 weeks ago)
