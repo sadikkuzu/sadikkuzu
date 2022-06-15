@@ -7,11 +7,11 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [mralamdari](https://github.com/mralamdari) Mr Alamdari ]
 - [ [BEPb](https://github.com/BEPb) Andrej Marinchenko ]
 - [ [BilalZahal](https://github.com/BilalZahal) Bilal Zahal ]
 - [ [zeynepgunister](https://github.com/zeynepgunister) Zeynep Günister ]
 - [ [vivekweb2013](https://github.com/vivekweb2013) vivekweb2013 ]
-- [ [jeffersonsimaogoncalves](https://github.com/jeffersonsimaogoncalves) Jefferson Simão Gonçalves ]
 
 
 #### 🚀 &nbsp; [Getir](https://technology.getir.com)
@@ -39,8 +39,8 @@
 
 #### 📰 &nbsp; Stackoverflow
 
+- [C#: IEnumerable, yield return, and lazy evaluation](https://stackoverflow.blog/2022/06/15/c-ienumerable-yield-return-and-lazy-evaluation/) (today)
 - [The Great Decentralization? Geographic shifts and where tech talent is moving next](https://stackoverflow.blog/2022/06/08/the-great-decentralization-geographic-shifts-and-where-tech-talent-is-moving-next/) (1 week ago)
-- [Remote work is killing big offices. Cities must change to survive](https://stackoverflow.blog/2022/06/06/remote-work-is-killing-big-offices-cities-must-change-to-survive/) (1 week ago)
 - [Stack under attack: what we learned about handling DDoS attacks](https://stackoverflow.blog/2022/05/16/stack-under-attack-what-we-learned-about-handling-ddos-attacks/) (1 month ago)
 
 #### 🚕 &nbsp; Lyft
