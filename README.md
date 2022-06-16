@@ -8,10 +8,10 @@
 #### 🔭 &nbsp; Check out my recent followers
 
 - [ [mralamdari](https://github.com/mralamdari) Mr Alamdari ]
-- [ [BEPb](https://github.com/BEPb) Andrej Marinchenko ]
 - [ [BilalZahal](https://github.com/BilalZahal) Bilal Zahal ]
 - [ [zeynepgunister](https://github.com/zeynepgunister) Zeynep Günister ]
 - [ [vivekweb2013](https://github.com/vivekweb2013) vivekweb2013 ]
+- [ [jeffersonsimaogoncalves](https://github.com/jeffersonsimaogoncalves) Jefferson Simão Gonçalves ]
 
 
 #### 🚀 &nbsp; [Getir](https://technology.getir.com)
