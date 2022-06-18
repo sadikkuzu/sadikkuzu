@@ -25,21 +25,21 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
-- [AWS Week in Review – June 13, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-june-13-2022/) (4 days ago)
+- [AWS Week in Review – June 13, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-june-13-2022/) (5 days ago)
 - [New – Amazon EC2 R6id Instances with NVMe Local Instance Storage of up to 7.6 TB](https://aws.amazon.com/blogs/aws/new-amazon-ec2-r6id-instances/) (1 week ago)
 - [Modernize Your Mainframe Applications &amp; Deploy Them In The Cloud](https://aws.amazon.com/blogs/aws/modernize-your-mainframe-applications-deploy-them-in-the-cloud/) (1 week ago)
 
 
 #### 🔍 &nbsp; Bitbucket
 
-- [Improving performance on complex diffs](https://bitbucket.org/blog/improving-performance-on-complex-diffs) (4 weeks ago)
+- [Improving performance on complex diffs](https://bitbucket.org/blog/improving-performance-on-complex-diffs) (1 month ago)
 - [Announcing support for Windows runners in Bitbucket Pipelines](https://bitbucket.org/blog/windows-runners) (1 month ago)
 - [Changes to deleting snippet comments](https://bitbucket.org/blog/changes-to-deleting-snippet-comments) (1 month ago)
 
 
 #### 📰 &nbsp; Stackoverflow
 
-- [C#: IEnumerable, yield return, and lazy evaluation](https://stackoverflow.blog/2022/06/15/c-ienumerable-yield-return-and-lazy-evaluation/) (2 days ago)
+- [C#: IEnumerable, yield return, and lazy evaluation](https://stackoverflow.blog/2022/06/15/c-ienumerable-yield-return-and-lazy-evaluation/) (3 days ago)
 - [The Great Decentralization? Geographic shifts and where tech talent is moving next](https://stackoverflow.blog/2022/06/08/the-great-decentralization-geographic-shifts-and-where-tech-talent-is-moving-next/) (1 week ago)
 - [Stack under attack: what we learned about handling DDoS attacks](https://stackoverflow.blog/2022/05/16/stack-under-attack-what-we-learned-about-handling-ddos-attacks/) (1 month ago)
 
@@ -51,6 +51,6 @@
 
 #### 🚕 &nbsp; Uber
 
-- [Enabling Offline Inferences at Uber Scale](https://eng.uber.com/enabling-offline-inferences-at-uber-scale/) (2 days ago)
+- [Enabling Offline Inferences at Uber Scale](https://eng.uber.com/enabling-offline-inferences-at-uber-scale/) (3 days ago)
 - [Uber’s Real-Time Document Check](https://eng.uber.com/ubers-real-time-document-check/) (1 week ago)
 - [Data Race Patterns in Go](https://eng.uber.com/data-race-patterns-in-go/) (2 weeks ago)
