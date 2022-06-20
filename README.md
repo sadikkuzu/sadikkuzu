@@ -39,8 +39,8 @@
 
 #### 📰 &nbsp; Stackoverflow
 
+- [What Apple’s WWDC 2022 means for developers](https://stackoverflow.blog/2022/06/20/what-apples-wwdc-2022-means-for-developers/) (today)
 - [C#: IEnumerable, yield return, and lazy evaluation](https://stackoverflow.blog/2022/06/15/c-ienumerable-yield-return-and-lazy-evaluation/) (5 days ago)
-- [The Great Decentralization? Geographic shifts and where tech talent is moving next](https://stackoverflow.blog/2022/06/08/the-great-decentralization-geographic-shifts-and-where-tech-talent-is-moving-next/) (1 week ago)
 - [Stack under attack: what we learned about handling DDoS attacks](https://stackoverflow.blog/2022/05/16/stack-under-attack-what-we-learned-about-handling-ddos-attacks/) (1 month ago)
 
 #### 🚕 &nbsp; Lyft
