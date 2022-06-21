@@ -25,8 +25,8 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
-- [New – High Volume Outbound Communication with Amazon Connect Outbound Campaigns](https://aws.amazon.com/blogs/aws/new-high-volume-outbound-communication-with-amazon-connect-outbound-campaigns/) (today)
-- [AWS Week in Review – June 20, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-june-20-2022/) (today)
+- [New – High Volume Outbound Communication with Amazon Connect Outbound Campaigns](https://aws.amazon.com/blogs/aws/new-high-volume-outbound-communication-with-amazon-connect-outbound-campaigns/) (1 day ago)
+- [AWS Week in Review – June 20, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-june-20-2022/) (1 day ago)
 - [AWS Week in Review – June 13, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-june-13-2022/) (1 week ago)
 
 
@@ -39,8 +39,8 @@
 
 #### 📰 &nbsp; Stackoverflow
 
-- [What Apple’s WWDC 2022 means for developers](https://stackoverflow.blog/2022/06/20/what-apples-wwdc-2022-means-for-developers/) (today)
-- [C#: IEnumerable, yield return, and lazy evaluation](https://stackoverflow.blog/2022/06/15/c-ienumerable-yield-return-and-lazy-evaluation/) (5 days ago)
+- [What Apple’s WWDC 2022 means for developers](https://stackoverflow.blog/2022/06/20/what-apples-wwdc-2022-means-for-developers/) (1 day ago)
+- [C#: IEnumerable, yield return, and lazy evaluation](https://stackoverflow.blog/2022/06/15/c-ienumerable-yield-return-and-lazy-evaluation/) (6 days ago)
 - [Stack under attack: what we learned about handling DDoS attacks](https://stackoverflow.blog/2022/05/16/stack-under-attack-what-we-learned-about-handling-ddos-attacks/) (1 month ago)
 
 #### 🚕 &nbsp; Lyft
@@ -51,6 +51,6 @@
 
 #### 🚕 &nbsp; Uber
 
-- [Enabling Offline Inferences at Uber Scale](https://eng.uber.com/enabling-offline-inferences-at-uber-scale/) (5 days ago)
+- [Enabling Offline Inferences at Uber Scale](https://eng.uber.com/enabling-offline-inferences-at-uber-scale/) (6 days ago)
 - [Uber’s Real-Time Document Check](https://eng.uber.com/ubers-real-time-document-check/) (1 week ago)
 - [Data Race Patterns in Go](https://eng.uber.com/data-race-patterns-in-go/) (2 weeks ago)
