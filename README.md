@@ -9,7 +9,6 @@
 
 - [ [ibulutx](https://github.com/ibulutx)  ]
 - [ [ozdil](https://github.com/ozdil) ozan özdil ]
-- [ [mralamdari](https://github.com/mralamdari) Mr Alamdari ]
 - [ [BilalZahal](https://github.com/BilalZahal) Bilal Zahal ]
 - [ [zeynepgunister](https://github.com/zeynepgunister) Zeynep Günister ]
 - [ [vivekweb2013](https://github.com/vivekweb2013) vivekweb2013 ]
@@ -17,3 +16,4 @@
 - [ [oguzsenna](https://github.com/oguzsenna) Oğuz SENNA ]
 - [ [alperenkaran](https://github.com/alperenkaran) Alperen Karan ]
 - [ [cemthecebi](https://github.com/cemthecebi) Cem Berke Cebi ]
+- [ [uchiha-suraj](https://github.com/uchiha-suraj) suraj ✨  ]
