@@ -7,6 +7,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [nihadenes](https://github.com/nihadenes) Nihat Enes Şen ]
 - [ [ibulutx](https://github.com/ibulutx)  ]
 - [ [ozdil](https://github.com/ozdil) ozan özdil ]
 - [ [BilalZahal](https://github.com/BilalZahal) Bilal Zahal ]
@@ -16,4 +17,3 @@
 - [ [oguzsenna](https://github.com/oguzsenna) Oğuz SENNA ]
 - [ [alperenkaran](https://github.com/alperenkaran) Alperen Karan ]
 - [ [cemthecebi](https://github.com/cemthecebi) Cem Berke Cebi ]
-- [ [uchiha-suraj](https://github.com/uchiha-suraj) suraj ✨  ]
