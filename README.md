@@ -7,6 +7,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [elellacode](https://github.com/elellacode) Ella ]
 - [ [nihadenes](https://github.com/nihadenes) Nihat Enes Şen ]
 - [ [ibulutx](https://github.com/ibulutx)  ]
 - [ [ozdil](https://github.com/ozdil) ozan özdil ]
@@ -16,4 +17,3 @@
 - [ [jeffersonsimaogoncalves](https://github.com/jeffersonsimaogoncalves) Jefferson Simão Gonçalves ]
 - [ [oguzsenna](https://github.com/oguzsenna) Oğuz SENNA ]
 - [ [alperenkaran](https://github.com/alperenkaran) Alperen Karan ]
-- [ [cemthecebi](https://github.com/cemthecebi) Cem Berke Cebi ]
