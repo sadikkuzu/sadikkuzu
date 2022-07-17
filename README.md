@@ -7,6 +7,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [ahmetsoykan](https://github.com/ahmetsoykan)  ]
 - [ [elellacode](https://github.com/elellacode) Ella ]
 - [ [nihadenes](https://github.com/nihadenes) Nihat Enes Şen ]
 - [ [ibulutx](https://github.com/ibulutx)  ]
@@ -16,4 +17,3 @@
 - [ [vivekweb2013](https://github.com/vivekweb2013) vivekweb2013 ]
 - [ [jeffersonsimaogoncalves](https://github.com/jeffersonsimaogoncalves) Jefferson Simão Gonçalves ]
 - [ [oguzsenna](https://github.com/oguzsenna) Oğuz SENNA ]
-- [ [alperenkaran](https://github.com/alperenkaran) Alperen Karan ]
