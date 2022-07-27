@@ -7,6 +7,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [Naduvida](https://github.com/Naduvida)  ]
 - [ [evdokimovdan](https://github.com/evdokimovdan)  ]
 - [ [umutphp](https://github.com/umutphp) Umut Işık ]
 - [ [JCSIVO](https://github.com/JCSIVO) JCSIVO ]
@@ -16,4 +17,3 @@
 - [ [ibulutx](https://github.com/ibulutx)  ]
 - [ [ozdil](https://github.com/ozdil) ozan özdil ]
 - [ [BilalZahal](https://github.com/BilalZahal) Bilal Zahal ]
-- [ [zeynepgunister](https://github.com/zeynepgunister) Zeynep Günister ]
