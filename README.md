@@ -7,6 +7,8 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [roVer169](https://github.com/roVer169)  ]
+- [ [KadirYurekturk](https://github.com/KadirYurekturk) Kadir Yürektürk ]
 - [ [Naduvida](https://github.com/Naduvida)  ]
 - [ [evdokimovdan](https://github.com/evdokimovdan)  ]
 - [ [umutphp](https://github.com/umutphp) Umut Işık ]
@@ -15,5 +17,3 @@
 - [ [nihadenes](https://github.com/nihadenes) Nihat Enes Şen ]
 - [ [ibulutx](https://github.com/ibulutx)  ]
 - [ [ozdil](https://github.com/ozdil) ozan özdil ]
-- [ [BilalZahal](https://github.com/BilalZahal) Bilal Zahal ]
-- [ [zeynepgunister](https://github.com/zeynepgunister) Zeynep Günister ]
