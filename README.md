@@ -9,7 +9,6 @@
 
 - [ [KadirYurekturk](https://github.com/KadirYurekturk) Kadir Yürektürk ]
 - [ [Naduvida](https://github.com/Naduvida)  ]
-- [ [evdokimovdan](https://github.com/evdokimovdan)  ]
 - [ [umutphp](https://github.com/umutphp) Umut Işık ]
 - [ [JCSIVO](https://github.com/JCSIVO) JCSIVO ]
 - [ [ahmetsoykan](https://github.com/ahmetsoykan)  ]
@@ -17,3 +16,4 @@
 - [ [ozdil](https://github.com/ozdil) ozan özdil ]
 - [ [BilalZahal](https://github.com/BilalZahal) Bilal Zahal ]
 - [ [zeynepgunister](https://github.com/zeynepgunister) Zeynep Günister ]
+- [ [vivekweb2013](https://github.com/vivekweb2013) vivekweb2013 ]
