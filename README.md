@@ -7,6 +7,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [egloclmth](https://github.com/egloclmth)  ]
 - [ [galipusta](https://github.com/galipusta) Galip Usta ]
 - [ [KadirYurekturk](https://github.com/KadirYurekturk) Kadir Yürektürk ]
 - [ [Naduvida](https://github.com/Naduvida)  ]
@@ -16,4 +17,3 @@
 - [ [ibulutx](https://github.com/ibulutx)  ]
 - [ [ozdil](https://github.com/ozdil) ozan özdil ]
 - [ [BilalZahal](https://github.com/BilalZahal) Bilal Zahal ]
-- [ [zeynepgunister](https://github.com/zeynepgunister) Zeynep Günister ]
