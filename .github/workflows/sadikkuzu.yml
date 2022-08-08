@@ -1,6 +1,7 @@
 name: Update sadikkuzu README
 
 on:
+  workflow_dispatch:
   push:
   schedule:
     - cron: "0 1-23 * * *"
