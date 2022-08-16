@@ -7,7 +7,6 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
-- [ [IamGhost76x](https://github.com/IamGhost76x)  ]
 - [ [egloclmth](https://github.com/egloclmth)  ]
 - [ [galipusta](https://github.com/galipusta) Galip Usta ]
 - [ [KadirYurekturk](https://github.com/KadirYurekturk) Kadir Yürektürk ]
@@ -17,3 +16,4 @@
 - [ [ahmetsoykan](https://github.com/ahmetsoykan)  ]
 - [ [ibulutx](https://github.com/ibulutx)  ]
 - [ [ozdil](https://github.com/ozdil) ozan özdil ]
+- [ [BilalZahal](https://github.com/BilalZahal) Bilal Zahal ]
