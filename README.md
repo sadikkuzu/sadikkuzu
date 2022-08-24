@@ -7,6 +7,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [lexor](https://github.com/lexor) Emre DEĞER ]
 - [ [GoshgarIsmayilov](https://github.com/GoshgarIsmayilov)  ]
 - [ [egloclmth](https://github.com/egloclmth)  ]
 - [ [galipusta](https://github.com/galipusta) Galip Usta ]
@@ -16,4 +17,3 @@
 - [ [JCSIVO](https://github.com/JCSIVO) JCSIVO ]
 - [ [ahmetsoykan](https://github.com/ahmetsoykan)  ]
 - [ [ibulutx](https://github.com/ibulutx)  ]
-- [ [ozdil](https://github.com/ozdil) ozan özdil ]
