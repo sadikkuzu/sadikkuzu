@@ -7,7 +7,6 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
-- [ [anilcanboga](https://github.com/anilcanboga)  ]
 - [ [lexor](https://github.com/lexor) Emre DEĞER ]
 - [ [GoshgarIsmayilov](https://github.com/GoshgarIsmayilov)  ]
 - [ [egloclmth](https://github.com/egloclmth)  ]
@@ -17,3 +16,4 @@
 - [ [umutphp](https://github.com/umutphp) Umut Işık ]
 - [ [JCSIVO](https://github.com/JCSIVO) JCSIVO ]
 - [ [ahmetsoykan](https://github.com/ahmetsoykan)  ]
+- [ [ibulutx](https://github.com/ibulutx)  ]
