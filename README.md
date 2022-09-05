@@ -7,6 +7,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [cumsoft](https://github.com/cumsoft) Cumsoft™ ]
 - [ [tugrulcan](https://github.com/tugrulcan) Tuğrul Can ]
 - [ [lexor](https://github.com/lexor) Emre DEĞER ]
 - [ [GoshgarIsmayilov](https://github.com/GoshgarIsmayilov)  ]
@@ -16,4 +17,3 @@
 - [ [Naduvida](https://github.com/Naduvida)  ]
 - [ [umutphp](https://github.com/umutphp) Umut Işık ]
 - [ [JCSIVO](https://github.com/JCSIVO) JCSIVO ]
-- [ [ahmetsoykan](https://github.com/ahmetsoykan)  ]
