@@ -7,6 +7,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [JacksonBernier523](https://github.com/JacksonBernier523) Jackson Bernier ]
 - [ [cumsoft](https://github.com/cumsoft) Cumsoft™ ]
 - [ [tugrulcan](https://github.com/tugrulcan) Tuğrul Can ]
 - [ [lexor](https://github.com/lexor) Emre DEĞER ]
@@ -16,4 +17,3 @@
 - [ [KadirYurekturk](https://github.com/KadirYurekturk) Kadir Yürektürk ]
 - [ [Naduvida](https://github.com/Naduvida)  ]
 - [ [umutphp](https://github.com/umutphp) Umut Işık ]
-- [ [JCSIVO](https://github.com/JCSIVO) JCSIVO ]
