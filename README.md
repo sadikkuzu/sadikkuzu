@@ -7,6 +7,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [gamemann](https://github.com/gamemann) Christian Deacon ]
 - [ [JacksonBernier523](https://github.com/JacksonBernier523) Jackson Bernier ]
 - [ [cumsoft](https://github.com/cumsoft) Cumsoft™ ]
 - [ [tugrulcan](https://github.com/tugrulcan) Tuğrul Can ]
@@ -16,4 +17,3 @@
 - [ [galipusta](https://github.com/galipusta) Galip Usta ]
 - [ [KadirYurekturk](https://github.com/KadirYurekturk) Kadir Yürektürk ]
 - [ [Naduvida](https://github.com/Naduvida)  ]
-- [ [umutphp](https://github.com/umutphp) Umut Işık ]
