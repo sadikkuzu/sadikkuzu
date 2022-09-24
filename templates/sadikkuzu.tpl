@@ -10,31 +10,31 @@
 - [ [{{.Login}}]({{.URL}}) {{.Name}} ]
 {{- end}}
 
-#### 🎧 Good beats
+#### 🎧 &nbsp; Good beats
 
 [![Mr. Kuzu's Recently Played Music on Spotify](https://spotify-recently-played-readme.vercel.app/api?user=5cfgfpgmik69ly41rspaiod2a&count=3&unique=1)](https://open.spotify.com/user/5cfgfpgmik69ly41rspaiod2a)
 
 
-#### 📰 Interesting blog posts
+#### 📰 &nbsp; Interesting blog posts
 
-#### 🚀 [Getir](https://technology.getir.com)
+#### 🚀 &nbsp; [Getir](https://technology.getir.com)
 {{range rss "https://medium.com/feed/getir" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
-#### ⛅ [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
+#### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 {{range rss "https://aws.amazon.com/blogs/aws/feed/" 3}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
 
-#### 🔍 Bitbucket
+#### 🔍 &nbsp; Bitbucket
 {{range rss "https://bitbucket.org/blog/feed/" 3}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
 
-#### 📰 Stackoverflow
+#### 📰 &nbsp; Stackoverflow
 {{range rss "https://stackoverflow.blog/code-for-a-living/feed/" 2}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}{{range rss "https://stackoverflow.blog/engineering/feed/" 1}}
