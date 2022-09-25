@@ -35,8 +35,8 @@
 
 #### ⛅ &nbsp; [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
-- [Deploy your Amazon EKS Clusters Locally on AWS Outposts](https://aws.amazon.com/blogs/aws/deploy-your-amazon-eks-clusters-locally-on-aws-outposts/) (4 days ago)
-- [AWS Week in Review – September 19, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-september-19-2022/) (5 days ago)
+- [Deploy your Amazon EKS Clusters Locally on AWS Outposts](https://aws.amazon.com/blogs/aws/deploy-your-amazon-eks-clusters-locally-on-aws-outposts/) (5 days ago)
+- [AWS Week in Review – September 19, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-september-19-2022/) (6 days ago)
 - [New – Direct VPC Routing Between On-Premises Networks and AWS Outposts Rack](https://aws.amazon.com/blogs/aws/new-direct-vpc-routing-between-on-premises-networks-and-aws-outposts-rack/) (1 week ago)
 
 
@@ -49,6 +49,6 @@
 
 #### 📰 &nbsp; Stackoverflow
 
-- [I spent two years trying to do what Backstage does for free](https://stackoverflow.blog/2022/09/19/i-spent-two-years-trying-to-do-what-backstage-does-for-free/) (5 days ago)
+- [I spent two years trying to do what Backstage does for free](https://stackoverflow.blog/2022/09/19/i-spent-two-years-trying-to-do-what-backstage-does-for-free/) (6 days ago)
 - [Why the number input is the worst input](https://stackoverflow.blog/2022/09/15/why-the-number-input-is-the-worst-input/) (1 week ago)
 - [How Stack Overflow is leveling up its unit testing game](https://stackoverflow.blog/2022/07/04/how-stack-overflow-is-leveling-up-its-unit-testing-game/) (2 months ago)
