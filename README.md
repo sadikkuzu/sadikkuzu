@@ -7,6 +7,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [Rbn-Rmn](https://github.com/Rbn-Rmn)  ]
 - [ [gamemann](https://github.com/gamemann) Christian Deacon ]
 - [ [JacksonBernier523](https://github.com/JacksonBernier523) Jackson Bernier ]
 - [ [cumsoft](https://github.com/cumsoft) Cumsoft™ ]
@@ -16,7 +17,6 @@
 - [ [egloclmth](https://github.com/egloclmth)  ]
 - [ [galipusta](https://github.com/galipusta) Galip Usta ]
 - [ [KadirYurekturk](https://github.com/KadirYurekturk) Kadir Yürektürk ]
-- [ [Naduvida](https://github.com/Naduvida)  ]
 
 #### 🎧 &nbsp; Good beats
 
