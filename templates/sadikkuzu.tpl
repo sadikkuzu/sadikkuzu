@@ -20,3 +20,5 @@
 1. [{{.Repo.Name}}]({{.Repo.URL}}/commits?author=sadikkuzu) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{ end -}}
 {{- end}}
+
+---
