@@ -13,3 +13,10 @@
 #### 🎧 &nbsp; Good beats
 
 [![Mr. Kuzu's Recently Played Music on Spotify](https://spotify-recently-played-readme.vercel.app/api?user=5cfgfpgmik69ly41rspaiod2a&count=3&unique=1)](https://open.spotify.com/user/5cfgfpgmik69ly41rspaiod2a)
+
+#### 🚀 &nbsp; Open source projects I've contributed to
+{{range recentContributions 100 }}
+{{- if (ne "sadikkuzu" (slice .Repo.Name 0 9)) -}}
+1. [{{.Repo.Name}}]({{.Repo.URL}}/commits?author=sadikkuzu) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+{{ end -}}
+{{- end}}
