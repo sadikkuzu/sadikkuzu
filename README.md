@@ -46,3 +46,5 @@
 1. [adamchainz/pre-commit-dprint](https://github.com/adamchainz/pre-commit-dprint/commits?author=sadikkuzu) - Mirror of dprint for pre-commit. (10 months ago)
 1. [aykutkardas/regexlearn.com](https://github.com/aykutkardas/regexlearn.com/commits?author=sadikkuzu) - Learn RegEx step by step, from zero to advanced. (10 months ago)
 
+
+---
