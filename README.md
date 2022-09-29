@@ -23,7 +23,7 @@
 [![Mr. Kuzu's Recently Played Music on Spotify](https://spotify-recently-played-readme.vercel.app/api?user=5cfgfpgmik69ly41rspaiod2a&count=3&unique=1)](https://open.spotify.com/user/5cfgfpgmik69ly41rspaiod2a)
 
 #### 🚀 &nbsp; Open source projects I've contributed to
-1. [tugrulcan/havhav](https://github.com/tugrulcan/havhav/commits?author=sadikkuzu) - :bone: Python package to retrieve random facts about Dogs (1 day ago)
+1. [tugrulcan/havhav](https://github.com/tugrulcan/havhav/commits?author=sadikkuzu) - :bone: Python package to retrieve random facts about Dogs (today)
 1. [kumahq/kuma-website](https://github.com/kumahq/kuma-website/commits?author=sadikkuzu) - 🐻 The official website for Kuma, the control plane for modern service connectivity. (2 days ago)
 1. [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons/commits?author=sadikkuzu) - Icons for Visual Studio Code (2 weeks ago)
 1. [python-poetry/poetry](https://github.com/python-poetry/poetry/commits?author=sadikkuzu) - Python packaging and dependency management made easy (3 weeks ago)
