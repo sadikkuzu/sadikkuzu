@@ -23,6 +23,7 @@
 [![Mr. Kuzu's Recently Played Music on Spotify](https://spotify-recently-played-readme.vercel.app/api?user=5cfgfpgmik69ly41rspaiod2a&count=3&unique=1)](https://open.spotify.com/user/5cfgfpgmik69ly41rspaiod2a)
 
 #### 🚀 &nbsp; Open source projects I've contributed to
+1. [**VROOM-Project/vroom-scripts**](https://github.com/VROOM-Project/vroom-scripts/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/VROOM-Project/vroom-scripts?style=social)](https://github.com/VROOM-Project/vroom-scripts/stargazers) -  (today)
 1. [**tugrulcan/havhav**](https://github.com/tugrulcan/havhav/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/tugrulcan/havhav?style=social)](https://github.com/tugrulcan/havhav/stargazers) - :bone: Python package to retrieve random facts about Dogs (1 day ago)
 1. [**kumahq/kuma-website**](https://github.com/kumahq/kuma-website/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/kumahq/kuma-website?style=social)](https://github.com/kumahq/kuma-website/stargazers) - 🐻 The official website for Kuma, the control plane for modern service connectivity. (3 days ago)
 1. [**vscode-icons/vscode-icons**](https://github.com/vscode-icons/vscode-icons/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/vscode-icons/vscode-icons?style=social)](https://github.com/vscode-icons/vscode-icons/stargazers) - Icons for Visual Studio Code (2 weeks ago)
