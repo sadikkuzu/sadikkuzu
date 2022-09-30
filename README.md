@@ -23,8 +23,8 @@
 [![Mr. Kuzu's Recently Played Music on Spotify](https://spotify-recently-played-readme.vercel.app/api?user=5cfgfpgmik69ly41rspaiod2a&count=3&unique=1)](https://open.spotify.com/user/5cfgfpgmik69ly41rspaiod2a)
 
 #### 🚀 &nbsp; Open source projects I've contributed to
-1. [tugrulcan/havhav](https://github.com/tugrulcan/havhav/commits?author=sadikkuzu) - :bone: Python package to retrieve random facts about Dogs (today)
-1. [kumahq/kuma-website](https://github.com/kumahq/kuma-website/commits?author=sadikkuzu) - 🐻 The official website for Kuma, the control plane for modern service connectivity. (2 days ago)
+1. [tugrulcan/havhav](https://github.com/tugrulcan/havhav/commits?author=sadikkuzu) - :bone: Python package to retrieve random facts about Dogs (1 day ago)
+1. [kumahq/kuma-website](https://github.com/kumahq/kuma-website/commits?author=sadikkuzu) - 🐻 The official website for Kuma, the control plane for modern service connectivity. (3 days ago)
 1. [vscode-icons/vscode-icons](https://github.com/vscode-icons/vscode-icons/commits?author=sadikkuzu) - Icons for Visual Studio Code (2 weeks ago)
 1. [python-poetry/poetry](https://github.com/python-poetry/poetry/commits?author=sadikkuzu) - Python packaging and dependency management made easy (3 weeks ago)
 1. [passwall/passwall-server](https://github.com/passwall/passwall-server/commits?author=sadikkuzu) - Passwall Server is the core backend infrastructure for Passwall platform (1 month ago)
@@ -42,7 +42,7 @@
 1. [Doist/todoist-api-python](https://github.com/Doist/todoist-api-python/commits?author=sadikkuzu) - A python wrapper for the Todoist REST API. (8 months ago)
 1. [ahmetb/kubectx](https://github.com/ahmetb/kubectx/commits?author=sadikkuzu) - Faster way to switch between clusters and namespaces in kubectl (8 months ago)
 1. [Homebrew/brew.sh](https://github.com/Homebrew/brew.sh/commits?author=sadikkuzu) - 🔖 The Homebrew homepage (8 months ago)
-1. [mongodb-developer/mongodb-with-fastapi](https://github.com/mongodb-developer/mongodb-with-fastapi/commits?author=sadikkuzu) - Example of using MongoDB with FastAPI (9 months ago)
+1. [mongodb-developer/mongodb-with-fastapi](https://github.com/mongodb-developer/mongodb-with-fastapi/commits?author=sadikkuzu) - Example of using MongoDB with FastAPI (10 months ago)
 1. [adamchainz/pre-commit-dprint](https://github.com/adamchainz/pre-commit-dprint/commits?author=sadikkuzu) - Mirror of dprint for pre-commit. (10 months ago)
 1. [aykutkardas/regexlearn.com](https://github.com/aykutkardas/regexlearn.com/commits?author=sadikkuzu) - Learn RegEx step by step, from zero to advanced. (10 months ago)
 
