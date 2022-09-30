@@ -17,7 +17,7 @@
 #### 🚀 &nbsp; Open source projects I've contributed to
 {{range recentContributions 100 }}
 {{- if (ne "sadikkuzu" (slice .Repo.Name 0 9)) -}}
-1. [{{.Repo.Name}}]({{.Repo.URL}}/commits?author=sadikkuzu) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+1. [**{{.Repo.Name}}**]({{.Repo.URL}}/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/{{.Repo.Name}}?style=social)](https://github.com/{{.Repo.Name}}/stargazers) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{ end -}}
 {{- end}}
 
