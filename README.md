@@ -23,6 +23,7 @@
 [![Mr. Kuzu's Recently Played Music on Spotify](https://spotify-recently-played-readme.vercel.app/api?user=5cfgfpgmik69ly41rspaiod2a&count=3&unique=1)](https://open.spotify.com/user/5cfgfpgmik69ly41rspaiod2a)
 
 #### 🚀 &nbsp; Open source projects I've contributed to
+1. [**renovatebot/renovate**](https://github.com/renovatebot/renovate/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/renovatebot/renovate?style=social)](https://github.com/renovatebot/renovate/stargazers) - Universal dependency update tool that fits into your workflows. (today)
 1. [**VROOM-Project/vroom-scripts**](https://github.com/VROOM-Project/vroom-scripts/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/VROOM-Project/vroom-scripts?style=social)](https://github.com/VROOM-Project/vroom-scripts/stargazers) -  (2 days ago)
 1. [**tugrulcan/havhav**](https://github.com/tugrulcan/havhav/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/tugrulcan/havhav?style=social)](https://github.com/tugrulcan/havhav/stargazers) - :bone: Python package to retrieve random facts about Dogs (3 days ago)
 1. [**anthonywritescode/explains**](https://github.com/anthonywritescode/explains/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/anthonywritescode/explains?style=social)](https://github.com/anthonywritescode/explains/stargazers) - more easily searchable list of explains playlist (4 days ago)
