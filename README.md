@@ -7,6 +7,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [Bottomguns](https://github.com/Bottomguns)  ]
 - [ [RustuKeten](https://github.com/RustuKeten)  ]
 - [ [Rbn-Rmn](https://github.com/Rbn-Rmn)  ]
 - [ [gamemann](https://github.com/gamemann) Christian Deacon ]
@@ -16,7 +17,6 @@
 - [ [lexor](https://github.com/lexor) Emre DEĞER ]
 - [ [GoshgarIsmayilov](https://github.com/GoshgarIsmayilov)  ]
 - [ [egloclmth](https://github.com/egloclmth)  ]
-- [ [galipusta](https://github.com/galipusta) Galip Usta ]
 
 #### 🎧 &nbsp; Good beats
 
