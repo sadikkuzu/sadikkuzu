@@ -23,6 +23,7 @@
 [![Mr. Kuzu's Recently Played Music on Spotify](https://spotify-recently-played-readme.vercel.app/api?user=5cfgfpgmik69ly41rspaiod2a&count=3&unique=1)](https://open.spotify.com/user/5cfgfpgmik69ly41rspaiod2a)
 
 #### 🚀 &nbsp; Open source projects I've contributed to
+1. [**OpenBB-finance/OpenBBTerminal**](https://github.com/OpenBB-finance/OpenBBTerminal/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/OpenBB-finance/OpenBBTerminal?style=social)](https://github.com/OpenBB-finance/OpenBBTerminal/stargazers) - Investment Research for Everyone, Anywhere. (today)
 1. [**lukasalexanderweber/stitching**](https://github.com/lukasalexanderweber/stitching/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/lukasalexanderweber/stitching?style=social)](https://github.com/lukasalexanderweber/stitching/stargazers) - A Python package for fast and robust Image Stitching (1 day ago)
 1. [**Homebrew/brew.sh**](https://github.com/Homebrew/brew.sh/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/Homebrew/brew.sh?style=social)](https://github.com/Homebrew/brew.sh/stargazers) - 🔖 The Homebrew homepage (1 day ago)
 1. [**renovatebot/renovate**](https://github.com/renovatebot/renovate/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/renovatebot/renovate?style=social)](https://github.com/renovatebot/renovate/stargazers) - Universal dependency update tool that fits into your workflows. (6 days ago)
@@ -51,8 +52,8 @@
 1. [**Doist/todoist-api-python**](https://github.com/Doist/todoist-api-python/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/Doist/todoist-api-python?style=social)](https://github.com/Doist/todoist-api-python/stargazers) - A python wrapper for the Todoist REST API. (9 months ago)
 1. [**ahmetb/kubectx**](https://github.com/ahmetb/kubectx/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/ahmetb/kubectx?style=social)](https://github.com/ahmetb/kubectx/stargazers) - Faster way to switch between clusters and namespaces in kubectl (9 months ago)
 1. [**mongodb-developer/mongodb-with-fastapi**](https://github.com/mongodb-developer/mongodb-with-fastapi/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/mongodb-developer/mongodb-with-fastapi?style=social)](https://github.com/mongodb-developer/mongodb-with-fastapi/stargazers) - Example of using MongoDB with FastAPI (10 months ago)
-1. [**aykutkardas/regexlearn.com**](https://github.com/aykutkardas/regexlearn.com/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/aykutkardas/regexlearn.com?style=social)](https://github.com/aykutkardas/regexlearn.com/stargazers) - Learn RegEx step by step, from zero to advanced. (10 months ago)
 1. [**adamchainz/pre-commit-dprint**](https://github.com/adamchainz/pre-commit-dprint/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/adamchainz/pre-commit-dprint?style=social)](https://github.com/adamchainz/pre-commit-dprint/stargazers) - Mirror of dprint for pre-commit. (10 months ago)
+1. [**aykutkardas/regexlearn.com**](https://github.com/aykutkardas/regexlearn.com/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/aykutkardas/regexlearn.com?style=social)](https://github.com/aykutkardas/regexlearn.com/stargazers) - Learn RegEx step by step, from zero to advanced. (10 months ago)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
