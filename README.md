@@ -7,6 +7,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [cryptotyler](https://github.com/cryptotyler) Crypto Tyler ]
 - [ [Bottomguns](https://github.com/Bottomguns)  ]
 - [ [RustuKeten](https://github.com/RustuKeten)  ]
 - [ [Rbn-Rmn](https://github.com/Rbn-Rmn)  ]
@@ -16,7 +17,6 @@
 - [ [tugrulcan](https://github.com/tugrulcan) Tuğrul Can ]
 - [ [lexor](https://github.com/lexor) Emre DEĞER ]
 - [ [GoshgarIsmayilov](https://github.com/GoshgarIsmayilov)  ]
-- [ [egloclmth](https://github.com/egloclmth)  ]
 
 #### 🎧 &nbsp; Good beats
 
