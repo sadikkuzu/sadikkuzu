@@ -13,10 +13,10 @@
 - [ [RustuKeten](https://github.com/RustuKeten)  ]
 - [ [Rbn-Rmn](https://github.com/Rbn-Rmn)  ]
 - [ [gamemann](https://github.com/gamemann) Christian Deacon ]
-- [ [JacksonBernier523](https://github.com/JacksonBernier523) Jackson Bernier ]
 - [ [cumsoft](https://github.com/cumsoft) Cumsoft™ ]
 - [ [tugrulcan](https://github.com/tugrulcan) Tuğrul Can ]
 - [ [lexor](https://github.com/lexor) Emre DEĞER ]
+- [ [GoshgarIsmayilov](https://github.com/GoshgarIsmayilov)  ]
 
 #### 🎧 &nbsp; Good beats
 
