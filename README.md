@@ -7,6 +7,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [Berkayerenemin](https://github.com/Berkayerenemin) BirTutamEsc ]
 - [ [ramazansancar](https://github.com/ramazansancar) Ramazan SANCAR ]
 - [ [cryptotyler](https://github.com/cryptotyler) Crypto Tyler ]
 - [ [Bottomguns](https://github.com/Bottomguns)  ]
@@ -16,7 +17,6 @@
 - [ [cumsoft](https://github.com/cumsoft) Cumsoft™ ]
 - [ [tugrulcan](https://github.com/tugrulcan) Tuğrul Can ]
 - [ [lexor](https://github.com/lexor) Emre DEĞER ]
-- [ [GoshgarIsmayilov](https://github.com/GoshgarIsmayilov)  ]
 
 #### 🎧 &nbsp; Good beats
 
