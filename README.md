@@ -10,13 +10,13 @@
 - [ [daweedkob](https://github.com/daweedkob)  ]
 - [ [Berkayerenemin](https://github.com/Berkayerenemin) BirTutamEsc ]
 - [ [ramazansancar](https://github.com/ramazansancar) Ramazan SANCAR ]
-- [ [cryptotyler](https://github.com/cryptotyler) Crypto Tyler ]
 - [ [Bottomguns](https://github.com/Bottomguns)  ]
 - [ [RustuKeten](https://github.com/RustuKeten)  ]
 - [ [Rbn-Rmn](https://github.com/Rbn-Rmn)  ]
 - [ [gamemann](https://github.com/gamemann) Christian Deacon ]
 - [ [cumsoft](https://github.com/cumsoft) Cumsoft™ ]
 - [ [tugrulcan](https://github.com/tugrulcan) Tuğrul Can ]
+- [ [lexor](https://github.com/lexor) Emre DEĞER ]
 
 #### 🎧 &nbsp; Good beats
 
