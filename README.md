@@ -7,6 +7,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [ahmetkokden](https://github.com/ahmetkokden) Ahmet Kökden ]
 - [ [cryptotyler](https://github.com/cryptotyler) Crypto Tyler ]
 - [ [daweedkob](https://github.com/daweedkob)  ]
 - [ [Berkayerenemin](https://github.com/Berkayerenemin) BirTutamEsc ]
@@ -16,7 +17,6 @@
 - [ [Rbn-Rmn](https://github.com/Rbn-Rmn)  ]
 - [ [gamemann](https://github.com/gamemann) Christian Deacon ]
 - [ [cumsoft](https://github.com/cumsoft) Cumsoft™ ]
-- [ [tugrulcan](https://github.com/tugrulcan) Tuğrul Can ]
 
 #### 🎧 &nbsp; Good beats
 
