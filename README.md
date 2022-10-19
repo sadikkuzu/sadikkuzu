@@ -7,6 +7,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [FikretAkin](https://github.com/FikretAkin) Fikret AKIN ]
 - [ [sbozen](https://github.com/sbozen) Sıdıka Büşra ÖZEN ]
 - [ [ahmetkokden](https://github.com/ahmetkokden) Ahmet Kökden ]
 - [ [cryptotyler](https://github.com/cryptotyler) Crypto Tyler ]
@@ -16,7 +17,6 @@
 - [ [Bottomguns](https://github.com/Bottomguns)  ]
 - [ [RustuKeten](https://github.com/RustuKeten)  ]
 - [ [Rbn-Rmn](https://github.com/Rbn-Rmn)  ]
-- [ [gamemann](https://github.com/gamemann) Christian Deacon ]
 
 #### 🎧 &nbsp; Good beats
 
