@@ -7,6 +7,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [aliulu0](https://github.com/aliulu0) Ali Ulu ]
 - [ [FikretAkin](https://github.com/FikretAkin) Fikret AKIN ]
 - [ [sbozen](https://github.com/sbozen) Sıdıka Büşra ÖZEN ]
 - [ [ahmetkokden](https://github.com/ahmetkokden) Ahmet Kökden ]
@@ -16,7 +17,6 @@
 - [ [ramazansancar](https://github.com/ramazansancar) Ramazan SANCAR ]
 - [ [Bottomguns](https://github.com/Bottomguns)  ]
 - [ [RustuKeten](https://github.com/RustuKeten)  ]
-- [ [Rbn-Rmn](https://github.com/Rbn-Rmn)  ]
 
 #### 🎧 &nbsp; Good beats
 
