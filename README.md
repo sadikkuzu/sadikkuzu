@@ -61,3 +61,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![@sadikkuzu's Holopin board](https://holopin.io/api/user/board?user=sadikkuzu)](https://holopin.io/@sadikkuzu)
+
+[![](https://img.shields.io/stackexchange/stackoverflow/r/7030591?style=plastic)](https://stackoverflow.com/users/7030591/sadik-kuzu)
+[![](https://img.shields.io/twitter/follow/sadikkuzu_mba?style=social)](https://twitter.com/sadikkuzu_mba)
