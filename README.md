@@ -7,6 +7,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [muhammeddilmacc](https://github.com/muhammeddilmacc) Muhammed Dilmaç ]
 - [ [aliulu0](https://github.com/aliulu0) Ali Ulu ]
 - [ [FikretAkin](https://github.com/FikretAkin) Fikret AKIN ]
 - [ [sbozen](https://github.com/sbozen) Sıdıka Büşra ÖZEN ]
@@ -16,7 +17,6 @@
 - [ [Berkayerenemin](https://github.com/Berkayerenemin) BirTutamEsc ]
 - [ [ramazansancar](https://github.com/ramazansancar) Ramazan SANCAR ]
 - [ [Bottomguns](https://github.com/Bottomguns)  ]
-- [ [RustuKeten](https://github.com/RustuKeten)  ]
 
 #### 🎧 &nbsp; Good beats
 
