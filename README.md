@@ -7,6 +7,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [darrius251](https://github.com/darrius251) Darrius Rubin ]
 - [ [muhammeddilmacc](https://github.com/muhammeddilmacc) Muhammed Dilmaç ]
 - [ [aliulu0](https://github.com/aliulu0) Ali Ulu ]
 - [ [FikretAkin](https://github.com/FikretAkin) Fikret AKIN ]
@@ -16,7 +17,6 @@
 - [ [daweedkob](https://github.com/daweedkob)  ]
 - [ [Berkayerenemin](https://github.com/Berkayerenemin) BirTutamEsc ]
 - [ [ramazansancar](https://github.com/ramazansancar) Ramazan SANCAR ]
-- [ [Bottomguns](https://github.com/Bottomguns)  ]
 
 #### 🎧 &nbsp; Good beats
 
