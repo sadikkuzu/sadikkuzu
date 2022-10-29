@@ -5,6 +5,10 @@
 [![Update-action status](https://github.com/sadikkuzu/sadikkuzu/actions/workflows/sadikkuzu.yml/badge.svg)](https://github.com/sadikkuzu/sadikkuzu/actions/workflows/sadikkuzu.yml)
 [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/sadikkuzu/sadikkuzu/master.svg)](https://results.pre-commit.ci/latest/github/sadikkuzu/sadikkuzu/master)
 
+#### 🏃‍♂️ &nbsp; Charity run
+I am going to run in [the Istanbul Marathon](https://maraton.istanbul/?lang=en) on November 6th.<br/>
+If you want to support me, you can donate at [this link](https://ipk.adimadim.org/kampanya/CC87492).
+
 #### 🔭 &nbsp; Check out my recent followers
 {{range followers 10}}
 - [ [{{.Login}}]({{.URL}}) {{.Name}} ]
