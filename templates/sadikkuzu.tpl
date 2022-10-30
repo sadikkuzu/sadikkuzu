@@ -7,7 +7,7 @@
 
 #### 🏃‍♂️ &nbsp; Charity run
 I am going to run in [the Istanbul Marathon](https://maraton.istanbul/?lang=en) on November 6th.<br/>
-If you want to support me, you can donate at [this link](https://ipk.adimadim.org/kampanya/CC87492).
+If you want to support me, you can donate at [my Run For Good campaign](https://ipk.adimadim.org/kampanya/CC87492) page.
 
 #### 🔭 &nbsp; Check out my recent followers
 {{range followers 10}}
