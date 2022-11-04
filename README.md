@@ -11,6 +11,7 @@ If you want to support me, you can donate at [my Run For Good campaign](https://
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [mehmetsamat](https://github.com/mehmetsamat)  ]
 - [ [darrius251](https://github.com/darrius251) Darrius Rubin ]
 - [ [muhammeddilmacc](https://github.com/muhammeddilmacc) Muhammed Dilmaç ]
 - [ [aliulu0](https://github.com/aliulu0) Ali Ulu ]
@@ -20,7 +21,6 @@ If you want to support me, you can donate at [my Run For Good campaign](https://
 - [ [cryptotyler](https://github.com/cryptotyler) Crypto Tyler ]
 - [ [Berkayerenemin](https://github.com/Berkayerenemin) BirTutamEsc ]
 - [ [ramazansancar](https://github.com/ramazansancar) Ramazan SANCAR ]
-- [ [Bottomguns](https://github.com/Bottomguns)  ]
 
 #### 🎧 &nbsp; Good beats
 
