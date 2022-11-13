@@ -11,6 +11,7 @@ If you want to support me, you can donate at [my Run For Good campaign](https://
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [moersoy](https://github.com/moersoy) Özgür Ersoy ]
 - [ [1773-1863](https://github.com/1773-1863) Enes Hakan ]
 - [ [EdanurOzdmr](https://github.com/EdanurOzdmr) Edanur Özdemir ]
 - [ [mehmetsamat](https://github.com/mehmetsamat)  ]
@@ -20,7 +21,6 @@ If you want to support me, you can donate at [my Run For Good campaign](https://
 - [ [FikretAkin](https://github.com/FikretAkin) Fikret AKIN ]
 - [ [sbozen](https://github.com/sbozen) Sıdıka Büşra ÖZEN ]
 - [ [ahmetkokden](https://github.com/ahmetkokden) Ahmet Kökden ]
-- [ [cryptotyler](https://github.com/cryptotyler) Crypto Tyler ]
 
 #### 🎧 &nbsp; Good beats
 
