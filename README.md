@@ -11,6 +11,7 @@ If you want to support me, you can donate at [my Run For Good campaign](https://
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [cucerdariancatalin](https://github.com/cucerdariancatalin) Darian-Cătălin Cucer ]
 - [ [0xN0x](https://github.com/0xN0x) N0x ]
 - [ [moersoy](https://github.com/moersoy) Özgür Ersoy ]
 - [ [1773-1863](https://github.com/1773-1863) Enes Hakan ]
@@ -20,7 +21,6 @@ If you want to support me, you can donate at [my Run For Good campaign](https://
 - [ [muhammeddilmacc](https://github.com/muhammeddilmacc) Muhammed Dilmaç ]
 - [ [aliulu0](https://github.com/aliulu0) Ali Ulu ]
 - [ [FikretAkin](https://github.com/FikretAkin) Fikret AKIN ]
-- [ [sbozen](https://github.com/sbozen) Sıdıka Büşra ÖZEN ]
 
 #### 🎧 &nbsp; Good beats
 
