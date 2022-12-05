@@ -60,7 +60,7 @@ If you want to support me, you can donate at [my Run For Good campaign](https://
 1. [**homebysix/pre-commit-macadmin**](https://github.com/homebysix/pre-commit-macadmin/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/homebysix/pre-commit-macadmin?style=social)](https://github.com/homebysix/pre-commit-macadmin/stargazers) - Pre-commit hooks for Mac admins. (8 months ago)
 1. [**gis-ops/routing-py**](https://github.com/gis-ops/routing-py/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/gis-ops/routing-py?style=social)](https://github.com/gis-ops/routing-py/stargazers) - 🌎 Python library to access all public routing, isochrones and matrix APIs in a consistent manner. (10 months ago)
 1. [**Doist/todoist-api-python**](https://github.com/Doist/todoist-api-python/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/Doist/todoist-api-python?style=social)](https://github.com/Doist/todoist-api-python/stargazers) - A python wrapper for the Todoist REST API. (10 months ago)
-1. [**ahmetb/kubectx**](https://github.com/ahmetb/kubectx/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/ahmetb/kubectx?style=social)](https://github.com/ahmetb/kubectx/stargazers) - Faster way to switch between clusters and namespaces in kubectl (10 months ago)
+1. [**ahmetb/kubectx**](https://github.com/ahmetb/kubectx/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/ahmetb/kubectx?style=social)](https://github.com/ahmetb/kubectx/stargazers) - Faster way to switch between clusters and namespaces in kubectl (11 months ago)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
