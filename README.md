@@ -11,6 +11,7 @@ If you want to support me, you can donate at [my Run For Good campaign](https://
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [bilgedeniz](https://github.com/bilgedeniz)  ]
 - [ [ozsoyogulcan](https://github.com/ozsoyogulcan) Ogulcan OZSOY ]
 - [ [olry](https://github.com/olry) ~loghead ]
 - [ [hdenizdogan](https://github.com/hdenizdogan)  ]
@@ -20,7 +21,6 @@ If you want to support me, you can donate at [my Run For Good campaign](https://
 - [ [1773-1863](https://github.com/1773-1863) Enes Hakan ]
 - [ [EdanurOzdmr](https://github.com/EdanurOzdmr) Edanur Özdemir ]
 - [ [mehmetsamat](https://github.com/mehmetsamat)  ]
-- [ [darrius251](https://github.com/darrius251) Darrius Rubin ]
 
 #### 🎧 &nbsp; Good beats
 
