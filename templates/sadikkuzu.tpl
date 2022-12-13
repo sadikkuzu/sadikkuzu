@@ -5,9 +5,11 @@
 [![Update-action status](https://github.com/sadikkuzu/sadikkuzu/actions/workflows/sadikkuzu.yml/badge.svg)](https://github.com/sadikkuzu/sadikkuzu/actions/workflows/sadikkuzu.yml)
 [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/sadikkuzu/sadikkuzu/master.svg)](https://results.pre-commit.ci/latest/github/sadikkuzu/sadikkuzu/master)
 
+<!---
 #### 🏃‍♂️ &nbsp; Charity run
 I ran in [the Istanbul Marathon](https://maraton.istanbul/?lang=en) on November 6th.<br/>
 If you want to support me, you can donate at [my Run For Good campaign](https://ipk.adimadim.org/kampanya/CC87492) page until November 21st.
+--->
 
 #### 🔭 &nbsp; Check out my recent followers
 {{range followers 10}}
@@ -21,7 +23,9 @@ If you want to support me, you can donate at [my Run For Good campaign](https://
 #### 🚀 &nbsp; Open source projects I've contributed to
 {{range recentContributions 100 }}
 {{- if (ne "sadikkuzu" (slice .Repo.Name 0 9)) -}}
+{{- if (ne "SweDinamo" (slice .Repo.Name 0 9)) -}}
 1. [**{{.Repo.Name}}**]({{.Repo.URL}}/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/{{.Repo.Name}}?style=social)](https://github.com/{{.Repo.Name}}/stargazers) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+{{ end -}}
 {{ end -}}
 {{- end}}
 
