@@ -5,9 +5,7 @@
 [![Update-action status](https://github.com/sadikkuzu/sadikkuzu/actions/workflows/sadikkuzu.yml/badge.svg)](https://github.com/sadikkuzu/sadikkuzu/actions/workflows/sadikkuzu.yml)
 [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/sadikkuzu/sadikkuzu/master.svg)](https://results.pre-commit.ci/latest/github/sadikkuzu/sadikkuzu/master)
 
-#### 🏃‍♂️ &nbsp; Charity run
-I ran in [the Istanbul Marathon](https://maraton.istanbul/?lang=en) on November 6th.<br/>
-If you want to support me, you can donate at [my Run For Good campaign](https://ipk.adimadim.org/kampanya/CC87492) page until November 21st.
+
 
 #### 🔭 &nbsp; Check out my recent followers
 
@@ -27,7 +25,6 @@ If you want to support me, you can donate at [my Run For Good campaign](https://
 [![Mr. Kuzu's Recently Played Music on Spotify](https://spotify-recently-played-readme.vercel.app/api?user=5cfgfpgmik69ly41rspaiod2a&count=3&unique=1)](https://open.spotify.com/user/5cfgfpgmik69ly41rspaiod2a)
 
 #### 🚀 &nbsp; Open source projects I've contributed to
-1. [**SweDinamo/.github**](https://github.com/SweDinamo/.github/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SweDinamo/.github?style=social)](https://github.com/SweDinamo/.github/stargazers) - BOUN SWE Dinamo (today)
 1. [**pohmelie/pytest-automock**](https://github.com/pohmelie/pytest-automock/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/pohmelie/pytest-automock?style=social)](https://github.com/pohmelie/pytest-automock/stargazers) - Automock fixtures for pytest (6 days ago)
 1. [**serhatbolsu/robotframework-appiumlibrary**](https://github.com/serhatbolsu/robotframework-appiumlibrary/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/serhatbolsu/robotframework-appiumlibrary?style=social)](https://github.com/serhatbolsu/robotframework-appiumlibrary/stargazers) - AppiumLibrary is an appium testing library for RobotFramework (2 weeks ago)
 1. [**pytest-dev/pytest-cov**](https://github.com/pytest-dev/pytest-cov/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/pytest-dev/pytest-cov?style=social)](https://github.com/pytest-dev/pytest-cov/stargazers) - Coverage plugin for pytest. (3 weeks ago)
