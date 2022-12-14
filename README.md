@@ -9,6 +9,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [dberkerdem](https://github.com/dberkerdem) Daglar Berk Erdem ]
 - [ [sananeminli](https://github.com/sananeminli) Sanan Eminli ]
 - [ [bilgedeniz](https://github.com/bilgedeniz)  ]
 - [ [ozsoyogulcan](https://github.com/ozsoyogulcan) Ogulcan OZSOY ]
@@ -18,7 +19,6 @@
 - [ [cucerdariancatalin](https://github.com/cucerdariancatalin) Darian-Cătălin Cucer ]
 - [ [moersoy](https://github.com/moersoy) Özgür Ersoy ]
 - [ [1773-1863](https://github.com/1773-1863) Enes Hakan ]
-- [ [EdanurOzdmr](https://github.com/EdanurOzdmr) Edanur Özdemir ]
 
 #### 🎧 &nbsp; Good beats
 
