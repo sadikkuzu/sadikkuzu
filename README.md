@@ -25,7 +25,6 @@
 [![Mr. Kuzu's Recently Played Music on Spotify](https://spotify-recently-played-readme.vercel.app/api?user=5cfgfpgmik69ly41rspaiod2a&count=3&unique=1)](https://open.spotify.com/user/5cfgfpgmik69ly41rspaiod2a)
 
 #### 🚀 &nbsp; Open source projects I've contributed to
-1. [**dberkerdem/SWE573_Term_Project**](https://github.com/dberkerdem/SWE573_Term_Project/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/dberkerdem/SWE573_Term_Project?style=social)](https://github.com/dberkerdem/SWE573_Term_Project/stargazers) - Term Project of SWE573 (today)
 1. [**PyCQA/autoflake**](https://github.com/PyCQA/autoflake/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/PyCQA/autoflake?style=social)](https://github.com/PyCQA/autoflake/stargazers) - Removes unused imports and unused variables as reported by pyflakes (today)
 1. [**pohmelie/pytest-automock**](https://github.com/pohmelie/pytest-automock/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/pohmelie/pytest-automock?style=social)](https://github.com/pohmelie/pytest-automock/stargazers) - Automock fixtures for pytest (1 week ago)
 1. [**serhatbolsu/robotframework-appiumlibrary**](https://github.com/serhatbolsu/robotframework-appiumlibrary/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/serhatbolsu/robotframework-appiumlibrary?style=social)](https://github.com/serhatbolsu/robotframework-appiumlibrary/stargazers) - AppiumLibrary is an appium testing library for RobotFramework (2 weeks ago)
