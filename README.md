@@ -12,7 +12,7 @@
 - [ [dberkerdem](https://github.com/dberkerdem) Daglar Berk Erdem ]
 - [ [sananeminli](https://github.com/sananeminli) Sanan Eminli ]
 - [ [bilgedeniz](https://github.com/bilgedeniz)  ]
-- [ [ozsoyogulcan](https://github.com/ozsoyogulcan) Ogulcan OZSOY ]
+- [ [ogulcano](https://github.com/ogulcano) Ogulcan ]
 - [ [olry](https://github.com/olry) ~loghead ]
 - [ [hdenizdogan](https://github.com/hdenizdogan)  ]
 - [ [cryptotyler](https://github.com/cryptotyler) Crypto Tyler ]
