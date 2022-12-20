@@ -9,6 +9,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [yusufelyldrm](https://github.com/yusufelyldrm) Yusuf Ziya Elyıldırım ]
 - [ [gorkemkuyucu](https://github.com/gorkemkuyucu) Görkem Kuyucu ]
 - [ [dberkerdem](https://github.com/dberkerdem) Daglar Berk Erdem ]
 - [ [sananeminli](https://github.com/sananeminli) Sanan Eminli ]
@@ -18,7 +19,6 @@
 - [ [hdenizdogan](https://github.com/hdenizdogan)  ]
 - [ [cryptotyler](https://github.com/cryptotyler) Crypto Tyler ]
 - [ [cucerdariancatalin](https://github.com/cucerdariancatalin) Darian-Cătălin Cucer ]
-- [ [moersoy](https://github.com/moersoy) Özgür Ersoy ]
 
 #### 🎧 &nbsp; Good beats
 
