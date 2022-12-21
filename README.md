@@ -17,8 +17,8 @@
 - [ [ogulcano](https://github.com/ogulcano) Ogulcan ]
 - [ [olry](https://github.com/olry) ~loghead ]
 - [ [hdenizdogan](https://github.com/hdenizdogan)  ]
-- [ [cryptotyler](https://github.com/cryptotyler) Crypto Tyler ]
 - [ [cucerdariancatalin](https://github.com/cucerdariancatalin) Darian-Cătălin Cucer ]
+- [ [moersoy](https://github.com/moersoy) Özgür Ersoy ]
 
 #### 🎧 &nbsp; Good beats
 
