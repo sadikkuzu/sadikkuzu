@@ -1,4 +1,4 @@
-### Hi there! This is Sadık from (beautiful) Istanbul 👋
+### Hi there! I'm Sadık from (beautiful) Istanbul 👋
 
 ---
 
