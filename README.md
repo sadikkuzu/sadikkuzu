@@ -9,6 +9,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [anilcanboga](https://github.com/anilcanboga)  ]
 - [ [yusufelyldrm](https://github.com/yusufelyldrm) Yusuf Ziya Elyıldırım ]
 - [ [gorkemkuyucu](https://github.com/gorkemkuyucu) Görkem Kuyucu ]
 - [ [dberkerdem](https://github.com/dberkerdem) Daglar Berk Erdem ]
@@ -18,7 +19,6 @@
 - [ [olry](https://github.com/olry) ~loghead ]
 - [ [hdenizdogan](https://github.com/hdenizdogan)  ]
 - [ [cucerdariancatalin](https://github.com/cucerdariancatalin) Darian-Cătălin Cucer ]
-- [ [moersoy](https://github.com/moersoy) Özgür Ersoy ]
 
 #### 🎧 &nbsp; Good beats
 
