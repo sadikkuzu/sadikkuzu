@@ -25,6 +25,7 @@
 [![Mr. Kuzu's Recently Played Music on Spotify](https://spotify-recently-played-readme.vercel.app/api?user=5cfgfpgmik69ly41rspaiod2a&count=3&unique=1)](https://open.spotify.com/user/5cfgfpgmik69ly41rspaiod2a)
 
 #### 🚀 &nbsp; Open source projects I've contributed to
+1. [**1773-1863/SWE-590-TERM-PROJECT**](https://github.com/1773-1863/SWE-590-TERM-PROJECT/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/1773-1863/SWE-590-TERM-PROJECT?style=social)](https://github.com/1773-1863/SWE-590-TERM-PROJECT/stargazers) - This repo includes all source codes and architecture of our SWE-590 Term Project, ML Based Diabetic Retinopathy Application (today)
 1. [**homebysix/pre-commit-macadmin**](https://github.com/homebysix/pre-commit-macadmin/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/homebysix/pre-commit-macadmin?style=social)](https://github.com/homebysix/pre-commit-macadmin/stargazers) - Pre-commit hooks for Mac admins. (2 days ago)
 1. [**PyCQA/autoflake**](https://github.com/PyCQA/autoflake/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/PyCQA/autoflake?style=social)](https://github.com/PyCQA/autoflake/stargazers) - Removes unused imports and unused variables as reported by pyflakes (1 week ago)
 1. [**pohmelie/pytest-automock**](https://github.com/pohmelie/pytest-automock/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/pohmelie/pytest-automock?style=social)](https://github.com/pohmelie/pytest-automock/stargazers) - Automock fixtures for pytest (2 weeks ago)
