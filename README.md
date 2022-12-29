@@ -9,6 +9,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [BEPb](https://github.com/BEPb) Andrej Marinchenko ]
 - [ [sadikkuzu-getir](https://github.com/sadikkuzu-getir) Sadık Kuzu ]
 - [ [yusufelyldrm](https://github.com/yusufelyldrm) Yusuf Ziya Elyıldırım ]
 - [ [gorkemkuyucu](https://github.com/gorkemkuyucu) Görkem Kuyucu ]
@@ -18,7 +19,6 @@
 - [ [ogulcano](https://github.com/ogulcano) Ogulcan ]
 - [ [olry](https://github.com/olry) ~loghead ]
 - [ [hdenizdogan](https://github.com/hdenizdogan)  ]
-- [ [cucerdariancatalin](https://github.com/cucerdariancatalin) Darian-Cătălin Cucer ]
 
 #### 🎧 &nbsp; Good beats
 
