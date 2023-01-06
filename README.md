@@ -9,6 +9,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [Parzivxll](https://github.com/Parzivxll) Parzival ]
 - [ [sadikkuzu-getir](https://github.com/sadikkuzu-getir) Sadık Kuzu ]
 - [ [yusufelyldrm](https://github.com/yusufelyldrm) Yusuf Ziya Elyıldırım ]
 - [ [gorkemkuyucu](https://github.com/gorkemkuyucu) Görkem Kuyucu ]
@@ -18,7 +19,6 @@
 - [ [ogulcano](https://github.com/ogulcano) Ogulcan ]
 - [ [olry](https://github.com/olry) ~loghead ]
 - [ [hdenizdogan](https://github.com/hdenizdogan)  ]
-- [ [cucerdariancatalin](https://github.com/cucerdariancatalin) Darian-Cătălin Cucer ]
 
 #### 🎧 &nbsp; Good beats
 
@@ -29,7 +29,7 @@
 1. [**1773-1863/SWE-590-TERM-PROJECT**](https://github.com/1773-1863/SWE-590-TERM-PROJECT/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/1773-1863/SWE-590-TERM-PROJECT?style=social)](https://github.com/1773-1863/SWE-590-TERM-PROJECT/stargazers) - This repo includes all source codes and architecture of our SWE-590 Term Project, ML Based Diabetic Retinopathy Application (1 week ago)
 1. [**homebysix/pre-commit-macadmin**](https://github.com/homebysix/pre-commit-macadmin/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/homebysix/pre-commit-macadmin?style=social)](https://github.com/homebysix/pre-commit-macadmin/stargazers) - Pre-commit hooks for Mac admins. (1 week ago)
 1. [**PyCQA/autoflake**](https://github.com/PyCQA/autoflake/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/PyCQA/autoflake?style=social)](https://github.com/PyCQA/autoflake/stargazers) - Removes unused imports and unused variables as reported by pyflakes (2 weeks ago)
-1. [**pohmelie/pytest-automock**](https://github.com/pohmelie/pytest-automock/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/pohmelie/pytest-automock?style=social)](https://github.com/pohmelie/pytest-automock/stargazers) - Automock fixtures for pytest (4 weeks ago)
+1. [**pohmelie/pytest-automock**](https://github.com/pohmelie/pytest-automock/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/pohmelie/pytest-automock?style=social)](https://github.com/pohmelie/pytest-automock/stargazers) - Automock fixtures for pytest (1 month ago)
 1. [**serhatbolsu/robotframework-appiumlibrary**](https://github.com/serhatbolsu/robotframework-appiumlibrary/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/serhatbolsu/robotframework-appiumlibrary?style=social)](https://github.com/serhatbolsu/robotframework-appiumlibrary/stargazers) - AppiumLibrary is an appium testing library for RobotFramework (1 month ago)
 1. [**pytest-dev/pytest-cov**](https://github.com/pytest-dev/pytest-cov/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/pytest-dev/pytest-cov?style=social)](https://github.com/pytest-dev/pytest-cov/stargazers) - Coverage plugin for pytest. (1 month ago)
 1. [**microsoft/picologging**](https://github.com/microsoft/picologging/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/microsoft/picologging?style=social)](https://github.com/microsoft/picologging/stargazers) - An optimized logging library for Python (1 month ago)
@@ -38,7 +38,7 @@
 1. [**uber/h3-py**](https://github.com/uber/h3-py/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/uber/h3-py?style=social)](https://github.com/uber/h3-py/stargazers) - Python bindings for H3, a hierarchical hexagonal geospatial indexing system (2 months ago)
 1. [**freeCodeCamp/freeCodeCamp**](https://github.com/freeCodeCamp/freeCodeCamp/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/freeCodeCamp/freeCodeCamp?style=social)](https://github.com/freeCodeCamp/freeCodeCamp/stargazers) - freeCodeCamp.org&#39;s open-source codebase and curriculum. Learn to code for free. (2 months ago)
 1. [**Homebrew/brew.sh**](https://github.com/Homebrew/brew.sh/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/Homebrew/brew.sh?style=social)](https://github.com/Homebrew/brew.sh/stargazers) - 🔖 The Homebrew homepage (2 months ago)
-1. [**OpenBB-finance/OpenBBTerminal**](https://github.com/OpenBB-finance/OpenBBTerminal/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/OpenBB-finance/OpenBBTerminal?style=social)](https://github.com/OpenBB-finance/OpenBBTerminal/stargazers) - Investment Research for Everyone, Anywhere. (2 months ago)
+1. [**OpenBB-finance/OpenBBTerminal**](https://github.com/OpenBB-finance/OpenBBTerminal/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/OpenBB-finance/OpenBBTerminal?style=social)](https://github.com/OpenBB-finance/OpenBBTerminal/stargazers) - Investment Research for Everyone, Anywhere. (3 months ago)
 1. [**lukasalexanderweber/stitching**](https://github.com/lukasalexanderweber/stitching/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/lukasalexanderweber/stitching?style=social)](https://github.com/lukasalexanderweber/stitching/stargazers) - A Python package for fast and robust Image Stitching (3 months ago)
 1. [**facebook/docusaurus**](https://github.com/facebook/docusaurus/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/facebook/docusaurus?style=social)](https://github.com/facebook/docusaurus/stargazers) - Easy to maintain open source documentation websites. (3 months ago)
 1. [**renovatebot/renovate**](https://github.com/renovatebot/renovate/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/renovatebot/renovate?style=social)](https://github.com/renovatebot/renovate/stargazers) - Universal dependency update tool that fits into your workflows. (3 months ago)
@@ -60,7 +60,7 @@
 1. [**pyenv/pyenv**](https://github.com/pyenv/pyenv/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/pyenv/pyenv?style=social)](https://github.com/pyenv/pyenv/stargazers) - Simple Python version management (8 months ago)
 1. [**commitizen-tools/commitizen**](https://github.com/commitizen-tools/commitizen/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/commitizen-tools/commitizen?style=social)](https://github.com/commitizen-tools/commitizen/stargazers) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder:  (8 months ago)
 1. [**gis-ops/routingpy**](https://github.com/gis-ops/routingpy/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/gis-ops/routingpy?style=social)](https://github.com/gis-ops/routingpy/stargazers) - 🌎 Python library to access all public routing, isochrones and matrix APIs in a consistent manner. (11 months ago)
-1. [**Doist/todoist-api-python**](https://github.com/Doist/todoist-api-python/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/Doist/todoist-api-python?style=social)](https://github.com/Doist/todoist-api-python/stargazers) - A python wrapper for the Todoist REST API. (11 months ago)
+1. [**Doist/todoist-api-python**](https://github.com/Doist/todoist-api-python/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/Doist/todoist-api-python?style=social)](https://github.com/Doist/todoist-api-python/stargazers) - A python wrapper for the Todoist REST API. (1 year ago)
 1. [**ahmetb/kubectx**](https://github.com/ahmetb/kubectx/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/ahmetb/kubectx?style=social)](https://github.com/ahmetb/kubectx/stargazers) - Faster way to switch between clusters and namespaces in kubectl (1 year ago)
 
 
