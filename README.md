@@ -10,7 +10,6 @@
 #### 🔭 &nbsp; Check out my recent followers
 
 - [ [olyyywilson](https://github.com/olyyywilson)  ]
-- [ [BEPb](https://github.com/BEPb) Andrej Marinchenko ]
 - [ [Parzivxll](https://github.com/Parzivxll) Parzival ]
 - [ [sadikkuzu-getir](https://github.com/sadikkuzu-getir) Sadık Kuzu ]
 - [ [yusufelyldrm](https://github.com/yusufelyldrm) Yusuf Ziya Elyıldırım ]
@@ -19,6 +18,7 @@
 - [ [sananeminli](https://github.com/sananeminli) Sanan Eminli ]
 - [ [bilgedeniz](https://github.com/bilgedeniz)  ]
 - [ [ogulcano](https://github.com/ogulcano) Ogulcan ]
+- [ [olry](https://github.com/olry) ~loghead ]
 
 #### 🎧 &nbsp; Good beats
 
