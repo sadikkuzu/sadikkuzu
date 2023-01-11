@@ -9,6 +9,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [v0xel1337](https://github.com/v0xel1337) Szalai Péter ]
 - [ [olyyywilson](https://github.com/olyyywilson)  ]
 - [ [Parzivxll](https://github.com/Parzivxll) Parzival ]
 - [ [sadikkuzu-getir](https://github.com/sadikkuzu-getir) Sadık Kuzu ]
@@ -18,7 +19,6 @@
 - [ [sananeminli](https://github.com/sananeminli) Sanan Eminli ]
 - [ [bilgedeniz](https://github.com/bilgedeniz)  ]
 - [ [ogulcano](https://github.com/ogulcano) Ogulcan ]
-- [ [olry](https://github.com/olry) ~loghead ]
 
 #### 🎧 &nbsp; Good beats
 
