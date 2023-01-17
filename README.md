@@ -9,6 +9,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [JacksonUptain](https://github.com/JacksonUptain) Jackson Uptain ]
 - [ [v0xel1337](https://github.com/v0xel1337) Szalai Péter ]
 - [ [olyyywilson](https://github.com/olyyywilson)  ]
 - [ [Parzivxll](https://github.com/Parzivxll) Parzival ]
@@ -18,7 +19,6 @@
 - [ [dberkerdem](https://github.com/dberkerdem) Daglar Berk Erdem ]
 - [ [sananeminli](https://github.com/sananeminli) Sanan Eminli ]
 - [ [bilgedeniz](https://github.com/bilgedeniz)  ]
-- [ [ogulcano](https://github.com/ogulcano) Ogulcan ]
 
 #### 🎧 &nbsp; Good beats
 
