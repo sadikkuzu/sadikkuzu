@@ -58,7 +58,6 @@
 1. [**asottile/pyupgrade**](https://github.com/asottile/pyupgrade/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/asottile/pyupgrade?style=social)](https://github.com/asottile/pyupgrade/stargazers) - A tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language. (8 months ago)
 1. [**pyenv/pyenv**](https://github.com/pyenv/pyenv/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/pyenv/pyenv?style=social)](https://github.com/pyenv/pyenv/stargazers) - Simple Python version management (8 months ago)
 1. [**commitizen-tools/commitizen**](https://github.com/commitizen-tools/commitizen/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/commitizen-tools/commitizen?style=social)](https://github.com/commitizen-tools/commitizen/stargazers) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder:  (8 months ago)
-1. [**gis-ops/routingpy**](https://github.com/gis-ops/routingpy/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/gis-ops/routingpy?style=social)](https://github.com/gis-ops/routingpy/stargazers) - 🌎 Python library to access all public routing, isochrones and matrix APIs in a consistent manner. (1 year ago)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
