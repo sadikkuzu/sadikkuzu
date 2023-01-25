@@ -9,6 +9,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [HyunCafe](https://github.com/HyunCafe) HyunSun ]
 - [ [afroj07](https://github.com/afroj07) Mohammad Afroj Mansoori ]
 - [ [JacksonUptain](https://github.com/JacksonUptain) Jackson Uptain ]
 - [ [v0xel1337](https://github.com/v0xel1337) Szalai Péter ]
@@ -18,7 +19,6 @@
 - [ [yusufelyldrm](https://github.com/yusufelyldrm) Yusuf Ziya Elyıldırım ]
 - [ [gorkemkuyucu](https://github.com/gorkemkuyucu) Görkem Kuyucu ]
 - [ [dberkerdem](https://github.com/dberkerdem) Daglar Berk Erdem ]
-- [ [sananeminli](https://github.com/sananeminli) Sanan Eminli ]
 
 #### 🎧 &nbsp; Good beats
 
