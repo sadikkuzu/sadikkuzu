@@ -9,7 +9,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
-- [ [HyunCafe](https://github.com/HyunCafe) HyunSun ]
+- [ [HyunCafe](https://github.com/HyunCafe) HyunCafe ]
 - [ [afroj07](https://github.com/afroj07) Mohammad Afroj Mansoori ]
 - [ [JacksonUptain](https://github.com/JacksonUptain) Jackson Uptain ]
 - [ [v0xel1337](https://github.com/v0xel1337) Szalai Péter ]
