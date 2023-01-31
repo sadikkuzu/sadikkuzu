@@ -9,6 +9,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [AbdeenM](https://github.com/AbdeenM) Abdeen Mohamed ]
 - [ [mgakcay](https://github.com/mgakcay) Gorkem Akcay ]
 - [ [HyunCafe](https://github.com/HyunCafe) HyunCafe ]
 - [ [afroj07](https://github.com/afroj07) Mohammad Afroj Mansoori ]
@@ -18,7 +19,6 @@
 - [ [Parzivxll](https://github.com/Parzivxll) Parzival ]
 - [ [sadikkuzu-getir](https://github.com/sadikkuzu-getir) Sadık Kuzu ]
 - [ [yusufelyldrm](https://github.com/yusufelyldrm) Yusuf Ziya Elyıldırım ]
-- [ [gorkemkuyucu](https://github.com/gorkemkuyucu) Görkem Kuyucu ]
 
 #### 🎧 &nbsp; Good beats
 
