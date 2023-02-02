@@ -15,10 +15,10 @@
 - [ [JacksonUptain](https://github.com/JacksonUptain) Jackson Uptain ]
 - [ [v0xel1337](https://github.com/v0xel1337) Szalai Péter ]
 - [ [olyyywilson](https://github.com/olyyywilson)  ]
-- [ [Parzivxll](https://github.com/Parzivxll) Parzival ]
 - [ [sadikkuzu-getir](https://github.com/sadikkuzu-getir) Sadık Kuzu ]
 - [ [yusufelyldrm](https://github.com/yusufelyldrm) Yusuf Ziya Elyıldırım ]
 - [ [gorkemkuyucu](https://github.com/gorkemkuyucu) Görkem Kuyucu ]
+- [ [dberkerdem](https://github.com/dberkerdem) Daglar Berk Erdem ]
 
 #### 🎧 &nbsp; Good beats
 
