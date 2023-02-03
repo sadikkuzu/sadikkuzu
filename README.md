@@ -9,6 +9,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [wabi-sabby](https://github.com/wabi-sabby) Sabrina Aytaç ]
 - [ [AbdeenM](https://github.com/AbdeenM) Abdeen Mohamed ]
 - [ [mgakcay](https://github.com/mgakcay) Gorkem Akcay ]
 - [ [afroj07](https://github.com/afroj07) Mohammad Afroj Mansoori ]
@@ -18,7 +19,6 @@
 - [ [sadikkuzu-getir](https://github.com/sadikkuzu-getir) Sadık Kuzu ]
 - [ [yusufelyldrm](https://github.com/yusufelyldrm) Yusuf Ziya Elyıldırım ]
 - [ [gorkemkuyucu](https://github.com/gorkemkuyucu) Görkem Kuyucu ]
-- [ [dberkerdem](https://github.com/dberkerdem) Daglar Berk Erdem ]
 
 #### 🎧 &nbsp; Good beats
 
