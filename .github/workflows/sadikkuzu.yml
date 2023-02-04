@@ -31,5 +31,5 @@ jobs:
           commit_message: Update generated sadikkuzu readme
           branch: master
           commit_user_name: readme-scribe 🤖
-          commit_user_email: actions@github.com
-          commit_author: readme-scribe 🤖 <actions@github.com>
+          commit_user_email: sadikkuzu@hotmail.com
+          commit_author: readme-scribe 🤖 <sadikkuzu@hotmail.com>
