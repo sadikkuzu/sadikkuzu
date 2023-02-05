@@ -9,6 +9,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [mustafakurban](https://github.com/mustafakurban) mustafa ]
 - [ [oSoloTurk](https://github.com/oSoloTurk) Hakkı ]
 - [ [wabi-sabby](https://github.com/wabi-sabby) Sabrina Aytaç ]
 - [ [AbdeenM](https://github.com/AbdeenM) Abdeen Mohamed ]
@@ -18,7 +19,6 @@
 - [ [v0xel1337](https://github.com/v0xel1337) Szalai Péter ]
 - [ [olyyywilson](https://github.com/olyyywilson)  ]
 - [ [sadikkuzu-getir](https://github.com/sadikkuzu-getir) Sadık Kuzu ]
-- [ [yusufelyldrm](https://github.com/yusufelyldrm) Yusuf Ziya Elyıldırım ]
 
 #### 🎧 &nbsp; Good beats
 
