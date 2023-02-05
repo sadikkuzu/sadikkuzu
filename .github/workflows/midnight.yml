@@ -29,5 +29,5 @@ jobs:
           commit_message: Hello new day!
           branch: master
           commit_user_name: nights watch 🤖
-          commit_user_email: actions@github.com
-          commit_author: nights watch 🤖 <actions@github.com>
+          commit_user_email: sadikkuzu@hotmail.com
+          commit_author: nights watch 🤖 <sadikkuzu@hotmail.com>
