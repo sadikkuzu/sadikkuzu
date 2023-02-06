@@ -9,6 +9,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [BEPb](https://github.com/BEPb) Andrej Marinchenko ]
 - [ [mustafakurban](https://github.com/mustafakurban) mustafa ]
 - [ [oSoloTurk](https://github.com/oSoloTurk) Hakkı ]
 - [ [wabi-sabby](https://github.com/wabi-sabby) Sabrina Aytaç ]
@@ -18,7 +19,6 @@
 - [ [JacksonUptain](https://github.com/JacksonUptain) Jackson Uptain ]
 - [ [v0xel1337](https://github.com/v0xel1337) Szalai Péter ]
 - [ [olyyywilson](https://github.com/olyyywilson)  ]
-- [ [sadikkuzu-getir](https://github.com/sadikkuzu-getir) Sadık Kuzu ]
 
 #### 🎧 &nbsp; Good beats
 
