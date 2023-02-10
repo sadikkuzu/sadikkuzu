@@ -9,6 +9,8 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [Psrocks96](https://github.com/Psrocks96) Parmod Kumar ]
+- [ [rengetsu](https://github.com/rengetsu) Pavel Trostianko ]
 - [ [romanofficial](https://github.com/romanofficial) Roman Hossain Shaon ]
 - [ [BEPb](https://github.com/BEPb) Andrej Marinchenko ]
 - [ [Ira-Josh](https://github.com/Ira-Josh)  ]
@@ -17,8 +19,6 @@
 - [ [oSoloTurk](https://github.com/oSoloTurk) Hakkı ]
 - [ [wabi-sabby](https://github.com/wabi-sabby) Sabrina Aytaç ]
 - [ [mgakcay](https://github.com/mgakcay) Gorkem Akcay ]
-- [ [afroj07](https://github.com/afroj07) Mohammad Afroj Mansoori ]
-- [ [JacksonUptain](https://github.com/JacksonUptain) Jackson Uptain ]
 
 #### 🎧 &nbsp; Good beats
 
