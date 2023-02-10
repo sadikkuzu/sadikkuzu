@@ -9,6 +9,8 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [romanofficial](https://github.com/romanofficial) Roman Hossain Shaon ]
+- [ [BEPb](https://github.com/BEPb) Andrej Marinchenko ]
 - [ [Ira-Josh](https://github.com/Ira-Josh)  ]
 - [ [HyunCafe](https://github.com/HyunCafe) HyunCafe ]
 - [ [mustafakurban](https://github.com/mustafakurban) mustafa ]
@@ -17,8 +19,6 @@
 - [ [mgakcay](https://github.com/mgakcay) Gorkem Akcay ]
 - [ [afroj07](https://github.com/afroj07) Mohammad Afroj Mansoori ]
 - [ [JacksonUptain](https://github.com/JacksonUptain) Jackson Uptain ]
-- [ [v0xel1337](https://github.com/v0xel1337) Szalai Péter ]
-- [ [olyyywilson](https://github.com/olyyywilson)  ]
 
 #### 🎧 &nbsp; Good beats
 
