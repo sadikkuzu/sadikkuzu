@@ -9,6 +9,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [Ira-Josh](https://github.com/Ira-Josh)  ]
 - [ [HyunCafe](https://github.com/HyunCafe) HyunCafe ]
 - [ [mustafakurban](https://github.com/mustafakurban) mustafa ]
 - [ [oSoloTurk](https://github.com/oSoloTurk) Hakkı ]
@@ -18,7 +19,6 @@
 - [ [JacksonUptain](https://github.com/JacksonUptain) Jackson Uptain ]
 - [ [v0xel1337](https://github.com/v0xel1337) Szalai Péter ]
 - [ [olyyywilson](https://github.com/olyyywilson)  ]
-- [ [sadikkuzu-getir](https://github.com/sadikkuzu-getir) Sadık Kuzu ]
 
 #### 🎧 &nbsp; Good beats
 
