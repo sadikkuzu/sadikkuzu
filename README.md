@@ -9,6 +9,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [Tathagat017](https://github.com/Tathagat017) Tathagat ]
 - [ [Psrocks96](https://github.com/Psrocks96) Parmod Kumar ]
 - [ [rengetsu](https://github.com/rengetsu) Pavel Trostianko ]
 - [ [romanofficial](https://github.com/romanofficial) Roman Hossain Shaon ]
@@ -18,7 +19,6 @@
 - [ [mustafakurban](https://github.com/mustafakurban) mustafa ]
 - [ [oSoloTurk](https://github.com/oSoloTurk) Hakkı ]
 - [ [wabi-sabby](https://github.com/wabi-sabby) Sabrina Aytaç ]
-- [ [mgakcay](https://github.com/mgakcay) Gorkem Akcay ]
 
 #### 🎧 &nbsp; Good beats
 
