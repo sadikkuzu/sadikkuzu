@@ -15,16 +15,17 @@
 - [ [Psrocks96](https://github.com/Psrocks96) Parmod Kumar ]
 - [ [rengetsu](https://github.com/rengetsu) Pavel Trostianko ]
 - [ [romanofficial](https://github.com/romanofficial) Roman Hossain Shaon ]
-- [ [BEPb](https://github.com/BEPb) Andrej Marinchenko ]
 - [ [Ira-Josh](https://github.com/Ira-Josh)  ]
 - [ [HyunCafe](https://github.com/HyunCafe) HyunCafe ]
 - [ [mustafakurban](https://github.com/mustafakurban) mustafa ]
+- [ [oSoloTurk](https://github.com/oSoloTurk) Hakkı ]
 
 #### 🎧 &nbsp; Good beats
 
 [![Mr. Kuzu's Recently Played Music on Spotify](https://spotify-recently-played-readme.vercel.app/api?user=5cfgfpgmik69ly41rspaiod2a&count=3&unique=1)](https://open.spotify.com/user/5cfgfpgmik69ly41rspaiod2a)
 
 #### 🚀 &nbsp; Open source projects I've contributed to
+1. [**pypi/warehouse**](https://github.com/pypi/warehouse/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/pypi/warehouse?style=social)](https://github.com/pypi/warehouse/stargazers) - The Python Package Index (today)
 1. [**zricethezav/gitleaks**](https://github.com/zricethezav/gitleaks/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/zricethezav/gitleaks?style=social)](https://github.com/zricethezav/gitleaks/stargazers) - Protect and discover secrets using Gitleaks 🔑 (1 week ago)
 1. [**tugrulcan/havhav**](https://github.com/tugrulcan/havhav/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/tugrulcan/havhav?style=social)](https://github.com/tugrulcan/havhav/stargazers) - :bone: Python package to retrieve random facts about Dogs (1 week ago)
 1. [**Kludex/flake8-fastapi**](https://github.com/Kludex/flake8-fastapi/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/Kludex/flake8-fastapi?style=social)](https://github.com/Kludex/flake8-fastapi/stargazers) - Flake8 FastAPI - Avoid simple FastAPI mistakes ~opinionated~ 🤓 (1 week ago)
