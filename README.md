@@ -9,6 +9,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [MCatskinandme](https://github.com/MCatskinandme) Matt Choplin ]
 - [ [AgnesGrace](https://github.com/AgnesGrace)  ]
 - [ [mohdadil12345](https://github.com/mohdadil12345) MOHD ADIL ]
 - [ [Tathagat017](https://github.com/Tathagat017) Tathagat ]
@@ -18,7 +19,6 @@
 - [ [Ira-Josh](https://github.com/Ira-Josh)  ]
 - [ [mustafakurban](https://github.com/mustafakurban) mustafa ]
 - [ [oSoloTurk](https://github.com/oSoloTurk) Hakkı ]
-- [ [wabi-sabby](https://github.com/wabi-sabby) Sabrina Aytaç ]
 
 #### 🎧 &nbsp; Good beats
 
