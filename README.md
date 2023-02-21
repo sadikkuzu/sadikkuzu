@@ -9,6 +9,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [ckertam](https://github.com/ckertam)  ]
 - [ [MCatskinandme](https://github.com/MCatskinandme) Matt Choplin ]
 - [ [AgnesGrace](https://github.com/AgnesGrace)  ]
 - [ [mohdadil12345](https://github.com/mohdadil12345) MOHD ADIL ]
@@ -18,7 +19,6 @@
 - [ [romanofficial](https://github.com/romanofficial) Roman Hossain Shaon ]
 - [ [Ira-Josh](https://github.com/Ira-Josh)  ]
 - [ [mustafakurban](https://github.com/mustafakurban) mustafa ]
-- [ [oSoloTurk](https://github.com/oSoloTurk) Hakkı ]
 
 #### 🎧 &nbsp; Good beats
 
