@@ -9,6 +9,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [oguzsenna](https://github.com/oguzsenna) Oğuz SENNA ]
 - [ [ckertam](https://github.com/ckertam)  ]
 - [ [MCatskinandme](https://github.com/MCatskinandme) Matt Choplin ]
 - [ [AgnesGrace](https://github.com/AgnesGrace)  ]
@@ -18,7 +19,6 @@
 - [ [rengetsu](https://github.com/rengetsu) Pavel Trostianko ]
 - [ [romanofficial](https://github.com/romanofficial) Roman Hossain Shaon ]
 - [ [Ira-Josh](https://github.com/Ira-Josh)  ]
-- [ [mustafakurban](https://github.com/mustafakurban) mustafa ]
 
 #### 🎧 &nbsp; Good beats
 
