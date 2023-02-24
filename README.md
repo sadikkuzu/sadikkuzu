@@ -9,6 +9,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [silakazan](https://github.com/silakazan) sılakazan ]
 - [ [mucahitugur](https://github.com/mucahitugur) mucahitugur ]
 - [ [oguzsenna](https://github.com/oguzsenna) Oğuz SENNA ]
 - [ [ckertam](https://github.com/ckertam)  ]
@@ -18,7 +19,6 @@
 - [ [Tathagat017](https://github.com/Tathagat017) Tathagat ]
 - [ [Psrocks96](https://github.com/Psrocks96) Parmod Kumar ]
 - [ [rengetsu](https://github.com/rengetsu) Pavel Trostianko ]
-- [ [romanofficial](https://github.com/romanofficial) Roman Hossain Shaon ]
 
 #### 🎧 &nbsp; Good beats
 
