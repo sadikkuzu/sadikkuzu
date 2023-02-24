@@ -9,6 +9,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [mucahitugur](https://github.com/mucahitugur) mucahitugur ]
 - [ [oguzsenna](https://github.com/oguzsenna) Oğuz SENNA ]
 - [ [ckertam](https://github.com/ckertam)  ]
 - [ [MCatskinandme](https://github.com/MCatskinandme) Matt Choplin ]
@@ -18,7 +19,6 @@
 - [ [Psrocks96](https://github.com/Psrocks96) Parmod Kumar ]
 - [ [rengetsu](https://github.com/rengetsu) Pavel Trostianko ]
 - [ [romanofficial](https://github.com/romanofficial) Roman Hossain Shaon ]
-- [ [Ira-Josh](https://github.com/Ira-Josh)  ]
 
 #### 🎧 &nbsp; Good beats
 
