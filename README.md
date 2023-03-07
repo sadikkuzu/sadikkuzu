@@ -9,6 +9,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [nageswarchedella](https://github.com/nageswarchedella) Nageswar Chedella ]
 - [ [mmertpolat](https://github.com/mmertpolat) Muhammet Mert Polat ]
 - [ [silakazan](https://github.com/silakazan) sılakazan ]
 - [ [mucahitugur](https://github.com/mucahitugur) mucahitugur ]
@@ -18,7 +19,6 @@
 - [ [AgnesGrace](https://github.com/AgnesGrace)  ]
 - [ [mohdadil12345](https://github.com/mohdadil12345) MOHD ADIL ]
 - [ [Tathagat017](https://github.com/Tathagat017) Tathagat ]
-- [ [Psrocks96](https://github.com/Psrocks96) Parmod Kumar ]
 
 #### 🎧 &nbsp; Good beats
 
