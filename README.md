@@ -9,6 +9,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [azataiot](https://github.com/azataiot) Azat ]
 - [ [nageswarchedella](https://github.com/nageswarchedella) Nageswar Chedella ]
 - [ [mmertpolat](https://github.com/mmertpolat) Muhammet Mert Polat ]
 - [ [silakazan](https://github.com/silakazan) sılakazan ]
@@ -18,7 +19,6 @@
 - [ [MCatskinandme](https://github.com/MCatskinandme) Matt Choplin ]
 - [ [AgnesGrace](https://github.com/AgnesGrace)  ]
 - [ [mohdadil12345](https://github.com/mohdadil12345) MOHD ADIL ]
-- [ [Tathagat017](https://github.com/Tathagat017) Tathagat ]
 
 #### 🎧 &nbsp; Good beats
 
