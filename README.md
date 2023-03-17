@@ -11,6 +11,7 @@
 
 - [ [azataiot](https://github.com/azataiot) Azat ]
 - [ [nageswarchedella](https://github.com/nageswarchedella) Nageswar Chedella ]
+- [ [mmertpolat](https://github.com/mmertpolat) Muhammet Mert Polat ]
 - [ [silakazan](https://github.com/silakazan) sılakazan ]
 - [ [mucahitugur](https://github.com/mucahitugur) mucahitugur ]
 - [ [oguzsenna](https://github.com/oguzsenna) Oğuz SENNA ]
@@ -18,14 +19,13 @@
 - [ [MCatskinandme](https://github.com/MCatskinandme) Matt Choplin ]
 - [ [AgnesGrace](https://github.com/AgnesGrace)  ]
 - [ [mohdadil12345](https://github.com/mohdadil12345) MOHD ADIL ]
-- [ [Tathagat017](https://github.com/Tathagat017) Tathagat ]
 
 #### 🎧 &nbsp; Good beats
 
 [![Mr. Kuzu's Recently Played Music on Spotify](https://spotify-recently-played-readme.vercel.app/api?user=5cfgfpgmik69ly41rspaiod2a&count=3&unique=1)](https://open.spotify.com/user/5cfgfpgmik69ly41rspaiod2a)
 
 #### 🚀 &nbsp; Open source projects I've contributed to
-1. [**stripe/stripe-python**](https://github.com/stripe/stripe-python/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/stripe/stripe-python?style=social)](https://github.com/stripe/stripe-python/stargazers) - Python library for the Stripe API.     (2 days ago)
+1. [**stripe/stripe-python**](https://github.com/stripe/stripe-python/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/stripe/stripe-python?style=social)](https://github.com/stripe/stripe-python/stargazers) - Python library for the Stripe API.     (3 days ago)
 1. [**bounswemsc/.github**](https://github.com/bounswemsc/.github/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/bounswemsc/.github?style=social)](https://github.com/bounswemsc/.github/stargazers) - BOUN SWE MSc. (2 weeks ago)
 1. [**bounswemsc/bounswemsc.github.io**](https://github.com/bounswemsc/bounswemsc.github.io/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/bounswemsc/bounswemsc.github.io?style=social)](https://github.com/bounswemsc/bounswemsc.github.io/stargazers) - BOUN SWE MSc website (2 weeks ago)
 1. [**gitleaks/gitleaks**](https://github.com/gitleaks/gitleaks/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/gitleaks/gitleaks?style=social)](https://github.com/gitleaks/gitleaks/stargazers) - Protect and discover secrets using Gitleaks 🔑 (2 weeks ago)
@@ -34,7 +34,7 @@
 1. [**Kludex/flake8-fastapi**](https://github.com/Kludex/flake8-fastapi/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/Kludex/flake8-fastapi?style=social)](https://github.com/Kludex/flake8-fastapi/stargazers) - Flake8 FastAPI - Avoid simple FastAPI mistakes ~opinionated~ 🤓 (1 month ago)
 1. [**carbon-language/carbon-lang**](https://github.com/carbon-language/carbon-lang/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/carbon-language/carbon-lang?style=social)](https://github.com/carbon-language/carbon-lang/stargazers) - Carbon Language&#39;s main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README) (2 months ago)
 1. [**homebysix/pre-commit-macadmin**](https://github.com/homebysix/pre-commit-macadmin/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/homebysix/pre-commit-macadmin?style=social)](https://github.com/homebysix/pre-commit-macadmin/stargazers) - Pre-commit hooks for Mac admins. (2 months ago)
-1. [**PyCQA/autoflake**](https://github.com/PyCQA/autoflake/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/PyCQA/autoflake?style=social)](https://github.com/PyCQA/autoflake/stargazers) - Removes unused imports and unused variables as reported by pyflakes (2 months ago)
+1. [**PyCQA/autoflake**](https://github.com/PyCQA/autoflake/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/PyCQA/autoflake?style=social)](https://github.com/PyCQA/autoflake/stargazers) - Removes unused imports and unused variables as reported by pyflakes (3 months ago)
 1. [**pohmelie/pytest-automock**](https://github.com/pohmelie/pytest-automock/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/pohmelie/pytest-automock?style=social)](https://github.com/pohmelie/pytest-automock/stargazers) - Automock fixtures for pytest (3 months ago)
 1. [**serhatbolsu/robotframework-appiumlibrary**](https://github.com/serhatbolsu/robotframework-appiumlibrary/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/serhatbolsu/robotframework-appiumlibrary?style=social)](https://github.com/serhatbolsu/robotframework-appiumlibrary/stargazers) - AppiumLibrary is an appium testing library for RobotFramework (3 months ago)
 1. [**pytest-dev/pytest-cov**](https://github.com/pytest-dev/pytest-cov/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/pytest-dev/pytest-cov?style=social)](https://github.com/pytest-dev/pytest-cov/stargazers) - Coverage plugin for pytest. (4 months ago)
