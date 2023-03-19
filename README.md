@@ -9,6 +9,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [nafasebra](https://github.com/nafasebra) Nafas Ebrahimi ]
 - [ [amirmalekian](https://github.com/amirmalekian) Amirhossein Malekian ]
 - [ [l0ghead](https://github.com/l0ghead) ~lh ]
 - [ [azataiot](https://github.com/azataiot) Azat ]
@@ -18,7 +19,6 @@
 - [ [mucahitugur](https://github.com/mucahitugur) mucahitugur ]
 - [ [oguzsenna](https://github.com/oguzsenna) Oğuz SENNA ]
 - [ [ckertam](https://github.com/ckertam)  ]
-- [ [MCatskinandme](https://github.com/MCatskinandme) Matt Choplin ]
 
 #### 🎧 &nbsp; Good beats
 
