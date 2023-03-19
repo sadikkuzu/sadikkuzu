@@ -9,6 +9,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [Egelas](https://github.com/Egelas) Ege Pekgenç ]
 - [ [nafasebra](https://github.com/nafasebra) Nafas Ebrahimi ]
 - [ [amirmalekian](https://github.com/amirmalekian) Amirhossein Malekian ]
 - [ [l0ghead](https://github.com/l0ghead) ~lh ]
@@ -18,7 +19,6 @@
 - [ [silakazan](https://github.com/silakazan) sılakazan ]
 - [ [mucahitugur](https://github.com/mucahitugur) mucahitugur ]
 - [ [oguzsenna](https://github.com/oguzsenna) Oğuz SENNA ]
-- [ [ckertam](https://github.com/ckertam)  ]
 
 #### 🎧 &nbsp; Good beats
 
