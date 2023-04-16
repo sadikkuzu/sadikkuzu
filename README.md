@@ -9,6 +9,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [nevo-david](https://github.com/nevo-david) Nevo David ]
 - [ [noktafa](https://github.com/noktafa)  ]
 - [ [AbdullahiHja](https://github.com/AbdullahiHja)  ]
 - [ [berkai](https://github.com/berkai) Berkay Berkman ]
@@ -18,7 +19,6 @@
 - [ [amirmalekian](https://github.com/amirmalekian) Amirhossein Malekian ]
 - [ [l0ghead](https://github.com/l0ghead) ~lh ]
 - [ [azataiot](https://github.com/azataiot) Azat ]
-- [ [nageswarchedella](https://github.com/nageswarchedella) Nageswar Chedella ]
 
 #### 🎧 &nbsp; Good beats
 
