@@ -9,6 +9,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [cagataybahadir](https://github.com/cagataybahadir) Mehmet Cagatay BAHADIR ]
 - [ [MuazMemis](https://github.com/MuazMemis) Muaz MEMİŞ ]
 - [ [nevo-david](https://github.com/nevo-david) Nevo David ]
 - [ [noktafa](https://github.com/noktafa)  ]
@@ -18,7 +19,6 @@
 - [ [aykutkantas](https://github.com/aykutkantas)  ]
 - [ [Egelas](https://github.com/Egelas) Ege Pekgenç ]
 - [ [amirmalekian](https://github.com/amirmalekian) Amirhossein Malekian ]
-- [ [l0ghead](https://github.com/l0ghead) ~lh ]
 
 #### 🎧 &nbsp; Good beats
 
