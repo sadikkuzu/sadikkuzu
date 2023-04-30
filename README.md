@@ -64,7 +64,6 @@
 1. [**httpie/httpie**](https://github.com/httpie/httpie/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/httpie/httpie?style=social)](https://github.com/httpie/httpie/stargazers) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins &amp; more. (11 months ago)
 1. [**asottile/pyupgrade**](https://github.com/asottile/pyupgrade/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/asottile/pyupgrade?style=social)](https://github.com/asottile/pyupgrade/stargazers) - A tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language. (11 months ago)
 1. [**pyenv/pyenv**](https://github.com/pyenv/pyenv/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/pyenv/pyenv?style=social)](https://github.com/pyenv/pyenv/stargazers) - Simple Python version management (11 months ago)
-1. [**commitizen-tools/commitizen**](https://github.com/commitizen-tools/commitizen/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/commitizen-tools/commitizen?style=social)](https://github.com/commitizen-tools/commitizen/stargazers) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder:  (1 year ago)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
