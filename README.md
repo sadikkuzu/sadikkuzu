@@ -9,6 +9,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [nizarcan](https://github.com/nizarcan) Nizar Can ]
 - [ [deenizhan](https://github.com/deenizhan) Denizhan Yılmaz ]
 - [ [ogunheper](https://github.com/ogunheper)  ]
 - [ [Prashantbahe](https://github.com/Prashantbahe)  ]
@@ -18,7 +19,6 @@
 - [ [noktafa](https://github.com/noktafa)  ]
 - [ [AbdullahiHja](https://github.com/AbdullahiHja)  ]
 - [ [berkai](https://github.com/berkai) Berkay Berkman ]
-- [ [berkayvuran](https://github.com/berkayvuran) berkay Vuran ]
 
 #### 🎧 &nbsp; Good beats
 
