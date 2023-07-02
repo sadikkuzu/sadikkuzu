@@ -17,8 +17,8 @@
 - [ [Prashantbahe](https://github.com/Prashantbahe)  ]
 - [ [cagataybahadir](https://github.com/cagataybahadir) Mehmet Cagatay BAHADIR ]
 - [ [MuazMemis](https://github.com/MuazMemis) Muaz MEMİŞ ]
-- [ [nevo-david](https://github.com/nevo-david) Nevo David ]
 - [ [noktafa](https://github.com/noktafa)  ]
+- [ [AbdullahiHja](https://github.com/AbdullahiHja)  ]
 
 #### 🎧 &nbsp; Good beats
 
