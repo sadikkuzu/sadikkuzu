@@ -9,7 +9,6 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
-- [ [Teun-vdB](https://github.com/Teun-vdB) Teun van den Broek ]
 - [ [anilhazar](https://github.com/anilhazar) Ali Anıl Hazar ]
 - [ [nizarcan](https://github.com/nizarcan) Nizar Can ]
 - [ [deenizhan](https://github.com/deenizhan) Denizhan Yılmaz ]
@@ -19,6 +18,7 @@
 - [ [MuazMemis](https://github.com/MuazMemis) Muaz MEMİŞ ]
 - [ [noktafa](https://github.com/noktafa)  ]
 - [ [AbdullahiHja](https://github.com/AbdullahiHja)  ]
+- [ [berkai](https://github.com/berkai) Berkay Berkman ]
 
 #### 🎧 &nbsp; Good beats
 
