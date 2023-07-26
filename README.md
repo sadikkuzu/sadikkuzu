@@ -11,7 +11,6 @@
 
 - [ [namlih](https://github.com/namlih) Hasan Burak Namli ]
 - [ [mruchann](https://github.com/mruchann) Mehmet Rüçhan Yavuzdemir ]
-- [ [CharlesDerek](https://github.com/CharlesDerek) CharlesDerek ]
 - [ [anilhazar](https://github.com/anilhazar) Ali Anıl Hazar ]
 - [ [nizarcan](https://github.com/nizarcan) Nizar Can ]
 - [ [deenizhan](https://github.com/deenizhan) Denizhan Yılmaz ]
@@ -19,6 +18,7 @@
 - [ [Prashantbahe](https://github.com/Prashantbahe)  ]
 - [ [cagataybahadir](https://github.com/cagataybahadir) Mehmet Cagatay BAHADIR ]
 - [ [MuazMemis](https://github.com/MuazMemis) Muaz MEMİŞ ]
+- [ [noktafa](https://github.com/noktafa)  ]
 
 #### 🎧 &nbsp; Good beats
 
