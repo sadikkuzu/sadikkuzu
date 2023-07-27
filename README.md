@@ -9,6 +9,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [berkegokmen1](https://github.com/berkegokmen1) Berke Gokmen ]
 - [ [AYIDouble](https://github.com/AYIDouble) Alpay Yildirim ]
 - [ [namlih](https://github.com/namlih) Hasan Burak Namli ]
 - [ [mruchann](https://github.com/mruchann) Mehmet Rüçhan Yavuzdemir ]
@@ -18,7 +19,6 @@
 - [ [ogunheper](https://github.com/ogunheper)  ]
 - [ [Prashantbahe](https://github.com/Prashantbahe)  ]
 - [ [cagataybahadir](https://github.com/cagataybahadir) Mehmet Cagatay BAHADIR ]
-- [ [MuazMemis](https://github.com/MuazMemis) Muaz MEMİŞ ]
 
 #### 🎧 &nbsp; Good beats
 
