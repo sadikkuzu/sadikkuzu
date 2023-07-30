@@ -9,6 +9,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [0vm](https://github.com/0vm) Ak ]
 - [ [berkegokmen1](https://github.com/berkegokmen1) Berke Gokmen ]
 - [ [AYIDouble](https://github.com/AYIDouble) Alpay Yildirim ]
 - [ [namlih](https://github.com/namlih) Hasan Burak Namli ]
@@ -18,16 +19,15 @@
 - [ [deenizhan](https://github.com/deenizhan) Denizhan Yılmaz ]
 - [ [ogunheper](https://github.com/ogunheper)  ]
 - [ [Prashantbahe](https://github.com/Prashantbahe)  ]
-- [ [cagataybahadir](https://github.com/cagataybahadir) Mehmet Cagatay BAHADIR ]
 
 #### 🎧 &nbsp; Good beats
 
 [![Mr. Kuzu's Recently Played Music on Spotify](https://spotify-recently-played-readme.vercel.app/api?user=5cfgfpgmik69ly41rspaiod2a&count=3&unique=1)](https://open.spotify.com/user/5cfgfpgmik69ly41rspaiod2a)
 
 #### 🚀 &nbsp; Open source projects I've contributed to
-1. [**acikkaynak/aya-website**](https://github.com/acikkaynak/aya-website/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/acikkaynak/aya-website?style=social)](https://github.com/acikkaynak/aya-website/stargazers) - açık yazılım ağı web sitesi kaynak kodları (5 days ago)
+1. [**acikkaynak/aya-website**](https://github.com/acikkaynak/aya-website/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/acikkaynak/aya-website?style=social)](https://github.com/acikkaynak/aya-website/stargazers) - açık yazılım ağı web sitesi kaynak kodları (6 days ago)
 1. [**bouncmpe/website**](https://github.com/bouncmpe/website/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/bouncmpe/website?style=social)](https://github.com/bouncmpe/website/stargazers) - New Department Website (1 week ago)
-1. [**passwall/passwall-server**](https://github.com/passwall/passwall-server/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/passwall/passwall-server?style=social)](https://github.com/passwall/passwall-server/stargazers) - Passwall Server is the core backend infrastructure for Passwall platform (1 month ago)
+1. [**passwall/passwall-server**](https://github.com/passwall/passwall-server/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/passwall/passwall-server?style=social)](https://github.com/passwall/passwall-server/stargazers) - Passwall Server is the core backend infrastructure for Passwall platform (2 months ago)
 1. [**boto/botocore**](https://github.com/boto/botocore/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/boto/botocore?style=social)](https://github.com/boto/botocore/stargazers) - The low-level, core functionality of boto3 and the AWS CLI. (2 months ago)
 1. [**facebookresearch/hydra**](https://github.com/facebookresearch/hydra/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/facebookresearch/hydra?style=social)](https://github.com/facebookresearch/hydra/stargazers) - Hydra is a framework for elegantly configuring complex applications (4 months ago)
 1. [**gitleaks/gitleaks**](https://github.com/gitleaks/gitleaks/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/gitleaks/gitleaks?style=social)](https://github.com/gitleaks/gitleaks/stargazers) - Protect and discover secrets using Gitleaks 🔑 (4 months ago)
@@ -60,7 +60,7 @@
 1. [**rust-lang/rustup**](https://github.com/rust-lang/rustup/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/rust-lang/rustup?style=social)](https://github.com/rust-lang/rustup/stargazers) - The Rust toolchain installer (10 months ago)
 1. [**vscode-icons/vscode-icons**](https://github.com/vscode-icons/vscode-icons/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/vscode-icons/vscode-icons?style=social)](https://github.com/vscode-icons/vscode-icons/stargazers) - Icons for Visual Studio Code (10 months ago)
 1. [**python-poetry/poetry**](https://github.com/python-poetry/poetry/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/python-poetry/poetry?style=social)](https://github.com/python-poetry/poetry/stargazers) - Python packaging and dependency management made easy (10 months ago)
-1. [**nodejs/node**](https://github.com/nodejs/node/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/nodejs/node?style=social)](https://github.com/nodejs/node/stargazers) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles: (11 months ago)
+1. [**nodejs/node**](https://github.com/nodejs/node/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/nodejs/node?style=social)](https://github.com/nodejs/node/stargazers) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles: (1 year ago)
 1. [**chaosteil/doist**](https://github.com/chaosteil/doist/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/chaosteil/doist?style=social)](https://github.com/chaosteil/doist/stargazers) - doist is a command line app for interacting with the Todoist API (1 year ago)
 1. [**umutphp/famous-bugs**](https://github.com/umutphp/famous-bugs/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/umutphp/famous-bugs?style=social)](https://github.com/umutphp/famous-bugs/stargazers) - Famous bugs fixed, problems solved and failures experienced  in software history :bug: :bee: :ant: :beetle: (1 year ago)
 
