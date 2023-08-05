@@ -10,7 +10,6 @@
 #### 🔭 &nbsp; Check out my recent followers
 
 - [ [ahmadsafirun](https://github.com/ahmadsafirun)  ]
-- [ [0vm](https://github.com/0vm) Ak ]
 - [ [berkegokmen1](https://github.com/berkegokmen1) Berke Gokmen ]
 - [ [AYIDouble](https://github.com/AYIDouble) Alpay Yildirim ]
 - [ [namlih](https://github.com/namlih) Hasan Burak Namli ]
@@ -19,6 +18,7 @@
 - [ [nizarcan](https://github.com/nizarcan) Nizar Can ]
 - [ [deenizhan](https://github.com/deenizhan) Denizhan Yılmaz ]
 - [ [ogunheper](https://github.com/ogunheper)  ]
+- [ [Prashantbahe](https://github.com/Prashantbahe)  ]
 
 #### 🎧 &nbsp; Good beats
 
