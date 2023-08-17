@@ -9,6 +9,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [slon-png](https://github.com/slon-png)  ]
 - [ [ahmadsafirun](https://github.com/ahmadsafirun)  ]
 - [ [berkegokmen1](https://github.com/berkegokmen1) Berke Gokmen ]
 - [ [AYIDouble](https://github.com/AYIDouble) Alpay Yildirim ]
@@ -18,7 +19,6 @@
 - [ [nizarcan](https://github.com/nizarcan) Nizar Can ]
 - [ [deenizhan](https://github.com/deenizhan) Denizhan Yılmaz ]
 - [ [ogunheper](https://github.com/ogunheper)  ]
-- [ [Prashantbahe](https://github.com/Prashantbahe)  ]
 
 #### 🎧 &nbsp; Good beats
 
