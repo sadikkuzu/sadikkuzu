@@ -1,5 +1,6 @@
 #### 🚀 &nbsp; Open source projects that I have contributed to
 
+1. [**Ealenn/Echo-Server**](https://github.com/Ealenn/Echo-Server/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/Ealenn/Echo-Server?style=social)](https://github.com/Ealenn/Echo-Server/stargazers) - REST Server Tests (Echo-Server) API / Docker / Kubernetes / Helm
 1. [**Homebrew/brew.sh**](https://github.com/Homebrew/brew.sh/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/Homebrew/brew.sh?style=social)](https://github.com/Homebrew/brew.sh/stargazers) - 🔖 The Homebrew homepage
 1. [**Delgan/loguru**](https://github.com/Delgan/loguru/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/Delgan/loguru?style=social)](https://github.com/Delgan/loguru/stargazers) - Python logging made (stupidly) simple
 1. [**acikkaynak/aya-website**](https://github.com/acikkaynak/aya-website/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/acikkaynak/aya-website?style=social)](https://github.com/acikkaynak/aya-website/stargazers) - açık yazılım ağı web sitesi kaynak kodları
@@ -48,3 +49,9 @@
 1. [**mongodb-developer/mongodb-with-fastapi**](https://github.com/mongodb-developer/mongodb-with-fastapi/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/mongodb-developer/mongodb-with-fastapi?style=social)](https://github.com/mongodb-developer/mongodb-with-fastapi/stargazers) - Example of using MongoDB with FastAPI
 1. [**aykutkardas/regexlearn.com**](https://github.com/aykutkardas/regexlearn.com/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/aykutkardas/regexlearn.com?style=social)](https://github.com/aykutkardas/regexlearn.com/stargazers) - Learn RegEx step by step, from zero to advanced.
 1. [**adamchainz/pre-commit-dprint**](https://github.com/adamchainz/pre-commit-dprint/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/adamchainz/pre-commit-dprint?style=social)](https://github.com/adamchainz/pre-commit-dprint/stargazers) - Mirror of dprint for pre-commit.
+
+<!--
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="sadikkuzu" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/sadikkuzu?trk=profile-badge">Sadık Kuzu, MBA</a></div>
+-->
+
