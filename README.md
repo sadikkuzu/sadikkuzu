@@ -25,7 +25,7 @@
 [![Mr. Kuzu's Recently Played Music on Spotify](https://spotify-recently-played-readme.vercel.app/api?user=5cfgfpgmik69ly41rspaiod2a&count=3&unique=1)](https://open.spotify.com/user/5cfgfpgmik69ly41rspaiod2a)
 
 #### 🚀 &nbsp; Open source projects I've contributed to
-1. [**kamp-us/monorepo**](https://github.com/kamp-us/monorepo/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/kamp-us/monorepo?style=social)](https://github.com/kamp-us/monorepo/stargazers) - kamp.us web projects &amp; packages (2 days ago)
+1. [**kamp-us/monorepo**](https://github.com/kamp-us/monorepo/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/kamp-us/monorepo?style=social)](https://github.com/kamp-us/monorepo/stargazers) - kamp.us web projects &amp; packages (3 days ago)
 1. [**vmware-tanzu/secrets-manager**](https://github.com/vmware-tanzu/secrets-manager/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/vmware-tanzu/secrets-manager?style=social)](https://github.com/vmware-tanzu/secrets-manager/stargazers) - VMware Secrets Manager for Cloud-Native Apps is a lightweight secrets manager to protect your sensitive data. It’s perfect for edge deployments where energy and footprint requirements are strict—See more: https://vsecm.com/ (1 week ago)
 1. [**Ealenn/Echo-Server**](https://github.com/Ealenn/Echo-Server/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/Ealenn/Echo-Server?style=social)](https://github.com/Ealenn/Echo-Server/stargazers) - REST Server Tests (Echo-Server) API / Docker / Kubernetes / Helm (2 weeks ago)
 1. [**Homebrew/brew.sh**](https://github.com/Homebrew/brew.sh/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/Homebrew/brew.sh?style=social)](https://github.com/Homebrew/brew.sh/stargazers) - 🔖 The Homebrew homepage (3 weeks ago)
@@ -63,7 +63,7 @@
 1. [**kumahq/kuma-website**](https://github.com/kumahq/kuma-website/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/kumahq/kuma-website?style=social)](https://github.com/kumahq/kuma-website/stargazers) - 🐻 The official website for Kuma, the control plane for modern service connectivity. (11 months ago)
 1. [**rust-lang/rustup**](https://github.com/rust-lang/rustup/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/rust-lang/rustup?style=social)](https://github.com/rust-lang/rustup/stargazers) - The Rust toolchain installer (11 months ago)
 1. [**vscode-icons/vscode-icons**](https://github.com/vscode-icons/vscode-icons/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/vscode-icons/vscode-icons?style=social)](https://github.com/vscode-icons/vscode-icons/stargazers) - Icons for Visual Studio Code (11 months ago)
-1. [**python-poetry/poetry**](https://github.com/python-poetry/poetry/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/python-poetry/poetry?style=social)](https://github.com/python-poetry/poetry/stargazers) - Python packaging and dependency management made easy (11 months ago)
+1. [**python-poetry/poetry**](https://github.com/python-poetry/poetry/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/python-poetry/poetry?style=social)](https://github.com/python-poetry/poetry/stargazers) - Python packaging and dependency management made easy (1 year ago)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
