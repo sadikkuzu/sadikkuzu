@@ -9,6 +9,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [younver](https://github.com/younver) Yiğit Ö. Ünver ]
 - [ [eftalyurtseven](https://github.com/eftalyurtseven) Eftal Yurtseven ]
 - [ [usirin](https://github.com/usirin) Umut Sirin ]
 - [ [berkaybeyaz1](https://github.com/berkaybeyaz1) Berkay Beyaz ]
@@ -18,7 +19,6 @@
 - [ [ahmadsafirun](https://github.com/ahmadsafirun)  ]
 - [ [berkegokmen1](https://github.com/berkegokmen1) Berke Gokmen ]
 - [ [AYIDouble](https://github.com/AYIDouble) Alpay Yildirim ]
-- [ [namlih](https://github.com/namlih) Hasan Burak Namli ]
 
 #### 🎧 &nbsp; Good beats
 
