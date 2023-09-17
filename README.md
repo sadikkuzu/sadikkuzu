@@ -64,7 +64,6 @@
 1. [**anthonywritescode/explains**](https://github.com/anthonywritescode/explains/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/anthonywritescode/explains?style=social)](https://github.com/anthonywritescode/explains/stargazers) - more easily searchable list of explains playlist (11 months ago)
 1. [**kumahq/kuma-website**](https://github.com/kumahq/kuma-website/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/kumahq/kuma-website?style=social)](https://github.com/kumahq/kuma-website/stargazers) - 🐻 The official website for Kuma, the control plane for modern service connectivity. (11 months ago)
 1. [**rust-lang/rustup**](https://github.com/rust-lang/rustup/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/rust-lang/rustup?style=social)](https://github.com/rust-lang/rustup/stargazers) - The Rust toolchain installer (11 months ago)
-1. [**vscode-icons/vscode-icons**](https://github.com/vscode-icons/vscode-icons/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/vscode-icons/vscode-icons?style=social)](https://github.com/vscode-icons/vscode-icons/stargazers) - Icons for Visual Studio Code (1 year ago)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
