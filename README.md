@@ -9,6 +9,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [anilhazar](https://github.com/anilhazar) Ali Anıl Hazar ]
 - [ [zaforcan](https://github.com/zaforcan) Zafer Can ]
 - [ [younver](https://github.com/younver) Yiğit Ö. Ünver ]
 - [ [eftalyurtseven](https://github.com/eftalyurtseven) Eftal Yurtseven ]
@@ -18,7 +19,6 @@
 - [ [dogukannefis-py](https://github.com/dogukannefis-py) Doğukan Nefis ]
 - [ [ceatlinar](https://github.com/ceatlinar) Ferhat Atlinar ]
 - [ [ahmadsafirun](https://github.com/ahmadsafirun)  ]
-- [ [berkegokmen1](https://github.com/berkegokmen1) Berke Gokmen ]
 
 #### 🎧 &nbsp; Good beats
 
