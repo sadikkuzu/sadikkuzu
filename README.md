@@ -9,6 +9,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [bahadirgezer](https://github.com/bahadirgezer) Bahadır Gezer ]
 - [ [alissasen](https://github.com/alissasen) Alisa ]
 - [ [anilhazar](https://github.com/anilhazar) Ali Anıl Hazar ]
 - [ [zaforcan](https://github.com/zaforcan) Zafer Can ]
@@ -18,7 +19,6 @@
 - [ [berkaybeyaz1](https://github.com/berkaybeyaz1) Berkay Beyaz ]
 - [ [v0lkan](https://github.com/v0lkan) Volkan Özçelik ]
 - [ [dogukannefis-py](https://github.com/dogukannefis-py) Doğukan Nefis ]
-- [ [ceatlinar](https://github.com/ceatlinar) Ferhat Atlinar ]
 
 #### 🎧 &nbsp; Good beats
 
