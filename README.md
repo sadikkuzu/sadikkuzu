@@ -25,6 +25,7 @@
 [![Mr. Kuzu's Recently Played Music on Spotify](https://spotify-recently-played-readme.vercel.app/api?user=5cfgfpgmik69ly41rspaiod2a&count=3&unique=1)](https://open.spotify.com/user/5cfgfpgmik69ly41rspaiod2a)
 
 #### 🚀 &nbsp; Open source projects I've contributed to
+1. [**godotengine/godot**](https://github.com/godotengine/godot/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/godotengine/godot?style=social)](https://github.com/godotengine/godot/stargazers) - Godot Engine – Multi-platform 2D and 3D game engine (today)
 1. [**gis-ops/routingpy**](https://github.com/gis-ops/routingpy/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/gis-ops/routingpy?style=social)](https://github.com/gis-ops/routingpy/stargazers) - 🌎 Python library to access all public routing, isochrones and matrix APIs in a consistent manner. (1 week ago)
 1. [**grafana/beyla**](https://github.com/grafana/beyla/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/grafana/beyla?style=social)](https://github.com/grafana/beyla/stargazers) - eBPF-based autoinstrumentation of HTTP and HTTPS services (1 week ago)
 1. [**kamp-us/monorepo**](https://github.com/kamp-us/monorepo/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/kamp-us/monorepo?style=social)](https://github.com/kamp-us/monorepo/stargazers) - kamp.us web projects &amp; packages (4 weeks ago)
@@ -63,7 +64,6 @@
 1. [**renovatebot/renovate**](https://github.com/renovatebot/renovate/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/renovatebot/renovate?style=social)](https://github.com/renovatebot/renovate/stargazers) - Universal dependency update tool that fits into your workflows. (11 months ago)
 1. [**VROOM-Project/vroom-scripts**](https://github.com/VROOM-Project/vroom-scripts/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/VROOM-Project/vroom-scripts?style=social)](https://github.com/VROOM-Project/vroom-scripts/stargazers) -  (1 year ago)
 1. [**anthonywritescode/explains**](https://github.com/anthonywritescode/explains/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/anthonywritescode/explains?style=social)](https://github.com/anthonywritescode/explains/stargazers) - more easily searchable list of explains playlist (1 year ago)
-1. [**kumahq/kuma-website**](https://github.com/kumahq/kuma-website/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/kumahq/kuma-website?style=social)](https://github.com/kumahq/kuma-website/stargazers) - 🐻 The official website for Kuma, the control plane for modern service connectivity. (1 year ago)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
