@@ -33,6 +33,11 @@ If you want to support me, you can donate at [my Run For Good campaign](https://
 {{ end -}}
 {{- end}}
 
+#### ⭐ Recent stars
+{{range recentStars 10}}
+- [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .StarredAt}})
+{{- end }}
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![@sadikkuzu's Holopin board](https://holopin.io/api/user/board?user=sadikkuzu)](https://holopin.io/@sadikkuzu)
