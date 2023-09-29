@@ -25,6 +25,7 @@
 [![Mr. Kuzu's Recently Played Music on Spotify](https://spotify-recently-played-readme.vercel.app/api?user=5cfgfpgmik69ly41rspaiod2a&count=3&unique=1)](https://open.spotify.com/user/5cfgfpgmik69ly41rspaiod2a)
 
 #### 🚀 &nbsp; Open source projects I've contributed to
+1. [**bevyengine/bevy**](https://github.com/bevyengine/bevy/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/bevyengine/bevy?style=social)](https://github.com/bevyengine/bevy/stargazers) - A refreshingly simple data-driven game engine built in Rust (today)
 1. [**log4mongo/log4mongo-python**](https://github.com/log4mongo/log4mongo-python/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/log4mongo/log4mongo-python?style=social)](https://github.com/log4mongo/log4mongo-python/stargazers) - python logging handler for mongo database (2 days ago)
 1. [**sananeminli/BOUN_Carrel_Telegram_Bot**](https://github.com/sananeminli/BOUN_Carrel_Telegram_Bot/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/sananeminli/BOUN_Carrel_Telegram_Bot?style=social)](https://github.com/sananeminli/BOUN_Carrel_Telegram_Bot/stargazers) -  (4 days ago)
 1. [**godotengine/godot**](https://github.com/godotengine/godot/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/godotengine/godot?style=social)](https://github.com/godotengine/godot/stargazers) - Godot Engine – Multi-platform 2D and 3D game engine (4 days ago)
@@ -62,7 +63,6 @@
 1. [**freeCodeCamp/freeCodeCamp**](https://github.com/freeCodeCamp/freeCodeCamp/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/freeCodeCamp/freeCodeCamp?style=social)](https://github.com/freeCodeCamp/freeCodeCamp/stargazers) - freeCodeCamp.org&#39;s open-source codebase and curriculum. Learn to code for free. (11 months ago)
 1. [**OpenBB-finance/OpenBBTerminal**](https://github.com/OpenBB-finance/OpenBBTerminal/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/OpenBB-finance/OpenBBTerminal?style=social)](https://github.com/OpenBB-finance/OpenBBTerminal/stargazers) - Investment Research for Everyone, Everywhere. (11 months ago)
 1. [**OpenStitching/stitching**](https://github.com/OpenStitching/stitching/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/OpenStitching/stitching?style=social)](https://github.com/OpenStitching/stitching/stargazers) - A Python package for fast and robust Image Stitching (11 months ago)
-1. [**renovatebot/renovate**](https://github.com/renovatebot/renovate/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/renovatebot/renovate?style=social)](https://github.com/renovatebot/renovate/stargazers) - Universal dependency update tool that fits into your workflows. (1 year ago)
 1. [**facebook/docusaurus**](https://github.com/facebook/docusaurus/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/facebook/docusaurus?style=social)](https://github.com/facebook/docusaurus/stargazers) - Easy to maintain open source documentation websites. (1 year ago)
 
 
