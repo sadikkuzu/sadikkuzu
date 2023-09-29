@@ -66,6 +66,19 @@
 1. [**facebook/docusaurus**](https://github.com/facebook/docusaurus/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/facebook/docusaurus?style=social)](https://github.com/facebook/docusaurus/stargazers) - Easy to maintain open source documentation websites. (1 year ago)
 
 
+#### ⭐ Recent stars
+
+- [chriskuehl/rustenv](https://github.com/chriskuehl/rustenv) - Virtual, activate-able environments for Rust (3 days ago)
+- [reactjs/react.dev](https://github.com/reactjs/react.dev) - The React documentation website (5 days ago)
+- [dropbox/zxcvbn](https://github.com/dropbox/zxcvbn) - Low-Budget Password Strength Estimation (1 week ago)
+- [dwolfhub/zxcvbn-python](https://github.com/dwolfhub/zxcvbn-python) - Python implementation of Dropbox&#39;s realistic password strength estimator (1 week ago)
+- [tayllan/awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - A curated list of awesome places to learn and/or practice algorithms. (1 week ago)
+- [grafana/beyla](https://github.com/grafana/beyla) - eBPF-based autoinstrumentation of HTTP and HTTPS services (2 weeks ago)
+- [younver/python-microservice-template](https://github.com/younver/python-microservice-template) (2 weeks ago)
+- [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows (3 weeks ago)
+- [deenizhan/deenizhan](https://github.com/deenizhan/deenizhan) (3 weeks ago)
+- [facebook/facebook-python-business-sdk](https://github.com/facebook/facebook-python-business-sdk) - Python SDK for Meta Marketing APIs (1 month ago)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![@sadikkuzu's Holopin board](https://holopin.io/api/user/board?user=sadikkuzu)](https://holopin.io/@sadikkuzu)
