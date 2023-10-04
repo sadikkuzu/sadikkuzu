@@ -9,6 +9,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [mgamzec](https://github.com/mgamzec) Merve Gamze Çınar ]
 - [ [yetkinkrsngr](https://github.com/yetkinkrsngr) yetkin karasungur ]
 - [ [bahadirgezer](https://github.com/bahadirgezer) Bahadır Gezer ]
 - [ [alissasen](https://github.com/alissasen) Alisa ]
@@ -18,7 +19,6 @@
 - [ [eftalyurtseven](https://github.com/eftalyurtseven) Eftal Yurtseven ]
 - [ [usirin](https://github.com/usirin) Umut Sirin ]
 - [ [berkaybeyaz1](https://github.com/berkaybeyaz1) Berkay Beyaz ]
-- [ [v0lkan](https://github.com/v0lkan) Volkan Özçelik ]
 
 #### 🎧 &nbsp; Good beats
 
