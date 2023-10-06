@@ -25,11 +25,11 @@
 [![Mr. Kuzu's Recently Played Music on Spotify](https://spotify-recently-played-readme.vercel.app/api?user=5cfgfpgmik69ly41rspaiod2a&count=3&unique=1)](https://open.spotify.com/user/5cfgfpgmik69ly41rspaiod2a)
 
 #### 🚀 &nbsp; Open source projects I've contributed to
-1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io/stargazers) - SWE574 Fall2023 Group1 website (2 days ago)
-1. [**SWE574-Fall2023-Group1/.github**](https://github.com/SWE574-Fall2023-Group1/.github/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/.github?style=social)](https://github.com/SWE574-Fall2023-Group1/.github/stargazers) - SWE574 Fall2023 Group1 (2 days ago)
-1. [**roman-right/beanie**](https://github.com/roman-right/beanie/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/roman-right/beanie?style=social)](https://github.com/roman-right/beanie/stargazers) - Asynchronous Python ODM for MongoDB (2 days ago)
-1. [**rust-build/rust-build.action**](https://github.com/rust-build/rust-build.action/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/rust-build/rust-build.action?style=social)](https://github.com/rust-build/rust-build.action/stargazers) - Automate publishing Rust build artifacts for GitHub releases through GitHub Actions (5 days ago)
-1. [**bevyengine/bevy**](https://github.com/bevyengine/bevy/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/bevyengine/bevy?style=social)](https://github.com/bevyengine/bevy/stargazers) - A refreshingly simple data-driven game engine built in Rust (6 days ago)
+1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io/stargazers) - SWE574 Fall2023 Group1 website (3 days ago)
+1. [**SWE574-Fall2023-Group1/.github**](https://github.com/SWE574-Fall2023-Group1/.github/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/.github?style=social)](https://github.com/SWE574-Fall2023-Group1/.github/stargazers) - SWE574 Fall2023 Group1 (3 days ago)
+1. [**roman-right/beanie**](https://github.com/roman-right/beanie/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/roman-right/beanie?style=social)](https://github.com/roman-right/beanie/stargazers) - Asynchronous Python ODM for MongoDB (3 days ago)
+1. [**rust-build/rust-build.action**](https://github.com/rust-build/rust-build.action/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/rust-build/rust-build.action?style=social)](https://github.com/rust-build/rust-build.action/stargazers) - Automate publishing Rust build artifacts for GitHub releases through GitHub Actions (6 days ago)
+1. [**bevyengine/bevy**](https://github.com/bevyengine/bevy/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/bevyengine/bevy?style=social)](https://github.com/bevyengine/bevy/stargazers) - A refreshingly simple data-driven game engine built in Rust (1 week ago)
 1. [**log4mongo/log4mongo-python**](https://github.com/log4mongo/log4mongo-python/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/log4mongo/log4mongo-python?style=social)](https://github.com/log4mongo/log4mongo-python/stargazers) - python logging handler for mongo database (1 week ago)
 1. [**sananeminli/BOUN_Carrel_Telegram_Bot**](https://github.com/sananeminli/BOUN_Carrel_Telegram_Bot/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/sananeminli/BOUN_Carrel_Telegram_Bot?style=social)](https://github.com/sananeminli/BOUN_Carrel_Telegram_Bot/stargazers) -  (1 week ago)
 1. [**godotengine/godot**](https://github.com/godotengine/godot/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/godotengine/godot?style=social)](https://github.com/godotengine/godot/stargazers) - Godot Engine – Multi-platform 2D and 3D game engine (1 week ago)
@@ -66,11 +66,11 @@
 
 #### ⭐ Recent stars
 
-- [ryleelyman/homebrew-seamstress](https://github.com/ryleelyman/homebrew-seamstress) - homebrew formula for seamstress (2 days ago)
-- [SWE574-Fall2023-Group1/SWE574-Fall2023-G1](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1) - Project for SWE 574 - Group 1 (2 days ago)
-- [selmayildirim/Numerical-Analysis](https://github.com/selmayildirim/Numerical-Analysis) (3 days ago)
-- [travisjeffery/jocko](https://github.com/travisjeffery/jocko) - Kafka implemented in Golang with built-in coordination (No ZK dep, single binary install, Cloud Native) (4 days ago)
-- [deepfence/ebpfguard](https://github.com/deepfence/ebpfguard) - Rust library for writing Linux security policies using eBPF (5 days ago)
+- [ryleelyman/homebrew-seamstress](https://github.com/ryleelyman/homebrew-seamstress) - homebrew formula for seamstress (3 days ago)
+- [SWE574-Fall2023-Group1/SWE574-Fall2023-G1](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1) - Project for SWE 574 - Group 1 (3 days ago)
+- [selmayildirim/Numerical-Analysis](https://github.com/selmayildirim/Numerical-Analysis) (4 days ago)
+- [travisjeffery/jocko](https://github.com/travisjeffery/jocko) - Kafka implemented in Golang with built-in coordination (No ZK dep, single binary install, Cloud Native) (5 days ago)
+- [deepfence/ebpfguard](https://github.com/deepfence/ebpfguard) - Rust library for writing Linux security policies using eBPF (6 days ago)
 - [chriskuehl/rustenv](https://github.com/chriskuehl/rustenv) - Virtual, activate-able environments for Rust (1 week ago)
 - [reactjs/react.dev](https://github.com/reactjs/react.dev) - The React documentation website (1 week ago)
 - [dropbox/zxcvbn](https://github.com/dropbox/zxcvbn) - Low-Budget Password Strength Estimation (2 weeks ago)
