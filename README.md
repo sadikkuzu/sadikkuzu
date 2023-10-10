@@ -64,6 +64,7 @@
 
 #### ⭐ Recent stars
 
+- [EnesEngel/SWE573](https://github.com/EnesEngel/SWE573) - A repository for SWE 573 lectures (today)
 - [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more. (3 days ago)
 - [ryleelyman/homebrew-seamstress](https://github.com/ryleelyman/homebrew-seamstress) - homebrew formula for seamstress (1 week ago)
 - [SWE574-Fall2023-Group1/SWE574-Fall2023-G1](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1) - Project for SWE 574 - Group 1 (1 week ago)
@@ -73,7 +74,6 @@
 - [chriskuehl/rustenv](https://github.com/chriskuehl/rustenv) - Virtual, activate-able environments for Rust (2 weeks ago)
 - [reactjs/react.dev](https://github.com/reactjs/react.dev) - The React documentation website (2 weeks ago)
 - [dropbox/zxcvbn](https://github.com/dropbox/zxcvbn) - Low-Budget Password Strength Estimation (3 weeks ago)
-- [dwolfhub/zxcvbn-python](https://github.com/dwolfhub/zxcvbn-python) - Python implementation of Dropbox&#39;s realistic password strength estimator (3 weeks ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
