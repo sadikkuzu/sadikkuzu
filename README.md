@@ -25,9 +25,9 @@
 [![Mr. Kuzu's Recently Played Music on Spotify](https://spotify-recently-played-readme.vercel.app/api?user=5cfgfpgmik69ly41rspaiod2a&count=3&unique=1)](https://open.spotify.com/user/5cfgfpgmik69ly41rspaiod2a)
 
 #### 🚀 &nbsp; Open source projects I've contributed to
-1. [**SWE574-Fall2023-Group1/.github**](https://github.com/SWE574-Fall2023-Group1/.github/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/.github?style=social)](https://github.com/SWE574-Fall2023-Group1/.github/stargazers) - SWE574 Fall2023 Group1 (6 days ago)
-1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io/stargazers) - SWE574 Fall2023 Group1 website (6 days ago)
-1. [**roman-right/beanie**](https://github.com/roman-right/beanie/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/roman-right/beanie?style=social)](https://github.com/roman-right/beanie/stargazers) - Asynchronous Python ODM for MongoDB (6 days ago)
+1. [**SWE574-Fall2023-Group1/.github**](https://github.com/SWE574-Fall2023-Group1/.github/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/.github?style=social)](https://github.com/SWE574-Fall2023-Group1/.github/stargazers) - SWE574 Fall2023 Group1 (1 week ago)
+1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io/stargazers) - SWE574 Fall2023 Group1 website (1 week ago)
+1. [**roman-right/beanie**](https://github.com/roman-right/beanie/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/roman-right/beanie?style=social)](https://github.com/roman-right/beanie/stargazers) - Asynchronous Python ODM for MongoDB (1 week ago)
 1. [**rust-build/rust-build.action**](https://github.com/rust-build/rust-build.action/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/rust-build/rust-build.action?style=social)](https://github.com/rust-build/rust-build.action/stargazers) - Automate publishing Rust build artifacts for GitHub releases through GitHub Actions (1 week ago)
 1. [**bevyengine/bevy**](https://github.com/bevyengine/bevy/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/bevyengine/bevy?style=social)](https://github.com/bevyengine/bevy/stargazers) - A refreshingly simple data-driven game engine built in Rust (1 week ago)
 1. [**log4mongo/log4mongo-python**](https://github.com/log4mongo/log4mongo-python/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/log4mongo/log4mongo-python?style=social)](https://github.com/log4mongo/log4mongo-python/stargazers) - python logging handler for mongo database (1 week ago)
@@ -47,7 +47,7 @@
 1. [**facebookresearch/hydra**](https://github.com/facebookresearch/hydra/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/facebookresearch/hydra?style=social)](https://github.com/facebookresearch/hydra/stargazers) - Hydra is a framework for elegantly configuring complex applications (6 months ago)
 1. [**gitleaks/gitleaks**](https://github.com/gitleaks/gitleaks/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/gitleaks/gitleaks?style=social)](https://github.com/gitleaks/gitleaks/stargazers) - Protect and discover secrets using Gitleaks 🔑 (6 months ago)
 1. [**bounswemsc/bounswemsc.github.io**](https://github.com/bounswemsc/bounswemsc.github.io/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/bounswemsc/bounswemsc.github.io?style=social)](https://github.com/bounswemsc/bounswemsc.github.io/stargazers) - BOUN SWE MSc website (6 months ago)
-1. [**stripe/stripe-python**](https://github.com/stripe/stripe-python/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/stripe/stripe-python?style=social)](https://github.com/stripe/stripe-python/stargazers) - Python library for the Stripe API.     (6 months ago)
+1. [**stripe/stripe-python**](https://github.com/stripe/stripe-python/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/stripe/stripe-python?style=social)](https://github.com/stripe/stripe-python/stargazers) - Python library for the Stripe API.     (7 months ago)
 1. [**bounswemsc/.github**](https://github.com/bounswemsc/.github/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/bounswemsc/.github?style=social)](https://github.com/bounswemsc/.github/stargazers) - BOUN SWE MSc. (7 months ago)
 1. [**pypi/warehouse**](https://github.com/pypi/warehouse/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/pypi/warehouse?style=social)](https://github.com/pypi/warehouse/stargazers) - The Python Package Index (8 months ago)
 1. [**Kludex/flake8-fastapi**](https://github.com/Kludex/flake8-fastapi/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/Kludex/flake8-fastapi?style=social)](https://github.com/Kludex/flake8-fastapi/stargazers) - Flake8 FastAPI - Avoid simple FastAPI mistakes ~opinionated~ 🤓 (8 months ago)
@@ -58,22 +58,22 @@
 1. [**pohmelie/pytest-automock**](https://github.com/pohmelie/pytest-automock/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/pohmelie/pytest-automock?style=social)](https://github.com/pohmelie/pytest-automock/stargazers) - Automock fixtures for pytest (10 months ago)
 1. [**serhatbolsu/robotframework-appiumlibrary**](https://github.com/serhatbolsu/robotframework-appiumlibrary/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/serhatbolsu/robotframework-appiumlibrary?style=social)](https://github.com/serhatbolsu/robotframework-appiumlibrary/stargazers) - AppiumLibrary is an appium testing library for RobotFramework (10 months ago)
 1. [**pytest-dev/pytest-cov**](https://github.com/pytest-dev/pytest-cov/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/pytest-dev/pytest-cov?style=social)](https://github.com/pytest-dev/pytest-cov/stargazers) - Coverage plugin for pytest. (10 months ago)
-1. [**deta/deta-python**](https://github.com/deta/deta-python/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/deta/deta-python?style=social)](https://github.com/deta/deta-python/stargazers) - deta&#39;s official sdk (10 months ago)
+1. [**deta/deta-python**](https://github.com/deta/deta-python/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/deta/deta-python?style=social)](https://github.com/deta/deta-python/stargazers) - deta&#39;s official sdk (11 months ago)
 1. [**microsoft/picologging**](https://github.com/microsoft/picologging/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/microsoft/picologging?style=social)](https://github.com/microsoft/picologging/stargazers) - An optimized logging library for Python (11 months ago)
 
 
 #### ⭐ Recent stars
 
-- [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more. (2 days ago)
-- [ryleelyman/homebrew-seamstress](https://github.com/ryleelyman/homebrew-seamstress) - homebrew formula for seamstress (6 days ago)
-- [SWE574-Fall2023-Group1/SWE574-Fall2023-G1](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1) - Project for SWE 574 - Group 1 (6 days ago)
+- [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more. (3 days ago)
+- [ryleelyman/homebrew-seamstress](https://github.com/ryleelyman/homebrew-seamstress) - homebrew formula for seamstress (1 week ago)
+- [SWE574-Fall2023-Group1/SWE574-Fall2023-G1](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1) - Project for SWE 574 - Group 1 (1 week ago)
 - [selmayildirim/Numerical-Analysis](https://github.com/selmayildirim/Numerical-Analysis) (1 week ago)
 - [travisjeffery/jocko](https://github.com/travisjeffery/jocko) - Kafka implemented in Golang with built-in coordination (No ZK dep, single binary install, Cloud Native) (1 week ago)
 - [deepfence/ebpfguard](https://github.com/deepfence/ebpfguard) - Rust library for writing Linux security policies using eBPF (1 week ago)
-- [chriskuehl/rustenv](https://github.com/chriskuehl/rustenv) - Virtual, activate-able environments for Rust (1 week ago)
+- [chriskuehl/rustenv](https://github.com/chriskuehl/rustenv) - Virtual, activate-able environments for Rust (2 weeks ago)
 - [reactjs/react.dev](https://github.com/reactjs/react.dev) - The React documentation website (2 weeks ago)
-- [dropbox/zxcvbn](https://github.com/dropbox/zxcvbn) - Low-Budget Password Strength Estimation (2 weeks ago)
-- [dwolfhub/zxcvbn-python](https://github.com/dwolfhub/zxcvbn-python) - Python implementation of Dropbox&#39;s realistic password strength estimator (2 weeks ago)
+- [dropbox/zxcvbn](https://github.com/dropbox/zxcvbn) - Low-Budget Password Strength Estimation (3 weeks ago)
+- [dwolfhub/zxcvbn-python](https://github.com/dwolfhub/zxcvbn-python) - Python implementation of Dropbox&#39;s realistic password strength estimator (3 weeks ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
