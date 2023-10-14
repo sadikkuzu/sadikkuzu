@@ -25,11 +25,11 @@
 [![Mr. Kuzu's Recently Played Music on Spotify](https://spotify-recently-played-readme.vercel.app/api?user=5cfgfpgmik69ly41rspaiod2a&count=3&unique=1)](https://open.spotify.com/user/5cfgfpgmik69ly41rspaiod2a)
 
 #### 🚀 &nbsp; Open source projects I've contributed to
-1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io/stargazers) - SWE574 Fall2023 Group1 website (3 days ago)
-1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-G1**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-G1?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/stargazers) - Project for SWE 574 - Group 1 (3 days ago)
+1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io/stargazers) - SWE574 Fall2023 Group1 website (4 days ago)
+1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-G1**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-G1?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/stargazers) - Project for SWE 574 - Group 1 (4 days ago)
 1. [**SWE574-Fall2023-Group1/.github**](https://github.com/SWE574-Fall2023-Group1/.github/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/.github?style=social)](https://github.com/SWE574-Fall2023-Group1/.github/stargazers) - SWE574 Fall2023 Group1 (1 week ago)
 1. [**roman-right/beanie**](https://github.com/roman-right/beanie/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/roman-right/beanie?style=social)](https://github.com/roman-right/beanie/stargazers) - Asynchronous Python ODM for MongoDB (1 week ago)
-1. [**rust-build/rust-build.action**](https://github.com/rust-build/rust-build.action/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/rust-build/rust-build.action?style=social)](https://github.com/rust-build/rust-build.action/stargazers) - Automate publishing Rust build artifacts for GitHub releases through GitHub Actions (1 week ago)
+1. [**rust-build/rust-build.action**](https://github.com/rust-build/rust-build.action/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/rust-build/rust-build.action?style=social)](https://github.com/rust-build/rust-build.action/stargazers) - Automate publishing Rust build artifacts for GitHub releases through GitHub Actions (2 weeks ago)
 1. [**bevyengine/bevy**](https://github.com/bevyengine/bevy/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/bevyengine/bevy?style=social)](https://github.com/bevyengine/bevy/stargazers) - A refreshingly simple data-driven game engine built in Rust (2 weeks ago)
 1. [**log4mongo/log4mongo-python**](https://github.com/log4mongo/log4mongo-python/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/log4mongo/log4mongo-python?style=social)](https://github.com/log4mongo/log4mongo-python/stargazers) - python logging handler for mongo database (2 weeks ago)
 1. [**godotengine/godot**](https://github.com/godotengine/godot/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/godotengine/godot?style=social)](https://github.com/godotengine/godot/stargazers) - Godot Engine – Multi-platform 2D and 3D game engine (2 weeks ago)
@@ -47,7 +47,7 @@
 1. [**boto/botocore**](https://github.com/boto/botocore/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/boto/botocore?style=social)](https://github.com/boto/botocore/stargazers) - The low-level, core functionality of boto3 and the AWS CLI. (5 months ago)
 1. [**facebookresearch/hydra**](https://github.com/facebookresearch/hydra/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/facebookresearch/hydra?style=social)](https://github.com/facebookresearch/hydra/stargazers) - Hydra is a framework for elegantly configuring complex applications (6 months ago)
 1. [**gitleaks/gitleaks**](https://github.com/gitleaks/gitleaks/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/gitleaks/gitleaks?style=social)](https://github.com/gitleaks/gitleaks/stargazers) - Protect and discover secrets using Gitleaks 🔑 (6 months ago)
-1. [**bounswemsc/bounswemsc.github.io**](https://github.com/bounswemsc/bounswemsc.github.io/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/bounswemsc/bounswemsc.github.io?style=social)](https://github.com/bounswemsc/bounswemsc.github.io/stargazers) - BOUN SWE MSc website (6 months ago)
+1. [**bounswemsc/bounswemsc.github.io**](https://github.com/bounswemsc/bounswemsc.github.io/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/bounswemsc/bounswemsc.github.io?style=social)](https://github.com/bounswemsc/bounswemsc.github.io/stargazers) - BOUN SWE MSc website (7 months ago)
 1. [**stripe/stripe-python**](https://github.com/stripe/stripe-python/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/stripe/stripe-python?style=social)](https://github.com/stripe/stripe-python/stargazers) - Python library for the Stripe API.     (7 months ago)
 1. [**bounswemsc/.github**](https://github.com/bounswemsc/.github/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/bounswemsc/.github?style=social)](https://github.com/bounswemsc/.github/stargazers) - BOUN SWE MSc. (7 months ago)
 1. [**pypi/warehouse**](https://github.com/pypi/warehouse/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/pypi/warehouse?style=social)](https://github.com/pypi/warehouse/stargazers) - The Python Package Index (8 months ago)
@@ -63,14 +63,14 @@
 
 #### ⭐ Recent stars
 
-- [HakanAkozBoun/SWE_573](https://github.com/HakanAkozBoun/SWE_573) - SOFTWARE DEVELOPMENT PRACTICE I (3 days ago)
-- [EnesEngel/SWE573](https://github.com/EnesEngel/SWE573) - A repository for SWE 573 lectures (3 days ago)
-- [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more. (6 days ago)
+- [HakanAkozBoun/SWE_573](https://github.com/HakanAkozBoun/SWE_573) - SOFTWARE DEVELOPMENT PRACTICE I (4 days ago)
+- [EnesEngel/SWE573](https://github.com/EnesEngel/SWE573) - A repository for SWE 573 lectures (4 days ago)
+- [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more. (1 week ago)
 - [ryleelyman/homebrew-seamstress](https://github.com/ryleelyman/homebrew-seamstress) - homebrew formula for seamstress (1 week ago)
 - [SWE574-Fall2023-Group1/SWE574-Fall2023-G1](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1) - Project for SWE 574 - Group 1 (1 week ago)
 - [selmayildirim/Numerical-Analysis](https://github.com/selmayildirim/Numerical-Analysis) (1 week ago)
 - [travisjeffery/jocko](https://github.com/travisjeffery/jocko) - Kafka implemented in Golang with built-in coordination (No ZK dep, single binary install, Cloud Native) (1 week ago)
-- [deepfence/ebpfguard](https://github.com/deepfence/ebpfguard) - Rust library for writing Linux security policies using eBPF (1 week ago)
+- [deepfence/ebpfguard](https://github.com/deepfence/ebpfguard) - Rust library for writing Linux security policies using eBPF (2 weeks ago)
 - [chriskuehl/rustenv](https://github.com/chriskuehl/rustenv) - Virtual, activate-able environments for Rust (2 weeks ago)
 - [reactjs/react.dev](https://github.com/reactjs/react.dev) - The React documentation website (2 weeks ago)
 
