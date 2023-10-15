@@ -64,6 +64,7 @@
 
 #### ⭐ Recent stars
 
+- [sananeminli/Growdash-Hackathon](https://github.com/sananeminli/Growdash-Hackathon) - Team Dinamo (today)
 - [mher/flower](https://github.com/mher/flower) - Real-time monitor and web admin for Celery distributed task queue (today)
 - [HakanAkozBoun/SWE_573](https://github.com/HakanAkozBoun/SWE_573) - SOFTWARE DEVELOPMENT PRACTICE I (5 days ago)
 - [EnesEngel/SWE573](https://github.com/EnesEngel/SWE573) - A repository for SWE 573 lectures (5 days ago)
@@ -73,7 +74,6 @@
 - [selmayildirim/Numerical-Analysis](https://github.com/selmayildirim/Numerical-Analysis) (1 week ago)
 - [travisjeffery/jocko](https://github.com/travisjeffery/jocko) - Kafka implemented in Golang with built-in coordination (No ZK dep, single binary install, Cloud Native) (2 weeks ago)
 - [deepfence/ebpfguard](https://github.com/deepfence/ebpfguard) - Rust library for writing Linux security policies using eBPF (2 weeks ago)
-- [chriskuehl/rustenv](https://github.com/chriskuehl/rustenv) - Virtual, activate-able environments for Rust (2 weeks ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
