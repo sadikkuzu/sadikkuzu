@@ -25,8 +25,8 @@
 [![Mr. Kuzu's Recently Played Music on Spotify](https://spotify-recently-played-readme.vercel.app/api?user=5cfgfpgmik69ly41rspaiod2a&count=3&unique=1)](https://open.spotify.com/user/5cfgfpgmik69ly41rspaiod2a)
 
 #### 🚀 &nbsp; Open source projects I've contributed to
-1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io/stargazers) - SWE574 Fall2023 Group1 website (4 days ago)
-1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-G1**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-G1?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/stargazers) - Project for SWE 574 - Group 1 (4 days ago)
+1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io/stargazers) - SWE574 Fall2023 Group1 website (5 days ago)
+1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-G1**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-G1?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/stargazers) - Project for SWE 574 - Group 1 (5 days ago)
 1. [**SWE574-Fall2023-Group1/.github**](https://github.com/SWE574-Fall2023-Group1/.github/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/.github?style=social)](https://github.com/SWE574-Fall2023-Group1/.github/stargazers) - SWE574 Fall2023 Group1 (1 week ago)
 1. [**roman-right/beanie**](https://github.com/roman-right/beanie/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/roman-right/beanie?style=social)](https://github.com/roman-right/beanie/stargazers) - Asynchronous Python ODM for MongoDB (1 week ago)
 1. [**rust-build/rust-build.action**](https://github.com/rust-build/rust-build.action/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/rust-build/rust-build.action?style=social)](https://github.com/rust-build/rust-build.action/stargazers) - Automate publishing Rust build artifacts for GitHub releases through GitHub Actions (2 weeks ago)
@@ -42,7 +42,7 @@
 1. [**Homebrew/brew.sh**](https://github.com/Homebrew/brew.sh/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/Homebrew/brew.sh?style=social)](https://github.com/Homebrew/brew.sh/stargazers) - 🔖 The Homebrew homepage (2 months ago)
 1. [**Delgan/loguru**](https://github.com/Delgan/loguru/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/Delgan/loguru?style=social)](https://github.com/Delgan/loguru/stargazers) - Python logging made (stupidly) simple (2 months ago)
 1. [**eser/aya-website**](https://github.com/eser/aya-website/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/eser/aya-website?style=social)](https://github.com/eser/aya-website/stargazers) - açık yazılım ağı web sitesi kaynak kodları (2 months ago)
-1. [**bouncmpe/website**](https://github.com/bouncmpe/website/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/bouncmpe/website?style=social)](https://github.com/bouncmpe/website/stargazers) - New Department Website (2 months ago)
+1. [**bouncmpe/website**](https://github.com/bouncmpe/website/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/bouncmpe/website?style=social)](https://github.com/bouncmpe/website/stargazers) - New Department Website (3 months ago)
 1. [**passwall/passwall-server**](https://github.com/passwall/passwall-server/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/passwall/passwall-server?style=social)](https://github.com/passwall/passwall-server/stargazers) - Passwall Server is the core backend infrastructure for Passwall platform (4 months ago)
 1. [**boto/botocore**](https://github.com/boto/botocore/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/boto/botocore?style=social)](https://github.com/boto/botocore/stargazers) - The low-level, core functionality of boto3 and the AWS CLI. (5 months ago)
 1. [**facebookresearch/hydra**](https://github.com/facebookresearch/hydra/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/facebookresearch/hydra?style=social)](https://github.com/facebookresearch/hydra/stargazers) - Hydra is a framework for elegantly configuring complex applications (6 months ago)
@@ -63,16 +63,16 @@
 
 #### ⭐ Recent stars
 
-- [HakanAkozBoun/SWE_573](https://github.com/HakanAkozBoun/SWE_573) - SOFTWARE DEVELOPMENT PRACTICE I (4 days ago)
-- [EnesEngel/SWE573](https://github.com/EnesEngel/SWE573) - A repository for SWE 573 lectures (4 days ago)
+- [HakanAkozBoun/SWE_573](https://github.com/HakanAkozBoun/SWE_573) - SOFTWARE DEVELOPMENT PRACTICE I (5 days ago)
+- [EnesEngel/SWE573](https://github.com/EnesEngel/SWE573) - A repository for SWE 573 lectures (5 days ago)
 - [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more. (1 week ago)
 - [ryleelyman/homebrew-seamstress](https://github.com/ryleelyman/homebrew-seamstress) - homebrew formula for seamstress (1 week ago)
 - [SWE574-Fall2023-Group1/SWE574-Fall2023-G1](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1) - Project for SWE 574 - Group 1 (1 week ago)
 - [selmayildirim/Numerical-Analysis](https://github.com/selmayildirim/Numerical-Analysis) (1 week ago)
-- [travisjeffery/jocko](https://github.com/travisjeffery/jocko) - Kafka implemented in Golang with built-in coordination (No ZK dep, single binary install, Cloud Native) (1 week ago)
+- [travisjeffery/jocko](https://github.com/travisjeffery/jocko) - Kafka implemented in Golang with built-in coordination (No ZK dep, single binary install, Cloud Native) (2 weeks ago)
 - [deepfence/ebpfguard](https://github.com/deepfence/ebpfguard) - Rust library for writing Linux security policies using eBPF (2 weeks ago)
 - [chriskuehl/rustenv](https://github.com/chriskuehl/rustenv) - Virtual, activate-able environments for Rust (2 weeks ago)
-- [reactjs/react.dev](https://github.com/reactjs/react.dev) - The React documentation website (2 weeks ago)
+- [reactjs/react.dev](https://github.com/reactjs/react.dev) - The React documentation website (3 weeks ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
