@@ -25,6 +25,7 @@
 [![Mr. Kuzu's Recently Played Music on Spotify](https://spotify-recently-played-readme.vercel.app/api?user=5cfgfpgmik69ly41rspaiod2a&count=3&unique=1)](https://open.spotify.com/user/5cfgfpgmik69ly41rspaiod2a)
 
 #### 🚀 &nbsp; Open source projects I've contributed to
+1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-G1-mobile**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1-mobile/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-G1-mobile?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1-mobile/stargazers) - Mobile code repository for SWE574 Fall2023 Group1 (today)
 1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-G1**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-G1?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/stargazers) - Project for SWE 574 - Group 1 (today)
 1. [**sananeminli/Growdash-Hackathon**](https://github.com/sananeminli/Growdash-Hackathon/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/sananeminli/Growdash-Hackathon?style=social)](https://github.com/sananeminli/Growdash-Hackathon/stargazers) - Team Dinamo (1 day ago)
 1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io/stargazers) - SWE574 Fall2023 Group1 website (6 days ago)
@@ -64,6 +65,7 @@
 
 #### ⭐ Recent stars
 
+- [alpaylan/cvdl](https://github.com/alpaylan/cvdl) - CV Description Language (today)
 - [sananeminli/Growdash-Hackathon](https://github.com/sananeminli/Growdash-Hackathon) - Team Dinamo (1 day ago)
 - [mher/flower](https://github.com/mher/flower) - Real-time monitor and web admin for Celery distributed task queue (1 day ago)
 - [HakanAkozBoun/SWE_573](https://github.com/HakanAkozBoun/SWE_573) - SOFTWARE DEVELOPMENT PRACTICE I (6 days ago)
@@ -73,7 +75,6 @@
 - [SWE574-Fall2023-Group1/SWE574-Fall2023-G1](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1) - Project for SWE 574 - Group 1 (1 week ago)
 - [selmayildirim/Numerical-Analysis](https://github.com/selmayildirim/Numerical-Analysis) (2 weeks ago)
 - [travisjeffery/jocko](https://github.com/travisjeffery/jocko) - Kafka implemented in Golang with built-in coordination (No ZK dep, single binary install, Cloud Native) (2 weeks ago)
-- [deepfence/ebpfguard](https://github.com/deepfence/ebpfguard) - Rust library for writing Linux security policies using eBPF (2 weeks ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
