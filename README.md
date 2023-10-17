@@ -9,6 +9,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [wayklrAkyl](https://github.com/wayklrAkyl) Habip Akyol ]
 - [ [dbaslan](https://github.com/dbaslan) Deniz Baran Aslan ]
 - [ [mgamzec](https://github.com/mgamzec) Merve Gamze Çınar ]
 - [ [yetkinkrsngr](https://github.com/yetkinkrsngr) yetkin karasungur ]
@@ -18,7 +19,6 @@
 - [ [zaforcan](https://github.com/zaforcan) Zafer Can ]
 - [ [younver](https://github.com/younver) Yiğit Ö. Ünver ]
 - [ [eftalyurtseven](https://github.com/eftalyurtseven) Eftal Yurtseven ]
-- [ [usirin](https://github.com/usirin) Umut Sirin ]
 
 #### 🎧 &nbsp; Good beats
 
