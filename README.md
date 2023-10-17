@@ -9,7 +9,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
-- [ [wayklrAkyl](https://github.com/wayklrAkyl) Habip Akyol ]
+- [ [habipakyol](https://github.com/habipakyol) Habip Akyol ]
 - [ [dbaslan](https://github.com/dbaslan) Deniz Baran Aslan ]
 - [ [mgamzec](https://github.com/mgamzec) Merve Gamze Çınar ]
 - [ [yetkinkrsngr](https://github.com/yetkinkrsngr) yetkin karasungur ]
