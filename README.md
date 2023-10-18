@@ -66,6 +66,7 @@
 
 #### ⭐ Recent stars
 
+- [enshkn/BOUN-SWE-574-Fall-23-G2](https://github.com/enshkn/BOUN-SWE-574-Fall-23-G2) (today)
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features (today)
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/ (1 day ago)
 - [SWE574-Fall2023-Group1/SWE574-Fall2023-G1-mobile](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1-mobile) - Mobile code repository for SWE574 Fall2023 Group1 (2 days ago)
@@ -75,7 +76,6 @@
 - [HakanAkozBoun/SWE_573](https://github.com/HakanAkozBoun/SWE_573) - SOFTWARE DEVELOPMENT PRACTICE I (1 week ago)
 - [EnesEngel/SWE573](https://github.com/EnesEngel/SWE573) - A repository for SWE 573 lectures (1 week ago)
 - [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more. (1 week ago)
-- [ryleelyman/homebrew-seamstress](https://github.com/ryleelyman/homebrew-seamstress) - homebrew formula for seamstress (2 weeks ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
