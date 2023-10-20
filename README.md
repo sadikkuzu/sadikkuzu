@@ -9,6 +9,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [ukexim59](https://github.com/ukexim59)  ]
 - [ [habipakyol](https://github.com/habipakyol) Habip Akyol ]
 - [ [dbaslan](https://github.com/dbaslan) Deniz Baran Aslan ]
 - [ [mgamzec](https://github.com/mgamzec) Merve Gamze Çınar ]
@@ -18,7 +19,6 @@
 - [ [anilhazar](https://github.com/anilhazar) Ali Anıl Hazar ]
 - [ [zaforcan](https://github.com/zaforcan) Zafer Can ]
 - [ [younver](https://github.com/younver) Yiğit Ö. Ünver ]
-- [ [eftalyurtseven](https://github.com/eftalyurtseven) Eftal Yurtseven ]
 
 #### 🎧 &nbsp; Good beats
 
@@ -66,6 +66,9 @@
 
 #### ⭐ Recent stars
 
+- [abayir41/Github-Unity](https://github.com/abayir41/Github-Unity) (today)
+- [abayir41/github-demo](https://github.com/abayir41/github-demo) (today)
+- [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. (today)
 - [nizarcan/nvim-config](https://github.com/nizarcan/nvim-config) (1 day ago)
 - [hdenizdogan/SWE-599-Fall-2023](https://github.com/hdenizdogan/SWE-599-Fall-2023) (2 days ago)
 - [enshkn/BOUN-SWE-574-Fall-23-G2](https://github.com/enshkn/BOUN-SWE-574-Fall-23-G2) (2 days ago)
@@ -73,9 +76,6 @@
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/ (3 days ago)
 - [SWE574-Fall2023-Group1/SWE574-Fall2023-G1-mobile](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1-mobile) - Mobile code repository for SWE574 Fall2023 Group1 (4 days ago)
 - [alpaylan/cvdl](https://github.com/alpaylan/cvdl) - CV Description Language (4 days ago)
-- [sananeminli/Growdash-Hackathon](https://github.com/sananeminli/Growdash-Hackathon) - Team Dinamo (5 days ago)
-- [mher/flower](https://github.com/mher/flower) - Real-time monitor and web admin for Celery distributed task queue (5 days ago)
-- [HakanAkozBoun/SWE_573](https://github.com/HakanAkozBoun/SWE_573) - SOFTWARE DEVELOPMENT PRACTICE I (1 week ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
