@@ -65,6 +65,7 @@
 
 #### ⭐ Recent stars
 
+- [benwinding/quill-image-compress](https://github.com/benwinding/quill-image-compress) - A Quill rich text editor Module which compresses images uploaded to the editor  (today)
 - [abayir41/Github-Unity](https://github.com/abayir41/Github-Unity) (2 days ago)
 - [abayir41/github-demo](https://github.com/abayir41/github-demo) (2 days ago)
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. (2 days ago)
@@ -74,7 +75,6 @@
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features (4 days ago)
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/ (5 days ago)
 - [SWE574-Fall2023-Group1/SWE574-Fall2023-G1-mobile](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1-mobile) - Mobile code repository for SWE574 Fall2023 Group1 (6 days ago)
-- [alpaylan/cvdl](https://github.com/alpaylan/cvdl) - CV Description Language (6 days ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
