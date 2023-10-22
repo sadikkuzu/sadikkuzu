@@ -9,6 +9,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [olry](https://github.com/olry) ~ ]
 - [ [ukexim59](https://github.com/ukexim59)  ]
 - [ [habipakyol](https://github.com/habipakyol) Habip Akyol ]
 - [ [dbaslan](https://github.com/dbaslan) Deniz Baran Aslan ]
@@ -18,7 +19,6 @@
 - [ [alissasen](https://github.com/alissasen) Alisa ]
 - [ [anilhazar](https://github.com/anilhazar) Ali Anıl Hazar ]
 - [ [zaforcan](https://github.com/zaforcan) Zafer Can ]
-- [ [younver](https://github.com/younver) Yiğit Ö. Ünver ]
 
 #### 🎧 &nbsp; Good beats
 
