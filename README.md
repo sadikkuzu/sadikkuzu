@@ -9,6 +9,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [zbejas](https://github.com/zbejas) Anže Mavrič ]
 - [ [eboran](https://github.com/eboran)  ]
 - [ [olry](https://github.com/olry) ~ ]
 - [ [ukexim59](https://github.com/ukexim59)  ]
@@ -18,7 +19,6 @@
 - [ [yetkinkrsngr](https://github.com/yetkinkrsngr) yetkin karasungur ]
 - [ [bahadirgezer](https://github.com/bahadirgezer) Bahadır Gezer ]
 - [ [alissasen](https://github.com/alissasen) Alisa ]
-- [ [anilhazar](https://github.com/anilhazar) Ali Anıl Hazar ]
 
 #### 🎧 &nbsp; Good beats
 
