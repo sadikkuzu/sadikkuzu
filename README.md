@@ -67,8 +67,6 @@
 #### ⭐ Recent stars
 
 - [benwinding/quill-image-compress](https://github.com/benwinding/quill-image-compress) - A Quill rich text editor Module which compresses images uploaded to the editor  (4 days ago)
-- [abayir41/Github-Unity](https://github.com/abayir41/Github-Unity) (6 days ago)
-- [abayir41/github-demo](https://github.com/abayir41/github-demo) (6 days ago)
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. (6 days ago)
 - [nizarcan/nvim-config](https://github.com/nizarcan/nvim-config) (1 week ago)
 - [hdenizdogan/SWE-599-Fall-2023](https://github.com/hdenizdogan/SWE-599-Fall-2023) (1 week ago)
@@ -76,6 +74,8 @@
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features (1 week ago)
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/ (1 week ago)
 - [SWE574-Fall2023-Group1/SWE574-Fall2023-G1-mobile](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1-mobile) - Mobile code repository for SWE574 Fall2023 Group1 (1 week ago)
+- [alpaylan/cvdl](https://github.com/alpaylan/cvdl) - CV Description Language (1 week ago)
+- [sananeminli/Growdash-Hackathon](https://github.com/sananeminli/Growdash-Hackathon) - Team Dinamo (1 week ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
