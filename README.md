@@ -66,6 +66,7 @@
 
 #### ⭐ Recent stars
 
+- [ahmadrezasam/SWE-573-Project](https://github.com/ahmadrezasam/SWE-573-Project) (today)
 - [SWE574-Fall2023-Group1/.github](https://github.com/SWE574-Fall2023-Group1/.github) - SWE574 Fall2023 Group1 (2 days ago)
 - [SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io) - SWE574 Fall2023 Group1 website (2 days ago)
 - [sraaphorst/elliptic-curve-cryptography](https://github.com/sraaphorst/elliptic-curve-cryptography) - Elliptic Curve Cryptography (5 days ago)
@@ -75,7 +76,6 @@
 - [hdenizdogan/SWE-599-Fall-2023](https://github.com/hdenizdogan/SWE-599-Fall-2023) (1 week ago)
 - [enshkn/BOUN-SWE-574-Fall-23-G2](https://github.com/enshkn/BOUN-SWE-574-Fall-23-G2) (1 week ago)
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features (1 week ago)
-- [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/ (2 weeks ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
