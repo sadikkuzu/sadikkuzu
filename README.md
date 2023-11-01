@@ -26,12 +26,12 @@
 
 #### 🚀 &nbsp; Open source projects I've contributed to
 1. [**vercel/next.js**](https://github.com/vercel/next.js/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/vercel/next.js?style=social)](https://github.com/vercel/next.js/stargazers) - The React Framework (today)
-1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-G1**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-G1?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/stargazers) - Project for SWE 574 - Group 1 (1 day ago)
-1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-G1-mobile**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1-mobile/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-G1-mobile?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1-mobile/stargazers) - Mobile code repository for SWE574 Fall2023 Group1 (1 day ago)
-1. [**mermaid-js/mermaid**](https://github.com/mermaid-js/mermaid/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/mermaid-js/mermaid?style=social)](https://github.com/mermaid-js/mermaid/stargazers) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown (4 days ago)
-1. [**SPLWare/esProc**](https://github.com/SPLWare/esProc/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SPLWare/esProc?style=social)](https://github.com/SPLWare/esProc/stargazers) - esProc SPL is a scripting language for data processing, with well-designed rich library functions and powerful syntax, which can be executed in a Java program through JDBC interface and computing independently. (6 days ago)
-1. [**calwoodford/anki_decks**](https://github.com/calwoodford/anki_decks/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/calwoodford/anki_decks?style=social)](https://github.com/calwoodford/anki_decks/stargazers) - Questions and answers for Anki spaced repetition software decks. (6 days ago)
-1. [**AbhineshJha/Redstore**](https://github.com/AbhineshJha/Redstore/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/AbhineshJha/Redstore?style=social)](https://github.com/AbhineshJha/Redstore/stargazers) - A website of Trending clothes for men and women .!! (6 days ago)
+1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-G1**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-G1?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/stargazers) - Project for SWE 574 - Group 1 (2 days ago)
+1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-G1-mobile**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1-mobile/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-G1-mobile?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1-mobile/stargazers) - Mobile code repository for SWE574 Fall2023 Group1 (2 days ago)
+1. [**mermaid-js/mermaid**](https://github.com/mermaid-js/mermaid/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/mermaid-js/mermaid?style=social)](https://github.com/mermaid-js/mermaid/stargazers) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown (5 days ago)
+1. [**SPLWare/esProc**](https://github.com/SPLWare/esProc/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SPLWare/esProc?style=social)](https://github.com/SPLWare/esProc/stargazers) - esProc SPL is a scripting language for data processing, with well-designed rich library functions and powerful syntax, which can be executed in a Java program through JDBC interface and computing independently. (1 week ago)
+1. [**calwoodford/anki_decks**](https://github.com/calwoodford/anki_decks/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/calwoodford/anki_decks?style=social)](https://github.com/calwoodford/anki_decks/stargazers) - Questions and answers for Anki spaced repetition software decks. (1 week ago)
+1. [**AbhineshJha/Redstore**](https://github.com/AbhineshJha/Redstore/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/AbhineshJha/Redstore?style=social)](https://github.com/AbhineshJha/Redstore/stargazers) - A website of Trending clothes for men and women .!! (1 week ago)
 1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io/stargazers) - SWE574 Fall2023 Group1 website (1 week ago)
 1. [**SWE574-Fall2023-Group1/.github**](https://github.com/SWE574-Fall2023-Group1/.github/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/.github?style=social)](https://github.com/SWE574-Fall2023-Group1/.github/stargazers) - SWE574 Fall2023 Group1 (2 weeks ago)
 1. [**leanprover/lean4**](https://github.com/leanprover/lean4/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/leanprover/lean4?style=social)](https://github.com/leanprover/lean4/stargazers) - Lean 4 programming language and theorem prover (2 weeks ago)
@@ -66,16 +66,16 @@
 
 #### ⭐ Recent stars
 
-- [ahmadrezasam/SWE-573-Project](https://github.com/ahmadrezasam/SWE-573-Project) (today)
-- [SWE574-Fall2023-Group1/.github](https://github.com/SWE574-Fall2023-Group1/.github) - SWE574 Fall2023 Group1 (2 days ago)
-- [SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io) - SWE574 Fall2023 Group1 website (2 days ago)
-- [sraaphorst/elliptic-curve-cryptography](https://github.com/sraaphorst/elliptic-curve-cryptography) - Elliptic Curve Cryptography (5 days ago)
+- [ahmadrezasam/SWE-573-Project](https://github.com/ahmadrezasam/SWE-573-Project) (1 day ago)
+- [SWE574-Fall2023-Group1/.github](https://github.com/SWE574-Fall2023-Group1/.github) - SWE574 Fall2023 Group1 (3 days ago)
+- [SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io) - SWE574 Fall2023 Group1 website (3 days ago)
+- [sraaphorst/elliptic-curve-cryptography](https://github.com/sraaphorst/elliptic-curve-cryptography) - Elliptic Curve Cryptography (6 days ago)
 - [benwinding/quill-image-compress](https://github.com/benwinding/quill-image-compress) - A Quill rich text editor Module which compresses images uploaded to the editor  (1 week ago)
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. (1 week ago)
 - [nizarcan/nvim-config](https://github.com/nizarcan/nvim-config) (1 week ago)
-- [hdenizdogan/SWE-599-Fall-2023](https://github.com/hdenizdogan/SWE-599-Fall-2023) (1 week ago)
-- [enshkn/BOUN-SWE-574-Fall-23-G2](https://github.com/enshkn/BOUN-SWE-574-Fall-23-G2) (1 week ago)
-- [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features (1 week ago)
+- [hdenizdogan/SWE-599-Fall-2023](https://github.com/hdenizdogan/SWE-599-Fall-2023) (2 weeks ago)
+- [enshkn/BOUN-SWE-574-Fall-23-G2](https://github.com/enshkn/BOUN-SWE-574-Fall-23-G2) (2 weeks ago)
+- [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features (2 weeks ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
