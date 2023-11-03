@@ -9,6 +9,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [Prakashsinghnagarkoti](https://github.com/Prakashsinghnagarkoti)  ]
 - [ [MUAZAlimi](https://github.com/MUAZAlimi) Alimi Muaz ]
 - [ [zbejas](https://github.com/zbejas) Anže Mavrič ]
 - [ [eboran](https://github.com/eboran)  ]
@@ -18,19 +19,18 @@
 - [ [dbaslan](https://github.com/dbaslan) Deniz Baran Aslan ]
 - [ [mgamzec](https://github.com/mgamzec) Merve Gamze Çınar ]
 - [ [yetkinkrsngr](https://github.com/yetkinkrsngr) yetkin karasungur ]
-- [ [bahadirgezer](https://github.com/bahadirgezer) Bahadır Gezer ]
 
 #### 🎧 &nbsp; Good beats
 
 [![Mr. Kuzu's Recently Played Music on Spotify](https://spotify-recently-played-readme.vercel.app/api?user=5cfgfpgmik69ly41rspaiod2a&count=3&unique=1)](https://open.spotify.com/user/5cfgfpgmik69ly41rspaiod2a)
 
 #### 🚀 &nbsp; Open source projects I've contributed to
-1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-G1**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-G1?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/stargazers) - Project for SWE 574 - Group 1 (1 day ago)
-1. [**vercel/next.js**](https://github.com/vercel/next.js/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/vercel/next.js?style=social)](https://github.com/vercel/next.js/stargazers) - The React Framework (1 day ago)
-1. [**sananeminli/Growdash-Hackathon**](https://github.com/sananeminli/Growdash-Hackathon/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/sananeminli/Growdash-Hackathon?style=social)](https://github.com/sananeminli/Growdash-Hackathon/stargazers) - Team Dinamo (1 day ago)
-1. [**nestjs/nest**](https://github.com/nestjs/nest/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/nestjs/nest?style=social)](https://github.com/nestjs/nest/stargazers) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀 (2 days ago)
-1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-G1-mobile**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1-mobile/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-G1-mobile?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1-mobile/stargazers) - Mobile code repository for SWE574 Fall2023 Group1 (3 days ago)
-1. [**mermaid-js/mermaid**](https://github.com/mermaid-js/mermaid/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/mermaid-js/mermaid?style=social)](https://github.com/mermaid-js/mermaid/stargazers) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown (6 days ago)
+1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-G1**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-G1?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/stargazers) - Project for SWE 574 - Group 1 (2 days ago)
+1. [**vercel/next.js**](https://github.com/vercel/next.js/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/vercel/next.js?style=social)](https://github.com/vercel/next.js/stargazers) - The React Framework (2 days ago)
+1. [**sananeminli/Growdash-Hackathon**](https://github.com/sananeminli/Growdash-Hackathon/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/sananeminli/Growdash-Hackathon?style=social)](https://github.com/sananeminli/Growdash-Hackathon/stargazers) - Team Dinamo (2 days ago)
+1. [**nestjs/nest**](https://github.com/nestjs/nest/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/nestjs/nest?style=social)](https://github.com/nestjs/nest/stargazers) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀 (3 days ago)
+1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-G1-mobile**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1-mobile/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-G1-mobile?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1-mobile/stargazers) - Mobile code repository for SWE574 Fall2023 Group1 (4 days ago)
+1. [**mermaid-js/mermaid**](https://github.com/mermaid-js/mermaid/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/mermaid-js/mermaid?style=social)](https://github.com/mermaid-js/mermaid/stargazers) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown (1 week ago)
 1. [**AbhineshJha/Redstore**](https://github.com/AbhineshJha/Redstore/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/AbhineshJha/Redstore?style=social)](https://github.com/AbhineshJha/Redstore/stargazers) - A website of Trending clothes for men and women .!! (1 week ago)
 1. [**calwoodford/anki_decks**](https://github.com/calwoodford/anki_decks/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/calwoodford/anki_decks?style=social)](https://github.com/calwoodford/anki_decks/stargazers) - Questions and answers for Anki spaced repetition software decks. (1 week ago)
 1. [**SPLWare/esProc**](https://github.com/SPLWare/esProc/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SPLWare/esProc?style=social)](https://github.com/SPLWare/esProc/stargazers) - esProc SPL is a scripting language for data processing, with well-designed rich library functions and powerful syntax, which can be executed in a Java program through JDBC interface and computing independently. (1 week ago)
@@ -48,7 +48,7 @@
 1. [**kamp-us/monorepo**](https://github.com/kamp-us/monorepo/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/kamp-us/monorepo?style=social)](https://github.com/kamp-us/monorepo/stargazers) - kamp.us web projects &amp; packages (2 months ago)
 1. [**vmware-tanzu/secrets-manager**](https://github.com/vmware-tanzu/secrets-manager/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/vmware-tanzu/secrets-manager?style=social)](https://github.com/vmware-tanzu/secrets-manager/stargazers) - VMware Secrets Manager for Cloud-Native Apps is a lightweight secrets manager to protect your sensitive data. It’s perfect for edge deployments where energy and footprint requirements are strict—See more: https://vsecm.com/ (2 months ago)
 1. [**Ealenn/Echo-Server**](https://github.com/Ealenn/Echo-Server/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/Ealenn/Echo-Server?style=social)](https://github.com/Ealenn/Echo-Server/stargazers) - REST Server Tests (Echo-Server) API / Docker / Kubernetes / Helm (2 months ago)
-1. [**Homebrew/brew.sh**](https://github.com/Homebrew/brew.sh/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/Homebrew/brew.sh?style=social)](https://github.com/Homebrew/brew.sh/stargazers) - 🔖 The Homebrew homepage (2 months ago)
+1. [**Homebrew/brew.sh**](https://github.com/Homebrew/brew.sh/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/Homebrew/brew.sh?style=social)](https://github.com/Homebrew/brew.sh/stargazers) - 🔖 The Homebrew homepage (3 months ago)
 1. [**Delgan/loguru**](https://github.com/Delgan/loguru/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/Delgan/loguru?style=social)](https://github.com/Delgan/loguru/stargazers) - Python logging made (stupidly) simple (3 months ago)
 1. [**eser/aya-website**](https://github.com/eser/aya-website/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/eser/aya-website?style=social)](https://github.com/eser/aya-website/stargazers) - açık yazılım ağı web sitesi kaynak kodları (3 months ago)
 1. [**bouncmpe/website**](https://github.com/bouncmpe/website/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/bouncmpe/website?style=social)](https://github.com/bouncmpe/website/stargazers) - New Department Website (3 months ago)
@@ -66,12 +66,12 @@
 
 #### ⭐ Recent stars
 
-- [ahmadrezasam/SWE-573-Project](https://github.com/ahmadrezasam/SWE-573-Project) (2 days ago)
-- [SWE574-Fall2023-Group1/.github](https://github.com/SWE574-Fall2023-Group1/.github) - SWE574 Fall2023 Group1 (4 days ago)
-- [SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io) - SWE574 Fall2023 Group1 website (4 days ago)
+- [ahmadrezasam/SWE-573-Project](https://github.com/ahmadrezasam/SWE-573-Project) (3 days ago)
+- [SWE574-Fall2023-Group1/.github](https://github.com/SWE574-Fall2023-Group1/.github) - SWE574 Fall2023 Group1 (5 days ago)
+- [SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io) - SWE574 Fall2023 Group1 website (5 days ago)
 - [sraaphorst/elliptic-curve-cryptography](https://github.com/sraaphorst/elliptic-curve-cryptography) - Elliptic Curve Cryptography (1 week ago)
 - [benwinding/quill-image-compress](https://github.com/benwinding/quill-image-compress) - A Quill rich text editor Module which compresses images uploaded to the editor  (1 week ago)
-- [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. (1 week ago)
+- [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. (2 weeks ago)
 - [nizarcan/nvim-config](https://github.com/nizarcan/nvim-config) (2 weeks ago)
 - [hdenizdogan/SWE-599-Fall-2023](https://github.com/hdenizdogan/SWE-599-Fall-2023) (2 weeks ago)
 - [enshkn/BOUN-SWE-574-Fall-23-G2](https://github.com/enshkn/BOUN-SWE-574-Fall-23-G2) (2 weeks ago)
