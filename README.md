@@ -14,11 +14,11 @@
 - [ [MUAZAlimi](https://github.com/MUAZAlimi) Alimi Muaz ]
 - [ [zbejas](https://github.com/zbejas) Anže Mavrič ]
 - [ [eboran](https://github.com/eboran)  ]
-- [ [olry](https://github.com/olry) ~ ]
 - [ [ukexim59](https://github.com/ukexim59)  ]
 - [ [habipakyol](https://github.com/habipakyol) Habip Akyol ]
 - [ [dbaslan](https://github.com/dbaslan) Deniz Baran Aslan ]
 - [ [mgamzec](https://github.com/mgamzec) Merve Gamze Çınar ]
+- [ [yetkinkrsngr](https://github.com/yetkinkrsngr) yetkin karasungur ]
 
 #### 🎧 &nbsp; Good beats
 
