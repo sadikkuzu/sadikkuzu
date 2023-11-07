@@ -64,6 +64,7 @@
 
 #### ⭐ Recent stars
 
+- [senchabot-opensource/monorepo](https://github.com/senchabot-opensource/monorepo) - Senchabot apps and packages. Web app, Discord bot and Twitch bot monorepo (today)
 - [zaforcan/Flask-ML-Netflix-Clone](https://github.com/zaforcan/Flask-ML-Netflix-Clone) (today)
 - [SWE574-G3/Living-Stories-App](https://github.com/SWE574-G3/Living-Stories-App) (1 day ago)
 - [ahmadrezasam/SWE-573-Project](https://github.com/ahmadrezasam/SWE-573-Project) (1 week ago)
@@ -73,7 +74,6 @@
 - [benwinding/quill-image-compress](https://github.com/benwinding/quill-image-compress) - A Quill rich text editor Module which compresses images uploaded to the editor  (2 weeks ago)
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. (2 weeks ago)
 - [nizarcan/nvim-config](https://github.com/nizarcan/nvim-config) (2 weeks ago)
-- [hdenizdogan/SWE-599-Fall-2023](https://github.com/hdenizdogan/SWE-599-Fall-2023) (2 weeks ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
