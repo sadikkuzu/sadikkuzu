@@ -9,6 +9,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [dev-anko](https://github.com/dev-anko) Anıl Sezgin ]
 - [ [Kos-M](https://github.com/Kos-M) Kostas ]
 - [ [Prakashsinghnagarkoti](https://github.com/Prakashsinghnagarkoti)  ]
 - [ [MUAZAlimi](https://github.com/MUAZAlimi) Alimi Muaz ]
@@ -18,7 +19,6 @@
 - [ [habipakyol](https://github.com/habipakyol) Habip Akyol ]
 - [ [dbaslan](https://github.com/dbaslan) Deniz Baran Aslan ]
 - [ [mgamzec](https://github.com/mgamzec) Merve Gamze Çınar ]
-- [ [yetkinkrsngr](https://github.com/yetkinkrsngr) yetkin karasungur ]
 
 #### 🎧 &nbsp; Good beats
 
@@ -64,6 +64,8 @@
 
 #### ⭐ Recent stars
 
+- [kamp-us/turkce-odin-project](https://github.com/kamp-us/turkce-odin-project) - Collective effort for translating The Odin Project into Turkish (today)
+- [senchabot-opensource/docs](https://github.com/senchabot-opensource/docs) (today)
 - [zerotohero-dev/geyik-z2h-dev](https://github.com/zerotohero-dev/geyik-z2h-dev) - The public Website of “Vadideki Geyik” Podcasts — https://geyik.z2h.dev/ (1 day ago)
 - [senchabot-opensource/senchabot-python](https://github.com/senchabot-opensource/senchabot-python) - Senchabot&#39;s suite of applications and packages reimagined in Python. This repo includes the Python-based versions of the Discord bot, and Twitch bot. (1 day ago)
 - [senchabot-opensource/monorepo](https://github.com/senchabot-opensource/monorepo) - Senchabot apps and packages. Web app, Discord bot and Twitch bot monorepo (1 day ago)
@@ -72,8 +74,6 @@
 - [ahmadrezasam/SWE-573-Project](https://github.com/ahmadrezasam/SWE-573-Project) (1 week ago)
 - [SWE574-Fall2023-Group1/.github](https://github.com/SWE574-Fall2023-Group1/.github) - SWE574 Fall2023 Group1 (1 week ago)
 - [SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io) - SWE574 Fall2023 Group1 website (1 week ago)
-- [sraaphorst/elliptic-curve-cryptography](https://github.com/sraaphorst/elliptic-curve-cryptography) - Elliptic Curve Cryptography (1 week ago)
-- [benwinding/quill-image-compress](https://github.com/benwinding/quill-image-compress) - A Quill rich text editor Module which compresses images uploaded to the editor  (2 weeks ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
