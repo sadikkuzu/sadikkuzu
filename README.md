@@ -10,7 +10,6 @@
 #### 🔭 &nbsp; Check out my recent followers
 
 - [ [dev-anko](https://github.com/dev-anko) Anıl Sezgin ]
-- [ [Kos-M](https://github.com/Kos-M) Kostas ]
 - [ [Prakashsinghnagarkoti](https://github.com/Prakashsinghnagarkoti)  ]
 - [ [MUAZAlimi](https://github.com/MUAZAlimi) Alimi Muaz ]
 - [ [zbejas](https://github.com/zbejas) Anže Mavrič ]
@@ -19,6 +18,7 @@
 - [ [habipakyol](https://github.com/habipakyol) Habip Akyol ]
 - [ [dbaslan](https://github.com/dbaslan) Deniz Baran Aslan ]
 - [ [mgamzec](https://github.com/mgamzec) Merve Gamze Çınar ]
+- [ [yetkinkrsngr](https://github.com/yetkinkrsngr) yetkin karasungur ]
 
 #### 🎧 &nbsp; Good beats
 
