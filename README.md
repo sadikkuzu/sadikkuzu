@@ -9,6 +9,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [SemihKaraagacli](https://github.com/SemihKaraagacli) Semih KARAAĞAÇLI ]
 - [ [tw4](https://github.com/tw4) Mert ]
 - [ [dev-anko](https://github.com/dev-anko) Anıl Sezgin ]
 - [ [Prakashsinghnagarkoti](https://github.com/Prakashsinghnagarkoti)  ]
@@ -18,7 +19,6 @@
 - [ [ukexim59](https://github.com/ukexim59)  ]
 - [ [habipakyol](https://github.com/habipakyol) Habip Akyol ]
 - [ [dbaslan](https://github.com/dbaslan) Deniz Baran Aslan ]
-- [ [mgamzec](https://github.com/mgamzec) Merve Gamze Çınar ]
 
 #### 🎧 &nbsp; Good beats
 
