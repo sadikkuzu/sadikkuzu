@@ -25,9 +25,9 @@
 [![Mr. Kuzu's Recently Played Music on Spotify](https://spotify-recently-played-readme.vercel.app/api?user=5cfgfpgmik69ly41rspaiod2a&count=3&unique=1)](https://open.spotify.com/user/5cfgfpgmik69ly41rspaiod2a)
 
 #### 🚀 &nbsp; Open source projects I've contributed to
-1. [**senchabot-opensource/monorepo**](https://github.com/senchabot-opensource/monorepo/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/senchabot-opensource/monorepo?style=social)](https://github.com/senchabot-opensource/monorepo/stargazers) - Senchabot apps and packages. Web app, Discord bot and Twitch bot monorepo (today)
-1. [**COVESA/vehicle_signal_specification**](https://github.com/COVESA/vehicle_signal_specification/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/COVESA/vehicle_signal_specification?style=social)](https://github.com/COVESA/vehicle_signal_specification/stargazers) - Vehicle Signal Specification - standardized way to describe automotive data (3 days ago)
-1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-G1**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-G1?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/stargazers) - Project for SWE 574 - Group 1 (5 days ago)
+1. [**senchabot-opensource/monorepo**](https://github.com/senchabot-opensource/monorepo/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/senchabot-opensource/monorepo?style=social)](https://github.com/senchabot-opensource/monorepo/stargazers) - Senchabot apps and packages. Web app, Discord bot and Twitch bot monorepo (1 day ago)
+1. [**COVESA/vehicle_signal_specification**](https://github.com/COVESA/vehicle_signal_specification/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/COVESA/vehicle_signal_specification?style=social)](https://github.com/COVESA/vehicle_signal_specification/stargazers) - Vehicle Signal Specification - standardized way to describe automotive data (4 days ago)
+1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-G1**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-G1?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/stargazers) - Project for SWE 574 - Group 1 (6 days ago)
 1. [**sananeminli/Growdash-Hackathon**](https://github.com/sananeminli/Growdash-Hackathon/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/sananeminli/Growdash-Hackathon?style=social)](https://github.com/sananeminli/Growdash-Hackathon/stargazers) - Team Dinamo (1 week ago)
 1. [**vercel/next.js**](https://github.com/vercel/next.js/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/vercel/next.js?style=social)](https://github.com/vercel/next.js/stargazers) - The React Framework (1 week ago)
 1. [**nestjs/nest**](https://github.com/nestjs/nest/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/nestjs/nest?style=social)](https://github.com/nestjs/nest/stargazers) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀 (1 week ago)
@@ -56,7 +56,7 @@
 1. [**bouncmpe/website**](https://github.com/bouncmpe/website/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/bouncmpe/website?style=social)](https://github.com/bouncmpe/website/stargazers) - New Department Website (3 months ago)
 1. [**gitleaks/gitleaks**](https://github.com/gitleaks/gitleaks/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/gitleaks/gitleaks?style=social)](https://github.com/gitleaks/gitleaks/stargazers) - Protect and discover secrets using Gitleaks 🔑 (7 months ago)
 1. [**bounswemsc/bounswemsc.github.io**](https://github.com/bounswemsc/bounswemsc.github.io/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/bounswemsc/bounswemsc.github.io?style=social)](https://github.com/bounswemsc/bounswemsc.github.io/stargazers) - BOUN SWE MSc website (7 months ago)
-1. [**stripe/stripe-python**](https://github.com/stripe/stripe-python/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/stripe/stripe-python?style=social)](https://github.com/stripe/stripe-python/stargazers) - Python library for the Stripe API.     (7 months ago)
+1. [**stripe/stripe-python**](https://github.com/stripe/stripe-python/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/stripe/stripe-python?style=social)](https://github.com/stripe/stripe-python/stargazers) - Python library for the Stripe API.     (8 months ago)
 1. [**bounswemsc/.github**](https://github.com/bounswemsc/.github/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/bounswemsc/.github?style=social)](https://github.com/bounswemsc/.github/stargazers) - BOUN SWE MSc. (8 months ago)
 1. [**tugrulcan/havhav**](https://github.com/tugrulcan/havhav/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/tugrulcan/havhav?style=social)](https://github.com/tugrulcan/havhav/stargazers) - :bone: Python package to retrieve random facts about Dogs (9 months ago)
 1. [**Kludex/flake8-fastapi**](https://github.com/Kludex/flake8-fastapi/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/Kludex/flake8-fastapi?style=social)](https://github.com/Kludex/flake8-fastapi/stargazers) - Flake8 FastAPI - Avoid simple FastAPI mistakes ~opinionated~ 🤓 (9 months ago)
@@ -64,16 +64,16 @@
 
 #### ⭐ Recent stars
 
-- [kamp-us/turkce-odin-project](https://github.com/kamp-us/turkce-odin-project) - Collective effort for translating The Odin Project into Turkish (today)
-- [senchabot-opensource/docs](https://github.com/senchabot-opensource/docs) (today)
-- [zerotohero-dev/geyik-z2h-dev](https://github.com/zerotohero-dev/geyik-z2h-dev) - The public Website of “Vadideki Geyik” Podcasts — https://geyik.z2h.dev/ (1 day ago)
-- [senchabot-opensource/senchabot-python](https://github.com/senchabot-opensource/senchabot-python) - Senchabot&#39;s suite of applications and packages reimagined in Python. This repo includes the Python-based versions of the Discord bot, and Twitch bot. (1 day ago)
-- [senchabot-opensource/monorepo](https://github.com/senchabot-opensource/monorepo) - Senchabot apps and packages. Web app, Discord bot and Twitch bot monorepo (1 day ago)
-- [zaforcan/Flask-ML-Netflix-Clone](https://github.com/zaforcan/Flask-ML-Netflix-Clone) (1 day ago)
-- [SWE574-G3/Living-Stories-App](https://github.com/SWE574-G3/Living-Stories-App) (2 days ago)
+- [slok/sloth](https://github.com/slok/sloth) - 🦥 Easy and simple Prometheus SLO (service level objectives) generator (1 day ago)
+- [kamp-us/turkce-odin-project](https://github.com/kamp-us/turkce-odin-project) - Collective effort for translating The Odin Project into Turkish (1 day ago)
+- [senchabot-opensource/docs](https://github.com/senchabot-opensource/docs) (1 day ago)
+- [zerotohero-dev/geyik-z2h-dev](https://github.com/zerotohero-dev/geyik-z2h-dev) - The public Website of “Vadideki Geyik” Podcasts — https://geyik.z2h.dev/ (2 days ago)
+- [senchabot-opensource/senchabot-python](https://github.com/senchabot-opensource/senchabot-python) - Senchabot&#39;s suite of applications and packages reimagined in Python. This repo includes the Python-based versions of the Discord bot, and Twitch bot. (2 days ago)
+- [senchabot-opensource/monorepo](https://github.com/senchabot-opensource/monorepo) - Senchabot apps and packages. Web app, Discord bot and Twitch bot monorepo (2 days ago)
+- [zaforcan/Flask-ML-Netflix-Clone](https://github.com/zaforcan/Flask-ML-Netflix-Clone) (2 days ago)
+- [SWE574-G3/Living-Stories-App](https://github.com/SWE574-G3/Living-Stories-App) (3 days ago)
 - [ahmadrezasam/SWE-573-Project](https://github.com/ahmadrezasam/SWE-573-Project) (1 week ago)
 - [SWE574-Fall2023-Group1/.github](https://github.com/SWE574-Fall2023-Group1/.github) - SWE574 Fall2023 Group1 (1 week ago)
-- [SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io) - SWE574 Fall2023 Group1 website (1 week ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
