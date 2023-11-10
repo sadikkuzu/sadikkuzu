@@ -25,14 +25,14 @@
 [![Mr. Kuzu's Recently Played Music on Spotify](https://spotify-recently-played-readme.vercel.app/api?user=5cfgfpgmik69ly41rspaiod2a&count=3&unique=1)](https://open.spotify.com/user/5cfgfpgmik69ly41rspaiod2a)
 
 #### 🚀 &nbsp; Open source projects I've contributed to
-1. [**senchabot-opensource/monorepo**](https://github.com/senchabot-opensource/monorepo/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/senchabot-opensource/monorepo?style=social)](https://github.com/senchabot-opensource/monorepo/stargazers) - Senchabot apps and packages. Web app, Discord bot and Twitch bot monorepo (1 day ago)
-1. [**COVESA/vehicle_signal_specification**](https://github.com/COVESA/vehicle_signal_specification/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/COVESA/vehicle_signal_specification?style=social)](https://github.com/COVESA/vehicle_signal_specification/stargazers) - Vehicle Signal Specification - standardized way to describe automotive data (4 days ago)
-1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-G1**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-G1?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/stargazers) - Project for SWE 574 - Group 1 (6 days ago)
+1. [**senchabot-opensource/monorepo**](https://github.com/senchabot-opensource/monorepo/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/senchabot-opensource/monorepo?style=social)](https://github.com/senchabot-opensource/monorepo/stargazers) - Senchabot apps and packages. Web app, Discord bot and Twitch bot monorepo (2 days ago)
+1. [**COVESA/vehicle_signal_specification**](https://github.com/COVESA/vehicle_signal_specification/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/COVESA/vehicle_signal_specification?style=social)](https://github.com/COVESA/vehicle_signal_specification/stargazers) - Vehicle Signal Specification - standardized way to describe automotive data (5 days ago)
+1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-G1**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-G1?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/stargazers) - Project for SWE 574 - Group 1 (1 week ago)
 1. [**vercel/next.js**](https://github.com/vercel/next.js/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/vercel/next.js?style=social)](https://github.com/vercel/next.js/stargazers) - The React Framework (1 week ago)
 1. [**sananeminli/Growdash-Hackathon**](https://github.com/sananeminli/Growdash-Hackathon/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/sananeminli/Growdash-Hackathon?style=social)](https://github.com/sananeminli/Growdash-Hackathon/stargazers) - Team Dinamo (1 week ago)
 1. [**nestjs/nest**](https://github.com/nestjs/nest/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/nestjs/nest?style=social)](https://github.com/nestjs/nest/stargazers) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀 (1 week ago)
 1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-G1-mobile**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1-mobile/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-G1-mobile?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1-mobile/stargazers) - Mobile code repository for SWE574 Fall2023 Group1 (1 week ago)
-1. [**mermaid-js/mermaid**](https://github.com/mermaid-js/mermaid/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/mermaid-js/mermaid?style=social)](https://github.com/mermaid-js/mermaid/stargazers) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown (1 week ago)
+1. [**mermaid-js/mermaid**](https://github.com/mermaid-js/mermaid/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/mermaid-js/mermaid?style=social)](https://github.com/mermaid-js/mermaid/stargazers) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown (2 weeks ago)
 1. [**calwoodford/anki_decks**](https://github.com/calwoodford/anki_decks/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/calwoodford/anki_decks?style=social)](https://github.com/calwoodford/anki_decks/stargazers) - Questions and answers for Anki spaced repetition software decks. (2 weeks ago)
 1. [**SPLWare/esProc**](https://github.com/SPLWare/esProc/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SPLWare/esProc?style=social)](https://github.com/SPLWare/esProc/stargazers) - esProc SPL is a scripting language for data processing, with well-designed rich library functions and powerful syntax, which can be executed in a Java program through JDBC interface and computing independently. (2 weeks ago)
 1. [**AbhineshJha/Redstore**](https://github.com/AbhineshJha/Redstore/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/AbhineshJha/Redstore?style=social)](https://github.com/AbhineshJha/Redstore/stargazers) - A website of Trending clothes for men and women .!! (2 weeks ago)
@@ -64,14 +64,14 @@
 
 #### ⭐ Recent stars
 
-- [slok/sloth](https://github.com/slok/sloth) - 🦥 Easy and simple Prometheus SLO (service level objectives) generator (1 day ago)
-- [kamp-us/turkce-odin-project](https://github.com/kamp-us/turkce-odin-project) - Collective effort for translating The Odin Project into Turkish (1 day ago)
-- [senchabot-opensource/docs](https://github.com/senchabot-opensource/docs) (1 day ago)
-- [zerotohero-dev/geyik-z2h-dev](https://github.com/zerotohero-dev/geyik-z2h-dev) - The public Website of “Vadideki Geyik” Podcasts — https://geyik.z2h.dev/ (2 days ago)
-- [senchabot-opensource/senchabot-python](https://github.com/senchabot-opensource/senchabot-python) - Senchabot&#39;s suite of applications and packages reimagined in Python. This repo includes the Python-based versions of the Discord bot, and Twitch bot. (2 days ago)
-- [senchabot-opensource/monorepo](https://github.com/senchabot-opensource/monorepo) - Senchabot apps and packages. Web app, Discord bot and Twitch bot monorepo (2 days ago)
-- [zaforcan/Flask-ML-Netflix-Clone](https://github.com/zaforcan/Flask-ML-Netflix-Clone) (2 days ago)
-- [SWE574-G3/Living-Stories-App](https://github.com/SWE574-G3/Living-Stories-App) (3 days ago)
+- [slok/sloth](https://github.com/slok/sloth) - 🦥 Easy and simple Prometheus SLO (service level objectives) generator (2 days ago)
+- [kamp-us/turkce-odin-project](https://github.com/kamp-us/turkce-odin-project) - Collective effort for translating The Odin Project into Turkish (2 days ago)
+- [senchabot-opensource/docs](https://github.com/senchabot-opensource/docs) (2 days ago)
+- [zerotohero-dev/geyik-z2h-dev](https://github.com/zerotohero-dev/geyik-z2h-dev) - The public Website of “Vadideki Geyik” Podcasts — https://geyik.z2h.dev/ (3 days ago)
+- [senchabot-opensource/senchabot-python](https://github.com/senchabot-opensource/senchabot-python) - Senchabot&#39;s suite of applications and packages reimagined in Python. This repo includes the Python-based versions of the Discord bot, and Twitch bot. (3 days ago)
+- [senchabot-opensource/monorepo](https://github.com/senchabot-opensource/monorepo) - Senchabot apps and packages. Web app, Discord bot and Twitch bot monorepo (3 days ago)
+- [zaforcan/Flask-ML-Netflix-Clone](https://github.com/zaforcan/Flask-ML-Netflix-Clone) (3 days ago)
+- [SWE574-G3/Living-Stories-App](https://github.com/SWE574-G3/Living-Stories-App) (4 days ago)
 - [ahmadrezasam/SWE-573-Project](https://github.com/ahmadrezasam/SWE-573-Project) (1 week ago)
 - [SWE574-Fall2023-Group1/.github](https://github.com/SWE574-Fall2023-Group1/.github) - SWE574 Fall2023 Group1 (1 week ago)
 
