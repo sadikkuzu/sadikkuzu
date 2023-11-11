@@ -25,8 +25,8 @@
 [![Mr. Kuzu's Recently Played Music on Spotify](https://spotify-recently-played-readme.vercel.app/api?user=5cfgfpgmik69ly41rspaiod2a&count=3&unique=1)](https://open.spotify.com/user/5cfgfpgmik69ly41rspaiod2a)
 
 #### 🚀 &nbsp; Open source projects I've contributed to
-1. [**senchabot-opensource/monorepo**](https://github.com/senchabot-opensource/monorepo/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/senchabot-opensource/monorepo?style=social)](https://github.com/senchabot-opensource/monorepo/stargazers) - Senchabot apps and packages. Web app, Discord bot and Twitch bot monorepo (2 days ago)
-1. [**COVESA/vehicle_signal_specification**](https://github.com/COVESA/vehicle_signal_specification/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/COVESA/vehicle_signal_specification?style=social)](https://github.com/COVESA/vehicle_signal_specification/stargazers) - Vehicle Signal Specification - standardized way to describe automotive data (5 days ago)
+1. [**senchabot-opensource/monorepo**](https://github.com/senchabot-opensource/monorepo/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/senchabot-opensource/monorepo?style=social)](https://github.com/senchabot-opensource/monorepo/stargazers) - Senchabot apps and packages. Web app, Discord bot and Twitch bot monorepo (3 days ago)
+1. [**COVESA/vehicle_signal_specification**](https://github.com/COVESA/vehicle_signal_specification/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/COVESA/vehicle_signal_specification?style=social)](https://github.com/COVESA/vehicle_signal_specification/stargazers) - Vehicle Signal Specification - standardized way to describe automotive data (6 days ago)
 1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-G1**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-G1?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/stargazers) - Project for SWE 574 - Group 1 (1 week ago)
 1. [**sananeminli/Growdash-Hackathon**](https://github.com/sananeminli/Growdash-Hackathon/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/sananeminli/Growdash-Hackathon?style=social)](https://github.com/sananeminli/Growdash-Hackathon/stargazers) - Team Dinamo (1 week ago)
 1. [**vercel/next.js**](https://github.com/vercel/next.js/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/vercel/next.js?style=social)](https://github.com/vercel/next.js/stargazers) - The React Framework (1 week ago)
@@ -64,14 +64,14 @@
 
 #### ⭐ Recent stars
 
-- [slok/sloth](https://github.com/slok/sloth) - 🦥 Easy and simple Prometheus SLO (service level objectives) generator (2 days ago)
-- [kamp-us/turkce-odin-project](https://github.com/kamp-us/turkce-odin-project) - Collective effort for translating The Odin Project into Turkish (2 days ago)
-- [senchabot-opensource/docs](https://github.com/senchabot-opensource/docs) (2 days ago)
-- [zerotohero-dev/geyik-z2h-dev](https://github.com/zerotohero-dev/geyik-z2h-dev) - The public Website of “Vadideki Geyik” Podcasts — https://geyik.z2h.dev/ (3 days ago)
-- [senchabot-opensource/senchabot-python](https://github.com/senchabot-opensource/senchabot-python) - Senchabot&#39;s suite of applications and packages reimagined in Python. This repo includes the Python-based versions of the Discord bot, and Twitch bot. (3 days ago)
-- [senchabot-opensource/monorepo](https://github.com/senchabot-opensource/monorepo) - Senchabot apps and packages. Web app, Discord bot and Twitch bot monorepo (3 days ago)
-- [zaforcan/Flask-ML-Netflix-Clone](https://github.com/zaforcan/Flask-ML-Netflix-Clone) (3 days ago)
-- [SWE574-G3/Living-Stories-App](https://github.com/SWE574-G3/Living-Stories-App) (4 days ago)
+- [slok/sloth](https://github.com/slok/sloth) - 🦥 Easy and simple Prometheus SLO (service level objectives) generator (3 days ago)
+- [kamp-us/turkce-odin-project](https://github.com/kamp-us/turkce-odin-project) - Collective effort for translating The Odin Project into Turkish (3 days ago)
+- [senchabot-opensource/docs](https://github.com/senchabot-opensource/docs) (3 days ago)
+- [zerotohero-dev/geyik-z2h-dev](https://github.com/zerotohero-dev/geyik-z2h-dev) - The public Website of “Vadideki Geyik” Podcasts — https://geyik.z2h.dev/ (4 days ago)
+- [senchabot-opensource/senchabot-python](https://github.com/senchabot-opensource/senchabot-python) - Senchabot&#39;s suite of applications and packages reimagined in Python. This repo includes the Python-based versions of the Discord bot, and Twitch bot. (4 days ago)
+- [senchabot-opensource/monorepo](https://github.com/senchabot-opensource/monorepo) - Senchabot apps and packages. Web app, Discord bot and Twitch bot monorepo (4 days ago)
+- [zaforcan/Flask-ML-Netflix-Clone](https://github.com/zaforcan/Flask-ML-Netflix-Clone) (4 days ago)
+- [SWE574-G3/Living-Stories-App](https://github.com/SWE574-G3/Living-Stories-App) (5 days ago)
 - [ahmadrezasam/SWE-573-Project](https://github.com/ahmadrezasam/SWE-573-Project) (1 week ago)
 - [SWE574-Fall2023-Group1/.github](https://github.com/SWE574-Fall2023-Group1/.github) - SWE574 Fall2023 Group1 (1 week ago)
 
