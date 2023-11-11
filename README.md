@@ -64,6 +64,7 @@
 
 #### ⭐ Recent stars
 
+- [spiffe/spire-controller-manager](https://github.com/spiffe/spire-controller-manager) - Kubernetes controller manager that reconciles workload registration and federation relationships. (today)
 - [spiffe/spiffe](https://github.com/spiffe/spiffe) - The SPIFFE Project (today)
 - [shieldworks/aegis](https://github.com/shieldworks/aegis) - Aegis: Keep Your Secrets… Secret (today)
 - [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets (today)
@@ -73,7 +74,6 @@
 - [kamp-us/turkce-odin-project](https://github.com/kamp-us/turkce-odin-project) - Collective effort for translating The Odin Project into Turkish (3 days ago)
 - [senchabot-opensource/docs](https://github.com/senchabot-opensource/docs) (3 days ago)
 - [zerotohero-dev/geyik-z2h-dev](https://github.com/zerotohero-dev/geyik-z2h-dev) - The public Website of “Vadideki Geyik” Podcasts — https://geyik.z2h.dev/ (4 days ago)
-- [senchabot-opensource/senchabot-python](https://github.com/senchabot-opensource/senchabot-python) - Senchabot&#39;s suite of applications and packages reimagined in Python. This repo includes the Python-based versions of the Discord bot, and Twitch bot. (4 days ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
