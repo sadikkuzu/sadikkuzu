@@ -64,6 +64,9 @@
 
 #### ⭐ Recent stars
 
+- [spiffe/spiffe](https://github.com/spiffe/spiffe) - The SPIFFE Project (today)
+- [shieldworks/aegis](https://github.com/shieldworks/aegis) - Aegis: Keep Your Secrets… Secret (today)
+- [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets (today)
 - [Workbrew/.github](https://github.com/Workbrew/.github) (today)
 - [aimacode/aima-python](https://github.com/aimacode/aima-python) - Python implementation of algorithms from Russell And Norvig&#39;s &#34;Artificial Intelligence - A Modern Approach&#34; (today)
 - [slok/sloth](https://github.com/slok/sloth) - 🦥 Easy and simple Prometheus SLO (service level objectives) generator (3 days ago)
@@ -71,9 +74,6 @@
 - [senchabot-opensource/docs](https://github.com/senchabot-opensource/docs) (3 days ago)
 - [zerotohero-dev/geyik-z2h-dev](https://github.com/zerotohero-dev/geyik-z2h-dev) - The public Website of “Vadideki Geyik” Podcasts — https://geyik.z2h.dev/ (4 days ago)
 - [senchabot-opensource/senchabot-python](https://github.com/senchabot-opensource/senchabot-python) - Senchabot&#39;s suite of applications and packages reimagined in Python. This repo includes the Python-based versions of the Discord bot, and Twitch bot. (4 days ago)
-- [senchabot-opensource/monorepo](https://github.com/senchabot-opensource/monorepo) - Senchabot apps and packages. Web app, Discord bot and Twitch bot monorepo (4 days ago)
-- [zaforcan/Flask-ML-Netflix-Clone](https://github.com/zaforcan/Flask-ML-Netflix-Clone) (4 days ago)
-- [SWE574-G3/Living-Stories-App](https://github.com/SWE574-G3/Living-Stories-App) (5 days ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
