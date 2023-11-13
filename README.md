@@ -9,6 +9,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [ahmadrezasam](https://github.com/ahmadrezasam) Ahmadreza Samiei ]
 - [ [rasitds](https://github.com/rasitds) Rasit ]
 - [ [cansirin](https://github.com/cansirin) Can Sirin ]
 - [ [SemihKaraagacli](https://github.com/SemihKaraagacli) Semih KARAAĞAÇLI ]
@@ -18,7 +19,6 @@
 - [ [MUAZAlimi](https://github.com/MUAZAlimi) Alimi Muaz ]
 - [ [zbejas](https://github.com/zbejas) Anže Mavrič ]
 - [ [eboran](https://github.com/eboran)  ]
-- [ [ukexim59](https://github.com/ukexim59)  ]
 
 #### 🎧 &nbsp; Good beats
 
