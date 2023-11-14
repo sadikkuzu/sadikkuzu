@@ -65,6 +65,7 @@
 
 #### ⭐ Recent stars
 
+- [reading-stacks/reading-group](https://github.com/reading-stacks/reading-group) - The repository that contains notes and information about the first session of Reading Stacks (today)
 - [spiffe/spire-controller-manager](https://github.com/spiffe/spire-controller-manager) - Kubernetes controller manager that reconciles workload registration and federation relationships. (3 days ago)
 - [spiffe/spiffe](https://github.com/spiffe/spiffe) - The SPIFFE Project (3 days ago)
 - [shieldworks/aegis](https://github.com/shieldworks/aegis) - Aegis: Keep Your Secrets… Secret (3 days ago)
@@ -74,7 +75,6 @@
 - [slok/sloth](https://github.com/slok/sloth) - 🦥 Easy and simple Prometheus SLO (service level objectives) generator (6 days ago)
 - [kamp-us/turkce-odin-project](https://github.com/kamp-us/turkce-odin-project) - Collective effort for translating The Odin Project into Turkish (6 days ago)
 - [senchabot-opensource/docs](https://github.com/senchabot-opensource/docs) (6 days ago)
-- [zerotohero-dev/geyik-z2h-dev](https://github.com/zerotohero-dev/geyik-z2h-dev) - The public Website of “Vadideki Geyik” Podcasts — https://geyik.z2h.dev/ (1 week ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
