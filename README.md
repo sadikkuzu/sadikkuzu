@@ -9,6 +9,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [furkan-oz](https://github.com/furkan-oz) Furkan Öz ]
 - [ [ahmadrezasam](https://github.com/ahmadrezasam) Ahmadreza Samiei ]
 - [ [rasitds](https://github.com/rasitds) Rasit ]
 - [ [cansirin](https://github.com/cansirin) Can Sirin ]
@@ -18,7 +19,6 @@
 - [ [Prakashsinghnagarkoti](https://github.com/Prakashsinghnagarkoti)  ]
 - [ [MUAZAlimi](https://github.com/MUAZAlimi) Alimi Muaz ]
 - [ [zbejas](https://github.com/zbejas) Anže Mavrič ]
-- [ [eboran](https://github.com/eboran)  ]
 
 #### 🎧 &nbsp; Good beats
 
