@@ -9,6 +9,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [diclecakir0](https://github.com/diclecakir0)  ]
 - [ [furkan-oz](https://github.com/furkan-oz) Furkan Öz ]
 - [ [ahmadrezasam](https://github.com/ahmadrezasam) Ahmadreza Samiei ]
 - [ [rasitds](https://github.com/rasitds) Rasit ]
@@ -18,7 +19,6 @@
 - [ [dev-anko](https://github.com/dev-anko) Anıl Sezgin ]
 - [ [Prakashsinghnagarkoti](https://github.com/Prakashsinghnagarkoti)  ]
 - [ [MUAZAlimi](https://github.com/MUAZAlimi) Alimi Muaz ]
-- [ [zbejas](https://github.com/zbejas) Anže Mavrič ]
 
 #### 🎧 &nbsp; Good beats
 
@@ -28,12 +28,12 @@
 1. [**zerotohero-dev/geyik-z2h-dev**](https://github.com/zerotohero-dev/geyik-z2h-dev/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/zerotohero-dev/geyik-z2h-dev?style=social)](https://github.com/zerotohero-dev/geyik-z2h-dev/stargazers) - The public Website of “Vadideki Geyik” Podcasts — https://geyik.z2h.dev/ (1 week ago)
 1. [**senchabot-opensource/monorepo**](https://github.com/senchabot-opensource/monorepo/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/senchabot-opensource/monorepo?style=social)](https://github.com/senchabot-opensource/monorepo/stargazers) - Senchabot apps and packages. Web app, Discord bot and Twitch bot monorepo (1 week ago)
 1. [**COVESA/vehicle_signal_specification**](https://github.com/COVESA/vehicle_signal_specification/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/COVESA/vehicle_signal_specification?style=social)](https://github.com/COVESA/vehicle_signal_specification/stargazers) - Vehicle Signal Specification - standardized way to describe automotive data (1 week ago)
-1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-G1**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-G1?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/stargazers) - Project for SWE 574 - Group 1 (1 week ago)
+1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-G1**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-G1?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/stargazers) - Project for SWE 574 - Group 1 (2 weeks ago)
 1. [**sananeminli/Growdash-Hackathon**](https://github.com/sananeminli/Growdash-Hackathon/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/sananeminli/Growdash-Hackathon?style=social)](https://github.com/sananeminli/Growdash-Hackathon/stargazers) - Team Dinamo (2 weeks ago)
 1. [**vercel/next.js**](https://github.com/vercel/next.js/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/vercel/next.js?style=social)](https://github.com/vercel/next.js/stargazers) - The React Framework (2 weeks ago)
 1. [**nestjs/nest**](https://github.com/nestjs/nest/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/nestjs/nest?style=social)](https://github.com/nestjs/nest/stargazers) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀 (2 weeks ago)
 1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-G1-mobile**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1-mobile/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-G1-mobile?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1-mobile/stargazers) - Mobile code repository for SWE574 Fall2023 Group1 (2 weeks ago)
-1. [**mermaid-js/mermaid**](https://github.com/mermaid-js/mermaid/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/mermaid-js/mermaid?style=social)](https://github.com/mermaid-js/mermaid/stargazers) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown (2 weeks ago)
+1. [**mermaid-js/mermaid**](https://github.com/mermaid-js/mermaid/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/mermaid-js/mermaid?style=social)](https://github.com/mermaid-js/mermaid/stargazers) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown (3 weeks ago)
 1. [**AbhineshJha/Redstore**](https://github.com/AbhineshJha/Redstore/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/AbhineshJha/Redstore?style=social)](https://github.com/AbhineshJha/Redstore/stargazers) - A website of Trending clothes for men and women .!! (3 weeks ago)
 1. [**SPLWare/esProc**](https://github.com/SPLWare/esProc/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SPLWare/esProc?style=social)](https://github.com/SPLWare/esProc/stargazers) - esProc SPL is a scripting language for data processing, with well-designed rich library functions and powerful syntax, which can be executed in a Java program through JDBC interface and computing independently. (3 weeks ago)
 1. [**calwoodford/anki_decks**](https://github.com/calwoodford/anki_decks/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/calwoodford/anki_decks?style=social)](https://github.com/calwoodford/anki_decks/stargazers) - Questions and answers for Anki spaced repetition software decks. (3 weeks ago)
@@ -46,7 +46,7 @@
 1. [**log4mongo/log4mongo-python**](https://github.com/log4mongo/log4mongo-python/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/log4mongo/log4mongo-python?style=social)](https://github.com/log4mongo/log4mongo-python/stargazers) - python logging handler for mongo database (1 month ago)
 1. [**godotengine/godot**](https://github.com/godotengine/godot/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/godotengine/godot?style=social)](https://github.com/godotengine/godot/stargazers) - Godot Engine – Multi-platform 2D and 3D game engine (1 month ago)
 1. [**sananeminli/BOUN_Carrel_Telegram_Bot**](https://github.com/sananeminli/BOUN_Carrel_Telegram_Bot/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/sananeminli/BOUN_Carrel_Telegram_Bot?style=social)](https://github.com/sananeminli/BOUN_Carrel_Telegram_Bot/stargazers) -  (1 month ago)
-1. [**gis-ops/routingpy**](https://github.com/gis-ops/routingpy/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/gis-ops/routingpy?style=social)](https://github.com/gis-ops/routingpy/stargazers) - 🌎 Python library to access all public routing, isochrones and matrix APIs in a consistent manner. (1 month ago)
+1. [**gis-ops/routingpy**](https://github.com/gis-ops/routingpy/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/gis-ops/routingpy?style=social)](https://github.com/gis-ops/routingpy/stargazers) - 🌎 Python library to access all public routing, isochrones and matrix APIs in a consistent manner. (2 months ago)
 1. [**grafana/beyla**](https://github.com/grafana/beyla/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/grafana/beyla?style=social)](https://github.com/grafana/beyla/stargazers) - eBPF-based autoinstrumentation of HTTP and HTTPS services (2 months ago)
 1. [**kamp-us/monorepo**](https://github.com/kamp-us/monorepo/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/kamp-us/monorepo?style=social)](https://github.com/kamp-us/monorepo/stargazers) - kamp.us web projects &amp; packages (2 months ago)
 1. [**vmware-tanzu/secrets-manager**](https://github.com/vmware-tanzu/secrets-manager/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/vmware-tanzu/secrets-manager?style=social)](https://github.com/vmware-tanzu/secrets-manager/stargazers) - VMware Secrets Manager for Cloud-Native Apps is a lightweight secrets manager to protect your sensitive data. It’s perfect for edge deployments where energy and footprint requirements are strict—See more: https://vsecm.com/ (2 months ago)
@@ -54,7 +54,7 @@
 1. [**Homebrew/brew.sh**](https://github.com/Homebrew/brew.sh/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/Homebrew/brew.sh?style=social)](https://github.com/Homebrew/brew.sh/stargazers) - 🔖 The Homebrew homepage (3 months ago)
 1. [**Delgan/loguru**](https://github.com/Delgan/loguru/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/Delgan/loguru?style=social)](https://github.com/Delgan/loguru/stargazers) - Python logging made (stupidly) simple (3 months ago)
 1. [**eser/aya-website**](https://github.com/eser/aya-website/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/eser/aya-website?style=social)](https://github.com/eser/aya-website/stargazers) - açık yazılım ağı web sitesi kaynak kodları (3 months ago)
-1. [**gitleaks/gitleaks**](https://github.com/gitleaks/gitleaks/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/gitleaks/gitleaks?style=social)](https://github.com/gitleaks/gitleaks/stargazers) - Protect and discover secrets using Gitleaks 🔑 (7 months ago)
+1. [**gitleaks/gitleaks**](https://github.com/gitleaks/gitleaks/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/gitleaks/gitleaks?style=social)](https://github.com/gitleaks/gitleaks/stargazers) - Protect and discover secrets using Gitleaks 🔑 (8 months ago)
 1. [**bounswemsc/bounswemsc.github.io**](https://github.com/bounswemsc/bounswemsc.github.io/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/bounswemsc/bounswemsc.github.io?style=social)](https://github.com/bounswemsc/bounswemsc.github.io/stargazers) - BOUN SWE MSc website (8 months ago)
 1. [**stripe/stripe-python**](https://github.com/stripe/stripe-python/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/stripe/stripe-python?style=social)](https://github.com/stripe/stripe-python/stargazers) - Python library for the Stripe API.     (8 months ago)
 1. [**bounswemsc/.github**](https://github.com/bounswemsc/.github/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/bounswemsc/.github?style=social)](https://github.com/bounswemsc/.github/stargazers) - BOUN SWE MSc. (8 months ago)
@@ -64,14 +64,14 @@
 
 #### ⭐ Recent stars
 
-- [open-mmlab/mmpose](https://github.com/open-mmlab/mmpose) - OpenMMLab Pose Estimation Toolbox and Benchmark. (2 days ago)
-- [reading-stacks/reading-group](https://github.com/reading-stacks/reading-group) - The repository that contains notes and information about the first session of Reading Stacks (2 days ago)
-- [spiffe/spire-controller-manager](https://github.com/spiffe/spire-controller-manager) - Kubernetes controller manager that reconciles workload registration and federation relationships. (5 days ago)
-- [spiffe/spiffe](https://github.com/spiffe/spiffe) - The SPIFFE Project (5 days ago)
-- [shieldworks/aegis](https://github.com/shieldworks/aegis) - Aegis: Keep Your Secrets… Secret (5 days ago)
-- [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets (5 days ago)
-- [Workbrew/.github](https://github.com/Workbrew/.github) (5 days ago)
-- [aimacode/aima-python](https://github.com/aimacode/aima-python) - Python implementation of algorithms from Russell And Norvig&#39;s &#34;Artificial Intelligence - A Modern Approach&#34; (5 days ago)
+- [open-mmlab/mmpose](https://github.com/open-mmlab/mmpose) - OpenMMLab Pose Estimation Toolbox and Benchmark. (3 days ago)
+- [reading-stacks/reading-group](https://github.com/reading-stacks/reading-group) - The repository that contains notes and information about the first session of Reading Stacks (3 days ago)
+- [spiffe/spire-controller-manager](https://github.com/spiffe/spire-controller-manager) - Kubernetes controller manager that reconciles workload registration and federation relationships. (6 days ago)
+- [spiffe/spiffe](https://github.com/spiffe/spiffe) - The SPIFFE Project (6 days ago)
+- [shieldworks/aegis](https://github.com/shieldworks/aegis) - Aegis: Keep Your Secrets… Secret (6 days ago)
+- [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets (6 days ago)
+- [Workbrew/.github](https://github.com/Workbrew/.github) (6 days ago)
+- [aimacode/aima-python](https://github.com/aimacode/aima-python) - Python implementation of algorithms from Russell And Norvig&#39;s &#34;Artificial Intelligence - A Modern Approach&#34; (6 days ago)
 - [slok/sloth](https://github.com/slok/sloth) - 🦥 Easy and simple Prometheus SLO (service level objectives) generator (1 week ago)
 - [kamp-us/turkce-odin-project](https://github.com/kamp-us/turkce-odin-project) - Collective effort for translating The Odin Project into Turkish (1 week ago)
 
