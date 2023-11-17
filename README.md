@@ -9,6 +9,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [kaannvarsl](https://github.com/kaannvarsl) Kaan Varışlı ]
 - [ [alpaylan](https://github.com/alpaylan) Alperen Keleş ]
 - [ [hamzaerbay](https://github.com/hamzaerbay) Hamza Erbay ]
 - [ [mustafatorun](https://github.com/mustafatorun) Mustafa Torun ]
@@ -18,7 +19,6 @@
 - [ [rasitds](https://github.com/rasitds) Rasit ]
 - [ [cansirin](https://github.com/cansirin) Can Sirin ]
 - [ [SemihKaraagacli](https://github.com/SemihKaraagacli) Semih KARAAĞAÇLI ]
-- [ [tw4](https://github.com/tw4) Mert ]
 
 #### 🎧 &nbsp; Good beats
 
