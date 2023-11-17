@@ -9,6 +9,8 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [alpaylan](https://github.com/alpaylan) Alperen Keleş ]
+- [ [hamzaerbay](https://github.com/hamzaerbay) Hamza Erbay ]
 - [ [mustafatorun](https://github.com/mustafatorun) Mustafa Torun ]
 - [ [diclecakir0](https://github.com/diclecakir0)  ]
 - [ [furkan-oz](https://github.com/furkan-oz) Furkan Öz ]
@@ -17,8 +19,6 @@
 - [ [cansirin](https://github.com/cansirin) Can Sirin ]
 - [ [SemihKaraagacli](https://github.com/SemihKaraagacli) Semih KARAAĞAÇLI ]
 - [ [tw4](https://github.com/tw4) Mert ]
-- [ [dev-anko](https://github.com/dev-anko) Anıl Sezgin ]
-- [ [Prakashsinghnagarkoti](https://github.com/Prakashsinghnagarkoti)  ]
 
 #### 🎧 &nbsp; Good beats
 
