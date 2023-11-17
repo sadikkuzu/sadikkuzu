@@ -9,6 +9,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [mustafatorun](https://github.com/mustafatorun) Mustafa Torun ]
 - [ [diclecakir0](https://github.com/diclecakir0)  ]
 - [ [furkan-oz](https://github.com/furkan-oz) Furkan Öz ]
 - [ [ahmadrezasam](https://github.com/ahmadrezasam) Ahmadreza Samiei ]
@@ -18,7 +19,6 @@
 - [ [tw4](https://github.com/tw4) Mert ]
 - [ [dev-anko](https://github.com/dev-anko) Anıl Sezgin ]
 - [ [Prakashsinghnagarkoti](https://github.com/Prakashsinghnagarkoti)  ]
-- [ [MUAZAlimi](https://github.com/MUAZAlimi) Alimi Muaz ]
 
 #### 🎧 &nbsp; Good beats
 
