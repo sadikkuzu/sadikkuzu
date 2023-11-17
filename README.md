@@ -64,6 +64,7 @@
 
 #### ⭐ Recent stars
 
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster. (today)
 - [spiffe/spire](https://github.com/spiffe/spire) - The SPIFFE Runtime Environment (today)
 - [open-mmlab/mmpose](https://github.com/open-mmlab/mmpose) - OpenMMLab Pose Estimation Toolbox and Benchmark. (3 days ago)
 - [reading-stacks/reading-group](https://github.com/reading-stacks/reading-group) - The repository that contains notes and information about the first session of Reading Stacks (3 days ago)
@@ -73,7 +74,6 @@
 - [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets (6 days ago)
 - [Workbrew/.github](https://github.com/Workbrew/.github) (6 days ago)
 - [aimacode/aima-python](https://github.com/aimacode/aima-python) - Python implementation of algorithms from Russell And Norvig&#39;s &#34;Artificial Intelligence - A Modern Approach&#34; (6 days ago)
-- [slok/sloth](https://github.com/slok/sloth) - 🦥 Easy and simple Prometheus SLO (service level objectives) generator (1 week ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
