@@ -27,7 +27,7 @@
 #### 🚀 &nbsp; Open source projects I've contributed to
 1. [**zerotohero-dev/geyik-z2h-dev**](https://github.com/zerotohero-dev/geyik-z2h-dev/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/zerotohero-dev/geyik-z2h-dev?style=social)](https://github.com/zerotohero-dev/geyik-z2h-dev/stargazers) - The public Website of “Vadideki Geyik” Podcasts — https://geyik.z2h.dev/ (1 week ago)
 1. [**senchabot-opensource/monorepo**](https://github.com/senchabot-opensource/monorepo/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/senchabot-opensource/monorepo?style=social)](https://github.com/senchabot-opensource/monorepo/stargazers) - Senchabot apps and packages. Web app, Discord bot and Twitch bot monorepo (1 week ago)
-1. [**COVESA/vehicle_signal_specification**](https://github.com/COVESA/vehicle_signal_specification/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/COVESA/vehicle_signal_specification?style=social)](https://github.com/COVESA/vehicle_signal_specification/stargazers) - Vehicle Signal Specification - standardized way to describe automotive data (1 week ago)
+1. [**COVESA/vehicle_signal_specification**](https://github.com/COVESA/vehicle_signal_specification/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/COVESA/vehicle_signal_specification?style=social)](https://github.com/COVESA/vehicle_signal_specification/stargazers) - Vehicle Signal Specification - standardized way to describe automotive data (2 weeks ago)
 1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-G1**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-G1?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/stargazers) - Project for SWE 574 - Group 1 (2 weeks ago)
 1. [**sananeminli/Growdash-Hackathon**](https://github.com/sananeminli/Growdash-Hackathon/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/sananeminli/Growdash-Hackathon?style=social)](https://github.com/sananeminli/Growdash-Hackathon/stargazers) - Team Dinamo (2 weeks ago)
 1. [**vercel/next.js**](https://github.com/vercel/next.js/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/vercel/next.js?style=social)](https://github.com/vercel/next.js/stargazers) - The React Framework (2 weeks ago)
@@ -64,11 +64,11 @@
 
 #### ⭐ Recent stars
 
-- [mert-aydin/SWE-599](https://github.com/mert-aydin/SWE-599) - Repository for BOUN SWE-599 Project course. (today)
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster. (1 day ago)
-- [spiffe/spire](https://github.com/spiffe/spire) - The SPIFFE Runtime Environment (1 day ago)
-- [open-mmlab/mmpose](https://github.com/open-mmlab/mmpose) - OpenMMLab Pose Estimation Toolbox and Benchmark. (4 days ago)
-- [reading-stacks/reading-group](https://github.com/reading-stacks/reading-group) - The repository that contains notes and information about the first session of Reading Stacks (4 days ago)
+- [mert-aydin/SWE-599](https://github.com/mert-aydin/SWE-599) - Repository for BOUN SWE-599 Project course. (1 day ago)
+- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster. (2 days ago)
+- [spiffe/spire](https://github.com/spiffe/spire) - The SPIFFE Runtime Environment (2 days ago)
+- [open-mmlab/mmpose](https://github.com/open-mmlab/mmpose) - OpenMMLab Pose Estimation Toolbox and Benchmark. (5 days ago)
+- [reading-stacks/reading-group](https://github.com/reading-stacks/reading-group) - The repository that contains notes and information about the first session of Reading Stacks (5 days ago)
 - [spiffe/spire-controller-manager](https://github.com/spiffe/spire-controller-manager) - Kubernetes controller manager that reconciles workload registration and federation relationships. (1 week ago)
 - [spiffe/spiffe](https://github.com/spiffe/spiffe) - The SPIFFE Project (1 week ago)
 - [shieldworks/aegis](https://github.com/shieldworks/aegis) - Aegis: Keep Your Secrets… Secret (1 week ago)
