@@ -64,6 +64,7 @@
 
 #### ⭐ Recent stars
 
+- [zerotohero-dev/volkan-uses-z2h-dev](https://github.com/zerotohero-dev/volkan-uses-z2h-dev) - Source code of volkan-uses.z2h.dev . (today)
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science! (2 days ago)
 - [leomaurodesenv/game-datasets](https://github.com/leomaurodesenv/game-datasets) - :video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games (2 days ago)
 - [mert-aydin/SWE-599](https://github.com/mert-aydin/SWE-599) - Repository for BOUN SWE-599 Project course. (3 days ago)
@@ -73,7 +74,6 @@
 - [reading-stacks/reading-group](https://github.com/reading-stacks/reading-group) - The repository that contains notes and information about the first session of Reading Stacks (1 week ago)
 - [spiffe/spire-controller-manager](https://github.com/spiffe/spire-controller-manager) - Kubernetes controller manager that reconciles workload registration and federation relationships. (1 week ago)
 - [spiffe/spiffe](https://github.com/spiffe/spiffe) - The SPIFFE Project (1 week ago)
-- [shieldworks/aegis](https://github.com/shieldworks/aegis) - Aegis: Keep Your Secrets… Secret (1 week ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
