@@ -64,6 +64,7 @@
 
 #### ⭐ Recent stars
 
+- [aladinugurr/tmdb-movie-app](https://github.com/aladinugurr/tmdb-movie-app) (today)
 - [zerotohero-dev/deers](https://github.com/zerotohero-dev/deers) - :deers: ASCII deers (1 day ago)
 - [zerotohero-dev/volkan-uses-z2h-dev](https://github.com/zerotohero-dev/volkan-uses-z2h-dev) - Source code of volkan-uses.z2h.dev . (1 day ago)
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science! (3 days ago)
@@ -73,7 +74,6 @@
 - [spiffe/spire](https://github.com/spiffe/spire) - The SPIFFE Runtime Environment (5 days ago)
 - [open-mmlab/mmpose](https://github.com/open-mmlab/mmpose) - OpenMMLab Pose Estimation Toolbox and Benchmark. (1 week ago)
 - [reading-stacks/reading-group](https://github.com/reading-stacks/reading-group) - The repository that contains notes and information about the first session of Reading Stacks (1 week ago)
-- [spiffe/spire-controller-manager](https://github.com/spiffe/spire-controller-manager) - Kubernetes controller manager that reconciles workload registration and federation relationships. (1 week ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
