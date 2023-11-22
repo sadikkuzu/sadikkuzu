@@ -9,6 +9,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [aladinugurr](https://github.com/aladinugurr) Alaaddin Uğur ]
 - [ [gurkanguray](https://github.com/gurkanguray) Guray Gurkan ]
 - [ [kaannvarsl](https://github.com/kaannvarsl) Kaan Varışlı ]
 - [ [alpaylan](https://github.com/alpaylan) Alperen Keleş ]
@@ -18,7 +19,6 @@
 - [ [furkan-oz](https://github.com/furkan-oz) Furkan Öz ]
 - [ [ahmadrezasam](https://github.com/ahmadrezasam) Ahmadreza Samiei ]
 - [ [rasitds](https://github.com/rasitds) Rasit ]
-- [ [cansirin](https://github.com/cansirin) Can Sirin ]
 
 #### 🎧 &nbsp; Good beats
 
