@@ -9,6 +9,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [mustafakaracuha](https://github.com/mustafakaracuha) Mustafa ]
 - [ [CoderMungan](https://github.com/CoderMungan) Mehmet Halil MUNGAN ]
 - [ [abdelkaderhassine](https://github.com/abdelkaderhassine)  ]
 - [ [aladinugurr](https://github.com/aladinugurr) Alaaddin Uğur ]
@@ -18,7 +19,6 @@
 - [ [hamzaerbay](https://github.com/hamzaerbay) Hamza Erbay ]
 - [ [mustafatorun](https://github.com/mustafatorun) Mustafa Torun ]
 - [ [diclecakir0](https://github.com/diclecakir0)  ]
-- [ [furkan-oz](https://github.com/furkan-oz) Furkan Öz ]
 
 #### 🎧 &nbsp; Good beats
 
