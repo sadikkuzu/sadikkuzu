@@ -65,6 +65,7 @@
 
 #### ⭐ Recent stars
 
+- [emredevsalot/cowork-and-draw](https://github.com/emredevsalot/cowork-and-draw) - 🚀 A pomdoro app with collaboration and creativity. (today)
 - [facebookincubator/katran](https://github.com/facebookincubator/katran) - A high performance layer 4 load balancer (1 day ago)
 - [aladinugurr/tmdb-movie-app](https://github.com/aladinugurr/tmdb-movie-app) (4 days ago)
 - [zerotohero-dev/deers](https://github.com/zerotohero-dev/deers) - :deers: ASCII deers (5 days ago)
@@ -74,7 +75,6 @@
 - [mert-aydin/SWE-599](https://github.com/mert-aydin/SWE-599) - Repository for BOUN SWE-599 Project course. (1 week ago)
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster. (1 week ago)
 - [spiffe/spire](https://github.com/spiffe/spire) - The SPIFFE Runtime Environment (1 week ago)
-- [open-mmlab/mmpose](https://github.com/open-mmlab/mmpose) - OpenMMLab Pose Estimation Toolbox and Benchmark. (1 week ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
