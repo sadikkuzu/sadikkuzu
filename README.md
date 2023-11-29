@@ -63,6 +63,7 @@
 
 #### ⭐ Recent stars
 
+- [GoshgarIsmayilov/FS-NSGA-II](https://github.com/GoshgarIsmayilov/FS-NSGA-II) - FS-NSGA-II: Multi-Objective Feature Selection in Gene Expression Data (today)
 - [emredevsalot/cowork-and-draw](https://github.com/emredevsalot/cowork-and-draw) - 🚀 A pomodoro app with collaboration and creativity. (3 days ago)
 - [facebookincubator/katran](https://github.com/facebookincubator/katran) - A high performance layer 4 load balancer (4 days ago)
 - [aladinugurr/tmdb-movie-app](https://github.com/aladinugurr/tmdb-movie-app) (1 week ago)
@@ -72,7 +73,6 @@
 - [leomaurodesenv/game-datasets](https://github.com/leomaurodesenv/game-datasets) - :video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games (1 week ago)
 - [mert-aydin/SWE-599](https://github.com/mert-aydin/SWE-599) - Repository for BOUN SWE-599 Project course. (1 week ago)
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster. (1 week ago)
-- [spiffe/spire](https://github.com/spiffe/spire) - The SPIFFE Runtime Environment (1 week ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
