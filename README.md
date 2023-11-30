@@ -63,6 +63,7 @@
 
 #### ⭐ Recent stars
 
+- [huseyinbabal/quizzer](https://github.com/huseyinbabal/quizzer) - quizzer (today)
 - [ttbilgin/nc2csv](https://github.com/ttbilgin/nc2csv) (today)
 - [GoshgarIsmayilov/FS-NSGA-II](https://github.com/GoshgarIsmayilov/FS-NSGA-II) - FS-NSGA-II: Multi-Objective Feature Selection in Gene Expression Data (1 day ago)
 - [emredevsalot/cowork-and-draw](https://github.com/emredevsalot/cowork-and-draw) - 🚀 A pomodoro app with collaboration and creativity. (4 days ago)
@@ -72,7 +73,6 @@
 - [zerotohero-dev/volkan-uses-z2h-dev](https://github.com/zerotohero-dev/volkan-uses-z2h-dev) - Source code of volkan-uses.z2h.dev . (1 week ago)
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science! (1 week ago)
 - [leomaurodesenv/game-datasets](https://github.com/leomaurodesenv/game-datasets) - :video_game: A curated list of awesome game datasets, and tools to artificial intelligence in games (1 week ago)
-- [mert-aydin/SWE-599](https://github.com/mert-aydin/SWE-599) - Repository for BOUN SWE-599 Project course. (1 week ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
