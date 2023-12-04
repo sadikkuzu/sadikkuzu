@@ -19,7 +19,7 @@ jobs:
           template: "templates/sadikkuzu.tpl"
           writeTo: "README.md"
 
-      - uses: actions/upload-artifact@v1
+      - uses: actions/upload-artifact@v3
         with:
           name: README.md
           path: README.md
