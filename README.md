@@ -9,6 +9,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [BahadirAydin](https://github.com/BahadirAydin) Bahadır Aydın ]
 - [ [yufusuf](https://github.com/yufusuf) Yusuf  ]
 - [ [berkulutas](https://github.com/berkulutas) Berk Ulutas ]
 - [ [sknrk](https://github.com/sknrk) Emre Taşkın ]
@@ -18,7 +19,6 @@
 - [ [aladinugurr](https://github.com/aladinugurr) Alaaddin Uğur ]
 - [ [gurkanguray](https://github.com/gurkanguray) Guray Gurkan ]
 - [ [kaannvarsl](https://github.com/kaannvarsl) Kaan Varışlı ]
-- [ [alpaylan](https://github.com/alpaylan) Alperen Keleş ]
 
 #### 🎧 &nbsp; Good beats
 
