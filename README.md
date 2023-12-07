@@ -62,6 +62,7 @@
 
 #### ⭐ Recent stars
 
+- [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines. (today)
 - [mert-aydin/3DHumanPoseEstimation](https://github.com/mert-aydin/3DHumanPoseEstimation) - CV project for BOUN SWE 583 - Computer Vision class. (1 day ago)
 - [peter-evans/docker-compose-healthcheck](https://github.com/peter-evans/docker-compose-healthcheck) - How to wait for container X before starting Y using docker-compose healthcheck (1 week ago)
 - [huseyinbabal/quizzer](https://github.com/huseyinbabal/quizzer) - quizzer (1 week ago)
@@ -71,7 +72,6 @@
 - [facebookincubator/katran](https://github.com/facebookincubator/katran) - A high performance layer 4 load balancer (1 week ago)
 - [aladinugurr/tmdb-movie-app](https://github.com/aladinugurr/tmdb-movie-app) (2 weeks ago)
 - [zerotohero-dev/deers](https://github.com/zerotohero-dev/deers) - :deers: ASCII deers (2 weeks ago)
-- [zerotohero-dev/volkan-uses-z2h-dev](https://github.com/zerotohero-dev/volkan-uses-z2h-dev) - Source code of volkan-uses.z2h.dev . (2 weeks ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
