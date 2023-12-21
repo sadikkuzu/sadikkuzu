@@ -52,7 +52,7 @@
 1. [**grafana/beyla**](https://github.com/grafana/beyla/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/grafana/beyla?style=social)](https://github.com/grafana/beyla/stargazers) - eBPF-based autoinstrumentation of HTTP and HTTPS services (3 months ago)
 1. [**kamp-us/monorepo**](https://github.com/kamp-us/monorepo/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/kamp-us/monorepo?style=social)](https://github.com/kamp-us/monorepo/stargazers) - kamp.us web projects &amp; packages (3 months ago)
 1. [**Ealenn/Echo-Server**](https://github.com/Ealenn/Echo-Server/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/Ealenn/Echo-Server?style=social)](https://github.com/Ealenn/Echo-Server/stargazers) - REST Server Tests (Echo-Server) API / Docker / Kubernetes / Helm (4 months ago)
-1. [**eser/aya-website**](https://github.com/eser/aya-website/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/eser/aya-website?style=social)](https://github.com/eser/aya-website/stargazers) - açık yazılım ağı web sitesi kaynak kodları (4 months ago)
+1. [**eser/aya-website**](https://github.com/eser/aya-website/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/eser/aya-website?style=social)](https://github.com/eser/aya-website/stargazers) - açık yazılım ağı web sitesi kaynak kodları (5 months ago)
 1. [**gitleaks/gitleaks**](https://github.com/gitleaks/gitleaks/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/gitleaks/gitleaks?style=social)](https://github.com/gitleaks/gitleaks/stargazers) - Protect and discover secrets using Gitleaks 🔑 (9 months ago)
 1. [**bounswemsc/bounswemsc.github.io**](https://github.com/bounswemsc/bounswemsc.github.io/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/bounswemsc/bounswemsc.github.io?style=social)](https://github.com/bounswemsc/bounswemsc.github.io/stargazers) - BOUN SWE MSc website (9 months ago)
 1. [**stripe/stripe-python**](https://github.com/stripe/stripe-python/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/stripe/stripe-python?style=social)](https://github.com/stripe/stripe-python/stargazers) - Python library for the Stripe API.     (9 months ago)
@@ -63,16 +63,16 @@
 
 #### ⭐ Recent stars
 
-- [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines. (1 week ago)
+- [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines. (2 weeks ago)
 - [mert-aydin/3DHumanPoseEstimation](https://github.com/mert-aydin/3DHumanPoseEstimation) - CV project for BOUN SWE 583 - Computer Vision class. (2 weeks ago)
-- [peter-evans/docker-compose-healthcheck](https://github.com/peter-evans/docker-compose-healthcheck) - How to wait for container X before starting Y using docker-compose healthcheck (2 weeks ago)
-- [huseyinbabal/quizzer](https://github.com/huseyinbabal/quizzer) - quizzer (2 weeks ago)
-- [ttbilgin/nc2csv](https://github.com/ttbilgin/nc2csv) (2 weeks ago)
+- [peter-evans/docker-compose-healthcheck](https://github.com/peter-evans/docker-compose-healthcheck) - How to wait for container X before starting Y using docker-compose healthcheck (3 weeks ago)
+- [huseyinbabal/quizzer](https://github.com/huseyinbabal/quizzer) - quizzer (3 weeks ago)
+- [ttbilgin/nc2csv](https://github.com/ttbilgin/nc2csv) (3 weeks ago)
 - [GoshgarIsmayilov/FS-NSGA-II](https://github.com/GoshgarIsmayilov/FS-NSGA-II) - FS-NSGA-II: Multi-Objective Feature Selection in Gene Expression Data (3 weeks ago)
 - [emredevsalot/cowork-and-draw](https://github.com/emredevsalot/cowork-and-draw) - 🚀 A pomodoro app with collaboration and creativity. (3 weeks ago)
 - [facebookincubator/katran](https://github.com/facebookincubator/katran) - A high performance layer 4 load balancer (3 weeks ago)
 - [aladinugurr/tmdb-movie-app](https://github.com/aladinugurr/tmdb-movie-app) (4 weeks ago)
-- [zerotohero-dev/deers](https://github.com/zerotohero-dev/deers) - :deers: ASCII deers (4 weeks ago)
+- [zerotohero-dev/deers](https://github.com/zerotohero-dev/deers) - :deers: ASCII deers (1 month ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
