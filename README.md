@@ -9,6 +9,8 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [KeremNoyan](https://github.com/KeremNoyan)  ]
+- [ [Mervekalaycim](https://github.com/Mervekalaycim)  ]
 - [ [ibalpinar](https://github.com/ibalpinar) Ilker Balpinar ]
 - [ [mrtergl](https://github.com/mrtergl) Murat Ergül ]
 - [ [BahadirAydin](https://github.com/BahadirAydin) Bahadır Aydın ]
@@ -17,8 +19,6 @@
 - [ [sknrk](https://github.com/sknrk) Emre Taşkın ]
 - [ [mustafakaracuha](https://github.com/mustafakaracuha) Mustafa ]
 - [ [CoderMungan](https://github.com/CoderMungan) Mehmet Halil MUNGAN ]
-- [ [abdelkaderhassine](https://github.com/abdelkaderhassine)  ]
-- [ [aladinugurr](https://github.com/aladinugurr) Alaaddin Uğur ]
 
 #### 🎧 &nbsp; Good beats
 
