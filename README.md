@@ -9,6 +9,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [HakanAkozBoun](https://github.com/HakanAkozBoun) Hakan Aköz ]
 - [ [zerdafatmanur](https://github.com/zerdafatmanur)  ]
 - [ [muhammedozel](https://github.com/muhammedozel) Muhammed Özel ]
 - [ [KeremNoyan](https://github.com/KeremNoyan)  ]
@@ -18,7 +19,6 @@
 - [ [BahadirAydin](https://github.com/BahadirAydin) Bahadır Aydın ]
 - [ [yufusuf](https://github.com/yufusuf) Yusuf  ]
 - [ [berkulutas](https://github.com/berkulutas) Berk Ulutas ]
-- [ [sknrk](https://github.com/sknrk) Emre Taşkın ]
 
 #### 🎧 &nbsp; Good beats
 
