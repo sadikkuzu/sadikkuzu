@@ -25,8 +25,8 @@
 [![Mr. Kuzu's Recently Played Music on Spotify](https://spotify-recently-played-readme.vercel.app/api?user=5cfgfpgmik69ly41rspaiod2a&count=3&unique=1)](https://open.spotify.com/user/5cfgfpgmik69ly41rspaiod2a)
 
 #### 🚀 &nbsp; Open source projects I've contributed to
-1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io/stargazers) - SWE574 Fall2023 Group1 website (3 days ago)
-1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-G1**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-G1?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/stargazers) - Project for SWE 574 - Group 1 (5 days ago)
+1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io/stargazers) - SWE574 Fall2023 Group1 website (4 days ago)
+1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-G1**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-G1?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/stargazers) - Project for SWE 574 - Group 1 (6 days ago)
 1. [**vmware-tanzu/secrets-manager**](https://github.com/vmware-tanzu/secrets-manager/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/vmware-tanzu/secrets-manager?style=social)](https://github.com/vmware-tanzu/secrets-manager/stargazers) - VMware Secrets Manager for Cloud-Native Apps is a lightweight secrets manager to protect your sensitive data. It’s perfect for edge deployments where energy and footprint requirements are strict—See more: https://vsecm.com/ (2 weeks ago)
 1. [**mert-aydin/3DHumanPoseEstimation**](https://github.com/mert-aydin/3DHumanPoseEstimation/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/mert-aydin/3DHumanPoseEstimation?style=social)](https://github.com/mert-aydin/3DHumanPoseEstimation/stargazers) - CV project for BOUN SWE 583 - Computer Vision class. (2 weeks ago)
 1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-G1-mobile**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1-mobile/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-G1-mobile?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1-mobile/stargazers) - Mobile code repository for SWE574 Fall2023 Group1 (3 weeks ago)
@@ -44,7 +44,7 @@
 1. [**leanprover/lean4**](https://github.com/leanprover/lean4/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/leanprover/lean4?style=social)](https://github.com/leanprover/lean4/stargazers) - Lean 4 programming language and theorem prover (2 months ago)
 1. [**roman-right/beanie**](https://github.com/roman-right/beanie/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/roman-right/beanie?style=social)](https://github.com/roman-right/beanie/stargazers) - Asynchronous Python ODM for MongoDB (2 months ago)
 1. [**rust-build/rust-build.action**](https://github.com/rust-build/rust-build.action/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/rust-build/rust-build.action?style=social)](https://github.com/rust-build/rust-build.action/stargazers) - Automate publishing Rust build artifacts for GitHub releases through GitHub Actions (2 months ago)
-1. [**bevyengine/bevy**](https://github.com/bevyengine/bevy/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/bevyengine/bevy?style=social)](https://github.com/bevyengine/bevy/stargazers) - A refreshingly simple data-driven game engine built in Rust (2 months ago)
+1. [**bevyengine/bevy**](https://github.com/bevyengine/bevy/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/bevyengine/bevy?style=social)](https://github.com/bevyengine/bevy/stargazers) - A refreshingly simple data-driven game engine built in Rust (3 months ago)
 1. [**log4mongo/log4mongo-python**](https://github.com/log4mongo/log4mongo-python/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/log4mongo/log4mongo-python?style=social)](https://github.com/log4mongo/log4mongo-python/stargazers) - python logging handler for mongo database (3 months ago)
 1. [**godotengine/godot**](https://github.com/godotengine/godot/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/godotengine/godot?style=social)](https://github.com/godotengine/godot/stargazers) - Godot Engine – Multi-platform 2D and 3D game engine (3 months ago)
 1. [**sananeminli/BOUN_Carrel_Telegram_Bot**](https://github.com/sananeminli/BOUN_Carrel_Telegram_Bot/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/sananeminli/BOUN_Carrel_Telegram_Bot?style=social)](https://github.com/sananeminli/BOUN_Carrel_Telegram_Bot/stargazers) -  (3 months ago)
@@ -64,11 +64,11 @@
 
 #### ⭐ Recent stars
 
-- [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines. (2 weeks ago)
+- [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines. (3 weeks ago)
 - [mert-aydin/3DHumanPoseEstimation](https://github.com/mert-aydin/3DHumanPoseEstimation) - CV project for BOUN SWE 583 - Computer Vision class. (3 weeks ago)
-- [peter-evans/docker-compose-healthcheck](https://github.com/peter-evans/docker-compose-healthcheck) - How to wait for container X before starting Y using docker-compose healthcheck (3 weeks ago)
-- [huseyinbabal/quizzer](https://github.com/huseyinbabal/quizzer) - quizzer (3 weeks ago)
-- [ttbilgin/nc2csv](https://github.com/ttbilgin/nc2csv) (3 weeks ago)
+- [peter-evans/docker-compose-healthcheck](https://github.com/peter-evans/docker-compose-healthcheck) - How to wait for container X before starting Y using docker-compose healthcheck (4 weeks ago)
+- [huseyinbabal/quizzer](https://github.com/huseyinbabal/quizzer) - quizzer (4 weeks ago)
+- [ttbilgin/nc2csv](https://github.com/ttbilgin/nc2csv) (4 weeks ago)
 - [GoshgarIsmayilov/FS-NSGA-II](https://github.com/GoshgarIsmayilov/FS-NSGA-II) - FS-NSGA-II: Multi-Objective Feature Selection in Gene Expression Data (4 weeks ago)
 - [emredevsalot/cowork-and-draw](https://github.com/emredevsalot/cowork-and-draw) - 🚀 A pomodoro app with collaboration and creativity. (1 month ago)
 - [facebookincubator/katran](https://github.com/facebookincubator/katran) - A high performance layer 4 load balancer (1 month ago)
