@@ -9,6 +9,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [bcobanoglu](https://github.com/bcobanoglu) Bülent Hoca ]
 - [ [ahmetssaglam](https://github.com/ahmetssaglam) Ahmet Said Sağlam ]
 - [ [HakanAkozBoun](https://github.com/HakanAkozBoun) Hakan Aköz ]
 - [ [zerdafatmanur](https://github.com/zerdafatmanur)  ]
@@ -18,7 +19,6 @@
 - [ [ibalpinar](https://github.com/ibalpinar) Ilker Balpinar ]
 - [ [mrtergl](https://github.com/mrtergl) Murat Ergül ]
 - [ [BahadirAydin](https://github.com/BahadirAydin) Bahadır Aydın ]
-- [ [yufusuf](https://github.com/yufusuf) Yusuf  ]
 
 #### 🎧 &nbsp; Good beats
 
