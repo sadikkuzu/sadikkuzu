@@ -9,6 +9,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [bpradiip](https://github.com/bpradiip) Pradip Banjara ]
 - [ [furkansenn](https://github.com/furkansenn) Furkan ]
 - [ [HeyHeyChicken](https://github.com/HeyHeyChicken) Antoine Duval ]
 - [ [bcobanoglu](https://github.com/bcobanoglu) Bülent Hoca ]
@@ -18,7 +19,6 @@
 - [ [muhammedozel](https://github.com/muhammedozel) Muhammed Özel ]
 - [ [KeremNoyan](https://github.com/KeremNoyan)  ]
 - [ [Mervekalaycim](https://github.com/Mervekalaycim)  ]
-- [ [ibalpinar](https://github.com/ibalpinar) Ilker Balpinar ]
 
 #### 🎧 &nbsp; Good beats
 
