@@ -11,7 +11,6 @@
 
 - [ [bpradiip](https://github.com/bpradiip) Pradip Banjara ]
 - [ [furkansenn](https://github.com/furkansenn) Furkan ]
-- [ [HeyHeyChicken](https://github.com/HeyHeyChicken) Antoine Duval ]
 - [ [bcobanoglu](https://github.com/bcobanoglu) Bülent Hoca ]
 - [ [ahmetssaglam](https://github.com/ahmetssaglam) Ahmet Said Sağlam ]
 - [ [HakanAkozBoun](https://github.com/HakanAkozBoun) Hakan Aköz ]
@@ -19,6 +18,7 @@
 - [ [muhammedozel](https://github.com/muhammedozel) Muhammed Özel ]
 - [ [KeremNoyan](https://github.com/KeremNoyan)  ]
 - [ [Mervekalaycim](https://github.com/Mervekalaycim)  ]
+- [ [ibalpinar](https://github.com/ibalpinar) Ilker Balpinar ]
 
 #### 🎧 &nbsp; Good beats
 
