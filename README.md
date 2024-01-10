@@ -9,7 +9,6 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
-- [ [bpradiip](https://github.com/bpradiip) Pradip Banjara ]
 - [ [furkansenn](https://github.com/furkansenn) Furkan ]
 - [ [bcobanoglu](https://github.com/bcobanoglu) Bülent Hoca ]
 - [ [ahmetssaglam](https://github.com/ahmetssaglam) Ahmet Said Sağlam ]
@@ -19,6 +18,7 @@
 - [ [KeremNoyan](https://github.com/KeremNoyan)  ]
 - [ [Mervekalaycim](https://github.com/Mervekalaycim)  ]
 - [ [ibalpinar](https://github.com/ibalpinar) Ilker Balpinar ]
+- [ [mrtergl](https://github.com/mrtergl) Murat Ergül ]
 
 #### 🎧 &nbsp; Good beats
 
