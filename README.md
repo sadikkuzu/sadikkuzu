@@ -65,6 +65,7 @@
 
 #### ⭐ Recent stars
 
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - Personal finance and wealth management app (today)
 - [isovalent/CCA-Study-Guide](https://github.com/isovalent/CCA-Study-Guide) - Cilium Certified Associate Certification Study Guide (4 days ago)
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform. (1 week ago)
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files (2 weeks ago)
@@ -74,7 +75,6 @@
 - [huseyinbabal/quizzer](https://github.com/huseyinbabal/quizzer) - quizzer (1 month ago)
 - [ttbilgin/nc2csv](https://github.com/ttbilgin/nc2csv) (1 month ago)
 - [GoshgarIsmayilov/FS-NSGA-II](https://github.com/GoshgarIsmayilov/FS-NSGA-II) - FS-NSGA-II: Multi-Objective Feature Selection in Gene Expression Data (1 month ago)
-- [emredevsalot/cowork-and-draw](https://github.com/emredevsalot/cowork-and-draw) - 🚀 A pomodoro app with collaboration and creativity. (1 month ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
