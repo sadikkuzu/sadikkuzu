@@ -5,11 +5,6 @@
 [![Update-action status](https://github.com/sadikkuzu/sadikkuzu/actions/workflows/sadikkuzu.yml/badge.svg)](https://github.com/sadikkuzu/sadikkuzu/actions/workflows/sadikkuzu.yml)
 [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/sadikkuzu/sadikkuzu/master.svg)](https://results.pre-commit.ci/latest/github/sadikkuzu/sadikkuzu/master)
 
-<!---
-#### 🏃‍♂️ &nbsp; Charity run
-I ran in [the Istanbul Marathon](https://maraton.istanbul/?lang=en) on November 6th.<br/>
-If you want to support me, you can donate at [my Run For Good campaign](https://ipk.adimadim.org/kampanya/CC87492) page until November 21st.
---->
 
 #### 🔭 &nbsp; Check out my recent followers
 {{range followers 10}}
@@ -20,25 +15,6 @@ If you want to support me, you can donate at [my Run For Good campaign](https://
 
 [![Mr. Kuzu's Recently Played Music on Spotify](https://spotify-recently-played-readme.vercel.app/api?user=5cfgfpgmik69ly41rspaiod2a&count=3&unique=1)](https://open.spotify.com/user/5cfgfpgmik69ly41rspaiod2a)
 
-#### 🚀 &nbsp; Open source projects I've contributed to
-{{range recentContributions 100 }}
-{{- if (ne "sadikkuzu" (slice .Repo.Name 0 9)) -}}
-{{- if (ne "SweDinamo" (slice .Repo.Name 0 9)) -}}
-{{- if (ne "dberkerdem" (slice .Repo.Name 0 10)) -}}
-{{- if (ne "enshkn" (slice .Repo.Name 0 6)) -}}
-{{- if (ne "msgsumat" (slice .Repo.Name 0 8)) -}}
-1. [**{{.Repo.Name}}**]({{.Repo.URL}}/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/{{.Repo.Name}}?style=social)](https://github.com/{{.Repo.Name}}/stargazers) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-{{ end -}}
-{{ end -}}
-{{ end -}}
-{{ end -}}
-{{ end -}}
-{{- end}}
-
-#### ⭐ Recent stars
-{{range recentStars 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .StarredAt}})
-{{- end }}
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
