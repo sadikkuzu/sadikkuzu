@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [guzelcihad](https://github.com/guzelcihad) Cihad Güzel ]
 - [ [DougThompson1976](https://github.com/DougThompson1976) Doug Thompson ]
 - [ [furkansenn](https://github.com/furkansenn) Furkan ]
 - [ [bcobanoglu](https://github.com/bcobanoglu) Bülent Hoca ]
@@ -17,7 +18,6 @@
 - [ [muhammedozel](https://github.com/muhammedozel) Muhammed Özel ]
 - [ [KeremNoyan](https://github.com/KeremNoyan)  ]
 - [ [Mervekalaycim](https://github.com/Mervekalaycim)  ]
-- [ [ibalpinar](https://github.com/ibalpinar) Ilker Balpinar ]
 
 #### 🎧 &nbsp; Good beats
 
