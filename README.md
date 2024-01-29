@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [kemalceng](https://github.com/kemalceng) Kemal Beşkardeşler ]
 - [ [Med-NAIMI](https://github.com/Med-NAIMI) NAIMI Mohammed ]
 - [ [guzelcihad](https://github.com/guzelcihad) Cihad Güzel ]
 - [ [DougThompson1976](https://github.com/DougThompson1976) Doug Thompson ]
@@ -17,7 +18,6 @@
 - [ [HakanAkozBoun](https://github.com/HakanAkozBoun) Hakan Aköz ]
 - [ [zerdafatmanur](https://github.com/zerdafatmanur)  ]
 - [ [muhammedozel](https://github.com/muhammedozel) Muhammed Özel ]
-- [ [KeremNoyan](https://github.com/KeremNoyan)  ]
 
 #### 🎧 &nbsp; Good beats
 
