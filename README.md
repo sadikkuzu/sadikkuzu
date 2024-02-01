@@ -64,6 +64,7 @@
 
 #### ⭐ Recent stars
 
+- [habipakyol/SQL](https://github.com/habipakyol/SQL) - SQL Course Notes (today)
 - [mrtergl/habit-tracker](https://github.com/mrtergl/habit-tracker) - Dockerized simple Java service using GitHub Actions (3 days ago)
 - [deenizhan/iyimi.com](https://github.com/deenizhan/iyimi.com) (2 weeks ago)
 - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs! (2 weeks ago)
@@ -73,7 +74,6 @@
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform. (1 month ago)
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files (1 month ago)
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines. (1 month ago)
-- [mert-aydin/3DHumanPoseEstimation](https://github.com/mert-aydin/3DHumanPoseEstimation) - CV project for BOUN SWE 583 - Computer Vision class. (1 month ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
