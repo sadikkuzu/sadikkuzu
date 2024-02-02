@@ -64,6 +64,8 @@
 
 #### ⭐ Recent stars
 
+- [yikiksistemci/argocd-fix-too-many-redirects](https://github.com/yikiksistemci/argocd-fix-too-many-redirects) (today)
+- [yikiksistemci/gitops-example-1](https://github.com/yikiksistemci/gitops-example-1) (today)
 - [habipakyol/SQL](https://github.com/habipakyol/SQL) - SQL Course Notes (1 day ago)
 - [mrtergl/habit-tracker](https://github.com/mrtergl/habit-tracker) - Dockerized simple Java service using GitHub Actions (4 days ago)
 - [deenizhan/iyimi.com](https://github.com/deenizhan/iyimi.com) (2 weeks ago)
@@ -72,8 +74,6 @@
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - Personal finance and wealth management app (2 weeks ago)
 - [isovalent/CCA-Study-Guide](https://github.com/isovalent/CCA-Study-Guide) - Cilium Certified Associate Certification Study Guide (3 weeks ago)
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform. (1 month ago)
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files (1 month ago)
-- [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines. (1 month ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
