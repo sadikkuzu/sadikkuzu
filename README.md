@@ -71,7 +71,7 @@
 - [deenizhan/iyimi.com](https://github.com/deenizhan/iyimi.com) (2 weeks ago)
 - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs! (2 weeks ago)
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust (2 weeks ago)
-- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - Personal finance and wealth management app (2 weeks ago)
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances (2 weeks ago)
 - [isovalent/CCA-Study-Guide](https://github.com/isovalent/CCA-Study-Guide) - Cilium Certified Associate Certification Study Guide (3 weeks ago)
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform. (1 month ago)
 
