@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [cansuzohre](https://github.com/cansuzohre) Cansu Zohre ]
 - [ [orkutmuratyilmaz](https://github.com/orkutmuratyilmaz) Orkut Murat Yılmaz ]
 - [ [kemalceng](https://github.com/kemalceng) Kemal Beşkardeşler ]
 - [ [Med-NAIMI](https://github.com/Med-NAIMI) NAIMI Mohammed ]
@@ -17,7 +18,6 @@
 - [ [bcobanoglu](https://github.com/bcobanoglu) Bülent Hoca ]
 - [ [ahmetssaglam](https://github.com/ahmetssaglam) Ahmet Said Sağlam ]
 - [ [HakanAkozBoun](https://github.com/HakanAkozBoun) Hakan Aköz ]
-- [ [zerdafatmanur](https://github.com/zerdafatmanur)  ]
 
 #### 🎧 &nbsp; Good beats
 
