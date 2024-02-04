@@ -64,10 +64,10 @@
 
 #### ⭐ Recent stars
 
-- [yikiksistemci/argocd-fix-too-many-redirects](https://github.com/yikiksistemci/argocd-fix-too-many-redirects) (1 day ago)
-- [yikiksistemci/gitops-example-1](https://github.com/yikiksistemci/gitops-example-1) (1 day ago)
-- [habipakyol/SQL](https://github.com/habipakyol/SQL) - SQL Course Notes (2 days ago)
-- [mrtergl/habit-tracker](https://github.com/mrtergl/habit-tracker) - Dockerized simple Java service using GitHub Actions (5 days ago)
+- [yikiksistemci/argocd-fix-too-many-redirects](https://github.com/yikiksistemci/argocd-fix-too-many-redirects) (2 days ago)
+- [yikiksistemci/gitops-example-1](https://github.com/yikiksistemci/gitops-example-1) (2 days ago)
+- [habipakyol/SQL](https://github.com/habipakyol/SQL) - SQL Course Notes (3 days ago)
+- [mrtergl/habit-tracker](https://github.com/mrtergl/habit-tracker) - Dockerized simple Java service using GitHub Actions (6 days ago)
 - [deenizhan/iyimi.com](https://github.com/deenizhan/iyimi.com) (2 weeks ago)
 - [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs! (2 weeks ago)
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust (2 weeks ago)
