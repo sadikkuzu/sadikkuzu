@@ -55,19 +55,19 @@
 1. [**facebookresearch/hydra**](https://github.com/facebookresearch/hydra/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/facebookresearch/hydra?style=social)](https://github.com/facebookresearch/hydra/stargazers) - Hydra is a framework for elegantly configuring complex applications (10 months ago)
 1. [**gitleaks/gitleaks**](https://github.com/gitleaks/gitleaks/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/gitleaks/gitleaks?style=social)](https://github.com/gitleaks/gitleaks/stargazers) - Protect and discover secrets using Gitleaks 🔑 (10 months ago)
 1. [**bounswemsc/bounswemsc.github.io**](https://github.com/bounswemsc/bounswemsc.github.io/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/bounswemsc/bounswemsc.github.io?style=social)](https://github.com/bounswemsc/bounswemsc.github.io/stargazers) - BOUN SWE MSc website (10 months ago)
-1. [**stripe/stripe-python**](https://github.com/stripe/stripe-python/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/stripe/stripe-python?style=social)](https://github.com/stripe/stripe-python/stargazers) - Python library for the Stripe API.     (10 months ago)
+1. [**stripe/stripe-python**](https://github.com/stripe/stripe-python/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/stripe/stripe-python?style=social)](https://github.com/stripe/stripe-python/stargazers) - Python library for the Stripe API.     (11 months ago)
 1. [**bounswemsc/.github**](https://github.com/bounswemsc/.github/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/bounswemsc/.github?style=social)](https://github.com/bounswemsc/.github/stargazers) - BOUN SWE MSc. (11 months ago)
 1. [**pypi/warehouse**](https://github.com/pypi/warehouse/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/pypi/warehouse?style=social)](https://github.com/pypi/warehouse/stargazers) - The Python Package Index (1 year ago)
 
 
 #### ⭐ Recent stars
 
-- [yikiksistemci/argocd-fix-too-many-redirects](https://github.com/yikiksistemci/argocd-fix-too-many-redirects) (4 days ago)
-- [yikiksistemci/gitops-example-1](https://github.com/yikiksistemci/gitops-example-1) (4 days ago)
-- [habipakyol/SQL](https://github.com/habipakyol/SQL) - SQL Course Notes (5 days ago)
+- [yikiksistemci/argocd-fix-too-many-redirects](https://github.com/yikiksistemci/argocd-fix-too-many-redirects) (5 days ago)
+- [yikiksistemci/gitops-example-1](https://github.com/yikiksistemci/gitops-example-1) (5 days ago)
+- [habipakyol/SQL](https://github.com/habipakyol/SQL) - SQL Course Notes (6 days ago)
 - [mrtergl/habit-tracker](https://github.com/mrtergl/habit-tracker) - Dockerized simple Java service using GitHub Actions (1 week ago)
-- [deenizhan/iyimi.com](https://github.com/deenizhan/iyimi.com) (2 weeks ago)
-- [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs! (2 weeks ago)
+- [deenizhan/iyimi.com](https://github.com/deenizhan/iyimi.com) (3 weeks ago)
+- [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs! (3 weeks ago)
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust (3 weeks ago)
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances (3 weeks ago)
 - [isovalent/CCA-Study-Guide](https://github.com/isovalent/CCA-Study-Guide) - Cilium Certified Associate Certification Study Guide (3 weeks ago)
