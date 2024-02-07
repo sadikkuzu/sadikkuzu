@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [suysoftware](https://github.com/suysoftware) Ufuk Yavuz ]
 - [ [omersungur](https://github.com/omersungur) Ömer Sungur ]
 - [ [gokayybaz](https://github.com/gokayybaz) Gökay Baz ]
 - [ [hasansezertasan](https://github.com/hasansezertasan) Hasan Sezer Taşan ]
@@ -17,7 +18,6 @@
 - [ [Med-NAIMI](https://github.com/Med-NAIMI) NAIMI Mohammed ]
 - [ [guzelcihad](https://github.com/guzelcihad) Cihad Güzel ]
 - [ [DougThompson1976](https://github.com/DougThompson1976) Doug Thompson ]
-- [ [furkansenn](https://github.com/furkansenn) Furkan ]
 
 #### 🎧 &nbsp; Good beats
 
