@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [gokayybaz](https://github.com/gokayybaz) Gökay Baz ]
 - [ [hasansezertasan](https://github.com/hasansezertasan) Hasan Sezer Taşan ]
 - [ [cansuzohre](https://github.com/cansuzohre) Cansu Zohre ]
 - [ [orkutmuratyilmaz](https://github.com/orkutmuratyilmaz) Orkut Murat Yılmaz ]
@@ -17,7 +18,6 @@
 - [ [DougThompson1976](https://github.com/DougThompson1976) Doug Thompson ]
 - [ [furkansenn](https://github.com/furkansenn) Furkan ]
 - [ [bcobanoglu](https://github.com/bcobanoglu) Bülent Hoca ]
-- [ [ahmetssaglam](https://github.com/ahmetssaglam) Ahmet Said Sağlam ]
 
 #### 🎧 &nbsp; Good beats
 
