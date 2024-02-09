@@ -62,8 +62,8 @@
 
 #### ⭐ Recent stars
 
-- [yikiksistemci/argocd-fix-too-many-redirects](https://github.com/yikiksistemci/argocd-fix-too-many-redirects) (6 days ago)
-- [yikiksistemci/gitops-example-1](https://github.com/yikiksistemci/gitops-example-1) (6 days ago)
+- [yikiksistemci/argocd-fix-too-many-redirects](https://github.com/yikiksistemci/argocd-fix-too-many-redirects) (1 week ago)
+- [yikiksistemci/gitops-example-1](https://github.com/yikiksistemci/gitops-example-1) (1 week ago)
 - [habipakyol/SQL](https://github.com/habipakyol/SQL) - SQL Course Notes (1 week ago)
 - [mrtergl/habit-tracker](https://github.com/mrtergl/habit-tracker) - Dockerized simple Java service using GitHub Actions (1 week ago)
 - [deenizhan/iyimi.com](https://github.com/deenizhan/iyimi.com) (3 weeks ago)
