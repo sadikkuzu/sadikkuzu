@@ -24,7 +24,7 @@
 [![Mr. Kuzu's Recently Played Music on Spotify](https://spotify-recently-played-readme.vercel.app/api?user=5cfgfpgmik69ly41rspaiod2a&count=3&unique=1)](https://open.spotify.com/user/5cfgfpgmik69ly41rspaiod2a)
 
 #### 🚀 &nbsp; Open source projects I've contributed to
-1. [**mert-aydin/3DHumanPoseEstimation**](https://github.com/mert-aydin/3DHumanPoseEstimation/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/mert-aydin/3DHumanPoseEstimation?style=social)](https://github.com/mert-aydin/3DHumanPoseEstimation/stargazers) - CV project for BOUN SWE 583 - Computer Vision class. (3 weeks ago)
+1. [**mert-aydin/3DHumanPoseEstimation**](https://github.com/mert-aydin/3DHumanPoseEstimation/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/mert-aydin/3DHumanPoseEstimation?style=social)](https://github.com/mert-aydin/3DHumanPoseEstimation/stargazers) - CV project for BOUN SWE 583 - Computer Vision class. (4 weeks ago)
 1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io/stargazers) - SWE574 Fall2023 Group1 website (1 month ago)
 1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-G1**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-G1?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/stargazers) - Project for SWE 574 - Group 1 (1 month ago)
 1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-G1-mobile**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1-mobile/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-G1-mobile?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1-mobile/stargazers) - Mobile code repository for SWE574 Fall2023 Group1 (1 month ago)
@@ -63,7 +63,7 @@
 
 #### ⭐ Recent stars
 
-- [nedbat/watchgha](https://github.com/nedbat/watchgha) - Live display of current GitHub action runs (2 days ago)
+- [nedbat/watchgha](https://github.com/nedbat/watchgha) - Live display of current GitHub action runs (3 days ago)
 - [yikiksistemci/argocd-fix-too-many-redirects](https://github.com/yikiksistemci/argocd-fix-too-many-redirects) (1 week ago)
 - [yikiksistemci/gitops-example-1](https://github.com/yikiksistemci/gitops-example-1) (1 week ago)
 - [habipakyol/SQL](https://github.com/habipakyol/SQL) - SQL Course Notes (1 week ago)
