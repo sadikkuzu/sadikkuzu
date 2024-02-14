@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [warmice71](https://github.com/warmice71) Backend and Frontend Developer with Mern, Python, PHP, CMS ]
 - [ [Selman-S](https://github.com/Selman-S) selman ]
 - [ [suysoftware](https://github.com/suysoftware) Ufuk Yavuz ]
 - [ [gokayybaz](https://github.com/gokayybaz) Gökay Baz ]
@@ -17,7 +18,6 @@
 - [ [kemalceng](https://github.com/kemalceng) Kemal Beşkardeşler ]
 - [ [Med-NAIMI](https://github.com/Med-NAIMI) NAIMI Mohammed ]
 - [ [guzelcihad](https://github.com/guzelcihad) Cihad Güzel ]
-- [ [DougThompson1976](https://github.com/DougThompson1976) Doug Thompson ]
 
 #### 🎧 &nbsp; Good beats
 
