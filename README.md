@@ -63,14 +63,14 @@
 
 #### ⭐ Recent stars
 
-- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text. (1 day ago)
-- [nedbat/watchgha](https://github.com/nedbat/watchgha) - Live display of current GitHub action runs (5 days ago)
-- [yikiksistemci/argocd-fix-too-many-redirects](https://github.com/yikiksistemci/argocd-fix-too-many-redirects) (1 week ago)
-- [yikiksistemci/gitops-example-1](https://github.com/yikiksistemci/gitops-example-1) (1 week ago)
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text. (2 days ago)
+- [nedbat/watchgha](https://github.com/nedbat/watchgha) - Live display of current GitHub action runs (6 days ago)
+- [yikiksistemci/argocd-fix-too-many-redirects](https://github.com/yikiksistemci/argocd-fix-too-many-redirects) (2 weeks ago)
+- [yikiksistemci/gitops-example-1](https://github.com/yikiksistemci/gitops-example-1) (2 weeks ago)
 - [habipakyol/SQL](https://github.com/habipakyol/SQL) - SQL Course Notes (2 weeks ago)
 - [mrtergl/habit-tracker](https://github.com/mrtergl/habit-tracker) - Dockerized simple Java service using GitHub Actions (2 weeks ago)
-- [deenizhan/iyimi.com](https://github.com/deenizhan/iyimi.com) (4 weeks ago)
-- [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs! (4 weeks ago)
+- [deenizhan/iyimi.com](https://github.com/deenizhan/iyimi.com) (1 month ago)
+- [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs! (1 month ago)
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust (1 month ago)
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances (1 month ago)
 
