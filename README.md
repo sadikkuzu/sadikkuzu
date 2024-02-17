@@ -9,7 +9,7 @@
 #### 🔭 &nbsp; Check out my recent followers
 
 - [ [EnesEngel](https://github.com/EnesEngel)  ]
-- [ [warmice71](https://github.com/warmice71) Backend and Frontend Developer with Mern, Python, PHP, CMS ]
+- [ [warmice71](https://github.com/warmice71) Backend and Frontend Developer with MERN, Python, PHP, CMS ]
 - [ [Selman-S](https://github.com/Selman-S) selman ]
 - [ [suysoftware](https://github.com/suysoftware) Ufuk Yavuz ]
 - [ [gokayybaz](https://github.com/gokayybaz) Gökay Baz ]
