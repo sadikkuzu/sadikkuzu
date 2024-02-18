@@ -63,7 +63,7 @@
 
 #### ⭐ Recent stars
 
-- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text. (3 days ago)
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text. (4 days ago)
 - [nedbat/watchgha](https://github.com/nedbat/watchgha) - Live display of current GitHub action runs (1 week ago)
 - [yikiksistemci/argocd-fix-too-many-redirects](https://github.com/yikiksistemci/argocd-fix-too-many-redirects) (2 weeks ago)
 - [yikiksistemci/gitops-example-1](https://github.com/yikiksistemci/gitops-example-1) (2 weeks ago)
