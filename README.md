@@ -63,8 +63,8 @@
 
 #### ⭐ Recent stars
 
-- [kedehub/Knowledge-Centric.org](https://github.com/kedehub/Knowledge-Centric.org) - This is the repo for the site Knowledge-Centric.org (1 day ago)
-- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text. (6 days ago)
+- [kedehub/Knowledge-Centric.org](https://github.com/kedehub/Knowledge-Centric.org) - This is the repo for the site Knowledge-Centric.org (2 days ago)
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text. (1 week ago)
 - [nedbat/watchgha](https://github.com/nedbat/watchgha) - Live display of current GitHub action runs (1 week ago)
 - [yikiksistemci/argocd-fix-too-many-redirects](https://github.com/yikiksistemci/argocd-fix-too-many-redirects) (2 weeks ago)
 - [yikiksistemci/gitops-example-1](https://github.com/yikiksistemci/gitops-example-1) (2 weeks ago)
