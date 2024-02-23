@@ -63,6 +63,7 @@
 
 #### ⭐ Recent stars
 
+- [doganulus/awsim-container](https://github.com/doganulus/awsim-container) (today)
 - [Netflix/bpftop](https://github.com/Netflix/bpftop) - bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program. (1 day ago)
 - [kedehub/Knowledge-Centric.org](https://github.com/kedehub/Knowledge-Centric.org) - This is the repo for the site Knowledge-Centric.org (4 days ago)
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text. (1 week ago)
@@ -72,7 +73,6 @@
 - [habipakyol/SQL](https://github.com/habipakyol/SQL) - SQL Course Notes (3 weeks ago)
 - [mrtergl/habit-tracker](https://github.com/mrtergl/habit-tracker) - Dockerized simple Java service using GitHub Actions (3 weeks ago)
 - [deenizhan/iyimi.com](https://github.com/deenizhan/iyimi.com) (1 month ago)
-- [danluu/post-mortems](https://github.com/danluu/post-mortems) - A collection of postmortems. Sorry for the delay in merging PRs! (1 month ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
