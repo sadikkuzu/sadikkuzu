@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [FatihG34](https://github.com/FatihG34) Fatih GÜNAYDIN ]
 - [ [EnesEngel](https://github.com/EnesEngel)  ]
 - [ [warmice71](https://github.com/warmice71) Backend and Frontend Developer with MERN, Python, PHP, CMS ]
 - [ [Selman-S](https://github.com/Selman-S) selman ]
@@ -17,7 +18,6 @@
 - [ [cansuzohre](https://github.com/cansuzohre) Cansu Zohre ]
 - [ [orkutmuratyilmaz](https://github.com/orkutmuratyilmaz) Orkut Murat Yılmaz ]
 - [ [kemalceng](https://github.com/kemalceng) Kemal Beşkardeşler ]
-- [ [Med-NAIMI](https://github.com/Med-NAIMI) NAIMI Mohammed ]
 
 #### 🎧 &nbsp; Good beats
 
