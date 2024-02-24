@@ -42,7 +42,7 @@
 1. [**roman-right/beanie**](https://github.com/roman-right/beanie/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/roman-right/beanie?style=social)](https://github.com/roman-right/beanie/stargazers) - Asynchronous Python ODM for MongoDB (4 months ago)
 1. [**rust-build/rust-build.action**](https://github.com/rust-build/rust-build.action/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/rust-build/rust-build.action?style=social)](https://github.com/rust-build/rust-build.action/stargazers) - Automate publishing Rust build artifacts for GitHub releases through GitHub Actions (4 months ago)
 1. [**bevyengine/bevy**](https://github.com/bevyengine/bevy/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/bevyengine/bevy?style=social)](https://github.com/bevyengine/bevy/stargazers) - A refreshingly simple data-driven game engine built in Rust (4 months ago)
-1. [**log4mongo/log4mongo-python**](https://github.com/log4mongo/log4mongo-python/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/log4mongo/log4mongo-python?style=social)](https://github.com/log4mongo/log4mongo-python/stargazers) - python logging handler for mongo database (4 months ago)
+1. [**log4mongo/log4mongo-python**](https://github.com/log4mongo/log4mongo-python/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/log4mongo/log4mongo-python?style=social)](https://github.com/log4mongo/log4mongo-python/stargazers) - python logging handler for mongo database (5 months ago)
 1. [**sananeminli/BOUN_Carrel_Telegram_Bot**](https://github.com/sananeminli/BOUN_Carrel_Telegram_Bot/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/sananeminli/BOUN_Carrel_Telegram_Bot?style=social)](https://github.com/sananeminli/BOUN_Carrel_Telegram_Bot/stargazers) -  (5 months ago)
 1. [**godotengine/godot**](https://github.com/godotengine/godot/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/godotengine/godot?style=social)](https://github.com/godotengine/godot/stargazers) - Godot Engine – Multi-platform 2D and 3D game engine (5 months ago)
 1. [**gis-ops/routingpy**](https://github.com/gis-ops/routingpy/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/gis-ops/routingpy?style=social)](https://github.com/gis-ops/routingpy/stargazers) - 🌎 Python library to access all public routing, isochrones and matrix APIs in a consistent manner. (5 months ago)
@@ -58,16 +58,16 @@
 1. [**gitleaks/gitleaks**](https://github.com/gitleaks/gitleaks/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/gitleaks/gitleaks?style=social)](https://github.com/gitleaks/gitleaks/stargazers) - Protect and discover secrets using Gitleaks 🔑 (11 months ago)
 1. [**bounswemsc/bounswemsc.github.io**](https://github.com/bounswemsc/bounswemsc.github.io/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/bounswemsc/bounswemsc.github.io?style=social)](https://github.com/bounswemsc/bounswemsc.github.io/stargazers) - BOUN SWE MSc website (11 months ago)
 1. [**stripe/stripe-python**](https://github.com/stripe/stripe-python/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/stripe/stripe-python?style=social)](https://github.com/stripe/stripe-python/stargazers) - Python library for the Stripe API.     (11 months ago)
-1. [**bounswemsc/.github**](https://github.com/bounswemsc/.github/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/bounswemsc/.github?style=social)](https://github.com/bounswemsc/.github/stargazers) - BOUN SWE MSc. (11 months ago)
+1. [**bounswemsc/.github**](https://github.com/bounswemsc/.github/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/bounswemsc/.github?style=social)](https://github.com/bounswemsc/.github/stargazers) - BOUN SWE MSc. (1 year ago)
 
 
 #### ⭐ Recent stars
 
-- [doganulus/awsim-container](https://github.com/doganulus/awsim-container) (today)
-- [Netflix/bpftop](https://github.com/Netflix/bpftop) - bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program. (1 day ago)
-- [kedehub/Knowledge-Centric.org](https://github.com/kedehub/Knowledge-Centric.org) - This is the repo for the site Knowledge-Centric.org (4 days ago)
+- [doganulus/awsim-container](https://github.com/doganulus/awsim-container) (1 day ago)
+- [Netflix/bpftop](https://github.com/Netflix/bpftop) - bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program. (2 days ago)
+- [kedehub/Knowledge-Centric.org](https://github.com/kedehub/Knowledge-Centric.org) - This is the repo for the site Knowledge-Centric.org (5 days ago)
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text. (1 week ago)
-- [nedbat/watchgha](https://github.com/nedbat/watchgha) - Live display of current GitHub action runs (1 week ago)
+- [nedbat/watchgha](https://github.com/nedbat/watchgha) - Live display of current GitHub action runs (2 weeks ago)
 - [yikiksistemci/argocd-fix-too-many-redirects](https://github.com/yikiksistemci/argocd-fix-too-many-redirects) (3 weeks ago)
 - [yikiksistemci/gitops-example-1](https://github.com/yikiksistemci/gitops-example-1) (3 weeks ago)
 - [habipakyol/SQL](https://github.com/habipakyol/SQL) - SQL Course Notes (3 weeks ago)
