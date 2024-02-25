@@ -11,7 +11,7 @@
 - [ [alicanyucel](https://github.com/alicanyucel) Ali Can Yücel  ]
 - [ [FatihG34](https://github.com/FatihG34) Fatih GÜNAYDIN ]
 - [ [EnesEngel](https://github.com/EnesEngel)  ]
-- [ [warmice71](https://github.com/warmice71) Backend and Frontend Developer with MERN, Python, PHP, CMS ]
+- [ [warmice71](https://github.com/warmice71) Backend and Frontend Developer, and BlockChain developer ]
 - [ [Selman-S](https://github.com/Selman-S) selman ]
 - [ [suysoftware](https://github.com/suysoftware) Ufuk Yavuz ]
 - [ [gokayybaz](https://github.com/gokayybaz) Gökay Baz ]
