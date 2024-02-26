@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [cemulus](https://github.com/cemulus) Cem Ulus ]
 - [ [alicanyucel](https://github.com/alicanyucel) Ali Can Yücel  ]
 - [ [FatihG34](https://github.com/FatihG34) Fatih GÜNAYDIN ]
 - [ [EnesEngel](https://github.com/EnesEngel)  ]
@@ -17,7 +18,6 @@
 - [ [gokayybaz](https://github.com/gokayybaz) Gökay Baz ]
 - [ [hasansezertasan](https://github.com/hasansezertasan) Hasan Sezer Taşan ]
 - [ [cansuzohre](https://github.com/cansuzohre) Cansu Zohre ]
-- [ [orkutmuratyilmaz](https://github.com/orkutmuratyilmaz) Orkut Murat Yılmaz ]
 
 #### 🎧 &nbsp; Good beats
 
