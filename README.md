@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [yusufcanb](https://github.com/yusufcanb) Yusuf Can Bayrak ]
 - [ [cemulus](https://github.com/cemulus) Cem Ulus ]
 - [ [alicanyucel](https://github.com/alicanyucel) Ali Can Yücel  ]
 - [ [FatihG34](https://github.com/FatihG34) Fatih GÜNAYDIN ]
@@ -17,7 +18,6 @@
 - [ [suysoftware](https://github.com/suysoftware) Ufuk Yavuz ]
 - [ [gokayybaz](https://github.com/gokayybaz) Gökay Baz ]
 - [ [hasansezertasan](https://github.com/hasansezertasan) Hasan Sezer Taşan ]
-- [ [cansuzohre](https://github.com/cansuzohre) Cansu Zohre ]
 
 #### 🎧 &nbsp; Good beats
 
@@ -62,6 +62,7 @@
 
 #### ⭐ Recent stars
 
+- [yusufcanb/tlm](https://github.com/yusufcanb/tlm) - Local terminal companion, powered by CodeLLaMa. 💻🦙 (today)
 - [doganulus/awsim-container](https://github.com/doganulus/awsim-container) (4 days ago)
 - [Netflix/bpftop](https://github.com/Netflix/bpftop) - bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program. (5 days ago)
 - [kedehub/Knowledge-Centric.org](https://github.com/kedehub/Knowledge-Centric.org) - This is the repo for the site Knowledge-Centric.org (1 week ago)
@@ -71,7 +72,6 @@
 - [yikiksistemci/gitops-example-1](https://github.com/yikiksistemci/gitops-example-1) (3 weeks ago)
 - [habipakyol/SQL](https://github.com/habipakyol/SQL) - SQL Course Notes (3 weeks ago)
 - [mrtergl/habit-tracker](https://github.com/mrtergl/habit-tracker) - Dockerized simple Java service using GitHub Actions (4 weeks ago)
-- [deenizhan/iyimi.com](https://github.com/deenizhan/iyimi.com) (1 month ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
