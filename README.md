@@ -34,7 +34,7 @@
 1. [**COVESA/vehicle_signal_specification**](https://github.com/COVESA/vehicle_signal_specification/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/COVESA/vehicle_signal_specification?style=social)](https://github.com/COVESA/vehicle_signal_specification/stargazers) - Vehicle Signal Specification - standardized way to describe automotive data (3 months ago)
 1. [**sananeminli/Growdash-Hackathon**](https://github.com/sananeminli/Growdash-Hackathon/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/sananeminli/Growdash-Hackathon?style=social)](https://github.com/sananeminli/Growdash-Hackathon/stargazers) - Team Dinamo (3 months ago)
 1. [**vercel/next.js**](https://github.com/vercel/next.js/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/vercel/next.js?style=social)](https://github.com/vercel/next.js/stargazers) - The React Framework (3 months ago)
-1. [**nestjs/nest**](https://github.com/nestjs/nest/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/nestjs/nest?style=social)](https://github.com/nestjs/nest/stargazers) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀 (3 months ago)
+1. [**nestjs/nest**](https://github.com/nestjs/nest/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/nestjs/nest?style=social)](https://github.com/nestjs/nest/stargazers) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀 (4 months ago)
 1. [**calwoodford/anki_decks**](https://github.com/calwoodford/anki_decks/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/calwoodford/anki_decks?style=social)](https://github.com/calwoodford/anki_decks/stargazers) - Questions and answers for Anki spaced repetition software decks. (4 months ago)
 1. [**leanprover/lean4**](https://github.com/leanprover/lean4/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/leanprover/lean4?style=social)](https://github.com/leanprover/lean4/stargazers) - Lean 4 programming language and theorem prover (4 months ago)
 1. [**SWE574-Fall2023-Group1/.github**](https://github.com/SWE574-Fall2023-Group1/.github/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/.github?style=social)](https://github.com/SWE574-Fall2023-Group1/.github/stargazers) - SWE574 Fall2023 Group1 (4 months ago)
@@ -62,16 +62,16 @@
 
 #### ⭐ Recent stars
 
-- [yusufcanb/tlm](https://github.com/yusufcanb/tlm) - Local terminal companion, powered by CodeLLaMa. 💻🦙 (today)
-- [doganulus/awsim-container](https://github.com/doganulus/awsim-container) (4 days ago)
-- [Netflix/bpftop](https://github.com/Netflix/bpftop) - bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program. (5 days ago)
+- [yusufcanb/tlm](https://github.com/yusufcanb/tlm) - Local terminal companion, powered by CodeLLaMa. 💻🦙 (1 day ago)
+- [doganulus/awsim-container](https://github.com/doganulus/awsim-container) (5 days ago)
+- [Netflix/bpftop](https://github.com/Netflix/bpftop) - bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program. (6 days ago)
 - [kedehub/Knowledge-Centric.org](https://github.com/kedehub/Knowledge-Centric.org) - This is the repo for the site Knowledge-Centric.org (1 week ago)
-- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text. (1 week ago)
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text. (2 weeks ago)
 - [nedbat/watchgha](https://github.com/nedbat/watchgha) - Live display of current GitHub action runs (2 weeks ago)
 - [yikiksistemci/argocd-fix-too-many-redirects](https://github.com/yikiksistemci/argocd-fix-too-many-redirects) (3 weeks ago)
 - [yikiksistemci/gitops-example-1](https://github.com/yikiksistemci/gitops-example-1) (3 weeks ago)
 - [habipakyol/SQL](https://github.com/habipakyol/SQL) - SQL Course Notes (3 weeks ago)
-- [mrtergl/habit-tracker](https://github.com/mrtergl/habit-tracker) - Dockerized simple Java service using GitHub Actions (4 weeks ago)
+- [mrtergl/habit-tracker](https://github.com/mrtergl/habit-tracker) - Dockerized simple Java service using GitHub Actions (1 month ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
