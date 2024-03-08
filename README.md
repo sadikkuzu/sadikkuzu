@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [amirmalekian](https://github.com/amirmalekian) Amirhossein Malekian ]
 - [ [yusufcanb](https://github.com/yusufcanb) Yusuf Can Bayrak ]
 - [ [cemulus](https://github.com/cemulus) Cem Ulus ]
 - [ [alicanyucel](https://github.com/alicanyucel) AlfAlican ]
@@ -17,7 +18,6 @@
 - [ [Selman-S](https://github.com/Selman-S) selman ]
 - [ [suysoftware](https://github.com/suysoftware) Ufuk Yavuz ]
 - [ [gokayybaz](https://github.com/gokayybaz) Gökay Baz ]
-- [ [hasansezertasan](https://github.com/hasansezertasan) Hasan Sezer Taşan ]
 
 #### 🎧 &nbsp; Good beats
 
