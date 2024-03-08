@@ -61,6 +61,8 @@
 
 #### ⭐ Recent stars
 
+- [cloudflare/ebpf_exporter](https://github.com/cloudflare/ebpf_exporter) - Prometheus exporter for custom eBPF metrics (today)
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline. (today)
 - [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role. (3 days ago)
 - [yusufcanb/tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by CodeLLaMa. 💻🦙 (1 week ago)
 - [doganulus/awsim-container](https://github.com/doganulus/awsim-container) (2 weeks ago)
@@ -69,8 +71,6 @@
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text. (3 weeks ago)
 - [nedbat/watchgha](https://github.com/nedbat/watchgha) - Live display of current GitHub action runs (3 weeks ago)
 - [yikiksistemci/argocd-fix-too-many-redirects](https://github.com/yikiksistemci/argocd-fix-too-many-redirects) (1 month ago)
-- [yikiksistemci/gitops-example-1](https://github.com/yikiksistemci/gitops-example-1) (1 month ago)
-- [habipakyol/SQL](https://github.com/habipakyol/SQL) - SQL Course Notes (1 month ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
