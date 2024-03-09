@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [Malihashahi](https://github.com/Malihashahi) Maliha Shahi ]
 - [ [amirmalekian](https://github.com/amirmalekian) Amirhossein Malekian ]
 - [ [yusufcanb](https://github.com/yusufcanb) Yusuf Can Bayrak ]
 - [ [cemulus](https://github.com/cemulus) Cem Ulus ]
@@ -17,7 +18,6 @@
 - [ [warmice71](https://github.com/warmice71) Backend and Frontend Developer, and BlockChain developer ]
 - [ [Selman-S](https://github.com/Selman-S) selman ]
 - [ [suysoftware](https://github.com/suysoftware) Ufuk Yavuz ]
-- [ [gokayybaz](https://github.com/gokayybaz) Gökay Baz ]
 
 #### 🎧 &nbsp; Good beats
 
