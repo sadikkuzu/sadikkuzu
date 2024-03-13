@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [emreurcu](https://github.com/emreurcu) Emre ]
 - [ [george0st](https://github.com/george0st) jist ]
 - [ [mechanicworld](https://github.com/mechanicworld) Oğuz DEMİR ]
 - [ [Malihashahi](https://github.com/Malihashahi) Maliha Shahi ]
@@ -17,7 +18,6 @@
 - [ [alicanyucel](https://github.com/alicanyucel) AlfAlican ]
 - [ [FatihG34](https://github.com/FatihG34) Fatih GÜNAYDIN ]
 - [ [EnesEngel](https://github.com/EnesEngel)  ]
-- [ [warmice71](https://github.com/warmice71) Backend and Frontend Developer, and BlockChain developer ]
 
 #### 🎧 &nbsp; Good beats
 
