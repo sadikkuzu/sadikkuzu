@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [wxxb789](https://github.com/wxxb789)  ]
 - [ [emreurcu](https://github.com/emreurcu) Emre ]
 - [ [george0st](https://github.com/george0st) jist ]
 - [ [mechanicworld](https://github.com/mechanicworld) Oğuz DEMİR ]
@@ -17,7 +18,6 @@
 - [ [cemulus](https://github.com/cemulus) Cem Ulus ]
 - [ [alicanyucel](https://github.com/alicanyucel) AlfAlican ]
 - [ [FatihG34](https://github.com/FatihG34) Fatih GÜNAYDIN ]
-- [ [EnesEngel](https://github.com/EnesEngel)  ]
 
 #### 🎧 &nbsp; Good beats
 
