@@ -16,7 +16,7 @@
 - [ [amirmalekian](https://github.com/amirmalekian) Amirhossein Malekian ]
 - [ [yusufcanb](https://github.com/yusufcanb) Yusuf Can Bayrak ]
 - [ [cemulus](https://github.com/cemulus) Cem Ulus ]
-- [ [alicanyucel](https://github.com/alicanyucel) AlfAlican ]
+- [ [alicanyucel](https://github.com/alicanyucel) Ali Can Yücel - Middle Software Developer ]
 - [ [FatihG34](https://github.com/FatihG34) Fatih GÜNAYDIN ]
 
 #### 🎧 &nbsp; Good beats
