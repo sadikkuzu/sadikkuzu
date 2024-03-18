@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [alioop222](https://github.com/alioop222)  ]
 - [ [wxxb789](https://github.com/wxxb789)  ]
 - [ [emreurcu](https://github.com/emreurcu) Emre ]
 - [ [george0st](https://github.com/george0st) jist ]
@@ -17,7 +18,6 @@
 - [ [yusufcanb](https://github.com/yusufcanb) Yusuf Can Bayrak ]
 - [ [cemulus](https://github.com/cemulus) Cem Ulus ]
 - [ [alicanyucel](https://github.com/alicanyucel) Ali Can Yücel - Middle Software Developer ]
-- [ [FatihG34](https://github.com/FatihG34) Fatih GÜNAYDIN ]
 
 #### 🎧 &nbsp; Good beats
 
