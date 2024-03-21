@@ -70,7 +70,7 @@
 - [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role. (2 weeks ago)
 - [yusufcanb/tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by Ollama. 💻🦙 (3 weeks ago)
 - [doganulus/awsim-container](https://github.com/doganulus/awsim-container) (3 weeks ago)
-- [Netflix/bpftop](https://github.com/Netflix/bpftop) - bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program. (3 weeks ago)
+- [Netflix/bpftop](https://github.com/Netflix/bpftop) - bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program. (4 weeks ago)
 - [kedehub/Knowledge-Centric.org](https://github.com/kedehub/Knowledge-Centric.org) - This is the repo for the site Knowledge-Centric.org (1 month ago)
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text. (1 month ago)
 
