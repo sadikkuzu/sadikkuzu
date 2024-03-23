@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [mubatu](https://github.com/mubatu)  ]
 - [ [Gamzecoskkun](https://github.com/Gamzecoskkun) Gamze ]
 - [ [alioop222](https://github.com/alioop222)  ]
 - [ [wxxb789](https://github.com/wxxb789)  ]
@@ -17,7 +18,6 @@
 - [ [Malihashahi](https://github.com/Malihashahi) Maliha Shahi ]
 - [ [amirmalekian](https://github.com/amirmalekian) Amirhossein Malekian ]
 - [ [yusufcanb](https://github.com/yusufcanb) Yusuf Can Bayrak ]
-- [ [cemulus](https://github.com/cemulus) Cem Ulus ]
 
 #### 🎧 &nbsp; Good beats
 
