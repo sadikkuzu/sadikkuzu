@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [hkjang](https://github.com/hkjang) hkjang ]
 - [ [mubatu](https://github.com/mubatu)  ]
 - [ [Gamzecoskkun](https://github.com/Gamzecoskkun) Gamze ]
 - [ [alioop222](https://github.com/alioop222)  ]
@@ -17,7 +18,6 @@
 - [ [mechanicworld](https://github.com/mechanicworld) Oğuz DEMİR ]
 - [ [Malihashahi](https://github.com/Malihashahi) Maliha Shahi ]
 - [ [amirmalekian](https://github.com/amirmalekian) Amirhossein Malekian ]
-- [ [yusufcanb](https://github.com/yusufcanb) Yusuf Can Bayrak ]
 
 #### 🎧 &nbsp; Good beats
 
