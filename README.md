@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [ramosman1](https://github.com/ramosman1) Manny Ramos ]
 - [ [hkjang](https://github.com/hkjang) hkjang ]
 - [ [mubatu](https://github.com/mubatu)  ]
 - [ [Gamzecoskkun](https://github.com/Gamzecoskkun) Gamze ]
@@ -17,7 +18,6 @@
 - [ [george0st](https://github.com/george0st) jist ]
 - [ [mechanicworld](https://github.com/mechanicworld) Oğuz DEMİR ]
 - [ [Malihashahi](https://github.com/Malihashahi) Maliha Shahi ]
-- [ [amirmalekian](https://github.com/amirmalekian) Amirhossein Malekian ]
 
 #### 🎧 &nbsp; Good beats
 
