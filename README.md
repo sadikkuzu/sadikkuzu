@@ -10,7 +10,7 @@
 
 - [ [ramosman1](https://github.com/ramosman1) Manny Ramos ]
 - [ [hkjang](https://github.com/hkjang) hkjang ]
-- [ [mubatu](https://github.com/mubatu)  ]
+- [ [mubatu](https://github.com/mubatu) Mustafa Batuhan Buber ]
 - [ [Gamzecoskkun](https://github.com/Gamzecoskkun) Gamze ]
 - [ [alioop222](https://github.com/alioop222)  ]
 - [ [wxxb789](https://github.com/wxxb789)  ]
