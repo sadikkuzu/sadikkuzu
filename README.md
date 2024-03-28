@@ -44,7 +44,7 @@
 1. [**SWE574-Fall2023-Group1/.github**](https://github.com/SWE574-Fall2023-Group1/.github/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/.github?style=social)](https://github.com/SWE574-Fall2023-Group1/.github/stargazers) - SWE574 Fall2023 Group1 (5 months ago)
 1. [**leanprover/lean4**](https://github.com/leanprover/lean4/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/leanprover/lean4?style=social)](https://github.com/leanprover/lean4/stargazers) - Lean 4 programming language and theorem prover (5 months ago)
 1. [**roman-right/beanie**](https://github.com/roman-right/beanie/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/roman-right/beanie?style=social)](https://github.com/roman-right/beanie/stargazers) - Asynchronous Python ODM for MongoDB (5 months ago)
-1. [**rust-build/rust-build.action**](https://github.com/rust-build/rust-build.action/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/rust-build/rust-build.action?style=social)](https://github.com/rust-build/rust-build.action/stargazers) - Automate publishing Rust build artifacts for GitHub releases through GitHub Actions (5 months ago)
+1. [**rust-build/rust-build.action**](https://github.com/rust-build/rust-build.action/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/rust-build/rust-build.action?style=social)](https://github.com/rust-build/rust-build.action/stargazers) - Automate publishing Rust build artifacts for GitHub releases through GitHub Actions (6 months ago)
 1. [**sananeminli/BOUN_Carrel_Telegram_Bot**](https://github.com/sananeminli/BOUN_Carrel_Telegram_Bot/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/sananeminli/BOUN_Carrel_Telegram_Bot?style=social)](https://github.com/sananeminli/BOUN_Carrel_Telegram_Bot/stargazers) -  (6 months ago)
 1. [**gis-ops/routingpy**](https://github.com/gis-ops/routingpy/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/gis-ops/routingpy?style=social)](https://github.com/gis-ops/routingpy/stargazers) - 🌎 Python library to access all public routing, isochrones and matrix APIs in a consistent manner. (6 months ago)
 1. [**grafana/beyla**](https://github.com/grafana/beyla/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/grafana/beyla?style=social)](https://github.com/grafana/beyla/stargazers) - eBPF-based autoinstrumentation of HTTP and HTTPS services (6 months ago)
@@ -61,15 +61,15 @@
 
 #### ⭐ Recent stars
 
-- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (2 days ago)
-- [ynqa/jnv](https://github.com/ynqa/jnv) - interactive JSON filter using jq (3 days ago)
-- [shieldworks/vsecm-sdk](https://github.com/shieldworks/vsecm-sdk) - vsecm-sdk-wrap (4 days ago)
+- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (3 days ago)
+- [ynqa/jnv](https://github.com/ynqa/jnv) - interactive JSON filter using jq (4 days ago)
+- [shieldworks/vsecm-sdk](https://github.com/shieldworks/vsecm-sdk) - vsecm-sdk-wrap (5 days ago)
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features (2 weeks ago)
 - [tektoncd/dashboard](https://github.com/tektoncd/dashboard) - A dashboard for Tekton! (2 weeks ago)
 - [cloudflare/ebpf_exporter](https://github.com/cloudflare/ebpf_exporter) - Prometheus exporter for custom eBPF metrics (2 weeks ago)
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline. (2 weeks ago)
 - [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role. (3 weeks ago)
-- [yusufcanb/tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by CodeLLaMa. 💻🦙 (4 weeks ago)
+- [yusufcanb/tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by CodeLLaMa. 💻🦙 (1 month ago)
 - [doganulus/awsim-container](https://github.com/doganulus/awsim-container) (1 month ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
