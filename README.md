@@ -62,6 +62,7 @@
 
 #### ⭐ Recent stars
 
+- [asweigart/pyperclip](https://github.com/asweigart/pyperclip) - Python module for cross-platform clipboard functions. (today)
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (4 days ago)
 - [ynqa/jnv](https://github.com/ynqa/jnv) - interactive JSON filter using jq (5 days ago)
 - [shieldworks/vsecm-sdk](https://github.com/shieldworks/vsecm-sdk) - vsecm-sdk-wrap (6 days ago)
@@ -71,7 +72,6 @@
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline. (3 weeks ago)
 - [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role. (3 weeks ago)
 - [yusufcanb/tlm](https://github.com/yusufcanb/tlm) - Local CLI Copilot, powered by CodeLLaMa. 💻🦙 (1 month ago)
-- [doganulus/awsim-container](https://github.com/doganulus/awsim-container) (1 month ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
