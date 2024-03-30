@@ -60,6 +60,7 @@
 
 #### ⭐ Recent stars
 
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We&#39;re calling it Valkey, like a Valkyrie. (today)
 - [kemalceng/cloudflare-exporter](https://github.com/kemalceng/cloudflare-exporter) - Prometheus CloudFlare Exporter (today)
 - [asweigart/pyperclip](https://github.com/asweigart/pyperclip) - Python module for cross-platform clipboard functions. (1 day ago)
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (5 days ago)
@@ -69,7 +70,6 @@
 - [tektoncd/dashboard](https://github.com/tektoncd/dashboard) - A dashboard for Tekton! (2 weeks ago)
 - [cloudflare/ebpf_exporter](https://github.com/cloudflare/ebpf_exporter) - Prometheus exporter for custom eBPF metrics (3 weeks ago)
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline. (3 weeks ago)
-- [linkedin/school-of-sre](https://github.com/linkedin/school-of-sre) - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role. (3 weeks ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
