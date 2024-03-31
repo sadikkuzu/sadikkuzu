@@ -61,6 +61,7 @@
 
 #### ⭐ Recent stars
 
+- [lpr16/FinancialCalc](https://github.com/lpr16/FinancialCalc) (today)
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We&#39;re calling it Valkey, like a Valkyrie. (1 day ago)
 - [kemalceng/cloudflare-exporter](https://github.com/kemalceng/cloudflare-exporter) - Prometheus CloudFlare Exporter (1 day ago)
 - [asweigart/pyperclip](https://github.com/asweigart/pyperclip) - Python module for cross-platform clipboard functions. (2 days ago)
@@ -70,7 +71,6 @@
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features (2 weeks ago)
 - [tektoncd/dashboard](https://github.com/tektoncd/dashboard) - A dashboard for Tekton! (2 weeks ago)
 - [cloudflare/ebpf_exporter](https://github.com/cloudflare/ebpf_exporter) - Prometheus exporter for custom eBPF metrics (3 weeks ago)
-- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline. (3 weeks ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
