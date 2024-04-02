@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [berkesonmez](https://github.com/berkesonmez) Berke Sönmez ]
 - [ [ramosman1](https://github.com/ramosman1) Manny Ramos ]
 - [ [hkjang](https://github.com/hkjang) hkjang ]
 - [ [mubatu](https://github.com/mubatu) Mustafa Batuhan Buber ]
@@ -17,7 +18,6 @@
 - [ [emreurcu](https://github.com/emreurcu) Emre ]
 - [ [george0st](https://github.com/george0st) jist ]
 - [ [mechanicworld](https://github.com/mechanicworld) Oğuz DEMİR ]
-- [ [Malihashahi](https://github.com/Malihashahi) Maliha Shahi ]
 
 #### 🎧 &nbsp; Good beats
 
