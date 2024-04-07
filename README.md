@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [JensonCollins](https://github.com/JensonCollins) Jenson ]
 - [ [MhmtMutlu](https://github.com/MhmtMutlu) Mehmet Mutlu ]
 - [ [berkesonmez](https://github.com/berkesonmez) Berke Sönmez ]
 - [ [ramosman1](https://github.com/ramosman1) Manny Ramos ]
@@ -17,7 +18,6 @@
 - [ [alioop222](https://github.com/alioop222)  ]
 - [ [wxxb789](https://github.com/wxxb789)  ]
 - [ [emreurcu](https://github.com/emreurcu) Emre ]
-- [ [george0st](https://github.com/george0st) jist ]
 
 #### 🎧 &nbsp; Good beats
 
