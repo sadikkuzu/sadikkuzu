@@ -61,15 +61,15 @@
 
 #### ⭐ Recent stars
 
-- [fehimaltinisik/deckist](https://github.com/fehimaltinisik/deckist) - Istanbul GTFS Data on deck.gl (2 days ago)
-- [kubernetes-free-shell/freens](https://github.com/kubernetes-free-shell/freens) (2 days ago)
-- [litmuschaos/litmus](https://github.com/litmuschaos/litmus) - Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.io/a4Zu_sH4TZGeih-xCimi3Q (4 days ago)
-- [sarjdev/front-end](https://github.com/sarjdev/front-end) - sarj.dev Front-end source codes. (5 days ago)
-- [sarjdev/back-end](https://github.com/sarjdev/back-end) - sarj.dev Back-end API source codes. (5 days ago)
+- [fehimaltinisik/deckist](https://github.com/fehimaltinisik/deckist) - Istanbul GTFS Data on deck.gl (3 days ago)
+- [kubernetes-free-shell/freens](https://github.com/kubernetes-free-shell/freens) (3 days ago)
+- [litmuschaos/litmus](https://github.com/litmuschaos/litmus) - Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.io/a4Zu_sH4TZGeih-xCimi3Q (5 days ago)
+- [sarjdev/front-end](https://github.com/sarjdev/front-end) - sarj.dev Front-end source codes. (6 days ago)
+- [sarjdev/back-end](https://github.com/sarjdev/back-end) - sarj.dev Back-end API source codes. (6 days ago)
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We&#39;re calling it Valkey, since it&#39;s a twist on the key-value datastore. (1 week ago)
 - [kemalceng/cloudflare-exporter](https://github.com/kemalceng/cloudflare-exporter) - Prometheus CloudFlare Exporter (1 week ago)
 - [asweigart/pyperclip](https://github.com/asweigart/pyperclip) - Python module for cross-platform clipboard functions. (1 week ago)
-- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (1 week ago)
+- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (2 weeks ago)
 - [ynqa/jnv](https://github.com/ynqa/jnv) - interactive JSON filter using jq (2 weeks ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
