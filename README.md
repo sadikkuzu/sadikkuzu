@@ -61,9 +61,9 @@
 
 #### ⭐ Recent stars
 
-- [alpaylan/devy](https://github.com/alpaylan/devy) - An Interactive Blog Engine (1 day ago)
-- [fehimaltinisik/deckist](https://github.com/fehimaltinisik/deckist) - Istanbul GTFS Data on deck.gl (5 days ago)
-- [kubernetes-free-shell/freens](https://github.com/kubernetes-free-shell/freens) (5 days ago)
+- [alpaylan/devy](https://github.com/alpaylan/devy) - An Interactive Blog Engine (2 days ago)
+- [fehimaltinisik/deckist](https://github.com/fehimaltinisik/deckist) - Istanbul GTFS Data on deck.gl (6 days ago)
+- [kubernetes-free-shell/freens](https://github.com/kubernetes-free-shell/freens) (6 days ago)
 - [litmuschaos/litmus](https://github.com/litmuschaos/litmus) - Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.io/a4Zu_sH4TZGeih-xCimi3Q (1 week ago)
 - [sarjdev/front-end](https://github.com/sarjdev/front-end) - sarj.dev Front-end source codes. (1 week ago)
 - [sarjdev/back-end](https://github.com/sarjdev/back-end) - sarj.dev Back-end API source codes. (1 week ago)
