@@ -27,7 +27,7 @@
 1. [**serhatbolsu/robotframework-appiumlibrary**](https://github.com/serhatbolsu/robotframework-appiumlibrary/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/serhatbolsu/robotframework-appiumlibrary?style=social)](https://github.com/serhatbolsu/robotframework-appiumlibrary/stargazers) - AppiumLibrary is an appium testing library for RobotFramework (1 month ago)
 1. [**mongodb-labs/full-stack-fastapi-mongodb**](https://github.com/mongodb-labs/full-stack-fastapi-mongodb/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/mongodb-labs/full-stack-fastapi-mongodb?style=social)](https://github.com/mongodb-labs/full-stack-fastapi-mongodb/stargazers) - Full stack, modern web application generator. Using FastAPI, MongoDB as database, Docker, automatic HTTPS and more. (1 month ago)
 1. [**yusufcanb/tlm**](https://github.com/yusufcanb/tlm/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/yusufcanb/tlm?style=social)](https://github.com/yusufcanb/tlm/stargazers) - Local CLI Copilot, powered by CodeLLaMa. 💻🦙 (1 month ago)
-1. [**mert-aydin/3DHumanPoseEstimation**](https://github.com/mert-aydin/3DHumanPoseEstimation/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/mert-aydin/3DHumanPoseEstimation?style=social)](https://github.com/mert-aydin/3DHumanPoseEstimation/stargazers) - CV project for BOUN SWE 583 - Computer Vision class. (2 months ago)
+1. [**mert-aydin/3DHumanPoseEstimation**](https://github.com/mert-aydin/3DHumanPoseEstimation/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/mert-aydin/3DHumanPoseEstimation?style=social)](https://github.com/mert-aydin/3DHumanPoseEstimation/stargazers) - CV project for BOUN SWE 583 - Computer Vision class. (3 months ago)
 1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io/stargazers) - SWE574 Fall2023 Group1 website (3 months ago)
 1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-G1**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-G1?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/stargazers) - Project for SWE 574 - Group 1 (3 months ago)
 1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-G1-mobile**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1-mobile/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-G1-mobile?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1-mobile/stargazers) - Mobile code repository for SWE574 Fall2023 Group1 (3 months ago)
@@ -46,7 +46,7 @@
 1. [**leanprover/lean4**](https://github.com/leanprover/lean4/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/leanprover/lean4?style=social)](https://github.com/leanprover/lean4/stargazers) - Lean 4 programming language and theorem prover (6 months ago)
 1. [**roman-right/beanie**](https://github.com/roman-right/beanie/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/roman-right/beanie?style=social)](https://github.com/roman-right/beanie/stargazers) - Asynchronous Python ODM for MongoDB (6 months ago)
 1. [**sananeminli/BOUN_Carrel_Telegram_Bot**](https://github.com/sananeminli/BOUN_Carrel_Telegram_Bot/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/sananeminli/BOUN_Carrel_Telegram_Bot?style=social)](https://github.com/sananeminli/BOUN_Carrel_Telegram_Bot/stargazers) -  (6 months ago)
-1. [**gis-ops/routingpy**](https://github.com/gis-ops/routingpy/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/gis-ops/routingpy?style=social)](https://github.com/gis-ops/routingpy/stargazers) - 🌎 Python library to access all public routing, isochrones and matrix APIs in a consistent manner. (6 months ago)
+1. [**gis-ops/routingpy**](https://github.com/gis-ops/routingpy/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/gis-ops/routingpy?style=social)](https://github.com/gis-ops/routingpy/stargazers) - 🌎 Python library to access all public routing, isochrones and matrix APIs in a consistent manner. (7 months ago)
 1. [**grafana/beyla**](https://github.com/grafana/beyla/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/grafana/beyla?style=social)](https://github.com/grafana/beyla/stargazers) - eBPF-based autoinstrumentation of HTTP and HTTPS services (7 months ago)
 1. [**kamp-us/monorepo**](https://github.com/kamp-us/monorepo/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/kamp-us/monorepo?style=social)](https://github.com/kamp-us/monorepo/stargazers) - kamp.us web projects &amp; packages (7 months ago)
 1. [**Ealenn/Echo-Server**](https://github.com/Ealenn/Echo-Server/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/Ealenn/Echo-Server?style=social)](https://github.com/Ealenn/Echo-Server/stargazers) - REST Server Tests (Echo-Server) API / Docker / Kubernetes / Helm (8 months ago)
@@ -60,7 +60,7 @@
 
 #### ⭐ Recent stars
 
-- [alpaylan/devy](https://github.com/alpaylan/devy) - An Interactive Blog Engine (5 days ago)
+- [alpaylan/devy](https://github.com/alpaylan/devy) - An Interactive Blog Engine (6 days ago)
 - [fehimaltinisik/deckist](https://github.com/fehimaltinisik/deckist) - Istanbul GTFS Data on deck.gl (1 week ago)
 - [kubernetes-free-shell/freens](https://github.com/kubernetes-free-shell/freens) (1 week ago)
 - [litmuschaos/litmus](https://github.com/litmuschaos/litmus) - Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.io/a4Zu_sH4TZGeih-xCimi3Q (1 week ago)
@@ -69,7 +69,7 @@
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We&#39;re calling it Valkey, since it&#39;s a twist on the key-value datastore. (2 weeks ago)
 - [kemalceng/cloudflare-exporter](https://github.com/kemalceng/cloudflare-exporter) - Prometheus CloudFlare Exporter (2 weeks ago)
 - [asweigart/pyperclip](https://github.com/asweigart/pyperclip) - Python module for cross-platform clipboard functions. (2 weeks ago)
-- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (2 weeks ago)
+- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (3 weeks ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
