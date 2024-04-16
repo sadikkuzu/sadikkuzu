@@ -61,6 +61,9 @@
 
 #### ⭐ Recent stars
 
+- [michaelkkehoe/awesome-sre-cheatsheets](https://github.com/michaelkkehoe/awesome-sre-cheatsheets) - A curated list of cheatsheets for SRE (today)
+- [SquadcastHub/awesome-sre-tools](https://github.com/SquadcastHub/awesome-sre-tools) - A curated list of Site Reliability and Production Engineering Tools (today)
+- [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources. (today)
 - [alpaylan/devy](https://github.com/alpaylan/devy) - An Interactive Blog Engine (1 week ago)
 - [fehimaltinisik/deckist](https://github.com/fehimaltinisik/deckist) - Istanbul GTFS Data on deck.gl (1 week ago)
 - [kubernetes-free-shell/freens](https://github.com/kubernetes-free-shell/freens) (1 week ago)
@@ -68,9 +71,6 @@
 - [sarjdev/front-end](https://github.com/sarjdev/front-end) - sarj.dev Front-end source codes. (2 weeks ago)
 - [sarjdev/back-end](https://github.com/sarjdev/back-end) - sarj.dev Back-end API source codes. (2 weeks ago)
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We&#39;re calling it Valkey, since it&#39;s a twist on the key-value datastore. (2 weeks ago)
-- [kemalceng/cloudflare-exporter](https://github.com/kemalceng/cloudflare-exporter) - Prometheus CloudFlare Exporter (2 weeks ago)
-- [asweigart/pyperclip](https://github.com/asweigart/pyperclip) - Python module for cross-platform clipboard functions. (2 weeks ago)
-- [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure. (3 weeks ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
