@@ -61,6 +61,7 @@
 
 #### ⭐ Recent stars
 
+- [Rayberk/earthsake](https://github.com/Rayberk/earthsake) (today)
 - [halekmc/MSGSU-Python-Egitimi](https://github.com/halekmc/MSGSU-Python-Egitimi) - MSGSU Matematik Kulübü Python Eğitmenliği Notları (3 days ago)
 - [michaelkkehoe/awesome-sre-cheatsheets](https://github.com/michaelkkehoe/awesome-sre-cheatsheets) - A curated list of cheatsheets for SRE (5 days ago)
 - [SquadcastHub/awesome-sre-tools](https://github.com/SquadcastHub/awesome-sre-tools) - A curated list of Site Reliability and Production Engineering Tools (5 days ago)
@@ -70,7 +71,6 @@
 - [kubernetes-free-shell/freens](https://github.com/kubernetes-free-shell/freens) (2 weeks ago)
 - [litmuschaos/litmus](https://github.com/litmuschaos/litmus) - Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.io/a4Zu_sH4TZGeih-xCimi3Q (2 weeks ago)
 - [sarjdev/front-end](https://github.com/sarjdev/front-end) - sarj.dev Front-end source codes. (2 weeks ago)
-- [sarjdev/back-end](https://github.com/sarjdev/back-end) - sarj.dev Back-end API source codes. (2 weeks ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
