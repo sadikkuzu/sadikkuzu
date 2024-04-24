@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [bilgehannal](https://github.com/bilgehannal) Bilgehan NAL ]
 - [ [gr8monk3ys](https://github.com/gr8monk3ys) Lorenzo ]
 - [ [JensonCollins](https://github.com/JensonCollins) Jenson ]
 - [ [MhmtMutlu](https://github.com/MhmtMutlu) Mehmet Mutlu ]
@@ -17,7 +18,6 @@
 - [ [mubatu](https://github.com/mubatu) Mustafa Batuhan Buber ]
 - [ [Gamzecoskkun](https://github.com/Gamzecoskkun) Gamze ]
 - [ [alioop222](https://github.com/alioop222)  ]
-- [ [wxxb789](https://github.com/wxxb789)  ]
 
 #### 🎧 &nbsp; Good beats
 
