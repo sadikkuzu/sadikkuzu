@@ -8,6 +8,8 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [sandeepthota](https://github.com/sandeepthota) Sandeep ]
+- [ [mrhasankoc](https://github.com/mrhasankoc)  ]
 - [ [bilgehannal](https://github.com/bilgehannal) Bilgehan NAL ]
 - [ [JensonCollins](https://github.com/JensonCollins) Jenson ]
 - [ [MhmtMutlu](https://github.com/MhmtMutlu) Mehmet Mutlu ]
@@ -16,8 +18,6 @@
 - [ [hkjang](https://github.com/hkjang) hkjang ]
 - [ [mubatu](https://github.com/mubatu) Mustafa Batuhan Buber ]
 - [ [Gamzecoskkun](https://github.com/Gamzecoskkun) Gamze ]
-- [ [alioop222](https://github.com/alioop222)  ]
-- [ [wxxb789](https://github.com/wxxb789)  ]
 
 #### 🎧 &nbsp; Good beats
 
