@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [naimmalek](https://github.com/naimmalek) Naim Malek ]
 - [ [owenlamont](https://github.com/owenlamont) Owen Lamont ]
 - [ [sandeepthota](https://github.com/sandeepthota) Sandeep ]
 - [ [mrhasankoc](https://github.com/mrhasankoc)  ]
@@ -17,7 +18,6 @@
 - [ [berkesonmez](https://github.com/berkesonmez) Berke Sönmez ]
 - [ [ramosman1](https://github.com/ramosman1) Manny Ramos ]
 - [ [hkjang](https://github.com/hkjang) hkjang ]
-- [ [mubatu](https://github.com/mubatu) Mustafa Batuhan Buber ]
 
 #### 🎧 &nbsp; Good beats
 
