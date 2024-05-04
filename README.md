@@ -61,6 +61,7 @@
 
 #### ⭐ Recent stars
 
+- [serkanh/asciinema-influencer](https://github.com/serkanh/asciinema-influencer) (today)
 - [Kludex/fastapi-tips](https://github.com/Kludex/fastapi-tips) - FastAPI Tips by The FastAPI Expert! (6 days ago)
 - [Rayberk/earthsake](https://github.com/Rayberk/earthsake) (1 week ago)
 - [halekmc/MSGSU-Python-Egitimi](https://github.com/halekmc/MSGSU-Python-Egitimi) - MSGSU Matematik Kulübü Python Eğitmenliği Notları (2 weeks ago)
@@ -70,7 +71,6 @@
 - [alpaylan/devy](https://github.com/alpaylan/devy) - An Interactive Blog Engine (3 weeks ago)
 - [fehimaltinisik/deckist](https://github.com/fehimaltinisik/deckist) - Istanbul GTFS Data on deck.gl (4 weeks ago)
 - [kubernetes-free-shell/freens](https://github.com/kubernetes-free-shell/freens) (4 weeks ago)
-- [litmuschaos/litmus](https://github.com/litmuschaos/litmus) - Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.io/a4Zu_sH4TZGeih-xCimi3Q (1 month ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
