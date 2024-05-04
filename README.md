@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [serkanh](https://github.com/serkanh) serkan haytac ]
 - [ [Erfandroid](https://github.com/Erfandroid) Erfan Khabareh ]
 - [ [naimmalek](https://github.com/naimmalek) Naim Malek ]
 - [ [owenlamont](https://github.com/owenlamont) Owen Lamont ]
@@ -17,7 +18,6 @@
 - [ [JensonCollins](https://github.com/JensonCollins) Jenson ]
 - [ [MhmtMutlu](https://github.com/MhmtMutlu) Mehmet Mutlu ]
 - [ [berkesonmez](https://github.com/berkesonmez) Berke Sönmez ]
-- [ [ramosman1](https://github.com/ramosman1) Manny Ramos ]
 
 #### 🎧 &nbsp; Good beats
 
