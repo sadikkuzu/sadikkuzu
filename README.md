@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [fsolen](https://github.com/fsolen) Fatih Solen ]
 - [ [serkanh](https://github.com/serkanh) serkan haytac ]
 - [ [Erfandroid](https://github.com/Erfandroid) Erfan Khabareh ]
 - [ [naimmalek](https://github.com/naimmalek) Naim Malek ]
@@ -17,7 +18,6 @@
 - [ [bilgehannal](https://github.com/bilgehannal) Bilgehan NAL ]
 - [ [JensonCollins](https://github.com/JensonCollins) Jenson ]
 - [ [MhmtMutlu](https://github.com/MhmtMutlu) Mehmet Mutlu ]
-- [ [berkesonmez](https://github.com/berkesonmez) Berke Sönmez ]
 
 #### 🎧 &nbsp; Good beats
 
