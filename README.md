@@ -16,8 +16,8 @@
 - [ [sandeepthota](https://github.com/sandeepthota) Sandeep ]
 - [ [mrhasankoc](https://github.com/mrhasankoc)  ]
 - [ [bilgehannal](https://github.com/bilgehannal) Bilgehan NAL ]
-- [ [JensonCollins](https://github.com/JensonCollins) Jenson ]
 - [ [MhmtMutlu](https://github.com/MhmtMutlu) Mehmet Mutlu ]
+- [ [berkesonmez](https://github.com/berkesonmez) Berke Sönmez ]
 
 #### 🎧 &nbsp; Good beats
 
