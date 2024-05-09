@@ -61,14 +61,14 @@
 
 #### ⭐ Recent stars
 
-- [serkanh/asciinema-influencer](https://github.com/serkanh/asciinema-influencer) (4 days ago)
+- [serkanh/asciinema-influencer](https://github.com/serkanh/asciinema-influencer) (5 days ago)
 - [Kludex/fastapi-tips](https://github.com/Kludex/fastapi-tips) - FastAPI Tips by The FastAPI Expert! (1 week ago)
 - [Rayberk/earthsake](https://github.com/Rayberk/earthsake) (2 weeks ago)
-- [halekmc/MSGSU-Python-Egitimi](https://github.com/halekmc/MSGSU-Python-Egitimi) - MSGSU Matematik Kulübü Python Eğitmenliği Notları (2 weeks ago)
+- [halekmc/MSGSU-Python-Egitimi](https://github.com/halekmc/MSGSU-Python-Egitimi) - MSGSU Matematik Kulübü Python Eğitmenliği Notları (3 weeks ago)
 - [michaelkkehoe/awesome-sre-cheatsheets](https://github.com/michaelkkehoe/awesome-sre-cheatsheets) - A curated list of cheatsheets for SRE (3 weeks ago)
 - [SquadcastHub/awesome-sre-tools](https://github.com/SquadcastHub/awesome-sre-tools) - A curated list of Site Reliability and Production Engineering Tools (3 weeks ago)
 - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources. (3 weeks ago)
-- [alpaylan/devy](https://github.com/alpaylan/devy) - An Interactive Blog Engine (4 weeks ago)
+- [alpaylan/devy](https://github.com/alpaylan/devy) - An Interactive Blog Engine (1 month ago)
 - [fehimaltinisik/deckist](https://github.com/fehimaltinisik/deckist) - Istanbul GTFS Data on deck.gl (1 month ago)
 - [kubernetes-free-shell/freens](https://github.com/kubernetes-free-shell/freens) (1 month ago)
 
