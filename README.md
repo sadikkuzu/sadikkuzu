@@ -24,8 +24,8 @@
 [![Mr. Kuzu's Recently Played Music on Spotify](https://spotify-recently-played-readme.vercel.app/api?user=5cfgfpgmik69ly41rspaiod2a&count=3&unique=1)](https://open.spotify.com/user/5cfgfpgmik69ly41rspaiod2a)
 
 #### 🚀 &nbsp; Open source projects I've contributed to
-1. [**suttacentral/suttacentral**](https://github.com/suttacentral/suttacentral/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/suttacentral/suttacentral?style=social)](https://github.com/suttacentral/suttacentral/stargazers) - SuttaCentral website application (4 days ago)
-1. [**Kludex/fastapi-tips**](https://github.com/Kludex/fastapi-tips/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/Kludex/fastapi-tips?style=social)](https://github.com/Kludex/fastapi-tips/stargazers) - FastAPI Tips by The FastAPI Expert! (1 week ago)
+1. [**suttacentral/suttacentral**](https://github.com/suttacentral/suttacentral/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/suttacentral/suttacentral?style=social)](https://github.com/suttacentral/suttacentral/stargazers) - SuttaCentral website application (5 days ago)
+1. [**Kludex/fastapi-tips**](https://github.com/Kludex/fastapi-tips/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/Kludex/fastapi-tips?style=social)](https://github.com/Kludex/fastapi-tips/stargazers) - FastAPI Tips by The FastAPI Expert! (2 weeks ago)
 1. [**mongodb-labs/full-stack-fastapi-mongodb**](https://github.com/mongodb-labs/full-stack-fastapi-mongodb/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/mongodb-labs/full-stack-fastapi-mongodb?style=social)](https://github.com/mongodb-labs/full-stack-fastapi-mongodb/stargazers) - Full stack, modern web application generator. Using FastAPI, MongoDB as database, Docker, automatic HTTPS and more. (2 months ago)
 1. [**yusufcanb/tlm**](https://github.com/yusufcanb/tlm/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/yusufcanb/tlm?style=social)](https://github.com/yusufcanb/tlm/stargazers) - Local CLI Copilot, powered by CodeLLaMa. 💻🦙 (2 months ago)
 1. [**mert-aydin/3DHumanPoseEstimation**](https://github.com/mert-aydin/3DHumanPoseEstimation/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/mert-aydin/3DHumanPoseEstimation?style=social)](https://github.com/mert-aydin/3DHumanPoseEstimation/stargazers) - CV project for BOUN SWE 583 - Computer Vision class. (3 months ago)
@@ -53,15 +53,15 @@
 1. [**Homebrew/brew.sh**](https://github.com/Homebrew/brew.sh/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/Homebrew/brew.sh?style=social)](https://github.com/Homebrew/brew.sh/stargazers) - 🔖 The Homebrew homepage (9 months ago)
 1. [**Delgan/loguru**](https://github.com/Delgan/loguru/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/Delgan/loguru?style=social)](https://github.com/Delgan/loguru/stargazers) - Python logging made (stupidly) simple (9 months ago)
 1. [**eser/aya-website**](https://github.com/eser/aya-website/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/eser/aya-website?style=social)](https://github.com/eser/aya-website/stargazers) - açık yazılım ağı web sitesi kaynak kodları (9 months ago)
-1. [**bouncmpe/website**](https://github.com/bouncmpe/website/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/bouncmpe/website?style=social)](https://github.com/bouncmpe/website/stargazers) - New Department Website (9 months ago)
+1. [**bouncmpe/website**](https://github.com/bouncmpe/website/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/bouncmpe/website?style=social)](https://github.com/bouncmpe/website/stargazers) - New Department Website (10 months ago)
 1. [**passwall/passwall-server**](https://github.com/passwall/passwall-server/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/passwall/passwall-server?style=social)](https://github.com/passwall/passwall-server/stargazers) - Passwall Server is the core backend infrastructure for Passwall platform (11 months ago)
 
 
 #### ⭐ Recent stars
 
 - [serkanh/asciinema-influencer](https://github.com/serkanh/asciinema-influencer) (1 week ago)
-- [Kludex/fastapi-tips](https://github.com/Kludex/fastapi-tips) - FastAPI Tips by The FastAPI Expert! (1 week ago)
-- [Rayberk/earthsake](https://github.com/Rayberk/earthsake) (2 weeks ago)
+- [Kludex/fastapi-tips](https://github.com/Kludex/fastapi-tips) - FastAPI Tips by The FastAPI Expert! (2 weeks ago)
+- [Rayberk/earthsake](https://github.com/Rayberk/earthsake) (3 weeks ago)
 - [halekmc/MSGSU-Python-Egitimi](https://github.com/halekmc/MSGSU-Python-Egitimi) - MSGSU Matematik Kulübü Python Eğitmenliği Notları (3 weeks ago)
 - [michaelkkehoe/awesome-sre-cheatsheets](https://github.com/michaelkkehoe/awesome-sre-cheatsheets) - A curated list of cheatsheets for SRE (3 weeks ago)
 - [SquadcastHub/awesome-sre-tools](https://github.com/SquadcastHub/awesome-sre-tools) - A curated list of Site Reliability and Production Engineering Tools (3 weeks ago)
