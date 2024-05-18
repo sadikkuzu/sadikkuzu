@@ -60,10 +60,10 @@
 
 #### ⭐ Recent stars
 
-- [serkanh/asciinema-influencer](https://github.com/serkanh/asciinema-influencer) (1 week ago)
+- [serkanh/asciinema-influencer](https://github.com/serkanh/asciinema-influencer) (2 weeks ago)
 - [Kludex/fastapi-tips](https://github.com/Kludex/fastapi-tips) - FastAPI Tips by The FastAPI Expert! (2 weeks ago)
 - [Rayberk/earthsake](https://github.com/Rayberk/earthsake) (3 weeks ago)
-- [halekmc/MSGSU-Python-Egitimi](https://github.com/halekmc/MSGSU-Python-Egitimi) - MSGSU Matematik Kulübü Python Eğitmenliği Notları (4 weeks ago)
+- [halekmc/MSGSU-Python-Egitimi](https://github.com/halekmc/MSGSU-Python-Egitimi) - MSGSU Matematik Kulübü Python Eğitmenliği Notları (1 month ago)
 - [michaelkkehoe/awesome-sre-cheatsheets](https://github.com/michaelkkehoe/awesome-sre-cheatsheets) - A curated list of cheatsheets for SRE (1 month ago)
 - [SquadcastHub/awesome-sre-tools](https://github.com/SquadcastHub/awesome-sre-tools) - A curated list of Site Reliability and Production Engineering Tools (1 month ago)
 - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources. (1 month ago)
