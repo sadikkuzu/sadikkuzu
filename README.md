@@ -61,7 +61,8 @@
 
 #### ⭐ Recent stars
 
-- [serkanh/asciinema-influencer](https://github.com/serkanh/asciinema-influencer) (2 weeks ago)
+- [eftalyurtseven/youtube-tuts](https://github.com/eftalyurtseven/youtube-tuts) - my youtube channel project examples (today)
+- [OguzPastirmaci/gpu-burn](https://github.com/OguzPastirmaci/gpu-burn) - Multi-GPU CUDA stress test (today)
 - [Kludex/fastapi-tips](https://github.com/Kludex/fastapi-tips) - FastAPI Tips by The FastAPI Expert! (3 weeks ago)
 - [Rayberk/earthsake](https://github.com/Rayberk/earthsake) (1 month ago)
 - [halekmc/MSGSU-Python-Egitimi](https://github.com/halekmc/MSGSU-Python-Egitimi) - MSGSU Matematik Kulübü Python Eğitmenliği Notları (1 month ago)
@@ -70,7 +71,6 @@
 - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources. (1 month ago)
 - [alpaylan/devy](https://github.com/alpaylan/devy) - An Interactive Blog Engine (1 month ago)
 - [fehimaltinisik/deckist](https://github.com/fehimaltinisik/deckist) - Istanbul GTFS Data on deck.gl (1 month ago)
-- [kubernetes-free-shell/freens](https://github.com/kubernetes-free-shell/freens) (1 month ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
