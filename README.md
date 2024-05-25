@@ -53,16 +53,16 @@
 1. [**kamp-us/monorepo**](https://github.com/kamp-us/monorepo/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/kamp-us/monorepo?style=social)](https://github.com/kamp-us/monorepo/stargazers) - kamp.us web projects &amp; packages (9 months ago)
 1. [**Ealenn/Echo-Server**](https://github.com/Ealenn/Echo-Server/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/Ealenn/Echo-Server?style=social)](https://github.com/Ealenn/Echo-Server/stargazers) - REST Server Tests (Echo-Server) API / Docker / Kubernetes / Helm (9 months ago)
 1. [**Homebrew/brew.sh**](https://github.com/Homebrew/brew.sh/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/Homebrew/brew.sh?style=social)](https://github.com/Homebrew/brew.sh/stargazers) - 🔖 The Homebrew homepage (9 months ago)
-1. [**Delgan/loguru**](https://github.com/Delgan/loguru/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/Delgan/loguru?style=social)](https://github.com/Delgan/loguru/stargazers) - Python logging made (stupidly) simple (9 months ago)
+1. [**Delgan/loguru**](https://github.com/Delgan/loguru/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/Delgan/loguru?style=social)](https://github.com/Delgan/loguru/stargazers) - Python logging made (stupidly) simple (10 months ago)
 1. [**eser/aya-website**](https://github.com/eser/aya-website/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/eser/aya-website?style=social)](https://github.com/eser/aya-website/stargazers) - açık yazılım ağı web sitesi kaynak kodları (10 months ago)
 1. [**bouncmpe/website**](https://github.com/bouncmpe/website/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/bouncmpe/website?style=social)](https://github.com/bouncmpe/website/stargazers) - New Department Website (10 months ago)
-1. [**passwall/passwall-server**](https://github.com/passwall/passwall-server/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/passwall/passwall-server?style=social)](https://github.com/passwall/passwall-server/stargazers) - Passwall Server is the core backend infrastructure for Passwall platform (11 months ago)
+1. [**passwall/passwall-server**](https://github.com/passwall/passwall-server/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/passwall/passwall-server?style=social)](https://github.com/passwall/passwall-server/stargazers) - Passwall Server is the core backend infrastructure for Passwall platform (1 year ago)
 
 
 #### ⭐ Recent stars
 
-- [eftalyurtseven/youtube-tuts](https://github.com/eftalyurtseven/youtube-tuts) - my youtube channel project examples (2 days ago)
-- [OguzPastirmaci/gpu-burn](https://github.com/OguzPastirmaci/gpu-burn) - Multi-GPU CUDA stress test (2 days ago)
+- [eftalyurtseven/youtube-tuts](https://github.com/eftalyurtseven/youtube-tuts) - my youtube channel project examples (3 days ago)
+- [OguzPastirmaci/gpu-burn](https://github.com/OguzPastirmaci/gpu-burn) - Multi-GPU CUDA stress test (3 days ago)
 - [Kludex/fastapi-tips](https://github.com/Kludex/fastapi-tips) - FastAPI Tips by The FastAPI Expert! (3 weeks ago)
 - [Rayberk/earthsake](https://github.com/Rayberk/earthsake) (1 month ago)
 - [halekmc/MSGSU-Python-Egitimi](https://github.com/halekmc/MSGSU-Python-Egitimi) - MSGSU Matematik Kulübü Python Eğitmenliği Notları (1 month ago)
