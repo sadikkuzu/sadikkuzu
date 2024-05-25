@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [kaleturgay](https://github.com/kaleturgay) turgay.kale ]
 - [ [georgescutelnicu](https://github.com/georgescutelnicu) George ]
 - [ [Kiran-pro2001](https://github.com/Kiran-pro2001) Kiran Kumar ]
 - [ [fsolen](https://github.com/fsolen) Fatih Solen ]
@@ -17,7 +18,6 @@
 - [ [owenlamont](https://github.com/owenlamont) Owen Lamont ]
 - [ [sandeepthota](https://github.com/sandeepthota) Sandeep ]
 - [ [mrhasankoc](https://github.com/mrhasankoc)  ]
-- [ [bilgehannal](https://github.com/bilgehannal) Bilgehan NAL ]
 
 #### 🎧 &nbsp; Good beats
 
