@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [Rafaelmdcarneiro](https://github.com/Rafaelmdcarneiro) Rafael Carneiro ]
 - [ [kaleturgay](https://github.com/kaleturgay) turgay.kale ]
 - [ [georgescutelnicu](https://github.com/georgescutelnicu) George ]
 - [ [Kiran-pro2001](https://github.com/Kiran-pro2001) Kiran Kumar ]
@@ -17,7 +18,6 @@
 - [ [naimmalek](https://github.com/naimmalek) Naim Malek ]
 - [ [owenlamont](https://github.com/owenlamont) Owen Lamont ]
 - [ [sandeepthota](https://github.com/sandeepthota) Sandeep ]
-- [ [mrhasankoc](https://github.com/mrhasankoc)  ]
 
 #### 🎧 &nbsp; Good beats
 
@@ -25,7 +25,7 @@
 
 #### 🚀 &nbsp; Open source projects I've contributed to
 1. [**suttacentral/suttacentral**](https://github.com/suttacentral/suttacentral/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/suttacentral/suttacentral?style=social)](https://github.com/suttacentral/suttacentral/stargazers) - SuttaCentral website application (2 weeks ago)
-1. [**Kludex/fastapi-tips**](https://github.com/Kludex/fastapi-tips/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/Kludex/fastapi-tips?style=social)](https://github.com/Kludex/fastapi-tips/stargazers) - FastAPI Tips by The FastAPI Expert! (3 weeks ago)
+1. [**Kludex/fastapi-tips**](https://github.com/Kludex/fastapi-tips/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/Kludex/fastapi-tips?style=social)](https://github.com/Kludex/fastapi-tips/stargazers) - FastAPI Tips by The FastAPI Expert! (4 weeks ago)
 1. [**serhatbolsu/robotframework-appiumlibrary**](https://github.com/serhatbolsu/robotframework-appiumlibrary/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/serhatbolsu/robotframework-appiumlibrary?style=social)](https://github.com/serhatbolsu/robotframework-appiumlibrary/stargazers) - AppiumLibrary is an appium testing library for RobotFramework (2 months ago)
 1. [**mongodb-labs/full-stack-fastapi-mongodb**](https://github.com/mongodb-labs/full-stack-fastapi-mongodb/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/mongodb-labs/full-stack-fastapi-mongodb?style=social)](https://github.com/mongodb-labs/full-stack-fastapi-mongodb/stargazers) - Full stack, modern web application generator. Using FastAPI, MongoDB as database, Docker, automatic HTTPS and more. (2 months ago)
 1. [**yusufcanb/tlm**](https://github.com/yusufcanb/tlm/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/yusufcanb/tlm?style=social)](https://github.com/yusufcanb/tlm/stargazers) - Local CLI Copilot, powered by CodeLLaMa. 💻🦙 (2 months ago)
@@ -61,9 +61,9 @@
 
 #### ⭐ Recent stars
 
-- [eftalyurtseven/youtube-tuts](https://github.com/eftalyurtseven/youtube-tuts) - my youtube channel project examples (3 days ago)
-- [OguzPastirmaci/gpu-burn](https://github.com/OguzPastirmaci/gpu-burn) - Multi-GPU CUDA stress test (3 days ago)
-- [Kludex/fastapi-tips](https://github.com/Kludex/fastapi-tips) - FastAPI Tips by The FastAPI Expert! (3 weeks ago)
+- [eftalyurtseven/youtube-tuts](https://github.com/eftalyurtseven/youtube-tuts) - my youtube channel project examples (4 days ago)
+- [OguzPastirmaci/gpu-burn](https://github.com/OguzPastirmaci/gpu-burn) - Multi-GPU CUDA stress test (4 days ago)
+- [Kludex/fastapi-tips](https://github.com/Kludex/fastapi-tips) - FastAPI Tips by The FastAPI Expert! (4 weeks ago)
 - [Rayberk/earthsake](https://github.com/Rayberk/earthsake) (1 month ago)
 - [halekmc/MSGSU-Python-Egitimi](https://github.com/halekmc/MSGSU-Python-Egitimi) - MSGSU Matematik Kulübü Python Eğitmenliği Notları (1 month ago)
 - [michaelkkehoe/awesome-sre-cheatsheets](https://github.com/michaelkkehoe/awesome-sre-cheatsheets) - A curated list of cheatsheets for SRE (1 month ago)
