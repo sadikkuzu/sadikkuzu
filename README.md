@@ -61,6 +61,7 @@
 
 #### ⭐ Recent stars
 
+- [BilecikAlgebraNumberTheory/BilecikAlgebraNumberTheory.github.io](https://github.com/BilecikAlgebraNumberTheory/BilecikAlgebraNumberTheory.github.io) (today)
 - [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.29% of bugs in the SWE-bench evaluation set and takes just 1.5 minutes to run. (2 days ago)
 - [eftalyurtseven/youtube-tuts](https://github.com/eftalyurtseven/youtube-tuts) - my youtube channel project examples (6 days ago)
 - [OguzPastirmaci/gpu-burn](https://github.com/OguzPastirmaci/gpu-burn) - Multi-GPU CUDA stress test (6 days ago)
@@ -70,7 +71,6 @@
 - [michaelkkehoe/awesome-sre-cheatsheets](https://github.com/michaelkkehoe/awesome-sre-cheatsheets) - A curated list of cheatsheets for SRE (1 month ago)
 - [SquadcastHub/awesome-sre-tools](https://github.com/SquadcastHub/awesome-sre-tools) - A curated list of Site Reliability and Production Engineering Tools (1 month ago)
 - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources. (1 month ago)
-- [alpaylan/devy](https://github.com/alpaylan/devy) - An Interactive Blog Engine (1 month ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
