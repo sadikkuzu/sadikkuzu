@@ -37,8 +37,8 @@
 1. [**senchabot-opensource/monorepo**](https://github.com/senchabot-opensource/monorepo/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/senchabot-opensource/monorepo?style=social)](https://github.com/senchabot-opensource/monorepo/stargazers) - Open source Discord bot and Twitch bot monorepo. Senchabot apps and packages. (6 months ago)
 1. [**zerotohero-dev/geyik-z2h-dev**](https://github.com/zerotohero-dev/geyik-z2h-dev/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/zerotohero-dev/geyik-z2h-dev?style=social)](https://github.com/zerotohero-dev/geyik-z2h-dev/stargazers) - The public Website of “Vadideki Geyik” Podcasts — https://geyik.z2h.dev/ (6 months ago)
 1. [**COVESA/vehicle_signal_specification**](https://github.com/COVESA/vehicle_signal_specification/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/COVESA/vehicle_signal_specification?style=social)](https://github.com/COVESA/vehicle_signal_specification/stargazers) - Vehicle Signal Specification - standardized way to describe automotive data (6 months ago)
-1. [**sananeminli/Growdash-Hackathon**](https://github.com/sananeminli/Growdash-Hackathon/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/sananeminli/Growdash-Hackathon?style=social)](https://github.com/sananeminli/Growdash-Hackathon/stargazers) - Team Dinamo (6 months ago)
-1. [**vercel/next.js**](https://github.com/vercel/next.js/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/vercel/next.js?style=social)](https://github.com/vercel/next.js/stargazers) - The React Framework (6 months ago)
+1. [**sananeminli/Growdash-Hackathon**](https://github.com/sananeminli/Growdash-Hackathon/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/sananeminli/Growdash-Hackathon?style=social)](https://github.com/sananeminli/Growdash-Hackathon/stargazers) - Team Dinamo (7 months ago)
+1. [**vercel/next.js**](https://github.com/vercel/next.js/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/vercel/next.js?style=social)](https://github.com/vercel/next.js/stargazers) - The React Framework (7 months ago)
 1. [**nestjs/nest**](https://github.com/nestjs/nest/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/nestjs/nest?style=social)](https://github.com/nestjs/nest/stargazers) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀 (7 months ago)
 1. [**mermaid-js/mermaid**](https://github.com/mermaid-js/mermaid/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/mermaid-js/mermaid?style=social)](https://github.com/mermaid-js/mermaid/stargazers) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown (7 months ago)
 1. [**AbhineshJha/Redstore**](https://github.com/AbhineshJha/Redstore/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/AbhineshJha/Redstore?style=social)](https://github.com/AbhineshJha/Redstore/stargazers) - A website of Trending clothes for men and women .!! College Project in 1st sem  (7 months ago)
@@ -61,10 +61,10 @@
 
 #### ⭐ Recent stars
 
-- [BilecikAlgebraNumberTheory/BilecikAlgebraNumberTheory.github.io](https://github.com/BilecikAlgebraNumberTheory/BilecikAlgebraNumberTheory.github.io) (today)
-- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.29% of bugs in the SWE-bench evaluation set and takes just 1.5 minutes to run. (2 days ago)
-- [eftalyurtseven/youtube-tuts](https://github.com/eftalyurtseven/youtube-tuts) - my youtube channel project examples (6 days ago)
-- [OguzPastirmaci/gpu-burn](https://github.com/OguzPastirmaci/gpu-burn) - Multi-GPU CUDA stress test (6 days ago)
+- [BilecikAlgebraNumberTheory/BilecikAlgebraNumberTheory.github.io](https://github.com/BilecikAlgebraNumberTheory/BilecikAlgebraNumberTheory.github.io) (1 day ago)
+- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.29% of bugs in the SWE-bench evaluation set and takes just 1.5 minutes to run. (3 days ago)
+- [eftalyurtseven/youtube-tuts](https://github.com/eftalyurtseven/youtube-tuts) - my youtube channel project examples (1 week ago)
+- [OguzPastirmaci/gpu-burn](https://github.com/OguzPastirmaci/gpu-burn) - Multi-GPU CUDA stress test (1 week ago)
 - [Kludex/fastapi-tips](https://github.com/Kludex/fastapi-tips) - FastAPI Tips by The FastAPI Expert! (1 month ago)
 - [Rayberk/earthsake](https://github.com/Rayberk/earthsake) (1 month ago)
 - [halekmc/MSGSU-Python-Egitimi](https://github.com/halekmc/MSGSU-Python-Egitimi) - MSGSU Matematik Kulübü Python Eğitmenliği Notları (1 month ago)
