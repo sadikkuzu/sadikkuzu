@@ -9,7 +9,6 @@
 #### 🔭 &nbsp; Check out my recent followers
 
 - [ [Rafaelmdcarneiro](https://github.com/Rafaelmdcarneiro) Rafael Carneiro ]
-- [ [kazhuravlev](https://github.com/kazhuravlev) Kirill Zhuravlev ]
 - [ [kaleturgay](https://github.com/kaleturgay) turgay.kale ]
 - [ [georgescutelnicu](https://github.com/georgescutelnicu) George ]
 - [ [Kiran-pro2001](https://github.com/Kiran-pro2001) Kiran Kumar ]
@@ -18,6 +17,7 @@
 - [ [Erfandroid](https://github.com/Erfandroid) Erfan Khabareh ]
 - [ [naimmalek](https://github.com/naimmalek) Naim Malek ]
 - [ [owenlamont](https://github.com/owenlamont) Owen Lamont ]
+- [ [sandeepthota](https://github.com/sandeepthota) Sandeep ]
 
 #### 🎧 &nbsp; Good beats
 
