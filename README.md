@@ -64,7 +64,7 @@
 - [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website. (1 week ago)
 - [doganulus/container-unison](https://github.com/doganulus/container-unison) - A containerized unison service with systemd (1 week ago)
 - [BilecikAlgebraNumberTheory/BilecikAlgebraNumberTheory.github.io](https://github.com/BilecikAlgebraNumberTheory/BilecikAlgebraNumberTheory.github.io) (1 week ago)
-- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.47% of bugs in the SWE-bench evaluation set and takes just 1.5 minutes to run. (1 week ago)
+- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.47% of bugs in the SWE-bench evaluation set and takes just 1 minute to run. (1 week ago)
 - [eftalyurtseven/youtube-tuts](https://github.com/eftalyurtseven/youtube-tuts) - my youtube channel project examples (2 weeks ago)
 - [OguzPastirmaci/gpu-burn](https://github.com/OguzPastirmaci/gpu-burn) - Multi-GPU CUDA stress test (2 weeks ago)
 - [Kludex/fastapi-tips](https://github.com/Kludex/fastapi-tips) - FastAPI Tips by The FastAPI Expert! (1 month ago)
