@@ -58,11 +58,11 @@
 
 #### ⭐ Recent stars
 
-- [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs (today)
-- [ossf/ai-ml-security](https://github.com/ossf/ai-ml-security) - Potential WG on Artificial Intelligence and Machine Learning (AI/ML) (6 days ago)
-- [zerotohero-dev/stash](https://github.com/zerotohero-dev/stash) - Stashes links and other stuff. (6 days ago)
-- [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website. (6 days ago)
-- [doganulus/container-unison](https://github.com/doganulus/container-unison) - A containerized unison service with systemd (6 days ago)
+- [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs (1 day ago)
+- [ossf/ai-ml-security](https://github.com/ossf/ai-ml-security) - Potential WG on Artificial Intelligence and Machine Learning (AI/ML) (1 week ago)
+- [zerotohero-dev/stash](https://github.com/zerotohero-dev/stash) - Stashes links and other stuff. (1 week ago)
+- [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website. (1 week ago)
+- [doganulus/container-unison](https://github.com/doganulus/container-unison) - A containerized unison service with systemd (1 week ago)
 - [BilecikAlgebraNumberTheory/BilecikAlgebraNumberTheory.github.io](https://github.com/BilecikAlgebraNumberTheory/BilecikAlgebraNumberTheory.github.io) (1 week ago)
 - [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.47% of bugs in the SWE-bench evaluation set and takes just 1.5 minutes to run. (1 week ago)
 - [eftalyurtseven/youtube-tuts](https://github.com/eftalyurtseven/youtube-tuts) - my youtube channel project examples (2 weeks ago)
