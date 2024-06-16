@@ -58,14 +58,14 @@
 
 #### ⭐ Recent stars
 
-- [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000&#43; DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, tmux.. (2 days ago)
+- [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000&#43; DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, tmux.. (3 days ago)
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs (1 week ago)
 - [ossf/ai-ml-security](https://github.com/ossf/ai-ml-security) - Potential WG on Artificial Intelligence and Machine Learning (AI/ML) (2 weeks ago)
 - [zerotohero-dev/stash](https://github.com/zerotohero-dev/stash) - Stashes links and other stuff. (2 weeks ago)
 - [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website. (2 weeks ago)
 - [doganulus/container-unison](https://github.com/doganulus/container-unison) - A containerized unison service with systemd (2 weeks ago)
 - [BilecikAlgebraNumberTheory/BilecikAlgebraNumberTheory.github.io](https://github.com/BilecikAlgebraNumberTheory/BilecikAlgebraNumberTheory.github.io) (2 weeks ago)
-- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.47% of bugs in the SWE-bench evaluation set and takes just 1 minute to run. (2 weeks ago)
+- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.47% of bugs in the SWE-bench evaluation set and takes just 1 minute to run. (3 weeks ago)
 - [eftalyurtseven/youtube-tuts](https://github.com/eftalyurtseven/youtube-tuts) - my youtube channel project examples (3 weeks ago)
 - [OguzPastirmaci/gpu-burn](https://github.com/OguzPastirmaci/gpu-burn) - Multi-GPU CUDA stress test (3 weeks ago)
 
