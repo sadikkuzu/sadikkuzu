@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [hu8813](https://github.com/hu8813) huaydin ]
 - [ [emanlove](https://github.com/emanlove) Ed Manlove ]
 - [ [devserkan](https://github.com/devserkan)  ]
 - [ [kaleturgay](https://github.com/kaleturgay) turgay.kale ]
@@ -17,7 +18,6 @@
 - [ [serkanh](https://github.com/serkanh) serkan haytac ]
 - [ [Erfandroid](https://github.com/Erfandroid) Erfan Khabareh ]
 - [ [naimmalek](https://github.com/naimmalek) Naim Malek ]
-- [ [owenlamont](https://github.com/owenlamont) Owen Lamont ]
 
 #### 🎧 &nbsp; Good beats
 
