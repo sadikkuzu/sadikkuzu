@@ -58,6 +58,7 @@
 
 #### ⭐ Recent stars
 
+- [logrotate/logrotate](https://github.com/logrotate/logrotate) - The logrotate utility is designed to simplify the administration of log files on a system which generates a lot of log files. (today)
 - [confluentinc/ksql](https://github.com/confluentinc/ksql) - The database purpose-built for stream processing applications. (today)
 - [bugthesystem/vscode-open-in-github](https://github.com/bugthesystem/vscode-open-in-github) - Extension for Visual Studio Code which can be used to jump to a source code line in Github, Bitbucket, GitLab and Visualstudio.com (today)
 - [vacanza/python-holidays](https://github.com/vacanza/python-holidays) - Generate and work with holidays in Python (1 day ago)
@@ -67,7 +68,6 @@
 - [zerotohero-dev/stash](https://github.com/zerotohero-dev/stash) - Stashes links and other stuff. (3 weeks ago)
 - [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website. (3 weeks ago)
 - [doganulus/container-unison](https://github.com/doganulus/container-unison) - A containerized unison service with systemd (3 weeks ago)
-- [BilecikAlgebraNumberTheory/BilecikAlgebraNumberTheory.github.io](https://github.com/BilecikAlgebraNumberTheory/BilecikAlgebraNumberTheory.github.io) (1 month ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
