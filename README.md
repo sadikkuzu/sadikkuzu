@@ -59,10 +59,10 @@
 
 #### ⭐ Recent stars
 
-- [logrotate/logrotate](https://github.com/logrotate/logrotate) - The logrotate utility is designed to simplify the administration of log files on a system which generates a lot of log files. (1 day ago)
-- [confluentinc/ksql](https://github.com/confluentinc/ksql) - The database purpose-built for stream processing applications. (1 day ago)
-- [bugthesystem/vscode-open-in-github](https://github.com/bugthesystem/vscode-open-in-github) - Extension for Visual Studio Code which can be used to jump to a source code line in Github, Bitbucket, GitLab and Visualstudio.com (1 day ago)
-- [vacanza/python-holidays](https://github.com/vacanza/python-holidays) - Generate and work with holidays in Python (2 days ago)
+- [logrotate/logrotate](https://github.com/logrotate/logrotate) - The logrotate utility is designed to simplify the administration of log files on a system which generates a lot of log files. (2 days ago)
+- [confluentinc/ksql](https://github.com/confluentinc/ksql) - The database purpose-built for stream processing applications. (2 days ago)
+- [bugthesystem/vscode-open-in-github](https://github.com/bugthesystem/vscode-open-in-github) - Extension for Visual Studio Code which can be used to jump to a source code line in Github, Bitbucket, GitLab and Visualstudio.com (2 days ago)
+- [vacanza/python-holidays](https://github.com/vacanza/python-holidays) - Generate and work with holidays in Python (3 days ago)
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000&#43; DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, tmux.. (2 weeks ago)
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs (3 weeks ago)
 - [ossf/ai-ml-security](https://github.com/ossf/ai-ml-security) - Potential WG on Artificial Intelligence and Machine Learning (AI/ML) (4 weeks ago)
