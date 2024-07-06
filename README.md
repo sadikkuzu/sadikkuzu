@@ -8,7 +8,6 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
-- [ [blocage](https://github.com/blocage) David ]
 - [ [hu8813](https://github.com/hu8813) huaydin ]
 - [ [emanlove](https://github.com/emanlove) Ed Manlove ]
 - [ [devserkan](https://github.com/devserkan)  ]
@@ -18,15 +17,16 @@
 - [ [fsolen](https://github.com/fsolen) Fatih Solen ]
 - [ [serkanh](https://github.com/serkanh) serkan haytac ]
 - [ [Erfandroid](https://github.com/Erfandroid) Erfan Khabareh ]
+- [ [naimmalek](https://github.com/naimmalek) Naim Malek ]
 
 #### 🎧 &nbsp; Good beats
 
 [![Mr. Kuzu's Recently Played Music on Spotify](https://spotify-recently-played-readme.vercel.app/api?user=5cfgfpgmik69ly41rspaiod2a&count=3&unique=1)](https://open.spotify.com/user/5cfgfpgmik69ly41rspaiod2a)
 
 #### 🚀 &nbsp; Open source projects I've contributed to
-1. [**suttacentral/suttacentral**](https://github.com/suttacentral/suttacentral/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/suttacentral/suttacentral?style=social)](https://github.com/suttacentral/suttacentral/stargazers) - SuttaCentral website application (1 month ago)
+1. [**suttacentral/suttacentral**](https://github.com/suttacentral/suttacentral/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/suttacentral/suttacentral?style=social)](https://github.com/suttacentral/suttacentral/stargazers) - SuttaCentral website application (2 months ago)
 1. [**Kludex/fastapi-tips**](https://github.com/Kludex/fastapi-tips/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/Kludex/fastapi-tips?style=social)](https://github.com/Kludex/fastapi-tips/stargazers) - FastAPI Tips by The FastAPI Expert! (2 months ago)
-1. [**serhatbolsu/robotframework-appiumlibrary**](https://github.com/serhatbolsu/robotframework-appiumlibrary/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/serhatbolsu/robotframework-appiumlibrary?style=social)](https://github.com/serhatbolsu/robotframework-appiumlibrary/stargazers) - AppiumLibrary is an appium testing library for RobotFramework (3 months ago)
+1. [**serhatbolsu/robotframework-appiumlibrary**](https://github.com/serhatbolsu/robotframework-appiumlibrary/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/serhatbolsu/robotframework-appiumlibrary?style=social)](https://github.com/serhatbolsu/robotframework-appiumlibrary/stargazers) - AppiumLibrary is an appium testing library for RobotFramework (4 months ago)
 1. [**yusufcanb/tlm**](https://github.com/yusufcanb/tlm/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/yusufcanb/tlm?style=social)](https://github.com/yusufcanb/tlm/stargazers) - Local CLI Copilot, powered by CodeLLaMa. 💻🦙 (4 months ago)
 1. [**mert-aydin/3DHumanPoseEstimation**](https://github.com/mert-aydin/3DHumanPoseEstimation/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/mert-aydin/3DHumanPoseEstimation?style=social)](https://github.com/mert-aydin/3DHumanPoseEstimation/stargazers) - CV project for BOUN SWE 583 - Computer Vision class. (5 months ago)
 1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io/stargazers) - SWE574 Fall2023 Group1 website (6 months ago)
@@ -59,11 +59,11 @@
 
 #### ⭐ Recent stars
 
-- [pytest-dev/cookiecutter-pytest-plugin](https://github.com/pytest-dev/cookiecutter-pytest-plugin) - A Cookiecutter template for pytest plugins 💻 (1 day ago)
-- [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement (3 days ago)
-- [abdullahcicekli/hashicorp-vault-for-springboot](https://github.com/abdullahcicekli/hashicorp-vault-for-springboot) - This repository provides a comprehensive example of how to integrate HashiCorp Vault with a Spring Boot application for secure management of secrets, credentials, and configurations. (4 days ago)
-- [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a better dotenv–from the creator of `dotenv` (4 days ago)
-- [habipakyol/Youtube-Video-Download](https://github.com/habipakyol/Youtube-Video-Download) (6 days ago)
+- [pytest-dev/cookiecutter-pytest-plugin](https://github.com/pytest-dev/cookiecutter-pytest-plugin) - A Cookiecutter template for pytest plugins 💻 (2 days ago)
+- [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement (4 days ago)
+- [abdullahcicekli/hashicorp-vault-for-springboot](https://github.com/abdullahcicekli/hashicorp-vault-for-springboot) - This repository provides a comprehensive example of how to integrate HashiCorp Vault with a Spring Boot application for secure management of secrets, credentials, and configurations. (5 days ago)
+- [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a better dotenv–from the creator of `dotenv` (5 days ago)
+- [habipakyol/Youtube-Video-Download](https://github.com/habipakyol/Youtube-Video-Download) (1 week ago)
 - [logrotate/logrotate](https://github.com/logrotate/logrotate) - The logrotate utility is designed to simplify the administration of log files on a system which generates a lot of log files. (1 week ago)
 - [confluentinc/ksql](https://github.com/confluentinc/ksql) - The database purpose-built for stream processing applications. (1 week ago)
 - [bugthesystem/vscode-open-in-github](https://github.com/bugthesystem/vscode-open-in-github) - Extension for Visual Studio Code which can be used to jump to a source code line in Github, Bitbucket, GitLab and Visualstudio.com (1 week ago)
