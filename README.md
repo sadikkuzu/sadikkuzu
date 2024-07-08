@@ -58,11 +58,11 @@
 
 #### ⭐ Recent stars
 
-- [pog87/PtitPrince](https://github.com/pog87/PtitPrince) - python version of raincloud (today)
-- [pytest-dev/cookiecutter-pytest-plugin](https://github.com/pytest-dev/cookiecutter-pytest-plugin) - A Cookiecutter template for pytest plugins 💻 (3 days ago)
-- [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement (5 days ago)
-- [abdullahcicekli/hashicorp-vault-for-springboot](https://github.com/abdullahcicekli/hashicorp-vault-for-springboot) - This repository provides a comprehensive example of how to integrate HashiCorp Vault with a Spring Boot application for secure management of secrets, credentials, and configurations. (6 days ago)
-- [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a better dotenv–from the creator of `dotenv` (6 days ago)
+- [pog87/PtitPrince](https://github.com/pog87/PtitPrince) - python version of raincloud (1 day ago)
+- [pytest-dev/cookiecutter-pytest-plugin](https://github.com/pytest-dev/cookiecutter-pytest-plugin) - A Cookiecutter template for pytest plugins 💻 (4 days ago)
+- [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement (6 days ago)
+- [abdullahcicekli/hashicorp-vault-for-springboot](https://github.com/abdullahcicekli/hashicorp-vault-for-springboot) - This repository provides a comprehensive example of how to integrate HashiCorp Vault with a Spring Boot application for secure management of secrets, credentials, and configurations. (1 week ago)
+- [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a better dotenv–from the creator of `dotenv` (1 week ago)
 - [habipakyol/Youtube-Video-Download](https://github.com/habipakyol/Youtube-Video-Download) (1 week ago)
 - [logrotate/logrotate](https://github.com/logrotate/logrotate) - The logrotate utility is designed to simplify the administration of log files on a system which generates a lot of log files. (1 week ago)
 - [confluentinc/ksql](https://github.com/confluentinc/ksql) - The database purpose-built for stream processing applications. (1 week ago)
