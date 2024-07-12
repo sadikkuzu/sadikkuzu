@@ -58,6 +58,7 @@
 
 #### ⭐ Recent stars
 
+- [mkerrisk/man-pages](https://github.com/mkerrisk/man-pages) - Linux man-pages (today)
 - [miketheman/pytest-socket](https://github.com/miketheman/pytest-socket) - Pytest Plugin to disable socket calls during tests (1 day ago)
 - [pog87/PtitPrince](https://github.com/pog87/PtitPrince) - python version of raincloud (5 days ago)
 - [pytest-dev/cookiecutter-pytest-plugin](https://github.com/pytest-dev/cookiecutter-pytest-plugin) - A Cookiecutter template for pytest plugins 💻 (1 week ago)
@@ -67,7 +68,6 @@
 - [habipakyol/Youtube-Video-Download](https://github.com/habipakyol/Youtube-Video-Download) (1 week ago)
 - [logrotate/logrotate](https://github.com/logrotate/logrotate) - The logrotate utility is designed to simplify the administration of log files on a system which generates a lot of log files. (2 weeks ago)
 - [bugthesystem/vscode-open-in-github](https://github.com/bugthesystem/vscode-open-in-github) - Extension for Visual Studio Code which can be used to jump to a source code line in Github, Bitbucket, GitLab and Visualstudio.com (2 weeks ago)
-- [vacanza/python-holidays](https://github.com/vacanza/python-holidays) - Generate and work with holidays in Python (2 weeks ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
