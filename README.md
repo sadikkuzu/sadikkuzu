@@ -58,8 +58,8 @@
 
 #### ⭐ Recent stars
 
-- [miketheman/pytest-socket](https://github.com/miketheman/pytest-socket) - Pytest Plugin to disable socket calls during tests (today)
-- [pog87/PtitPrince](https://github.com/pog87/PtitPrince) - python version of raincloud (4 days ago)
+- [miketheman/pytest-socket](https://github.com/miketheman/pytest-socket) - Pytest Plugin to disable socket calls during tests (1 day ago)
+- [pog87/PtitPrince](https://github.com/pog87/PtitPrince) - python version of raincloud (5 days ago)
 - [pytest-dev/cookiecutter-pytest-plugin](https://github.com/pytest-dev/cookiecutter-pytest-plugin) - A Cookiecutter template for pytest plugins 💻 (1 week ago)
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement (1 week ago)
 - [abdullahcicekli/hashicorp-vault-for-springboot](https://github.com/abdullahcicekli/hashicorp-vault-for-springboot) - This repository provides a comprehensive example of how to integrate HashiCorp Vault with a Spring Boot application for secure management of secrets, credentials, and configurations. (1 week ago)
