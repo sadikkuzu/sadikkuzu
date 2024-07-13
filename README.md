@@ -42,8 +42,8 @@
 1. [**SPLWare/esProc**](https://github.com/SPLWare/esProc/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SPLWare/esProc?style=social)](https://github.com/SPLWare/esProc/stargazers) - esProc SPL is a scripting language for data processing, with well-designed rich library functions and powerful syntax, which can be executed in a Java program through JDBC interface and computing independently. (8 months ago)
 1. [**calwoodford/anki_decks**](https://github.com/calwoodford/anki_decks/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/calwoodford/anki_decks?style=social)](https://github.com/calwoodford/anki_decks/stargazers) - Questions and answers for Anki spaced repetition software decks. (8 months ago)
 1. [**AbhineshJha/Redstore**](https://github.com/AbhineshJha/Redstore/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/AbhineshJha/Redstore?style=social)](https://github.com/AbhineshJha/Redstore/stargazers) - A website of Trending clothes for men and women .!! College Project in 1st sem  (8 months ago)
-1. [**SWE574-Fall2023-Group1/.github**](https://github.com/SWE574-Fall2023-Group1/.github/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/.github?style=social)](https://github.com/SWE574-Fall2023-Group1/.github/stargazers) - SWE574 Fall2023 Group1 (8 months ago)
-1. [**leanprover/lean4**](https://github.com/leanprover/lean4/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/leanprover/lean4?style=social)](https://github.com/leanprover/lean4/stargazers) - Lean 4 programming language and theorem prover (8 months ago)
+1. [**SWE574-Fall2023-Group1/.github**](https://github.com/SWE574-Fall2023-Group1/.github/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/.github?style=social)](https://github.com/SWE574-Fall2023-Group1/.github/stargazers) - SWE574 Fall2023 Group1 (9 months ago)
+1. [**leanprover/lean4**](https://github.com/leanprover/lean4/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/leanprover/lean4?style=social)](https://github.com/leanprover/lean4/stargazers) - Lean 4 programming language and theorem prover (9 months ago)
 1. [**godotengine/godot**](https://github.com/godotengine/godot/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/godotengine/godot?style=social)](https://github.com/godotengine/godot/stargazers) - Godot Engine – Multi-platform 2D and 3D game engine (9 months ago)
 1. [**sananeminli/BOUN_Carrel_Telegram_Bot**](https://github.com/sananeminli/BOUN_Carrel_Telegram_Bot/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/sananeminli/BOUN_Carrel_Telegram_Bot?style=social)](https://github.com/sananeminli/BOUN_Carrel_Telegram_Bot/stargazers) -  (9 months ago)
 1. [**gis-ops/routingpy**](https://github.com/gis-ops/routingpy/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/gis-ops/routingpy?style=social)](https://github.com/gis-ops/routingpy/stargazers) - 🌎 Python library to access all public routing, isochrones and matrix APIs in a consistent manner. (9 months ago)
@@ -58,14 +58,14 @@
 
 #### ⭐ Recent stars
 
-- [mkerrisk/man-pages](https://github.com/mkerrisk/man-pages) - Linux man-pages (today)
-- [miketheman/pytest-socket](https://github.com/miketheman/pytest-socket) - Pytest Plugin to disable socket calls during tests (1 day ago)
-- [pog87/PtitPrince](https://github.com/pog87/PtitPrince) - python version of raincloud (5 days ago)
+- [mkerrisk/man-pages](https://github.com/mkerrisk/man-pages) - Linux man-pages (1 day ago)
+- [miketheman/pytest-socket](https://github.com/miketheman/pytest-socket) - Pytest Plugin to disable socket calls during tests (2 days ago)
+- [pog87/PtitPrince](https://github.com/pog87/PtitPrince) - python version of raincloud (6 days ago)
 - [pytest-dev/cookiecutter-pytest-plugin](https://github.com/pytest-dev/cookiecutter-pytest-plugin) - A Cookiecutter template for pytest plugins 💻 (1 week ago)
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement (1 week ago)
 - [abdullahcicekli/hashicorp-vault-for-springboot](https://github.com/abdullahcicekli/hashicorp-vault-for-springboot) - This repository provides a comprehensive example of how to integrate HashiCorp Vault with a Spring Boot application for secure management of secrets, credentials, and configurations. (1 week ago)
 - [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a better dotenv–from the creator of `dotenv` (1 week ago)
-- [habipakyol/Youtube-Video-Download](https://github.com/habipakyol/Youtube-Video-Download) (1 week ago)
+- [habipakyol/Youtube-Video-Download](https://github.com/habipakyol/Youtube-Video-Download) (2 weeks ago)
 - [logrotate/logrotate](https://github.com/logrotate/logrotate) - The logrotate utility is designed to simplify the administration of log files on a system which generates a lot of log files. (2 weeks ago)
 - [bugthesystem/vscode-open-in-github](https://github.com/bugthesystem/vscode-open-in-github) - Extension for Visual Studio Code which can be used to jump to a source code line in Github, Bitbucket, GitLab and Visualstudio.com (2 weeks ago)
 
