@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [SeydaNurT](https://github.com/SeydaNurT) SEYDA NUR TAZE ]
 - [ [tarikkamat](https://github.com/tarikkamat) Tarık KAMAT ]
 - [ [hu8813](https://github.com/hu8813) huaydin ]
 - [ [emanlove](https://github.com/emanlove) Ed Manlove ]
@@ -17,7 +18,6 @@
 - [ [Kiran-pro2001](https://github.com/Kiran-pro2001) Kiran Kumar ]
 - [ [fsolen](https://github.com/fsolen) Fatih Solen ]
 - [ [serkanh](https://github.com/serkanh) serkan haytac ]
-- [ [Erfandroid](https://github.com/Erfandroid) Erfan Khabareh ]
 
 #### 🎧 &nbsp; Good beats
 
