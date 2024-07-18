@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [barandenizkorkmaz](https://github.com/barandenizkorkmaz) Baran Deniz Korkmaz ]
 - [ [SeydaNurT](https://github.com/SeydaNurT) SEYDA NUR TAZE ]
 - [ [tarikkamat](https://github.com/tarikkamat) Tarık KAMAT ]
 - [ [hu8813](https://github.com/hu8813) huaydin ]
@@ -17,7 +18,6 @@
 - [ [georgescutelnicu](https://github.com/georgescutelnicu) George ]
 - [ [Kiran-pro2001](https://github.com/Kiran-pro2001) Kiran Kumar ]
 - [ [fsolen](https://github.com/fsolen) Fatih Solen ]
-- [ [serkanh](https://github.com/serkanh) serkan haytac ]
 
 #### 🎧 &nbsp; Good beats
 
