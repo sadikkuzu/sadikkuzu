@@ -52,22 +52,22 @@
 1. [**Ealenn/Echo-Server**](https://github.com/Ealenn/Echo-Server/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/Ealenn/Echo-Server?style=social)](https://github.com/Ealenn/Echo-Server/stargazers) - REST Server Tests (Echo-Server) API / Docker / Kubernetes / Helm (11 months ago)
 1. [**Homebrew/brew.sh**](https://github.com/Homebrew/brew.sh/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/Homebrew/brew.sh?style=social)](https://github.com/Homebrew/brew.sh/stargazers) - 🔖 The Homebrew homepage (11 months ago)
 1. [**Delgan/loguru**](https://github.com/Delgan/loguru/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/Delgan/loguru?style=social)](https://github.com/Delgan/loguru/stargazers) - Python logging made (stupidly) simple (11 months ago)
-1. [**eser/aya-website**](https://github.com/eser/aya-website/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/eser/aya-website?style=social)](https://github.com/eser/aya-website/stargazers) - açık yazılım ağı web sitesi kaynak kodları (11 months ago)
+1. [**eser/aya-website**](https://github.com/eser/aya-website/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/eser/aya-website?style=social)](https://github.com/eser/aya-website/stargazers) - açık yazılım ağı web sitesi kaynak kodları (1 year ago)
 1. [**bouncmpe/website**](https://github.com/bouncmpe/website/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/bouncmpe/website?style=social)](https://github.com/bouncmpe/website/stargazers) - New Department Website (1 year ago)
 
 
 #### ⭐ Recent stars
 
-- [mkerrisk/man-pages](https://github.com/mkerrisk/man-pages) - Linux man-pages (5 days ago)
-- [miketheman/pytest-socket](https://github.com/miketheman/pytest-socket) - Pytest Plugin to disable socket calls during tests (6 days ago)
+- [mkerrisk/man-pages](https://github.com/mkerrisk/man-pages) - Linux man-pages (6 days ago)
+- [miketheman/pytest-socket](https://github.com/miketheman/pytest-socket) - Pytest Plugin to disable socket calls during tests (1 week ago)
 - [pog87/PtitPrince](https://github.com/pog87/PtitPrince) - python version of raincloud (1 week ago)
-- [pytest-dev/cookiecutter-pytest-plugin](https://github.com/pytest-dev/cookiecutter-pytest-plugin) - A Cookiecutter template for pytest plugins 💻 (1 week ago)
+- [pytest-dev/cookiecutter-pytest-plugin](https://github.com/pytest-dev/cookiecutter-pytest-plugin) - A Cookiecutter template for pytest plugins 💻 (2 weeks ago)
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement (2 weeks ago)
 - [abdullahcicekli/hashicorp-vault-for-springboot](https://github.com/abdullahcicekli/hashicorp-vault-for-springboot) - This repository provides a comprehensive example of how to integrate HashiCorp Vault with a Spring Boot application for secure management of secrets, credentials, and configurations. (2 weeks ago)
 - [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a better dotenv–from the creator of `dotenv` (2 weeks ago)
 - [habipakyol/Youtube-Video-Download](https://github.com/habipakyol/Youtube-Video-Download) (2 weeks ago)
-- [logrotate/logrotate](https://github.com/logrotate/logrotate) - The logrotate utility is designed to simplify the administration of log files on a system which generates a lot of log files. (2 weeks ago)
-- [bugthesystem/vscode-open-in-github](https://github.com/bugthesystem/vscode-open-in-github) - Extension for Visual Studio Code which can be used to jump to a source code line in Github, Bitbucket, GitLab and Visualstudio.com (2 weeks ago)
+- [logrotate/logrotate](https://github.com/logrotate/logrotate) - The logrotate utility is designed to simplify the administration of log files on a system which generates a lot of log files. (3 weeks ago)
+- [bugthesystem/vscode-open-in-github](https://github.com/bugthesystem/vscode-open-in-github) - Extension for Visual Studio Code which can be used to jump to a source code line in Github, Bitbucket, GitLab and Visualstudio.com (3 weeks ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
