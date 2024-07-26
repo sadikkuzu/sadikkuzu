@@ -58,7 +58,7 @@
 
 #### ⭐ Recent stars
 
-- [mkerrisk/man-pages](https://github.com/mkerrisk/man-pages) - Linux man-pages (1 week ago)
+- [mkerrisk/man-pages](https://github.com/mkerrisk/man-pages) - Linux man-pages (2 weeks ago)
 - [miketheman/pytest-socket](https://github.com/miketheman/pytest-socket) - Pytest Plugin to disable socket calls during tests (2 weeks ago)
 - [pog87/PtitPrince](https://github.com/pog87/PtitPrince) - python version of raincloud (2 weeks ago)
 - [pytest-dev/cookiecutter-pytest-plugin](https://github.com/pytest-dev/cookiecutter-pytest-plugin) - A Cookiecutter template for pytest plugins 💻 (3 weeks ago)
