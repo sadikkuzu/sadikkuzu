@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [jgraj](https://github.com/jgraj) Julian ]
 - [ [omermertkaya](https://github.com/omermertkaya) Ömer Mert KAYA ]
 - [ [oznakn](https://github.com/oznakn) Ozan Akin ]
 - [ [EyupKaan](https://github.com/EyupKaan) Eyüp Kaan Özteriş ]
@@ -17,7 +18,6 @@
 - [ [hu8813](https://github.com/hu8813) hüseyin kaya aydin ]
 - [ [emanlove](https://github.com/emanlove) Ed Manlove ]
 - [ [devserkan](https://github.com/devserkan)  ]
-- [ [kaleturgay](https://github.com/kaleturgay) turgay.kale ]
 
 #### 🎧 &nbsp; Good beats
 
