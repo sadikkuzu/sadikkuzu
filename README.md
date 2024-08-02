@@ -24,11 +24,11 @@
 [![Mr. Kuzu's Recently Played Music on Spotify](https://spotify-recently-played-readme.vercel.app/api?user=5cfgfpgmik69ly41rspaiod2a&count=3&unique=1)](https://open.spotify.com/user/5cfgfpgmik69ly41rspaiod2a)
 
 #### 🚀 &nbsp; Open source projects I've contributed to
-1. [**openbao/openbao**](https://github.com/openbao/openbao/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/openbao/openbao?style=social)](https://github.com/openbao/openbao/stargazers) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. (6 days ago)
+1. [**openbao/openbao**](https://github.com/openbao/openbao/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/openbao/openbao?style=social)](https://github.com/openbao/openbao/stargazers) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. (1 week ago)
 1. [**suttacentral/suttacentral**](https://github.com/suttacentral/suttacentral/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/suttacentral/suttacentral?style=social)](https://github.com/suttacentral/suttacentral/stargazers) - SuttaCentral website application (2 months ago)
 1. [**Kludex/fastapi-tips**](https://github.com/Kludex/fastapi-tips/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/Kludex/fastapi-tips?style=social)](https://github.com/Kludex/fastapi-tips/stargazers) - FastAPI Tips by The FastAPI Expert! (3 months ago)
 1. [**serhatbolsu/robotframework-appiumlibrary**](https://github.com/serhatbolsu/robotframework-appiumlibrary/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/serhatbolsu/robotframework-appiumlibrary?style=social)](https://github.com/serhatbolsu/robotframework-appiumlibrary/stargazers) - AppiumLibrary is an appium testing library for RobotFramework (4 months ago)
-1. [**mongodb-labs/full-stack-fastapi-mongodb**](https://github.com/mongodb-labs/full-stack-fastapi-mongodb/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/mongodb-labs/full-stack-fastapi-mongodb?style=social)](https://github.com/mongodb-labs/full-stack-fastapi-mongodb/stargazers) - Full stack, modern web application generator. Using FastAPI, MongoDB as database, Docker, automatic HTTPS and more. (4 months ago)
+1. [**mongodb-labs/full-stack-fastapi-mongodb**](https://github.com/mongodb-labs/full-stack-fastapi-mongodb/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/mongodb-labs/full-stack-fastapi-mongodb?style=social)](https://github.com/mongodb-labs/full-stack-fastapi-mongodb/stargazers) - Full stack, modern web application generator. Using FastAPI, MongoDB as database, Docker, automatic HTTPS and more. (5 months ago)
 1. [**yusufcanb/tlm**](https://github.com/yusufcanb/tlm/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/yusufcanb/tlm?style=social)](https://github.com/yusufcanb/tlm/stargazers) - Local CLI Copilot, powered by CodeLLaMa. 💻🦙 (5 months ago)
 1. [**mert-aydin/3DHumanPoseEstimation**](https://github.com/mert-aydin/3DHumanPoseEstimation/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/mert-aydin/3DHumanPoseEstimation?style=social)](https://github.com/mert-aydin/3DHumanPoseEstimation/stargazers) - CV project for BOUN SWE 583 - Computer Vision class. (6 months ago)
 1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-Group1.github.io/stargazers) - SWE574 Fall2023 Group1 website (7 months ago)
@@ -57,10 +57,10 @@
 
 #### ⭐ Recent stars
 
-- [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file. (5 days ago)
-- [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database (6 days ago)
-- [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. (6 days ago)
-- [mkerrisk/man-pages](https://github.com/mkerrisk/man-pages) - Linux man-pages (2 weeks ago)
+- [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file. (6 days ago)
+- [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database (1 week ago)
+- [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. (1 week ago)
+- [mkerrisk/man-pages](https://github.com/mkerrisk/man-pages) - Linux man-pages (3 weeks ago)
 - [miketheman/pytest-socket](https://github.com/miketheman/pytest-socket) - Pytest Plugin to disable socket calls during tests (3 weeks ago)
 - [pog87/PtitPrince](https://github.com/pog87/PtitPrince) - python version of raincloud (3 weeks ago)
 - [pytest-dev/cookiecutter-pytest-plugin](https://github.com/pytest-dev/cookiecutter-pytest-plugin) - A Cookiecutter template for pytest plugins 💻 (4 weeks ago)
