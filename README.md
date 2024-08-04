@@ -57,6 +57,7 @@
 
 #### ⭐ Recent stars
 
+- [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows) (today)
 - [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux. (today)
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file. (1 week ago)
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database (1 week ago)
@@ -66,7 +67,6 @@
 - [pog87/PtitPrince](https://github.com/pog87/PtitPrince) - python version of raincloud (4 weeks ago)
 - [pytest-dev/cookiecutter-pytest-plugin](https://github.com/pytest-dev/cookiecutter-pytest-plugin) - A Cookiecutter template for pytest plugins 💻 (1 month ago)
 - [PRQL/prql](https://github.com/PRQL/prql) - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement (1 month ago)
-- [abdullahcicekli/hashicorp-vault-for-springboot](https://github.com/abdullahcicekli/hashicorp-vault-for-springboot) - This repository provides a comprehensive example of how to integrate HashiCorp Vault with a Spring Boot application for secure management of secrets, credentials, and configurations. (1 month ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
