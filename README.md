@@ -24,7 +24,7 @@
 [![Mr. Kuzu's Recently Played Music on Spotify](https://spotify-recently-played-readme.vercel.app/api?user=5cfgfpgmik69ly41rspaiod2a&count=3&unique=1)](https://open.spotify.com/user/5cfgfpgmik69ly41rspaiod2a)
 
 #### 🚀 &nbsp; Open source projects I've contributed to
-1. [**openbao/openbao**](https://github.com/openbao/openbao/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/openbao/openbao?style=social)](https://github.com/openbao/openbao/stargazers) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. (2 days ago)
+1. [**openbao/openbao**](https://github.com/openbao/openbao/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/openbao/openbao?style=social)](https://github.com/openbao/openbao/stargazers) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. (3 days ago)
 1. [**suttacentral/suttacentral**](https://github.com/suttacentral/suttacentral/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/suttacentral/suttacentral?style=social)](https://github.com/suttacentral/suttacentral/stargazers) - SuttaCentral website application (3 months ago)
 1. [**Kludex/fastapi-tips**](https://github.com/Kludex/fastapi-tips/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/Kludex/fastapi-tips?style=social)](https://github.com/Kludex/fastapi-tips/stargazers) - FastAPI Tips by The FastAPI Expert! (3 months ago)
 1. [**serhatbolsu/robotframework-appiumlibrary**](https://github.com/serhatbolsu/robotframework-appiumlibrary/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/serhatbolsu/robotframework-appiumlibrary?style=social)](https://github.com/serhatbolsu/robotframework-appiumlibrary/stargazers) - AppiumLibrary is an appium testing library for RobotFramework (5 months ago)
@@ -55,13 +55,13 @@
 
 #### ⭐ Recent stars
 
-- [BetterCloud/vault-java-driver](https://github.com/BetterCloud/vault-java-driver) - Zero-dependency Java client for HashiCorp&#39;s Vault (5 days ago)
-- [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows) (6 days ago)
-- [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux. (6 days ago)
+- [BetterCloud/vault-java-driver](https://github.com/BetterCloud/vault-java-driver) - Zero-dependency Java client for HashiCorp&#39;s Vault (6 days ago)
+- [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows) (1 week ago)
+- [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux. (1 week ago)
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file. (2 weeks ago)
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database (2 weeks ago)
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. (2 weeks ago)
-- [mkerrisk/man-pages](https://github.com/mkerrisk/man-pages) - Linux man-pages (4 weeks ago)
+- [mkerrisk/man-pages](https://github.com/mkerrisk/man-pages) - Linux man-pages (1 month ago)
 - [miketheman/pytest-socket](https://github.com/miketheman/pytest-socket) - Pytest Plugin to disable socket calls during tests (1 month ago)
 - [pog87/PtitPrince](https://github.com/pog87/PtitPrince) - python version of raincloud (1 month ago)
 - [pytest-dev/cookiecutter-pytest-plugin](https://github.com/pytest-dev/cookiecutter-pytest-plugin) - A Cookiecutter template for pytest plugins 💻 (1 month ago)
