@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [Connor9994](https://github.com/Connor9994) Connor ]
 - [ [abdulmazidakash](https://github.com/abdulmazidakash) Abdul Mazid Akash ]
 - [ [omermertkaya](https://github.com/omermertkaya) Ömer Mert KAYA ]
 - [ [oznakn](https://github.com/oznakn) Ozan Akin ]
@@ -17,7 +18,6 @@
 - [ [tarikkamat](https://github.com/tarikkamat) Tarık KAMAT ]
 - [ [hu8813](https://github.com/hu8813) hüseyin kaya aydin ]
 - [ [emanlove](https://github.com/emanlove) Ed Manlove ]
-- [ [devserkan](https://github.com/devserkan)  ]
 
 #### 🎧 &nbsp; Good beats
 
