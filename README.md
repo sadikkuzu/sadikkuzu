@@ -55,6 +55,7 @@
 
 #### ⭐ Recent stars
 
+- [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel (today)
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. (3 days ago)
 - [spring-cloud/spring-cloud-vault](https://github.com/spring-cloud/spring-cloud-vault) - Configuration Integration with HashiCorp Vault (4 days ago)
 - [BetterCloud/vault-java-driver](https://github.com/BetterCloud/vault-java-driver) - Zero-dependency Java client for HashiCorp&#39;s Vault (1 week ago)
@@ -64,7 +65,6 @@
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database (3 weeks ago)
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. (3 weeks ago)
 - [mkerrisk/man-pages](https://github.com/mkerrisk/man-pages) - Linux man-pages (1 month ago)
-- [miketheman/pytest-socket](https://github.com/miketheman/pytest-socket) - Pytest Plugin to disable socket calls during tests (1 month ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
