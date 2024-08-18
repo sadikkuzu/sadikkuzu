@@ -55,12 +55,12 @@
 
 #### ⭐ Recent stars
 
-- [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel (1 day ago)
-- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. (4 days ago)
-- [spring-cloud/spring-cloud-vault](https://github.com/spring-cloud/spring-cloud-vault) - Configuration Integration with HashiCorp Vault (5 days ago)
+- [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel (2 days ago)
+- [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. (5 days ago)
+- [spring-cloud/spring-cloud-vault](https://github.com/spring-cloud/spring-cloud-vault) - Configuration Integration with HashiCorp Vault (6 days ago)
 - [BetterCloud/vault-java-driver](https://github.com/BetterCloud/vault-java-driver) - Zero-dependency Java client for HashiCorp&#39;s Vault (1 week ago)
-- [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows) (1 week ago)
-- [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux. (1 week ago)
+- [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows) (2 weeks ago)
+- [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux. (2 weeks ago)
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file. (3 weeks ago)
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database (3 weeks ago)
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. (3 weeks ago)
