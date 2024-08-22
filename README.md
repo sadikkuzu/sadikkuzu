@@ -24,7 +24,7 @@
 [![Mr. Kuzu's Recently Played Music on Spotify](https://spotify-recently-played-readme.vercel.app/api?user=5cfgfpgmik69ly41rspaiod2a&count=3&unique=1)](https://open.spotify.com/user/5cfgfpgmik69ly41rspaiod2a)
 
 #### 🚀 &nbsp; Open source projects I've contributed to
-1. [**openbao/openbao**](https://github.com/openbao/openbao/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/openbao/openbao?style=social)](https://github.com/openbao/openbao/stargazers) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. (1 week ago)
+1. [**openbao/openbao**](https://github.com/openbao/openbao/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/openbao/openbao?style=social)](https://github.com/openbao/openbao/stargazers) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. (2 weeks ago)
 1. [**suttacentral/suttacentral**](https://github.com/suttacentral/suttacentral/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/suttacentral/suttacentral?style=social)](https://github.com/suttacentral/suttacentral/stargazers) - SuttaCentral website application (3 months ago)
 1. [**Kludex/fastapi-tips**](https://github.com/Kludex/fastapi-tips/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/Kludex/fastapi-tips?style=social)](https://github.com/Kludex/fastapi-tips/stargazers) - FastAPI Tips by The FastAPI Expert! (3 months ago)
 1. [**serhatbolsu/robotframework-appiumlibrary**](https://github.com/serhatbolsu/robotframework-appiumlibrary/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/serhatbolsu/robotframework-appiumlibrary?style=social)](https://github.com/serhatbolsu/robotframework-appiumlibrary/stargazers) - AppiumLibrary is an appium testing library for RobotFramework (5 months ago)
@@ -45,7 +45,7 @@
 1. [**BeanieODM/beanie**](https://github.com/BeanieODM/beanie/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/BeanieODM/beanie?style=social)](https://github.com/BeanieODM/beanie/stargazers) - Asynchronous Python ODM for MongoDB (10 months ago)
 1. [**rust-build/rust-build.action**](https://github.com/rust-build/rust-build.action/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/rust-build/rust-build.action?style=social)](https://github.com/rust-build/rust-build.action/stargazers) - Automate publishing Rust build artifacts for GitHub releases through GitHub Actions (10 months ago)
 1. [**bevyengine/bevy**](https://github.com/bevyengine/bevy/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/bevyengine/bevy?style=social)](https://github.com/bevyengine/bevy/stargazers) - A refreshingly simple data-driven game engine built in Rust (10 months ago)
-1. [**log4mongo/log4mongo-python**](https://github.com/log4mongo/log4mongo-python/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/log4mongo/log4mongo-python?style=social)](https://github.com/log4mongo/log4mongo-python/stargazers) - python logging handler for mongo database (10 months ago)
+1. [**log4mongo/log4mongo-python**](https://github.com/log4mongo/log4mongo-python/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/log4mongo/log4mongo-python?style=social)](https://github.com/log4mongo/log4mongo-python/stargazers) - python logging handler for mongo database (11 months ago)
 1. [**sananeminli/BOUN_Carrel_Telegram_Bot**](https://github.com/sananeminli/BOUN_Carrel_Telegram_Bot/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/sananeminli/BOUN_Carrel_Telegram_Bot?style=social)](https://github.com/sananeminli/BOUN_Carrel_Telegram_Bot/stargazers) -  (11 months ago)
 1. [**godotengine/godot**](https://github.com/godotengine/godot/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/godotengine/godot?style=social)](https://github.com/godotengine/godot/stargazers) - Godot Engine – Multi-platform 2D and 3D game engine (11 months ago)
 1. [**gis-ops/routingpy**](https://github.com/gis-ops/routingpy/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/gis-ops/routingpy?style=social)](https://github.com/gis-ops/routingpy/stargazers) - 🌎 Python library to access all public routing, isochrones and matrix APIs in a consistent manner. (11 months ago)
@@ -55,7 +55,7 @@
 
 #### ⭐ Recent stars
 
-- [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel (5 days ago)
+- [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel (6 days ago)
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. (1 week ago)
 - [spring-cloud/spring-cloud-vault](https://github.com/spring-cloud/spring-cloud-vault) - Configuration Integration with HashiCorp Vault (1 week ago)
 - [BetterCloud/vault-java-driver](https://github.com/BetterCloud/vault-java-driver) - Zero-dependency Java client for HashiCorp&#39;s Vault (2 weeks ago)
