@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [toprakcagatay](https://github.com/toprakcagatay) Cagatay ]
 - [ [Charles-Chrismann](https://github.com/Charles-Chrismann) Charles Chrismann ]
 - [ [danmaster01](https://github.com/danmaster01) horlar ]
 - [ [Connor9994](https://github.com/Connor9994) Connor ]
@@ -17,7 +18,6 @@
 - [ [EyupKaan](https://github.com/EyupKaan) Eyüp Kaan Özteriş ]
 - [ [barandenizkorkmaz](https://github.com/barandenizkorkmaz) Baran Deniz Korkmaz ]
 - [ [SeydaNurT](https://github.com/SeydaNurT) SEYDA NUR TAZE ]
-- [ [tarikkamat](https://github.com/tarikkamat) Tarık KAMAT ]
 
 #### 🎧 &nbsp; Good beats
 
