@@ -55,6 +55,7 @@
 
 #### ⭐ Recent stars
 
+- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder (today)
 - [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel (6 days ago)
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. (1 week ago)
 - [spring-cloud/spring-cloud-vault](https://github.com/spring-cloud/spring-cloud-vault) - Configuration Integration with HashiCorp Vault (1 week ago)
@@ -64,7 +65,6 @@
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file. (3 weeks ago)
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) - VictoriaMetrics: fast, cost-effective monitoring solution and time series database (3 weeks ago)
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. (3 weeks ago)
-- [mkerrisk/man-pages](https://github.com/mkerrisk/man-pages) - Linux man-pages (1 month ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
