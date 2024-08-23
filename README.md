@@ -55,6 +55,7 @@
 
 #### ⭐ Recent stars
 
+- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker (today)
 - [MichaelAquilina/zsh-you-should-use](https://github.com/MichaelAquilina/zsh-you-should-use) - 📎 ZSH plugin that reminds you to use existing aliases for commands you just typed (today)
 - [teivah/sre-roadmap](https://github.com/teivah/sre-roadmap) - An Opinionated Roadmap to Become an SRE (Concepts &gt; Tools) (today)
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder (1 day ago)
@@ -64,7 +65,6 @@
 - [BetterCloud/vault-java-driver](https://github.com/BetterCloud/vault-java-driver) - Zero-dependency Java client for HashiCorp&#39;s Vault (2 weeks ago)
 - [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows) (2 weeks ago)
 - [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS or Arch Linux. (2 weeks ago)
-- [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file. (3 weeks ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
