@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [ngslabex](https://github.com/ngslabex)  ]
 - [ [berkegokmen1](https://github.com/berkegokmen1) Berke Gokmen ]
 - [ [toprakcagatay](https://github.com/toprakcagatay) Cagatay ]
 - [ [Charles-Chrismann](https://github.com/Charles-Chrismann) Charles Chrismann ]
@@ -17,7 +18,6 @@
 - [ [omermertkaya](https://github.com/omermertkaya) Ömer Mert KAYA ]
 - [ [oznakn](https://github.com/oznakn) Ozan Akin ]
 - [ [EyupKaan](https://github.com/EyupKaan) Eyüp Kaan Özteriş ]
-- [ [barandenizkorkmaz](https://github.com/barandenizkorkmaz) Baran Deniz Korkmaz ]
 
 #### 🎧 &nbsp; Good beats
 
