@@ -24,7 +24,7 @@
 [![Mr. Kuzu's Recently Played Music on Spotify](https://spotify-recently-played-readme.vercel.app/api?user=5cfgfpgmik69ly41rspaiod2a&count=3&unique=1)](https://open.spotify.com/user/5cfgfpgmik69ly41rspaiod2a)
 
 #### 🚀 &nbsp; Open source projects I've contributed to
-1. [**grafana/grafana**](https://github.com/grafana/grafana/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/grafana/grafana?style=social)](https://github.com/grafana/grafana/stargazers) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  (1 week ago)
+1. [**grafana/grafana**](https://github.com/grafana/grafana/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/grafana/grafana?style=social)](https://github.com/grafana/grafana/stargazers) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  (2 weeks ago)
 1. [**openbao/openbao**](https://github.com/openbao/openbao/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/openbao/openbao?style=social)](https://github.com/openbao/openbao/stargazers) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. (4 weeks ago)
 1. [**suttacentral/suttacentral**](https://github.com/suttacentral/suttacentral/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/suttacentral/suttacentral?style=social)](https://github.com/suttacentral/suttacentral/stargazers) - SuttaCentral website application (4 months ago)
 1. [**Kludex/fastapi-tips**](https://github.com/Kludex/fastapi-tips/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/Kludex/fastapi-tips?style=social)](https://github.com/Kludex/fastapi-tips/stargazers) - FastAPI Tips by The FastAPI Expert! (4 months ago)
@@ -57,16 +57,16 @@
 
 #### ⭐ Recent stars
 
-- [sathishvj/awesome-gcp-certifications](https://github.com/sathishvj/awesome-gcp-certifications) - Google Cloud Platform Certification resources. (today)
-- [lyda/chkcrontab](https://github.com/lyda/chkcrontab) - A tool for checking system crontab files (/etc/crontab and /etc/cron.d normally) for errors and common mistakes. (today)
-- [sananeminli/abb_chatbot](https://github.com/sananeminli/abb_chatbot) (4 days ago)
-- [asciinema/agg](https://github.com/asciinema/agg) - asciinema gif generator (5 days ago)
+- [sathishvj/awesome-gcp-certifications](https://github.com/sathishvj/awesome-gcp-certifications) - Google Cloud Platform Certification resources. (1 day ago)
+- [lyda/chkcrontab](https://github.com/lyda/chkcrontab) - A tool for checking system crontab files (/etc/crontab and /etc/cron.d normally) for errors and common mistakes. (1 day ago)
+- [sananeminli/abb_chatbot](https://github.com/sananeminli/abb_chatbot) (5 days ago)
+- [asciinema/agg](https://github.com/asciinema/agg) - asciinema gif generator (6 days ago)
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Free and Open-source database diagrams editor, visualize and design your DB with a single query. (1 week ago)
-- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker (1 week ago)
-- [MichaelAquilina/zsh-you-should-use](https://github.com/MichaelAquilina/zsh-you-should-use) - 📎 ZSH plugin that reminds you to use existing aliases for commands you just typed (1 week ago)
-- [teivah/sre-roadmap](https://github.com/teivah/sre-roadmap) - An Opinionated Roadmap to Become an SRE (Concepts &gt; Tools) (1 week ago)
+- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker (2 weeks ago)
+- [MichaelAquilina/zsh-you-should-use](https://github.com/MichaelAquilina/zsh-you-should-use) - 📎 ZSH plugin that reminds you to use existing aliases for commands you just typed (2 weeks ago)
+- [teivah/sre-roadmap](https://github.com/teivah/sre-roadmap) - An Opinionated Roadmap to Become an SRE (Concepts &gt; Tools) (2 weeks ago)
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder (2 weeks ago)
-- [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel (2 weeks ago)
+- [0xAX/linux-insides](https://github.com/0xAX/linux-insides) - A little bit about a linux kernel (3 weeks ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
