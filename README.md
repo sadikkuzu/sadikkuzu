@@ -57,8 +57,8 @@
 
 #### ⭐ Recent stars
 
-- [sathishvj/awesome-gcp-certifications](https://github.com/sathishvj/awesome-gcp-certifications) - Google Cloud Platform Certification resources. (3 days ago)
-- [lyda/chkcrontab](https://github.com/lyda/chkcrontab) - A tool for checking system crontab files (/etc/crontab and /etc/cron.d normally) for errors and common mistakes. (3 days ago)
+- [sathishvj/awesome-gcp-certifications](https://github.com/sathishvj/awesome-gcp-certifications) - Google Cloud Platform Certification resources. (4 days ago)
+- [lyda/chkcrontab](https://github.com/lyda/chkcrontab) - A tool for checking system crontab files (/etc/crontab and /etc/cron.d normally) for errors and common mistakes. (4 days ago)
 - [sananeminli/abb_chatbot](https://github.com/sananeminli/abb_chatbot) (1 week ago)
 - [asciinema/agg](https://github.com/asciinema/agg) - asciinema gif generator (1 week ago)
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Free and Open-source database diagrams editor, visualize and design your DB with a single query. (2 weeks ago)
