@@ -45,7 +45,7 @@
 1. [**mermaid-js/mermaid**](https://github.com/mermaid-js/mermaid/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/mermaid-js/mermaid?style=social)](https://github.com/mermaid-js/mermaid/stargazers) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown (10 months ago)
 1. [**AbhineshJha/Redstore**](https://github.com/AbhineshJha/Redstore/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/AbhineshJha/Redstore?style=social)](https://github.com/AbhineshJha/Redstore/stargazers) - A website of Trending clothes for men and women .!! College Project in 1st sem  (10 months ago)
 1. [**SPLWare/esProc**](https://github.com/SPLWare/esProc/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SPLWare/esProc?style=social)](https://github.com/SPLWare/esProc/stargazers) - esProc SPL is a scripting language for data processing, with well-designed rich library functions and powerful syntax, which can be executed in a Java program through JDBC interface and computing independently. (10 months ago)
-1. [**SWE574-Fall2023-Group1/.github**](https://github.com/SWE574-Fall2023-Group1/.github/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/.github?style=social)](https://github.com/SWE574-Fall2023-Group1/.github/stargazers) - SWE574 Fall2023 Group1 (10 months ago)
+1. [**SWE574-Fall2023-Group1/.github**](https://github.com/SWE574-Fall2023-Group1/.github/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/.github?style=social)](https://github.com/SWE574-Fall2023-Group1/.github/stargazers) - SWE574 Fall2023 Group1 (11 months ago)
 1. [**rust-build/rust-build.action**](https://github.com/rust-build/rust-build.action/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/rust-build/rust-build.action?style=social)](https://github.com/rust-build/rust-build.action/stargazers) - Automate publishing Rust build artifacts for GitHub releases through GitHub Actions (11 months ago)
 1. [**bevyengine/bevy**](https://github.com/bevyengine/bevy/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/bevyengine/bevy?style=social)](https://github.com/bevyengine/bevy/stargazers) - A refreshingly simple data-driven game engine built in Rust (11 months ago)
 1. [**log4mongo/log4mongo-python**](https://github.com/log4mongo/log4mongo-python/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/log4mongo/log4mongo-python?style=social)](https://github.com/log4mongo/log4mongo-python/stargazers) - python logging handler for mongo database (11 months ago)
@@ -57,8 +57,8 @@
 
 #### ⭐ Recent stars
 
-- [sathishvj/awesome-gcp-certifications](https://github.com/sathishvj/awesome-gcp-certifications) - Google Cloud Platform Certification resources. (5 days ago)
-- [lyda/chkcrontab](https://github.com/lyda/chkcrontab) - A tool for checking system crontab files (/etc/crontab and /etc/cron.d normally) for errors and common mistakes. (5 days ago)
+- [sathishvj/awesome-gcp-certifications](https://github.com/sathishvj/awesome-gcp-certifications) - Google Cloud Platform Certification resources. (6 days ago)
+- [lyda/chkcrontab](https://github.com/lyda/chkcrontab) - A tool for checking system crontab files (/etc/crontab and /etc/cron.d normally) for errors and common mistakes. (6 days ago)
 - [sananeminli/abb_chatbot](https://github.com/sananeminli/abb_chatbot) (1 week ago)
 - [asciinema/agg](https://github.com/asciinema/agg) - asciinema gif generator (1 week ago)
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Free and Open-source database diagrams editor, visualize and design your DB with a single query. (2 weeks ago)
