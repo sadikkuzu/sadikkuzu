@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [alihanpocar](https://github.com/alihanpocar) Alihan Pocar ]
 - [ [furkanonder](https://github.com/furkanonder) Furkan Onder ]
 - [ [ngslabex](https://github.com/ngslabex)  ]
 - [ [berkegokmen1](https://github.com/berkegokmen1) Berke Gokmen ]
@@ -17,7 +18,6 @@
 - [ [Connor9994](https://github.com/Connor9994) Connor ]
 - [ [abdulmazidakash](https://github.com/abdulmazidakash) Abdul Mazid Akash ]
 - [ [omermertkaya](https://github.com/omermertkaya) Ömer Mert KAYA ]
-- [ [oznakn](https://github.com/oznakn) Ozan Akin ]
 
 #### 🎧 &nbsp; Good beats
 
