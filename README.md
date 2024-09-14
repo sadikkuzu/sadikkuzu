@@ -57,14 +57,14 @@
 
 #### ⭐ Recent stars
 
-- [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin to create manifests with LLMs (1 day ago)
-- [isovalent/game-of-life](https://github.com/isovalent/game-of-life) - Game Of Life example  (1 day ago)
-- [bozsahin/cogs579](https://github.com/bozsahin/cogs579) - METU course on Philosophy of Computer Science (2 days ago)
-- [bozsahin/ling487-bogazici](https://github.com/bozsahin/ling487-bogazici) - Ling 487: Mathematics and Philosophy in Linguistics (Bogazici Linguistics elective course) (2 days ago)
+- [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin to create manifests with LLMs (2 days ago)
+- [isovalent/game-of-life](https://github.com/isovalent/game-of-life) - Game Of Life example  (2 days ago)
+- [bozsahin/cogs579](https://github.com/bozsahin/cogs579) - METU course on Philosophy of Computer Science (3 days ago)
+- [bozsahin/ling487-bogazici](https://github.com/bozsahin/ling487-bogazici) - Ling 487: Mathematics and Philosophy in Linguistics (Bogazici Linguistics elective course) (3 days ago)
 - [sathishvj/awesome-gcp-certifications](https://github.com/sathishvj/awesome-gcp-certifications) - Google Cloud Platform Certification resources. (1 week ago)
 - [lyda/chkcrontab](https://github.com/lyda/chkcrontab) - A tool for checking system crontab files (/etc/crontab and /etc/cron.d normally) for errors and common mistakes. (1 week ago)
 - [sananeminli/abb_chatbot](https://github.com/sananeminli/abb_chatbot) (1 week ago)
-- [asciinema/agg](https://github.com/asciinema/agg) - asciinema gif generator (1 week ago)
+- [asciinema/agg](https://github.com/asciinema/agg) - asciinema gif generator (2 weeks ago)
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Free and Open-source database diagrams editor, visualize and design your DB with a single query. (2 weeks ago)
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker (3 weeks ago)
 
