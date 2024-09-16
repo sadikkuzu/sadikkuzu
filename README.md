@@ -57,6 +57,7 @@
 
 #### ⭐ Recent stars
 
+- [eachlabs/Awesome-AI-Workflows](https://github.com/eachlabs/Awesome-AI-Workflows) - Awesome AI Workflows (today)
 - [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin to create manifests with LLMs (4 days ago)
 - [isovalent/game-of-life](https://github.com/isovalent/game-of-life) - Game Of Life example  (4 days ago)
 - [bozsahin/cogs579](https://github.com/bozsahin/cogs579) - METU course on Philosophy of Computer Science (5 days ago)
@@ -66,7 +67,6 @@
 - [sananeminli/abb_chatbot](https://github.com/sananeminli/abb_chatbot) (2 weeks ago)
 - [asciinema/agg](https://github.com/asciinema/agg) - asciinema gif generator (2 weeks ago)
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Free and Open-source database diagrams editor, visualize and design your DB with a single query. (3 weeks ago)
-- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker (3 weeks ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
