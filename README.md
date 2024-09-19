@@ -59,6 +59,7 @@
 
 #### ⭐ Recent stars
 
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (today)
 - [alicangunduz/nacizane](https://github.com/alicangunduz/nacizane) - Nacizane.co , anonim olarak geri bildirim vermenizi sağlayan bir uygulama. İnsanların birbirlerine dürüst ve yapıcı geri bildirimlerde bulunmalarını kolaylaştırır. (today)
 - [eachlabs/Awesome-AI-Workflows](https://github.com/eachlabs/Awesome-AI-Workflows) - Awesome AI Workflows (3 days ago)
 - [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin to create manifests with LLMs (1 week ago)
@@ -68,7 +69,6 @@
 - [sathishvj/awesome-gcp-certifications](https://github.com/sathishvj/awesome-gcp-certifications) - Google Cloud Platform Certification resources. (2 weeks ago)
 - [lyda/chkcrontab](https://github.com/lyda/chkcrontab) - A tool for checking system crontab files (/etc/crontab and /etc/cron.d normally) for errors and common mistakes. (2 weeks ago)
 - [sananeminli/abb_chatbot](https://github.com/sananeminli/abb_chatbot) (2 weeks ago)
-- [asciinema/agg](https://github.com/asciinema/agg) - asciinema gif generator (2 weeks ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
