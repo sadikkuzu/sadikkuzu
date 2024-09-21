@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [EzgiTastan](https://github.com/EzgiTastan) EzgiTastan ]
 - [ [alicangunduz](https://github.com/alicangunduz) Ali Can Gündüz ]
 - [ [halilxibrahim](https://github.com/halilxibrahim) Halil İbrahim  ]
 - [ [huseyinaydin99](https://github.com/huseyinaydin99) Hüseyin Aydın ]
@@ -17,7 +18,6 @@
 - [ [berkegokmen1](https://github.com/berkegokmen1) Berke Gokmen ]
 - [ [toprakcagatay](https://github.com/toprakcagatay) Cagatay ]
 - [ [Charles-Chrismann](https://github.com/Charles-Chrismann) Charles Chrismann ]
-- [ [danmaster01](https://github.com/danmaster01) horlar ]
 
 #### 🎧 &nbsp; Good beats
 
