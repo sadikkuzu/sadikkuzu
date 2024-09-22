@@ -24,8 +24,8 @@
 [![Mr. Kuzu's Recently Played Music on Spotify](https://spotify-recently-played-readme.vercel.app/api?user=5cfgfpgmik69ly41rspaiod2a&count=3&unique=1)](https://open.spotify.com/user/5cfgfpgmik69ly41rspaiod2a)
 
 #### 🚀 &nbsp; Open source projects I've contributed to
-1. [**alicangunduz/nacizane**](https://github.com/alicangunduz/nacizane/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/alicangunduz/nacizane?style=social)](https://github.com/alicangunduz/nacizane/stargazers) - Nacizane.co , anonim olarak geri bildirim vermenizi sağlayan bir uygulama. İnsanların birbirlerine dürüst ve yapıcı geri bildirimlerde bulunmalarını kolaylaştırır. (2 days ago)
-1. [**grafana/grafana**](https://github.com/grafana/grafana/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/grafana/grafana?style=social)](https://github.com/grafana/grafana/stargazers) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  (4 weeks ago)
+1. [**alicangunduz/nacizane**](https://github.com/alicangunduz/nacizane/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/alicangunduz/nacizane?style=social)](https://github.com/alicangunduz/nacizane/stargazers) - Nacizane.co , anonim olarak geri bildirim vermenizi sağlayan bir uygulama. İnsanların birbirlerine dürüst ve yapıcı geri bildirimlerde bulunmalarını kolaylaştırır. (3 days ago)
+1. [**grafana/grafana**](https://github.com/grafana/grafana/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/grafana/grafana?style=social)](https://github.com/grafana/grafana/stargazers) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  (1 month ago)
 1. [**openbao/openbao**](https://github.com/openbao/openbao/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/openbao/openbao?style=social)](https://github.com/openbao/openbao/stargazers) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. (1 month ago)
 1. [**suttacentral/suttacentral**](https://github.com/suttacentral/suttacentral/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/suttacentral/suttacentral?style=social)](https://github.com/suttacentral/suttacentral/stargazers) - SuttaCentral website application (4 months ago)
 1. [**Kludex/fastapi-tips**](https://github.com/Kludex/fastapi-tips/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/Kludex/fastapi-tips?style=social)](https://github.com/Kludex/fastapi-tips/stargazers) - FastAPI Tips by The FastAPI Expert! (4 months ago)
@@ -60,16 +60,16 @@
 
 #### ⭐ Recent stars
 
-- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (2 days ago)
-- [alicangunduz/nacizane](https://github.com/alicangunduz/nacizane) - Nacizane.co , anonim olarak geri bildirim vermenizi sağlayan bir uygulama. İnsanların birbirlerine dürüst ve yapıcı geri bildirimlerde bulunmalarını kolaylaştırır. (2 days ago)
-- [eachlabs/Awesome-AI-Workflows](https://github.com/eachlabs/Awesome-AI-Workflows) - Awesome AI Workflows (5 days ago)
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (3 days ago)
+- [alicangunduz/nacizane](https://github.com/alicangunduz/nacizane) - Nacizane.co , anonim olarak geri bildirim vermenizi sağlayan bir uygulama. İnsanların birbirlerine dürüst ve yapıcı geri bildirimlerde bulunmalarını kolaylaştırır. (3 days ago)
+- [eachlabs/Awesome-AI-Workflows](https://github.com/eachlabs/Awesome-AI-Workflows) - Awesome AI Workflows (6 days ago)
 - [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin to create manifests with LLMs (1 week ago)
 - [isovalent/game-of-life](https://github.com/isovalent/game-of-life) - Game Of Life example  (1 week ago)
 - [bozsahin/cogs579](https://github.com/bozsahin/cogs579) - METU course on Philosophy of Computer Science (1 week ago)
 - [bozsahin/ling487-bogazici](https://github.com/bozsahin/ling487-bogazici) - Ling 487: Mathematics and Philosophy in Linguistics (Bogazici Linguistics elective course) (1 week ago)
 - [sathishvj/awesome-gcp-certifications](https://github.com/sathishvj/awesome-gcp-certifications) - Google Cloud Platform Certification resources. (2 weeks ago)
 - [lyda/chkcrontab](https://github.com/lyda/chkcrontab) - A tool for checking system crontab files (/etc/crontab and /etc/cron.d normally) for errors and common mistakes. (2 weeks ago)
-- [sananeminli/abb_chatbot](https://github.com/sananeminli/abb_chatbot) (2 weeks ago)
+- [sananeminli/abb_chatbot](https://github.com/sananeminli/abb_chatbot) (3 weeks ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
