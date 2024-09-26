@@ -24,7 +24,7 @@
 [![Mr. Kuzu's Recently Played Music on Spotify](https://spotify-recently-played-readme.vercel.app/api?user=5cfgfpgmik69ly41rspaiod2a&count=3&unique=1)](https://open.spotify.com/user/5cfgfpgmik69ly41rspaiod2a)
 
 #### 🚀 &nbsp; Open source projects I've contributed to
-1. [**alicangunduz/nacizane**](https://github.com/alicangunduz/nacizane/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/alicangunduz/nacizane?style=social)](https://github.com/alicangunduz/nacizane/stargazers) - Nacizane.co , anonim olarak geri bildirim vermenizi sağlayan bir uygulama. İnsanların birbirlerine dürüst ve yapıcı geri bildirimlerde bulunmalarını kolaylaştırır. (6 days ago)
+1. [**alicangunduz/nacizane**](https://github.com/alicangunduz/nacizane/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/alicangunduz/nacizane?style=social)](https://github.com/alicangunduz/nacizane/stargazers) - Nacizane.co , anonim olarak geri bildirim vermenizi sağlayan bir uygulama. İnsanların birbirlerine dürüst ve yapıcı geri bildirimlerde bulunmalarını kolaylaştırır. (1 week ago)
 1. [**grafana/grafana**](https://github.com/grafana/grafana/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/grafana/grafana?style=social)](https://github.com/grafana/grafana/stargazers) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  (1 month ago)
 1. [**openbao/openbao**](https://github.com/openbao/openbao/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/openbao/openbao?style=social)](https://github.com/openbao/openbao/stargazers) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. (1 month ago)
 1. [**suttacentral/suttacentral**](https://github.com/suttacentral/suttacentral/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/suttacentral/suttacentral?style=social)](https://github.com/suttacentral/suttacentral/stargazers) - SuttaCentral website application (4 months ago)
@@ -40,8 +40,8 @@
 1. [**senchabot-opensource/monorepo**](https://github.com/senchabot-opensource/monorepo/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/senchabot-opensource/monorepo?style=social)](https://github.com/senchabot-opensource/monorepo/stargazers) - Open source Discord bot and Twitch bot monorepo. Senchabot apps and packages. (10 months ago)
 1. [**zerotohero-dev/geyik-z2h-dev**](https://github.com/zerotohero-dev/geyik-z2h-dev/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/zerotohero-dev/geyik-z2h-dev?style=social)](https://github.com/zerotohero-dev/geyik-z2h-dev/stargazers) - The public Website of “Vadideki Geyik” Podcasts — https://geyik.z2h.dev/ (10 months ago)
 1. [**COVESA/vehicle_signal_specification**](https://github.com/COVESA/vehicle_signal_specification/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/COVESA/vehicle_signal_specification?style=social)](https://github.com/COVESA/vehicle_signal_specification/stargazers) - Vehicle Signal Specification - standardized way to describe automotive data (10 months ago)
-1. [**vercel/next.js**](https://github.com/vercel/next.js/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/vercel/next.js?style=social)](https://github.com/vercel/next.js/stargazers) - The React Framework (10 months ago)
-1. [**sananeminli/Growdash-Hackathon**](https://github.com/sananeminli/Growdash-Hackathon/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/sananeminli/Growdash-Hackathon?style=social)](https://github.com/sananeminli/Growdash-Hackathon/stargazers) - Team Dinamo (10 months ago)
+1. [**vercel/next.js**](https://github.com/vercel/next.js/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/vercel/next.js?style=social)](https://github.com/vercel/next.js/stargazers) - The React Framework (11 months ago)
+1. [**sananeminli/Growdash-Hackathon**](https://github.com/sananeminli/Growdash-Hackathon/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/sananeminli/Growdash-Hackathon?style=social)](https://github.com/sananeminli/Growdash-Hackathon/stargazers) - Team Dinamo (11 months ago)
 1. [**nestjs/nest**](https://github.com/nestjs/nest/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/nestjs/nest?style=social)](https://github.com/nestjs/nest/stargazers) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀 (11 months ago)
 1. [**mermaid-js/mermaid**](https://github.com/mermaid-js/mermaid/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/mermaid-js/mermaid?style=social)](https://github.com/mermaid-js/mermaid/stargazers) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown (11 months ago)
 1. [**SPLWare/esProc**](https://github.com/SPLWare/esProc/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SPLWare/esProc?style=social)](https://github.com/SPLWare/esProc/stargazers) - esProc SPL is a scripting language for data processing, with well-designed rich library functions and powerful syntax, which can be executed in a Java program through JDBC interface and computing independently. (11 months ago)
@@ -59,16 +59,16 @@
 
 #### ⭐ Recent stars
 
-- [WinampDesktop/winamp](https://github.com/WinampDesktop/winamp) - Iconic media player (1 day ago)
-- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (6 days ago)
-- [alicangunduz/nacizane](https://github.com/alicangunduz/nacizane) - Nacizane.co , anonim olarak geri bildirim vermenizi sağlayan bir uygulama. İnsanların birbirlerine dürüst ve yapıcı geri bildirimlerde bulunmalarını kolaylaştırır. (6 days ago)
+- [WinampDesktop/winamp](https://github.com/WinampDesktop/winamp) - Iconic media player (2 days ago)
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (1 week ago)
+- [alicangunduz/nacizane](https://github.com/alicangunduz/nacizane) - Nacizane.co , anonim olarak geri bildirim vermenizi sağlayan bir uygulama. İnsanların birbirlerine dürüst ve yapıcı geri bildirimlerde bulunmalarını kolaylaştırır. (1 week ago)
 - [eachlabs/Awesome-AI-Workflows](https://github.com/eachlabs/Awesome-AI-Workflows) - Awesome AI Workflows (1 week ago)
-- [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin to create manifests with LLMs (1 week ago)
-- [isovalent/game-of-life](https://github.com/isovalent/game-of-life) - Game Of Life example  (1 week ago)
+- [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin to create manifests with LLMs (2 weeks ago)
+- [isovalent/game-of-life](https://github.com/isovalent/game-of-life) - Game Of Life example  (2 weeks ago)
 - [bozsahin/cogs579](https://github.com/bozsahin/cogs579) - METU course on Philosophy of Computer Science (2 weeks ago)
 - [bozsahin/ling487-bogazici](https://github.com/bozsahin/ling487-bogazici) - Ling 487: Mathematics and Philosophy in Linguistics (Bogazici Linguistics elective course) (2 weeks ago)
-- [sathishvj/awesome-gcp-certifications](https://github.com/sathishvj/awesome-gcp-certifications) - Google Cloud Platform Certification resources. (2 weeks ago)
-- [lyda/chkcrontab](https://github.com/lyda/chkcrontab) - A tool for checking system crontab files (/etc/crontab and /etc/cron.d normally) for errors and common mistakes. (2 weeks ago)
+- [sathishvj/awesome-gcp-certifications](https://github.com/sathishvj/awesome-gcp-certifications) - Google Cloud Platform Certification resources. (3 weeks ago)
+- [lyda/chkcrontab](https://github.com/lyda/chkcrontab) - A tool for checking system crontab files (/etc/crontab and /etc/cron.d normally) for errors and common mistakes. (3 weeks ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
