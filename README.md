@@ -49,7 +49,7 @@
 1. [**calwoodford/anki_decks**](https://github.com/calwoodford/anki_decks/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/calwoodford/anki_decks?style=social)](https://github.com/calwoodford/anki_decks/stargazers) - Questions and answers for Anki spaced repetition software decks. (11 months ago)
 1. [**SWE574-Fall2023-Group1/.github**](https://github.com/SWE574-Fall2023-Group1/.github/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/.github?style=social)](https://github.com/SWE574-Fall2023-Group1/.github/stargazers) - SWE574 Fall2023 Group1 (11 months ago)
 1. [**leanprover/lean4**](https://github.com/leanprover/lean4/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/leanprover/lean4?style=social)](https://github.com/leanprover/lean4/stargazers) - Lean 4 programming language and theorem prover (11 months ago)
-1. [**BeanieODM/beanie**](https://github.com/BeanieODM/beanie/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/BeanieODM/beanie?style=social)](https://github.com/BeanieODM/beanie/stargazers) - Asynchronous Python ODM for MongoDB (11 months ago)
+1. [**BeanieODM/beanie**](https://github.com/BeanieODM/beanie/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/BeanieODM/beanie?style=social)](https://github.com/BeanieODM/beanie/stargazers) - Asynchronous Python ODM for MongoDB (1 year ago)
 1. [**rust-build/rust-build.action**](https://github.com/rust-build/rust-build.action/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/rust-build/rust-build.action?style=social)](https://github.com/rust-build/rust-build.action/stargazers) - Automate publishing Rust build artifacts for GitHub releases through GitHub Actions (1 year ago)
 1. [**bevyengine/bevy**](https://github.com/bevyengine/bevy/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/bevyengine/bevy?style=social)](https://github.com/bevyengine/bevy/stargazers) - A refreshingly simple data-driven game engine built in Rust (1 year ago)
 1. [**log4mongo/log4mongo-python**](https://github.com/log4mongo/log4mongo-python/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/log4mongo/log4mongo-python?style=social)](https://github.com/log4mongo/log4mongo-python/stargazers) - python logging handler for mongo database (1 year ago)
@@ -59,7 +59,7 @@
 
 #### ⭐ Recent stars
 
-- [WinampDesktop/winamp](https://github.com/WinampDesktop/winamp) - Iconic media player (2 days ago)
+- [WinampDesktop/winamp](https://github.com/WinampDesktop/winamp) - Iconic media player (3 days ago)
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (1 week ago)
 - [alicangunduz/nacizane](https://github.com/alicangunduz/nacizane) - Nacizane.co , anonim olarak geri bildirim vermenizi sağlayan bir uygulama. İnsanların birbirlerine dürüst ve yapıcı geri bildirimlerde bulunmalarını kolaylaştırır. (1 week ago)
 - [eachlabs/Awesome-AI-Workflows](https://github.com/eachlabs/Awesome-AI-Workflows) - Awesome AI Workflows (1 week ago)
