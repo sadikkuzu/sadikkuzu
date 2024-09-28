@@ -59,7 +59,7 @@
 
 #### ⭐ Recent stars
 
-- [WinampDesktop/winamp](https://github.com/WinampDesktop/winamp) - Iconic media player (3 days ago)
+- [WinampDesktop/winamp](https://github.com/WinampDesktop/winamp) - Iconic media player (4 days ago)
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (1 week ago)
 - [alicangunduz/nacizane](https://github.com/alicangunduz/nacizane) - Nacizane.co , anonim olarak geri bildirim vermenizi sağlayan bir uygulama. İnsanların birbirlerine dürüst ve yapıcı geri bildirimlerde bulunmalarını kolaylaştırır. (1 week ago)
 - [eachlabs/Awesome-AI-Workflows](https://github.com/eachlabs/Awesome-AI-Workflows) - Awesome AI Workflows (1 week ago)
