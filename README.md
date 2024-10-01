@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [mustafacagri](https://github.com/mustafacagri) Mustafa Çağrı Güven ]
 - [ [thwisse](https://github.com/thwisse) Oğuzhan Tutucu ]
 - [ [EzgiTastan](https://github.com/EzgiTastan) EzgiTastan ]
 - [ [alicangunduz](https://github.com/alicangunduz) Ali Can Gündüz ]
@@ -17,7 +18,6 @@
 - [ [furkanonder](https://github.com/furkanonder) Furkan Onder ]
 - [ [ngslabex](https://github.com/ngslabex)  ]
 - [ [berkegokmen1](https://github.com/berkegokmen1) Berke Gokmen ]
-- [ [toprakcagatay](https://github.com/toprakcagatay) Cagatay ]
 
 #### 🎧 &nbsp; Good beats
 
