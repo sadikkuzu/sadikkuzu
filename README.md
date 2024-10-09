@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [7PH](https://github.com/7PH) Benjamin Raymond ]
 - [ [emineygt](https://github.com/emineygt)  ]
 - [ [neslihanatasever](https://github.com/neslihanatasever) nesly ]
 - [ [Jacky1961710](https://github.com/Jacky1961710) Jacky ]
@@ -17,7 +18,6 @@
 - [ [alicangunduz](https://github.com/alicangunduz) Ali Can Gündüz ]
 - [ [halilxibrahim](https://github.com/halilxibrahim) Halil İbrahim  ]
 - [ [huseyinaydin99](https://github.com/huseyinaydin99) Hüseyin Aydın ]
-- [ [alihanpocar](https://github.com/alihanpocar) Alihan Pocar ]
 
 #### 🎧 &nbsp; Good beats
 
@@ -53,15 +53,15 @@
 
 #### ⭐ Recent stars
 
-- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager (2 days ago)
+- [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager (3 days ago)
 - [WinampDesktop/winamp](https://github.com/WinampDesktop/winamp) - Iconic media player (2 weeks ago)
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (2 weeks ago)
 - [alicangunduz/nacizane](https://github.com/alicangunduz/nacizane) - Nacizane.co , anonim olarak geri bildirim vermenizi sağlayan bir uygulama. İnsanların birbirlerine dürüst ve yapıcı geri bildirimlerde bulunmalarını kolaylaştırır. (2 weeks ago)
 - [eachlabs/Awesome-AI-Workflows](https://github.com/eachlabs/Awesome-AI-Workflows) - Awesome AI Workflows (3 weeks ago)
 - [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin to create manifests with LLMs (3 weeks ago)
 - [isovalent/game-of-life](https://github.com/isovalent/game-of-life) - Game Of Life example  (3 weeks ago)
-- [bozsahin/cogs579](https://github.com/bozsahin/cogs579) - METU course on Philosophy of Computer Science (3 weeks ago)
-- [bozsahin/ling487-bogazici](https://github.com/bozsahin/ling487-bogazici) - Ling 487: Mathematics and Philosophy in Linguistics (Bogazici Linguistics elective course) (3 weeks ago)
+- [bozsahin/cogs579](https://github.com/bozsahin/cogs579) - METU course on Philosophy of Computer Science (4 weeks ago)
+- [bozsahin/ling487-bogazici](https://github.com/bozsahin/ling487-bogazici) - Ling 487: Mathematics and Philosophy in Linguistics (Bogazici Linguistics elective course) (4 weeks ago)
 - [sathishvj/awesome-gcp-certifications](https://github.com/sathishvj/awesome-gcp-certifications) - Google Cloud Platform Certification resources. (1 month ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
