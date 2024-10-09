@@ -8,7 +8,6 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
-- [ [7PH](https://github.com/7PH) Benjamin Raymond ]
 - [ [emineygt](https://github.com/emineygt)  ]
 - [ [neslihanatasever](https://github.com/neslihanatasever) nesly ]
 - [ [Jacky1961710](https://github.com/Jacky1961710) Jacky ]
@@ -18,6 +17,7 @@
 - [ [alicangunduz](https://github.com/alicangunduz) Ali Can Gündüz ]
 - [ [halilxibrahim](https://github.com/halilxibrahim) Halil İbrahim  ]
 - [ [huseyinaydin99](https://github.com/huseyinaydin99) Hüseyin Aydın ]
+- [ [alihanpocar](https://github.com/alihanpocar) Alihan Pocar ]
 
 #### 🎧 &nbsp; Good beats
 
