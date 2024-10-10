@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [blocage](https://github.com/blocage) David ]
 - [ [JohnMwendwa](https://github.com/JohnMwendwa) John Mwendwa ]
 - [ [emineygt](https://github.com/emineygt)  ]
 - [ [neslihanatasever](https://github.com/neslihanatasever) nesly ]
@@ -17,7 +18,6 @@
 - [ [EzgiTastan](https://github.com/EzgiTastan) EzgiTastan ]
 - [ [alicangunduz](https://github.com/alicangunduz) Ali Can Gündüz ]
 - [ [halilxibrahim](https://github.com/halilxibrahim) Halil İbrahim  ]
-- [ [huseyinaydin99](https://github.com/huseyinaydin99) Hüseyin Aydın ]
 
 #### 🎧 &nbsp; Good beats
 
