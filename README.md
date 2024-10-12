@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [CelaDaniel](https://github.com/CelaDaniel) Daniel Cela ]
 - [ [arasgungore](https://github.com/arasgungore) Aras Güngöre ]
 - [ [blocage](https://github.com/blocage) David ]
 - [ [JohnMwendwa](https://github.com/JohnMwendwa) John Mwendwa ]
@@ -17,7 +18,6 @@
 - [ [mustafacagri](https://github.com/mustafacagri) Mustafa Çağrı Güven ]
 - [ [thwisse](https://github.com/thwisse) Oğuzhan Tutucu ]
 - [ [EzgiTastan](https://github.com/EzgiTastan) EzgiTastan ]
-- [ [alicangunduz](https://github.com/alicangunduz) Ali Can Gündüz ]
 
 #### 🎧 &nbsp; Good beats
 
