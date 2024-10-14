@@ -8,7 +8,6 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
-- [ [nquinquenel](https://github.com/nquinquenel) Nicolas QUINQUENEL ]
 - [ [jelspace](https://github.com/jelspace) 21world ]
 - [ [CelaDaniel](https://github.com/CelaDaniel) Daniel Cela ]
 - [ [arasgungore](https://github.com/arasgungore) Aras Güngöre ]
@@ -18,6 +17,7 @@
 - [ [Jacky1961710](https://github.com/Jacky1961710) Jacky ]
 - [ [mustafacagri](https://github.com/mustafacagri) Mustafa Çağrı Güven ]
 - [ [thwisse](https://github.com/thwisse) Oğuzhan Tutucu ]
+- [ [EzgiTastan](https://github.com/EzgiTastan) EzgiTastan ]
 
 #### 🎧 &nbsp; Good beats
 
