@@ -24,7 +24,7 @@
 [![Mr. Kuzu's Recently Played Music on Spotify](https://spotify-recently-played-readme.vercel.app/api?user=5cfgfpgmik69ly41rspaiod2a&count=3&unique=1)](https://open.spotify.com/user/5cfgfpgmik69ly41rspaiod2a)
 
 #### 🚀 &nbsp; Open source projects I've contributed to
-1. [**furkanonder/DnsTrace**](https://github.com/furkanonder/DnsTrace/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/furkanonder/DnsTrace?style=social)](https://github.com/furkanonder/DnsTrace/stargazers) - Monitor DNS queries by host processes using eBPF! (2 days ago)
+1. [**furkanonder/DnsTrace**](https://github.com/furkanonder/DnsTrace/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/furkanonder/DnsTrace?style=social)](https://github.com/furkanonder/DnsTrace/stargazers) - Monitor DNS queries by host processes using eBPF! (3 days ago)
 1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-G1**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-G1?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/stargazers) - Project for SWE 574 - Group 1 (1 week ago)
 1. [**alicangunduz/nacizane**](https://github.com/alicangunduz/nacizane/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/alicangunduz/nacizane?style=social)](https://github.com/alicangunduz/nacizane/stargazers) - Nacizane.co , anonim olarak geri bildirim vermenizi sağlayan bir uygulama. İnsanların birbirlerine dürüst ve yapıcı geri bildirimlerde bulunmalarını kolaylaştırır. (3 weeks ago)
 1. [**grafana/grafana**](https://github.com/grafana/grafana/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/grafana/grafana?style=social)](https://github.com/grafana/grafana/stargazers) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  (1 month ago)
@@ -54,12 +54,12 @@
 
 #### ⭐ Recent stars
 
-- [furkanonder/DnsTrace](https://github.com/furkanonder/DnsTrace) - Monitor DNS queries by host processes using eBPF! (4 days ago)
+- [furkanonder/DnsTrace](https://github.com/furkanonder/DnsTrace) - Monitor DNS queries by host processes using eBPF! (5 days ago)
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager (1 week ago)
 - [WinampDesktop/winamp](https://github.com/WinampDesktop/winamp) - Iconic media player (2 weeks ago)
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (3 weeks ago)
 - [alicangunduz/nacizane](https://github.com/alicangunduz/nacizane) - Nacizane.co , anonim olarak geri bildirim vermenizi sağlayan bir uygulama. İnsanların birbirlerine dürüst ve yapıcı geri bildirimlerde bulunmalarını kolaylaştırır. (3 weeks ago)
-- [eachlabs/Awesome-AI-Workflows](https://github.com/eachlabs/Awesome-AI-Workflows) - Awesome AI Workflows (3 weeks ago)
+- [eachlabs/Awesome-AI-Workflows](https://github.com/eachlabs/Awesome-AI-Workflows) - Awesome AI Workflows (4 weeks ago)
 - [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin to create manifests with LLMs (1 month ago)
 - [isovalent/game-of-life](https://github.com/isovalent/game-of-life) - Game Of Life example  (1 month ago)
 - [bozsahin/cogs579](https://github.com/bozsahin/cogs579) - METU course on Philosophy of Computer Science (1 month ago)
