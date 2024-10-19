@@ -8,7 +8,6 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
-- [ [blocage](https://github.com/blocage) David ]
 - [ [trinhminhtriet](https://github.com/trinhminhtriet) Triet Trinh ]
 - [ [deltadash2](https://github.com/deltadash2) DeltaDash-2 ]
 - [ [jelspace](https://github.com/jelspace) 21world ]
@@ -18,6 +17,7 @@
 - [ [emineygt](https://github.com/emineygt)  ]
 - [ [neslihanatasever](https://github.com/neslihanatasever) nesly ]
 - [ [Jacky1961710](https://github.com/Jacky1961710) Jacky ]
+- [ [mustafacagri](https://github.com/mustafacagri) Mustafa Çağrı Güven ]
 
 #### 🎧 &nbsp; Good beats
 
@@ -54,6 +54,7 @@
 
 #### ⭐ Recent stars
 
+- [tsale/EDR-Telemetry](https://github.com/tsale/EDR-Telemetry) - This project aims to compare and evaluate the telemetry of various EDR products. (today)
 - [furkanonder/DnsTrace](https://github.com/furkanonder/DnsTrace) - Monitor DNS queries by host processes using eBPF! (1 week ago)
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager (1 week ago)
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (1 month ago)
@@ -63,7 +64,6 @@
 - [isovalent/game-of-life](https://github.com/isovalent/game-of-life) - Game Of Life example  (1 month ago)
 - [bozsahin/cogs579](https://github.com/bozsahin/cogs579) - METU course on Philosophy of Computer Science (1 month ago)
 - [bozsahin/ling487-bogazici](https://github.com/bozsahin/ling487-bogazici) - Ling 487: Mathematics and Philosophy in Linguistics (Bogazici Linguistics elective course) (1 month ago)
-- [sathishvj/awesome-gcp-certifications](https://github.com/sathishvj/awesome-gcp-certifications) - Google Cloud Platform Certification resources. (1 month ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
