@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [blocage](https://github.com/blocage) David ]
 - [ [trinhminhtriet](https://github.com/trinhminhtriet) Triet Trinh ]
 - [ [deltadash2](https://github.com/deltadash2) DeltaDash-2 ]
 - [ [jelspace](https://github.com/jelspace) 21world ]
@@ -17,7 +18,6 @@
 - [ [emineygt](https://github.com/emineygt)  ]
 - [ [neslihanatasever](https://github.com/neslihanatasever) nesly ]
 - [ [Jacky1961710](https://github.com/Jacky1961710) Jacky ]
-- [ [mustafacagri](https://github.com/mustafacagri) Mustafa Çağrı Güven ]
 
 #### 🎧 &nbsp; Good beats
 
