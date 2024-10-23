@@ -52,6 +52,7 @@
 
 #### ⭐ Recent stars
 
+- [grafana/promql-anomaly-detection](https://github.com/grafana/promql-anomaly-detection) - A framework for anomaly detection using Prometheus and PromQL (today)
 - [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs (2 days ago)
 - [tsale/EDR-Telemetry](https://github.com/tsale/EDR-Telemetry) - This project aims to compare and evaluate the telemetry of various EDR products. (4 days ago)
 - [furkanonder/DnsTrace](https://github.com/furkanonder/DnsTrace) - Monitor DNS queries by host processes using eBPF! (2 weeks ago)
@@ -61,7 +62,6 @@
 - [eachlabs/Awesome-AI-Workflows](https://github.com/eachlabs/Awesome-AI-Workflows) - Awesome AI Workflows (1 month ago)
 - [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin to create manifests with LLMs (1 month ago)
 - [isovalent/game-of-life](https://github.com/isovalent/game-of-life) - Game Of Life example  (1 month ago)
-- [bozsahin/cogs579](https://github.com/bozsahin/cogs579) - METU course on Philosophy of Computer Science (1 month ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
