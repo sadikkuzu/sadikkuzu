@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [fehu-zone](https://github.com/fehu-zone) Ahmet Karadaş ]
 - [ [eust-w](https://github.com/eust-w) longtao ]
 - [ [trinhminhtriet](https://github.com/trinhminhtriet) Triet Trinh ]
 - [ [deltadash2](https://github.com/deltadash2) DeltaDash-2 ]
@@ -17,7 +18,6 @@
 - [ [JohnMwendwa](https://github.com/JohnMwendwa) John Mwendwa ]
 - [ [emineygt](https://github.com/emineygt)  ]
 - [ [neslihanatasever](https://github.com/neslihanatasever) nesly ]
-- [ [Jacky1961710](https://github.com/Jacky1961710) Jacky ]
 
 #### 🎧 &nbsp; Good beats
 
