@@ -52,9 +52,9 @@
 
 #### ⭐ Recent stars
 
-- [grafana/promql-anomaly-detection](https://github.com/grafana/promql-anomaly-detection) - A framework for anomaly detection using Prometheus and PromQL (today)
-- [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs (2 days ago)
-- [tsale/EDR-Telemetry](https://github.com/tsale/EDR-Telemetry) - This project aims to compare and evaluate the telemetry of various EDR products. (4 days ago)
+- [grafana/promql-anomaly-detection](https://github.com/grafana/promql-anomaly-detection) - A framework for anomaly detection using Prometheus and PromQL (1 day ago)
+- [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs (3 days ago)
+- [tsale/EDR-Telemetry](https://github.com/tsale/EDR-Telemetry) - This project aims to compare and evaluate the telemetry of various EDR products. (5 days ago)
 - [furkanonder/DnsTrace](https://github.com/furkanonder/DnsTrace) - Monitor DNS queries by host processes using eBPF! (2 weeks ago)
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager (2 weeks ago)
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (1 month ago)
