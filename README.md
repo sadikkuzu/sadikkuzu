@@ -13,11 +13,11 @@
 - [ [trinhminhtriet](https://github.com/trinhminhtriet) Triet Trinh ]
 - [ [deltadash2](https://github.com/deltadash2) DeltaDash-2 ]
 - [ [jelspace](https://github.com/jelspace) 21world ]
-- [ [CelaDaniel](https://github.com/CelaDaniel) Daniel Cela ]
 - [ [arasgungore](https://github.com/arasgungore) Aras Güngöre ]
 - [ [JohnMwendwa](https://github.com/JohnMwendwa) John Mwendwa ]
 - [ [emineygt](https://github.com/emineygt)  ]
 - [ [neslihanatasever](https://github.com/neslihanatasever) nesly ]
+- [ [Jacky1961710](https://github.com/Jacky1961710) Jacky ]
 
 #### 🎧 &nbsp; Good beats
 
