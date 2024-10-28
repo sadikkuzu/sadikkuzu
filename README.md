@@ -52,16 +52,16 @@
 
 #### ⭐ Recent stars
 
-- [atilsensalduz/new-relic-scim-go-client](https://github.com/atilsensalduz/new-relic-scim-go-client) - Go Client for New Relic Automated User Management SCIM API (today)
-- [castvoid/xserve-frontpanel](https://github.com/castvoid/xserve-frontpanel) - A project to re-implement the daemon controlling the Xserve front panel CPU activity LED (1 day ago)
-- [grafana/promql-anomaly-detection](https://github.com/grafana/promql-anomaly-detection) - A framework for anomaly detection using Prometheus and PromQL (4 days ago)
-- [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs (6 days ago)
+- [facebookincubator/below](https://github.com/facebookincubator/below) - A time traveling resource monitor for modern Linux systems (today)
+- [atilsensalduz/new-relic-scim-go-client](https://github.com/atilsensalduz/new-relic-scim-go-client) - Go Client for New Relic Automated User Management SCIM API (1 day ago)
+- [castvoid/xserve-frontpanel](https://github.com/castvoid/xserve-frontpanel) - A project to re-implement the daemon controlling the Xserve front panel CPU activity LED (2 days ago)
+- [grafana/promql-anomaly-detection](https://github.com/grafana/promql-anomaly-detection) - A framework for anomaly detection using Prometheus and PromQL (5 days ago)
+- [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs (1 week ago)
 - [tsale/EDR-Telemetry](https://github.com/tsale/EDR-Telemetry) - This project aims to compare and evaluate the telemetry of various EDR products. (1 week ago)
 - [furkanonder/DnsTrace](https://github.com/furkanonder/DnsTrace) - Monitor DNS queries by host processes using eBPF! (2 weeks ago)
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager (3 weeks ago)
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (1 month ago)
 - [alicangunduz/nacizane](https://github.com/alicangunduz/nacizane) - Nacizane.co , anonim olarak geri bildirim vermenizi sağlayan bir uygulama. İnsanların birbirlerine dürüst ve yapıcı geri bildirimlerde bulunmalarını kolaylaştırır. (1 month ago)
-- [eachlabs/Awesome-AI-Workflows](https://github.com/eachlabs/Awesome-AI-Workflows) - Awesome AI Workflows (1 month ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
