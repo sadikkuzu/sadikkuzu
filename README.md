@@ -8,7 +8,6 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
-- [ [blocage](https://github.com/blocage) David ]
 - [ [fehu-zone](https://github.com/fehu-zone) Ahmet Karadaş ]
 - [ [eust-w](https://github.com/eust-w) longtao ]
 - [ [trinhminhtriet](https://github.com/trinhminhtriet) Triet Trinh ]
@@ -18,6 +17,7 @@
 - [ [JohnMwendwa](https://github.com/JohnMwendwa) John Mwendwa ]
 - [ [emineygt](https://github.com/emineygt)  ]
 - [ [neslihanatasever](https://github.com/neslihanatasever) nesly ]
+- [ [Jacky1961710](https://github.com/Jacky1961710) Jacky ]
 
 #### 🎧 &nbsp; Good beats
 
