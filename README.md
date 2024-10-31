@@ -49,6 +49,7 @@
 
 #### ⭐ Recent stars
 
+- [libbpf/bpftool](https://github.com/libbpf/bpftool) - Automated upstream mirror for bpftool stand-alone build. (today)
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes (1 day ago)
 - [facebookincubator/below](https://github.com/facebookincubator/below) - A time traveling resource monitor for modern Linux systems (3 days ago)
 - [atilsensalduz/new-relic-scim-go-client](https://github.com/atilsensalduz/new-relic-scim-go-client) - Go Client for New Relic Automated User Management SCIM API (4 days ago)
@@ -58,7 +59,6 @@
 - [tsale/EDR-Telemetry](https://github.com/tsale/EDR-Telemetry) - This project aims to compare and evaluate the telemetry of various EDR products. (1 week ago)
 - [furkanonder/DnsTrace](https://github.com/furkanonder/DnsTrace) - Monitor DNS queries by host processes using eBPF! (3 weeks ago)
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager (3 weeks ago)
-- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (1 month ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
