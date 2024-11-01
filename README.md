@@ -15,9 +15,9 @@
 - [ [deltadash2](https://github.com/deltadash2) DeltaDash-2 ]
 - [ [jelspace](https://github.com/jelspace) 21world ]
 - [ [arasgungore](https://github.com/arasgungore) Aras Güngöre ]
-- [ [JohnMwendwa](https://github.com/JohnMwendwa) John Mwendwa ]
 - [ [emineygt](https://github.com/emineygt)  ]
 - [ [neslihanatasever](https://github.com/neslihanatasever) nesly ]
+- [ [mustafacagri](https://github.com/mustafacagri) Mustafa Çağrı Güven ]
 
 #### 🎧 &nbsp; Good beats
 
