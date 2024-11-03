@@ -46,6 +46,7 @@
 
 #### ⭐ Recent stars
 
+- [cncf/tag-security](https://github.com/cncf/tag-security) - 🔐CNCF Security Technical Advisory Group -- secure access, policy control, privacy, auditing, explainability and more! (today)
 - [HewlettPackard/py-spiffe](https://github.com/HewlettPackard/py-spiffe) - Python library for SPIFFE support (today)
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts (today)
 - [human-centric-engineering/engineering-leadership-self-reflection](https://github.com/human-centric-engineering/engineering-leadership-self-reflection) - A survey based tool for engineering leaders to assess and reflect on their capabilites (2 days ago)
@@ -55,7 +56,6 @@
 - [atilsensalduz/new-relic-scim-go-client](https://github.com/atilsensalduz/new-relic-scim-go-client) - Go Client for New Relic Automated User Management SCIM API (1 week ago)
 - [castvoid/xserve-frontpanel](https://github.com/castvoid/xserve-frontpanel) - A project to re-implement the daemon controlling the Xserve front panel CPU activity LED (1 week ago)
 - [grafana/promql-anomaly-detection](https://github.com/grafana/promql-anomaly-detection) - A framework for anomaly detection using Prometheus and PromQL (1 week ago)
-- [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs (1 week ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
