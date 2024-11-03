@@ -19,7 +19,7 @@
 {{range recentContributions 100 }}
 {{- if (ne "sadikkuzu" (slice .Repo.Name 0 9)) -}}
 {{- if (ne "SweDinamo" (slice .Repo.Name 0 9)) -}}
-{{- if (ne "dberkerdem" (slice .Repo.Name 0 10)) -}}
+{{- if (ne "SWE574-Fall" (slice .Repo.Name 0 11)) -}}
 {{- if (ne "enshkn" (slice .Repo.Name 0 6)) -}}
 {{- if (ne "msgsumat" (slice .Repo.Name 0 8)) -}}
 1. [**{{.Repo.Name}}**]({{.Repo.URL}}/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/{{.Repo.Name}}?style=social)](https://github.com/{{.Repo.Name}}/stargazers) - {{.Repo.Description}} ({{humanize .OccurredAt}})
