@@ -36,18 +36,18 @@
 1. [**yusufcanb/tlm**](https://github.com/yusufcanb/tlm/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/yusufcanb/tlm?style=social)](https://github.com/yusufcanb/tlm/stargazers) - Local CLI Copilot, powered by CodeLLaMa. 💻🦙 (8 months ago)
 1. [**mert-aydin/3DHumanPoseEstimation**](https://github.com/mert-aydin/3DHumanPoseEstimation/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/mert-aydin/3DHumanPoseEstimation?style=social)](https://github.com/mert-aydin/3DHumanPoseEstimation/stargazers) - CV project for BOUN SWE 583 - Computer Vision class. (9 months ago)
 1. [**vmware-tanzu/secrets-manager**](https://github.com/vmware-tanzu/secrets-manager/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/vmware-tanzu/secrets-manager?style=social)](https://github.com/vmware-tanzu/secrets-manager/stargazers) - VMware Secrets Manager is a lightweight secrets manager to protect your sensitive data. It’s perfect for edge deployments where energy and footprint requirements are strict—See more: https://vsecm.com/ (11 months ago)
-1. [**senchabot-opensource/monorepo**](https://github.com/senchabot-opensource/monorepo/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/senchabot-opensource/monorepo?style=social)](https://github.com/senchabot-opensource/monorepo/stargazers) - Open source Discord bot and Twitch bot monorepo. Senchabot apps and packages. (1 year ago)
 1. [**zerotohero-dev/geyik-z2h-dev**](https://github.com/zerotohero-dev/geyik-z2h-dev/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/zerotohero-dev/geyik-z2h-dev?style=social)](https://github.com/zerotohero-dev/geyik-z2h-dev/stargazers) - The public Website of “Vadideki Geyik” Podcasts — https://geyik.z2h.dev/ (1 year ago)
+1. [**senchabot-opensource/monorepo**](https://github.com/senchabot-opensource/monorepo/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/senchabot-opensource/monorepo?style=social)](https://github.com/senchabot-opensource/monorepo/stargazers) - Open source Discord bot and Twitch bot monorepo. Senchabot apps and packages. (1 year ago)
 1. [**COVESA/vehicle_signal_specification**](https://github.com/COVESA/vehicle_signal_specification/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/COVESA/vehicle_signal_specification?style=social)](https://github.com/COVESA/vehicle_signal_specification/stargazers) - Vehicle Signal Specification - standardized way to describe automotive data (1 year ago)
 
 
 #### ⭐ Recent stars
 
-- [cncf/tag-security](https://github.com/cncf/tag-security) - 🔐CNCF Security Technical Advisory Group -- secure access, policy control, privacy, auditing, explainability and more! (3 days ago)
-- [HewlettPackard/py-spiffe](https://github.com/HewlettPackard/py-spiffe) - Python library for SPIFFE support (3 days ago)
-- [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts (3 days ago)
-- [human-centric-engineering/engineering-leadership-self-reflection](https://github.com/human-centric-engineering/engineering-leadership-self-reflection) - A survey based tool for engineering leaders to assess and reflect on their capabilites (5 days ago)
-- [libbpf/bpftool](https://github.com/libbpf/bpftool) - Automated upstream mirror for bpftool stand-alone build. (6 days ago)
+- [cncf/tag-security](https://github.com/cncf/tag-security) - 🔐CNCF Security Technical Advisory Group -- secure access, policy control, privacy, auditing, explainability and more! (4 days ago)
+- [HewlettPackard/py-spiffe](https://github.com/HewlettPackard/py-spiffe) - Python library for SPIFFE support (4 days ago)
+- [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts (4 days ago)
+- [human-centric-engineering/engineering-leadership-self-reflection](https://github.com/human-centric-engineering/engineering-leadership-self-reflection) - A survey based tool for engineering leaders to assess and reflect on their capabilites (6 days ago)
+- [libbpf/bpftool](https://github.com/libbpf/bpftool) - Automated upstream mirror for bpftool stand-alone build. (1 week ago)
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes (1 week ago)
 - [facebookincubator/below](https://github.com/facebookincubator/below) - A time traveling resource monitor for modern Linux systems (1 week ago)
 - [atilsensalduz/new-relic-scim-go-client](https://github.com/atilsensalduz/new-relic-scim-go-client) - Go Client for New Relic Automated User Management SCIM API (1 week ago)
