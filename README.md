@@ -43,6 +43,7 @@
 
 #### ⭐ Recent stars
 
+- [backstage/community-plugins](https://github.com/backstage/community-plugins) - Community plugins for Backstage (today)
 - [spiffe/spike](https://github.com/spiffe/spike) - SPIKE is a lightweight secrets store that uses SPIFFE as its identity control plane. It protects your secrets and helps your ops, SREs, and sysadmins manage sensitive data securely with minimal overhead. (2 days ago)
 - [cncf/tag-security](https://github.com/cncf/tag-security) - 🔐CNCF Security Technical Advisory Group -- secure access, policy control, privacy, auditing, explainability and more! (1 week ago)
 - [HewlettPackard/py-spiffe](https://github.com/HewlettPackard/py-spiffe) - Python library for SPIFFE support (1 week ago)
@@ -52,7 +53,6 @@
 - [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes (1 week ago)
 - [facebookincubator/below](https://github.com/facebookincubator/below) - A time traveling resource monitor for modern Linux systems (2 weeks ago)
 - [atilsensalduz/new-relic-scim-go-client](https://github.com/atilsensalduz/new-relic-scim-go-client) - Go Client for New Relic Automated User Management SCIM API (2 weeks ago)
-- [castvoid/xserve-frontpanel](https://github.com/castvoid/xserve-frontpanel) - A project to re-implement the daemon controlling the Xserve front panel CPU activity LED (2 weeks ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
