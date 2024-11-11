@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [git-cores](https://github.com/git-cores)  ]
 - [ [karatugo](https://github.com/karatugo) Karatuğ Ozan Bircan ]
 - [ [fehu-zone](https://github.com/fehu-zone) Ahmet Karadaş ]
 - [ [eust-w](https://github.com/eust-w) longtao ]
@@ -17,7 +18,6 @@
 - [ [arasgungore](https://github.com/arasgungore) Aras Güngöre ]
 - [ [emineygt](https://github.com/emineygt)  ]
 - [ [neslihanatasever](https://github.com/neslihanatasever) nesly ]
-- [ [mustafacagri](https://github.com/mustafacagri) Mustafa Çağrı Güven ]
 
 #### 🎧 &nbsp; Good beats
 
