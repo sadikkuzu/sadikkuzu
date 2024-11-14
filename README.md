@@ -40,6 +40,7 @@
 
 #### ⭐ Recent stars
 
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (today)
 - [guymenahem/how-to-devops-tools](https://github.com/guymenahem/how-to-devops-tools) (1 day ago)
 - [PlatformersCommunity/backstage-helm-chart](https://github.com/PlatformersCommunity/backstage-helm-chart) (1 day ago)
 - [backstage/community-plugins](https://github.com/backstage/community-plugins) - Community plugins for Backstage (3 days ago)
@@ -49,7 +50,6 @@
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts (1 week ago)
 - [human-centric-engineering/engineering-leadership-self-reflection](https://github.com/human-centric-engineering/engineering-leadership-self-reflection) - A survey based tool for engineering leaders to assess and reflect on their capabilites (1 week ago)
 - [libbpf/bpftool](https://github.com/libbpf/bpftool) - Automated upstream mirror for bpftool stand-alone build. (2 weeks ago)
-- [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes (2 weeks ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
