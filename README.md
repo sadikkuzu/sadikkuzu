@@ -40,15 +40,15 @@
 
 #### ⭐ Recent stars
 
-- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (today)
-- [guymenahem/how-to-devops-tools](https://github.com/guymenahem/how-to-devops-tools) (1 day ago)
-- [PlatformersCommunity/backstage-helm-chart](https://github.com/PlatformersCommunity/backstage-helm-chart) (1 day ago)
-- [backstage/community-plugins](https://github.com/backstage/community-plugins) - Community plugins for Backstage (3 days ago)
-- [spiffe/spike](https://github.com/spiffe/spike) - SPIKE is a lightweight secrets store that uses SPIFFE as its identity control plane. It protects your secrets and helps your ops, SREs, and sysadmins manage sensitive data securely with minimal overhead. (5 days ago)
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (1 day ago)
+- [guymenahem/how-to-devops-tools](https://github.com/guymenahem/how-to-devops-tools) (2 days ago)
+- [PlatformersCommunity/backstage-helm-chart](https://github.com/PlatformersCommunity/backstage-helm-chart) (2 days ago)
+- [backstage/community-plugins](https://github.com/backstage/community-plugins) - Community plugins for Backstage (4 days ago)
+- [spiffe/spike](https://github.com/spiffe/spike) - SPIKE is a lightweight secrets store that uses SPIFFE as its identity control plane. It protects your secrets and helps your ops, SREs, and sysadmins manage sensitive data securely with minimal overhead. (6 days ago)
 - [cncf/tag-security](https://github.com/cncf/tag-security) - 🔐CNCF Security Technical Advisory Group -- secure access, policy control, privacy, auditing, explainability and more! (1 week ago)
 - [HewlettPackard/py-spiffe](https://github.com/HewlettPackard/py-spiffe) - Python library for SPIFFE support (1 week ago)
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts (1 week ago)
-- [human-centric-engineering/engineering-leadership-self-reflection](https://github.com/human-centric-engineering/engineering-leadership-self-reflection) - A survey based tool for engineering leaders to assess and reflect on their capabilites (1 week ago)
+- [human-centric-engineering/engineering-leadership-self-reflection](https://github.com/human-centric-engineering/engineering-leadership-self-reflection) - A survey based tool for engineering leaders to assess and reflect on their capabilites (2 weeks ago)
 - [libbpf/bpftool](https://github.com/libbpf/bpftool) - Automated upstream mirror for bpftool stand-alone build. (2 weeks ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
