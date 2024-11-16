@@ -40,6 +40,7 @@
 
 #### ⭐ Recent stars
 
+- [goksan/statusnook](https://github.com/goksan/statusnook) - Effortlessly deploy a status page and start monitoring endpoints in minutes  (today)
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (2 days ago)
 - [guymenahem/how-to-devops-tools](https://github.com/guymenahem/how-to-devops-tools) (3 days ago)
 - [PlatformersCommunity/backstage-helm-chart](https://github.com/PlatformersCommunity/backstage-helm-chart) (3 days ago)
@@ -49,7 +50,6 @@
 - [HewlettPackard/py-spiffe](https://github.com/HewlettPackard/py-spiffe) - Python library for SPIFFE support (1 week ago)
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts (1 week ago)
 - [human-centric-engineering/engineering-leadership-self-reflection](https://github.com/human-centric-engineering/engineering-leadership-self-reflection) - A survey based tool for engineering leaders to assess and reflect on their capabilites (2 weeks ago)
-- [libbpf/bpftool](https://github.com/libbpf/bpftool) - Automated upstream mirror for bpftool stand-alone build. (2 weeks ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
