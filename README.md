@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [NurhayatYurtaslan](https://github.com/NurhayatYurtaslan)  ]
 - [ [git-cores](https://github.com/git-cores)  ]
 - [ [karatugo](https://github.com/karatugo) Karatuğ Ozan Bircan ]
 - [ [fehu-zone](https://github.com/fehu-zone) Ahmet Karadaş ]
@@ -17,7 +18,6 @@
 - [ [jelspace](https://github.com/jelspace) 21world ]
 - [ [arasgungore](https://github.com/arasgungore) Aras Güngöre ]
 - [ [emineygt](https://github.com/emineygt)  ]
-- [ [neslihanatasever](https://github.com/neslihanatasever) nesly ]
 
 #### 🎧 &nbsp; Good beats
 
