@@ -40,8 +40,8 @@
 
 #### ⭐ Recent stars
 
-- [alpaylan/tjq](https://github.com/alpaylan/tjq) - Giving types to jq (today)
-- [goksan/statusnook](https://github.com/goksan/statusnook) - Effortlessly deploy a status page and start monitoring endpoints in minutes  (5 days ago)
+- [alpaylan/tjq](https://github.com/alpaylan/tjq) - Giving types to jq (1 day ago)
+- [goksan/statusnook](https://github.com/goksan/statusnook) - Effortlessly deploy a status page and start monitoring endpoints in minutes  (6 days ago)
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (1 week ago)
 - [guymenahem/how-to-devops-tools](https://github.com/guymenahem/how-to-devops-tools) (1 week ago)
 - [PlatformersCommunity/backstage-helm-chart](https://github.com/PlatformersCommunity/backstage-helm-chart) (1 week ago)
