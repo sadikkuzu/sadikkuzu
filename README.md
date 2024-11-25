@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [DragonLee321](https://github.com/DragonLee321) Golden Dragon ]
 - [ [NurhayatYurtaslan](https://github.com/NurhayatYurtaslan)  ]
 - [ [git-cores](https://github.com/git-cores)  ]
 - [ [karatugo](https://github.com/karatugo) Karatuğ Ozan Bircan ]
@@ -17,7 +18,6 @@
 - [ [deltadash2](https://github.com/deltadash2) DeltaDash-2 ]
 - [ [jelspace](https://github.com/jelspace) 21world ]
 - [ [arasgungore](https://github.com/arasgungore) Aras Güngöre ]
-- [ [emineygt](https://github.com/emineygt)  ]
 
 #### 🎧 &nbsp; Good beats
 
