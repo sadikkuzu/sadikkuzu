@@ -40,6 +40,7 @@
 
 #### ⭐ Recent stars
 
+- [isovalent/ebpf-docs](https://github.com/isovalent/ebpf-docs) - An effort to comprehensively document eBPF (today)
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers (3 days ago)
 - [terrateamio/terrateam](https://github.com/terrateamio/terrateam) - Terrateam is an open-source GitOps CI/CD platform for automating infrastructure workflows. It integrates with GitHub to orchestrate Terraform, OpenTofu, CDKTF, and Terragrunt operations via pull requests. (4 days ago)
 - [alpaylan/tjq](https://github.com/alpaylan/tjq) - Giving types to jq (5 days ago)
@@ -49,7 +50,6 @@
 - [PlatformersCommunity/backstage-helm-chart](https://github.com/PlatformersCommunity/backstage-helm-chart) (1 week ago)
 - [backstage/community-plugins](https://github.com/backstage/community-plugins) - Community plugins for Backstage (2 weeks ago)
 - [spiffe/spike](https://github.com/spiffe/spike) - SPIKE is a lightweight secrets store that uses SPIFFE as its identity control plane. It protects your secrets and helps your ops, SREs, and sysadmins manage sensitive data securely with minimal overhead. (2 weeks ago)
-- [cncf/tag-security](https://github.com/cncf/tag-security) - 🔐CNCF Security Technical Advisory Group -- secure access, policy control, privacy, auditing, explainability and more! (3 weeks ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
