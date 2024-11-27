@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [nholuongut](https://github.com/nholuongut) Nho Luong ]
 - [ [DragonLee321](https://github.com/DragonLee321) Golden Dragon ]
 - [ [NurhayatYurtaslan](https://github.com/NurhayatYurtaslan)  ]
 - [ [git-cores](https://github.com/git-cores)  ]
@@ -17,7 +18,6 @@
 - [ [trinhminhtriet](https://github.com/trinhminhtriet) Triet Trinh ]
 - [ [deltadash2](https://github.com/deltadash2) DeltaDash-2 ]
 - [ [jelspace](https://github.com/jelspace) 21world ]
-- [ [arasgungore](https://github.com/arasgungore) Aras Güngöre ]
 
 #### 🎧 &nbsp; Good beats
 
