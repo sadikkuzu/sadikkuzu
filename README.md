@@ -40,14 +40,14 @@
 
 #### ⭐ Recent stars
 
-- [isovalent/ebpf-docs](https://github.com/isovalent/ebpf-docs) - An effort to comprehensively document eBPF (today)
-- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers (3 days ago)
-- [terrateamio/terrateam](https://github.com/terrateamio/terrateam) - Terrateam is an open-source GitOps CI/CD platform for automating infrastructure workflows. It integrates with GitHub to orchestrate Terraform, OpenTofu, CDKTF, and Terragrunt operations via pull requests. (4 days ago)
-- [alpaylan/tjq](https://github.com/alpaylan/tjq) - Giving types to jq (5 days ago)
+- [isovalent/ebpf-docs](https://github.com/isovalent/ebpf-docs) - An effort to comprehensively document eBPF (1 day ago)
+- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers (4 days ago)
+- [terrateamio/terrateam](https://github.com/terrateamio/terrateam) - Terrateam is an open-source GitOps CI/CD platform for automating infrastructure workflows. It integrates with GitHub to orchestrate Terraform, OpenTofu, CDKTF, and Terragrunt operations via pull requests. (5 days ago)
+- [alpaylan/tjq](https://github.com/alpaylan/tjq) - Giving types to jq (6 days ago)
 - [goksan/statusnook](https://github.com/goksan/statusnook) - Effortlessly deploy a status page and start monitoring endpoints in minutes  (1 week ago)
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (1 week ago)
-- [guymenahem/how-to-devops-tools](https://github.com/guymenahem/how-to-devops-tools) (1 week ago)
-- [PlatformersCommunity/backstage-helm-chart](https://github.com/PlatformersCommunity/backstage-helm-chart) (1 week ago)
+- [guymenahem/how-to-devops-tools](https://github.com/guymenahem/how-to-devops-tools) (2 weeks ago)
+- [PlatformersCommunity/backstage-helm-chart](https://github.com/PlatformersCommunity/backstage-helm-chart) (2 weeks ago)
 - [backstage/community-plugins](https://github.com/backstage/community-plugins) - Community plugins for Backstage (2 weeks ago)
 - [spiffe/spike](https://github.com/spiffe/spike) - SPIKE is a lightweight secrets store that uses SPIFFE as its identity control plane. It protects your secrets and helps your ops, SREs, and sysadmins manage sensitive data securely with minimal overhead. (2 weeks ago)
 
