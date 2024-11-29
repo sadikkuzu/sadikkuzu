@@ -40,9 +40,9 @@
 
 #### ⭐ Recent stars
 
-- [isovalent/ebpf-docs](https://github.com/isovalent/ebpf-docs) - An effort to comprehensively document eBPF (2 days ago)
-- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers (5 days ago)
-- [terrateamio/terrateam](https://github.com/terrateamio/terrateam) - Terrateam is an open-source GitOps CI/CD platform for automating infrastructure workflows. It integrates with GitHub to orchestrate Terraform, OpenTofu, CDKTF, and Terragrunt operations via pull requests. (6 days ago)
+- [isovalent/ebpf-docs](https://github.com/isovalent/ebpf-docs) - An effort to comprehensively document eBPF (3 days ago)
+- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers (6 days ago)
+- [terrateamio/terrateam](https://github.com/terrateamio/terrateam) - Terrateam is an open-source GitOps CI/CD platform for automating infrastructure workflows. It integrates with GitHub to orchestrate Terraform, OpenTofu, CDKTF, and Terragrunt operations via pull requests. (1 week ago)
 - [alpaylan/tjq](https://github.com/alpaylan/tjq) - Giving types to jq (1 week ago)
 - [goksan/statusnook](https://github.com/goksan/statusnook) - Effortlessly deploy a status page and start monitoring endpoints in minutes  (1 week ago)
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (2 weeks ago)
