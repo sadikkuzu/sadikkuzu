@@ -14,10 +14,10 @@
 - [ [git-cores](https://github.com/git-cores)  ]
 - [ [karatugo](https://github.com/karatugo) Karatuğ Ozan Bircan ]
 - [ [fehu-zone](https://github.com/fehu-zone) Ahmet Karadaş ]
-- [ [trinhminhtriet](https://github.com/trinhminhtriet) Triet Trinh ]
 - [ [deltadash2](https://github.com/deltadash2) DeltaDash-2 ]
 - [ [jelspace](https://github.com/jelspace) 21world ]
 - [ [arasgungore](https://github.com/arasgungore) Aras Güngöre ]
+- [ [emineygt](https://github.com/emineygt)  ]
 
 #### 🎧 &nbsp; Good beats
 
