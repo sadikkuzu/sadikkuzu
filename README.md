@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [XiaomingX](https://github.com/XiaomingX) Y11 ]
 - [ [kaderizgi](https://github.com/kaderizgi)  Kader izgi ]
 - [ [XamanekMTZ](https://github.com/XamanekMTZ) Xamanek Martínez Marín ]
 - [ [nholuongut](https://github.com/nholuongut) Nho Luong ]
@@ -17,7 +18,6 @@
 - [ [karatugo](https://github.com/karatugo) Karatuğ Ozan Bircan ]
 - [ [fehu-zone](https://github.com/fehu-zone) Ahmet Karadaş ]
 - [ [deltadash2](https://github.com/deltadash2) DeltaDash-2 ]
-- [ [jelspace](https://github.com/jelspace) 21world ]
 
 #### 🎧 &nbsp; Good beats
 
