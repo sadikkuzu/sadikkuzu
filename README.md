@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [samsorrahman](https://github.com/samsorrahman) Samsor Rahman ]
 - [ [AtalaySezen](https://github.com/AtalaySezen) Atalay Sezen ]
 - [ [XiaomingX](https://github.com/XiaomingX) Y11 ]
 - [ [kaderizgi](https://github.com/kaderizgi)  Kader izgi ]
@@ -17,7 +18,6 @@
 - [ [NurhayatYurtaslan](https://github.com/NurhayatYurtaslan)  ]
 - [ [git-cores](https://github.com/git-cores)  ]
 - [ [karatugo](https://github.com/karatugo) Karatuğ Ozan Bircan ]
-- [ [fehu-zone](https://github.com/fehu-zone) Ahmet Karadaş ]
 
 #### 🎧 &nbsp; Good beats
 
