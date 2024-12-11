@@ -41,6 +41,7 @@
 
 #### ⭐ Recent stars
 
+- [Privia-Security/KeyDetector](https://github.com/Privia-Security/KeyDetector) - Keyword Search in Android Apps (today)
 - [emilkarlen/exactly](https://github.com/emilkarlen/exactly) - Exactly - tests a command line program by executing it in a temporary sandbox directory and inspecting its result. (1 week ago)
 - [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want! (1 week ago)
 - [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications (1 week ago)
@@ -50,7 +51,6 @@
 - [isovalent/ebpf-docs](https://github.com/isovalent/ebpf-docs) - An effort to comprehensively document eBPF (2 weeks ago)
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers (2 weeks ago)
 - [terrateamio/terrateam](https://github.com/terrateamio/terrateam) - Terrateam is an open-source GitOps CI/CD platform for automating infrastructure workflows. It integrates with GitHub to orchestrate Terraform, OpenTofu, CDKTF, and Terragrunt operations via pull requests. (2 weeks ago)
-- [alpaylan/tjq](https://github.com/alpaylan/tjq) - Giving types to jq (2 weeks ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
