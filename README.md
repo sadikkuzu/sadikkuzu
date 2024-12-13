@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [cashmelek](https://github.com/cashmelek)  ]
 - [ [meliksahyorulmazlar](https://github.com/meliksahyorulmazlar) Meliksah Yorulmazlar ]
 - [ [AtalaySezen](https://github.com/AtalaySezen) Atalay Sezen ]
 - [ [XiaomingX](https://github.com/XiaomingX) Y11 ]
@@ -17,7 +18,6 @@
 - [ [GoldenDev321](https://github.com/GoldenDev321) Golden Dragon ]
 - [ [NurhayatYurtaslan](https://github.com/NurhayatYurtaslan)  ]
 - [ [git-cores](https://github.com/git-cores)  ]
-- [ [karatugo](https://github.com/karatugo) Karatuğ Ozan Bircan ]
 
 #### 🎧 &nbsp; Good beats
 
