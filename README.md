@@ -36,7 +36,6 @@
 1. [**mongodb-labs/full-stack-fastapi-mongodb**](https://github.com/mongodb-labs/full-stack-fastapi-mongodb/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/mongodb-labs/full-stack-fastapi-mongodb?style=social)](https://github.com/mongodb-labs/full-stack-fastapi-mongodb/stargazers) - Full stack, modern web application generator. Using FastAPI, MongoDB as database, Docker, automatic HTTPS and more. (9 months ago)
 1. [**yusufcanb/tlm**](https://github.com/yusufcanb/tlm/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/yusufcanb/tlm?style=social)](https://github.com/yusufcanb/tlm/stargazers) - Local CLI Copilot, powered by CodeLLaMa. 💻🦙 (9 months ago)
 1. [**mert-aydin/3DHumanPoseEstimation**](https://github.com/mert-aydin/3DHumanPoseEstimation/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/mert-aydin/3DHumanPoseEstimation?style=social)](https://github.com/mert-aydin/3DHumanPoseEstimation/stargazers) - CV project for BOUN SWE 583 - Computer Vision class. (11 months ago)
-1. [**vmware-tanzu/secrets-manager**](https://github.com/vmware-tanzu/secrets-manager/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/vmware-tanzu/secrets-manager?style=social)](https://github.com/vmware-tanzu/secrets-manager/stargazers) - VMware Secrets Manager is a lightweight secrets manager to protect your sensitive data. It’s perfect for edge deployments where energy and footprint requirements are strict—See more: https://vsecm.com/ (1 year ago)
 
 
 #### ⭐ Recent stars
