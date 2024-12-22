@@ -42,14 +42,14 @@
 
 - [Privia-Security/KeyDetector](https://github.com/Privia-Security/KeyDetector) - Keyword Search in Android Apps (1 week ago)
 - [emilkarlen/exactly](https://github.com/emilkarlen/exactly) - Exactly - tests a command line program by executing it in a temporary sandbox directory and inspecting its result. (2 weeks ago)
-- [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want! (2 weeks ago)
-- [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications (2 weeks ago)
+- [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want! (3 weeks ago)
+- [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications (3 weeks ago)
 - [addyosmani/git2txt](https://github.com/addyosmani/git2txt) - CLI tool to convert GitHub repositories to text files for LLMs (3 weeks ago)
 - [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) - Fast drag and drop for any experience on any tech stack (3 weeks ago)
 - [spiffe/spike-sdk-go](https://github.com/spiffe/spike-sdk-go) - SPIKE Go SDK (3 weeks ago)
 - [isovalent/ebpf-docs](https://github.com/isovalent/ebpf-docs) - An effort to comprehensively document eBPF (3 weeks ago)
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers (4 weeks ago)
-- [terrateamio/terrateam](https://github.com/terrateamio/terrateam) - Terrateam is an open-source GitOps CI/CD platform for automating infrastructure workflows. It integrates with GitHub to orchestrate Terraform, OpenTofu, CDKTF, and Terragrunt operations via pull requests. (4 weeks ago)
+- [terrateamio/terrateam](https://github.com/terrateamio/terrateam) - Terrateam is an open-source GitOps CI/CD platform for automating infrastructure workflows. It integrates with GitHub to orchestrate Terraform, OpenTofu, CDKTF, and Terragrunt operations via pull requests. (1 month ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
