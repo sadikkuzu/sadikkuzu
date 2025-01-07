@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [muhammed-gumus](https://github.com/muhammed-gumus) Muhammed Gümüş ]
 - [ [KevinTrinh1227](https://github.com/KevinTrinh1227) Kevin Huy Trinh ]
 - [ [yasinterol](https://github.com/yasinterol)  ]
 - [ [mowhn](https://github.com/mowhn) mr_mowhn ]
@@ -17,7 +18,6 @@
 - [ [kaderizgi](https://github.com/kaderizgi)  Kader izgi ]
 - [ [XamanekMTZ](https://github.com/XamanekMTZ) Xamanek Martínez Marín ]
 - [ [nholuongut](https://github.com/nholuongut) Nho Luong ]
-- [ [GoldenDev321](https://github.com/GoldenDev321) Golden Dragon ]
 
 #### 🚀 &nbsp; Open source projects I've contributed to
 1. [**spiffe/spike**](https://github.com/spiffe/spike/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/spiffe/spike?style=social)](https://github.com/spiffe/spike/stargazers) - SPIKE is a lightweight secrets store that uses SPIFFE as its identity control plane. It protects your secrets and helps your ops, SREs, and sysadmins manage sensitive data securely with minimal overhead. (1 month ago)
