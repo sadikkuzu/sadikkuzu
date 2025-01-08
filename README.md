@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [itsKayWat](https://github.com/itsKayWat) itsKayWat ]
 - [ [muhammed-gumus](https://github.com/muhammed-gumus) Muhammed Gümüş ]
 - [ [KevinTrinh1227](https://github.com/KevinTrinh1227) Kevin Huy Trinh ]
 - [ [yasinterol](https://github.com/yasinterol)  ]
@@ -17,7 +18,6 @@
 - [ [AtalaySezen](https://github.com/AtalaySezen) Atalay Sezen ]
 - [ [kaderizgi](https://github.com/kaderizgi)  Kader izgi ]
 - [ [XamanekMTZ](https://github.com/XamanekMTZ) Xamanek Martínez Marín ]
-- [ [nholuongut](https://github.com/nholuongut) Nho Luong ]
 
 #### 🚀 &nbsp; Open source projects I've contributed to
 1. [**spiffe/spike**](https://github.com/spiffe/spike/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/spiffe/spike?style=social)](https://github.com/spiffe/spike/stargazers) - SPIKE is a lightweight secrets store that uses SPIFFE as its identity control plane. It protects your secrets and helps your ops, SREs, and sysadmins manage sensitive data securely with minimal overhead. (1 month ago)
@@ -37,7 +37,7 @@
 
 #### ⭐ Recent stars
 
-- [Privia-Security/KeyDetector](https://github.com/Privia-Security/KeyDetector) - Keyword Search in Android Apps (3 weeks ago)
+- [Privia-Security/KeyDetector](https://github.com/Privia-Security/KeyDetector) - Keyword Search in Android Apps (4 weeks ago)
 - [emilkarlen/exactly](https://github.com/emilkarlen/exactly) - Exactly - tests a command line program by executing it in a temporary sandbox directory and inspecting its result. (1 month ago)
 - [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want! (1 month ago)
 - [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications (1 month ago)
