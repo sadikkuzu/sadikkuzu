@@ -32,14 +32,14 @@
 1. [**serhatbolsu/robotframework-appiumlibrary**](https://github.com/serhatbolsu/robotframework-appiumlibrary/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/serhatbolsu/robotframework-appiumlibrary?style=social)](https://github.com/serhatbolsu/robotframework-appiumlibrary/stargazers) - AppiumLibrary is an appium testing library for RobotFramework (10 months ago)
 1. [**mongodb-labs/full-stack-fastapi-mongodb**](https://github.com/mongodb-labs/full-stack-fastapi-mongodb/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/mongodb-labs/full-stack-fastapi-mongodb?style=social)](https://github.com/mongodb-labs/full-stack-fastapi-mongodb/stargazers) - Full stack, modern web application generator. Using FastAPI, MongoDB as database, Docker, automatic HTTPS and more. (10 months ago)
 1. [**yusufcanb/tlm**](https://github.com/yusufcanb/tlm/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/yusufcanb/tlm?style=social)](https://github.com/yusufcanb/tlm/stargazers) - Local CLI Copilot, powered by CodeLLaMa. 💻🦙 (10 months ago)
-1. [**mert-aydin/3DHumanPoseEstimation**](https://github.com/mert-aydin/3DHumanPoseEstimation/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/mert-aydin/3DHumanPoseEstimation?style=social)](https://github.com/mert-aydin/3DHumanPoseEstimation/stargazers) - CV project for BOUN SWE 583 - Computer Vision class. (11 months ago)
+1. [**mert-aydin/3DHumanPoseEstimation**](https://github.com/mert-aydin/3DHumanPoseEstimation/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/mert-aydin/3DHumanPoseEstimation?style=social)](https://github.com/mert-aydin/3DHumanPoseEstimation/stargazers) - CV project for BOUN SWE 583 - Computer Vision class. (1 year ago)
 
 
 #### ⭐ Recent stars
 
-- [bouncmpe/bouncmpe.github.io](https://github.com/bouncmpe/bouncmpe.github.io) - Website for Boğaziçi University Computer Engineering  (today)
-- [bttger/contributing-gen](https://github.com/bttger/contributing-gen) - A CONTRIBUTING.md generator - A guideline to communicate how people should contribute to your project. (today)
-- [Privia-Security/KeyDetector](https://github.com/Privia-Security/KeyDetector) - Keyword Search in Android Apps (4 weeks ago)
+- [bouncmpe/bouncmpe.github.io](https://github.com/bouncmpe/bouncmpe.github.io) - Website for Boğaziçi University Computer Engineering  (1 day ago)
+- [bttger/contributing-gen](https://github.com/bttger/contributing-gen) - A CONTRIBUTING.md generator - A guideline to communicate how people should contribute to your project. (1 day ago)
+- [Privia-Security/KeyDetector](https://github.com/Privia-Security/KeyDetector) - Keyword Search in Android Apps (1 month ago)
 - [emilkarlen/exactly](https://github.com/emilkarlen/exactly) - Exactly - tests a command line program by executing it in a temporary sandbox directory and inspecting its result. (1 month ago)
 - [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want! (1 month ago)
 - [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications (1 month ago)
