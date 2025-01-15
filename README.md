@@ -37,8 +37,8 @@
 
 #### ⭐ Recent stars
 
-- [bouncmpe/bouncmpe.github.io](https://github.com/bouncmpe/bouncmpe.github.io) - Website for Boğaziçi University Computer Engineering  (5 days ago)
-- [bttger/contributing-gen](https://github.com/bttger/contributing-gen) - A CONTRIBUTING.md generator - A guideline to communicate how people should contribute to your project. (5 days ago)
+- [bouncmpe/bouncmpe.github.io](https://github.com/bouncmpe/bouncmpe.github.io) - Website for Boğaziçi University Computer Engineering  (6 days ago)
+- [bttger/contributing-gen](https://github.com/bttger/contributing-gen) - A CONTRIBUTING.md generator - A guideline to communicate how people should contribute to your project. (6 days ago)
 - [Privia-Security/KeyDetector](https://github.com/Privia-Security/KeyDetector) - Keyword Search in Android Apps (1 month ago)
 - [emilkarlen/exactly](https://github.com/emilkarlen/exactly) - Exactly - tests a command line program by executing it in a temporary sandbox directory and inspecting its result. (1 month ago)
 - [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want! (1 month ago)
