@@ -16,8 +16,8 @@
 - [ [yasinterol](https://github.com/yasinterol)  ]
 - [ [bludnic](https://github.com/bludnic)  ]
 - [ [cashmelek](https://github.com/cashmelek)  ]
-- [ [AtalaySezen](https://github.com/AtalaySezen) Atalay Sezen ]
 - [ [kaderizgi](https://github.com/kaderizgi)  Kader izgi ]
+- [ [XamanekMTZ](https://github.com/XamanekMTZ) Xamanek Martínez Marín ]
 
 #### 🚀 &nbsp; Open source projects I've contributed to
 1. [**spiffe/spike**](https://github.com/spiffe/spike/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/spiffe/spike?style=social)](https://github.com/spiffe/spike/stargazers) - SPIKE is a lightweight secrets store that uses SPIFFE as its identity control plane. It protects your secrets and helps your ops, SREs, and sysadmins manage sensitive data securely with minimal overhead. (1 month ago)
