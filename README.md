@@ -45,7 +45,7 @@
 - [addyosmani/git2txt](https://github.com/addyosmani/git2txt) - CLI tool to convert GitHub repositories to text files for LLMs (1 month ago)
 - [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) - Fast drag and drop for any experience on any tech stack (1 month ago)
 - [spiffe/spike-sdk-go](https://github.com/spiffe/spike-sdk-go) - SPIKE Go SDK (1 month ago)
-- [isovalent/ebpf-docs](https://github.com/isovalent/ebpf-docs) - An effort to comprehensively document eBPF (1 month ago)
+- [isovalent/ebpf-docs](https://github.com/isovalent/ebpf-docs) - An effort to comprehensively document eBPF (2 months ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
