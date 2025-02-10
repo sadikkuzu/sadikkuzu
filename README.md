@@ -20,7 +20,7 @@
 - [ [yasinterol](https://github.com/yasinterol)  ]
 
 #### 🚀 &nbsp; Open source projects I've contributed to
-1. [**kro-run/kro**](https://github.com/kro-run/kro/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/kro-run/kro?style=social)](https://github.com/kro-run/kro/stargazers) - kro | Kube Resource Orchestrator (5 days ago)
+1. [**kro-run/kro**](https://github.com/kro-run/kro/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/kro-run/kro?style=social)](https://github.com/kro-run/kro/stargazers) - kro | Kube Resource Orchestrator (6 days ago)
 1. [**spiffe/spike**](https://github.com/spiffe/spike/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/spiffe/spike?style=social)](https://github.com/spiffe/spike/stargazers) - SPIKE is a lightweight secrets store that uses SPIFFE as its identity control plane. It protects your secrets and helps your ops, SREs, and sysadmins manage sensitive data securely with minimal overhead. (2 months ago)
 1. [**kubernetes/kompose**](https://github.com/kubernetes/kompose/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/kubernetes/kompose?style=social)](https://github.com/kubernetes/kompose/stargazers) - Convert Compose to Kubernetes (3 months ago)
 1. [**furkanonder/DnsTrace**](https://github.com/furkanonder/DnsTrace/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/furkanonder/DnsTrace?style=social)](https://github.com/furkanonder/DnsTrace/stargazers) - Monitor DNS queries by host processes using eBPF! (4 months ago)
@@ -37,8 +37,8 @@
 
 #### ⭐ Recent stars
 
-- [fir-lang/fir](https://github.com/fir-lang/fir) (3 days ago)
-- [kro-run/kro](https://github.com/kro-run/kro) - kro | Kube Resource Orchestrator (6 days ago)
+- [fir-lang/fir](https://github.com/fir-lang/fir) (4 days ago)
+- [kro-run/kro](https://github.com/kro-run/kro) - kro | Kube Resource Orchestrator (1 week ago)
 - [gregorojstersek/resources-to-become-a-great-engineering-leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader) - List of books, blogs, newsletters and people! (1 week ago)
 - [bouncmpe/bouncmpe.github.io](https://github.com/bouncmpe/bouncmpe.github.io) - Website for Boğaziçi University Computer Engineering  (1 month ago)
 - [bttger/contributing-gen](https://github.com/bttger/contributing-gen) - A CONTRIBUTING.md generator - A guideline to communicate how people should contribute to your project. (1 month ago)
