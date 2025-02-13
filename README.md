@@ -37,7 +37,7 @@
 
 #### ⭐ Recent stars
 
-- [fir-lang/fir](https://github.com/fir-lang/fir) (6 days ago)
+- [fir-lang/fir](https://github.com/fir-lang/fir) (1 week ago)
 - [kro-run/kro](https://github.com/kro-run/kro) - kro | Kube Resource Orchestrator (1 week ago)
 - [gregorojstersek/resources-to-become-a-great-engineering-leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader) - List of books, blogs, newsletters and people! (1 week ago)
 - [bouncmpe/bouncmpe.github.io](https://github.com/bouncmpe/bouncmpe.github.io) - Website for Boğaziçi University Computer Engineering  (1 month ago)
