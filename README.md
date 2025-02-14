@@ -10,7 +10,6 @@
 
 - [ [LinuxJS](https://github.com/LinuxJS) Meow ]
 - [ [rashidmakki](https://github.com/rashidmakki) Rashid Makki ]
-- [ [peter-kimanzi](https://github.com/peter-kimanzi) Peter Kimanzi ]
 - [ [bayram-ozkan](https://github.com/bayram-ozkan) Bayram OZKAN ]
 - [ [XiaomingX](https://github.com/XiaomingX) Y11 ]
 - [ [whitemike889](https://github.com/whitemike889) Michael T Hickman ]
@@ -18,6 +17,7 @@
 - [ [cyasar34](https://github.com/cyasar34) Lect. Çisem YAŞAR ]
 - [ [itsKayWat](https://github.com/itsKayWat) itsKayWat ]
 - [ [muhammed-gumus](https://github.com/muhammed-gumus) Muhammed Gümüş ]
+- [ [yasinterol](https://github.com/yasinterol)  ]
 
 #### 🚀 &nbsp; Open source projects I've contributed to
 1. [**kro-run/kro**](https://github.com/kro-run/kro/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/kro-run/kro?style=social)](https://github.com/kro-run/kro/stargazers) - kro | Kube Resource Orchestrator (1 week ago)
