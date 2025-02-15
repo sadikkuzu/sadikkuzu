@@ -37,6 +37,7 @@
 
 #### ⭐ Recent stars
 
+- [stackblitz/starters](https://github.com/stackblitz/starters) - StackBlitz Starter Project (today)
 - [fir-lang/fir](https://github.com/fir-lang/fir) (1 week ago)
 - [kro-run/kro](https://github.com/kro-run/kro) - kro | Kube Resource Orchestrator (1 week ago)
 - [gregorojstersek/resources-to-become-a-great-engineering-leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader) - List of books, blogs, newsletters and people! (2 weeks ago)
@@ -46,7 +47,6 @@
 - [emilkarlen/exactly](https://github.com/emilkarlen/exactly) - Exactly - tests a command line program by executing it in a temporary sandbox directory and inspecting its result. (2 months ago)
 - [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want! (2 months ago)
 - [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications (2 months ago)
-- [addyosmani/git2txt](https://github.com/addyosmani/git2txt) - CLI tool to convert GitHub repositories to text files for LLMs (2 months ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
