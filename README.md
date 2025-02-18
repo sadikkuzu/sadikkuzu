@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [blocage](https://github.com/blocage) David ]
 - [ [LinuxJS](https://github.com/LinuxJS) Meow ]
 - [ [rashidmakki](https://github.com/rashidmakki) Rashid Makki ]
 - [ [bayram-ozkan](https://github.com/bayram-ozkan) Bayram OZKAN ]
@@ -17,7 +18,6 @@
 - [ [itsKayWat](https://github.com/itsKayWat) itsKayWat ]
 - [ [muhammed-gumus](https://github.com/muhammed-gumus) Muhammed Gümüş ]
 - [ [yasinterol](https://github.com/yasinterol)  ]
-- [ [bludnic](https://github.com/bludnic)  ]
 
 #### 🚀 &nbsp; Open source projects I've contributed to
 1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-G1**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-G1?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/stargazers) - Project for SWE 574 - Group 1 (today)
