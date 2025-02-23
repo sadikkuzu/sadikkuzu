@@ -37,6 +37,7 @@
 
 #### ⭐ Recent stars
 
+- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands (today)
 - [stackblitz/starters](https://github.com/stackblitz/starters) - StackBlitz Starter Project (1 week ago)
 - [fir-lang/fir](https://github.com/fir-lang/fir) (2 weeks ago)
 - [kro-run/kro](https://github.com/kro-run/kro) - kro | Kube Resource Orchestrator (2 weeks ago)
@@ -46,7 +47,6 @@
 - [Privia-Security/KeyDetector](https://github.com/Privia-Security/KeyDetector) - Keyword Search in Android Apps (2 months ago)
 - [emilkarlen/exactly](https://github.com/emilkarlen/exactly) - Exactly - tests a command line program by executing it in a temporary sandbox directory and inspecting its result. (2 months ago)
 - [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want! (2 months ago)
-- [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications (2 months ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
