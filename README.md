@@ -37,6 +37,7 @@
 
 #### ⭐ Recent stars
 
+- [ankitects/anki](https://github.com/ankitects/anki) - Anki&#39;s shared backend and web components, and the Qt frontend (today)
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands (4 days ago)
 - [stackblitz/starters](https://github.com/stackblitz/starters) - StackBlitz Starter Project (1 week ago)
 - [fir-lang/fir](https://github.com/fir-lang/fir) (3 weeks ago)
@@ -46,7 +47,6 @@
 - [bttger/contributing-gen](https://github.com/bttger/contributing-gen) - A CONTRIBUTING.md generator - A guideline to communicate how people should contribute to your project. (1 month ago)
 - [Privia-Security/KeyDetector](https://github.com/Privia-Security/KeyDetector) - Keyword Search in Android Apps (2 months ago)
 - [emilkarlen/exactly](https://github.com/emilkarlen/exactly) - Exactly - tests a command line program by executing it in a temporary sandbox directory and inspecting its result. (2 months ago)
-- [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want! (2 months ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
