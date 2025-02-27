@@ -22,7 +22,7 @@
 #### 🚀 &nbsp; Open source projects I've contributed to
 1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-G1**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-G1?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/stargazers) - Project for SWE 574 - Group 1 (1 week ago)
 1. [**kro-run/kro**](https://github.com/kro-run/kro/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/kro-run/kro?style=social)](https://github.com/kro-run/kro/stargazers) - kro | Kube Resource Orchestrator (3 weeks ago)
-1. [**spiffe/spike**](https://github.com/spiffe/spike/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/spiffe/spike?style=social)](https://github.com/spiffe/spike/stargazers) - SPIKE is a lightweight secrets store that uses SPIFFE as its identity control plane. It protects your secrets and helps your ops, SREs, and sysadmins manage sensitive data securely with minimal overhead. (2 months ago)
+1. [**spiffe/spike**](https://github.com/spiffe/spike/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/spiffe/spike?style=social)](https://github.com/spiffe/spike/stargazers) - SPIKE is a lightweight secrets store that uses SPIFFE as its identity control plane. It protects your secrets and helps your ops, SREs, and sysadmins manage sensitive data securely with minimal overhead. (3 months ago)
 1. [**kubernetes/kompose**](https://github.com/kubernetes/kompose/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/kubernetes/kompose?style=social)](https://github.com/kubernetes/kompose/stargazers) - Convert Compose to Kubernetes (4 months ago)
 1. [**furkanonder/DnsTrace**](https://github.com/furkanonder/DnsTrace/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/furkanonder/DnsTrace?style=social)](https://github.com/furkanonder/DnsTrace/stargazers) - Monitor DNS queries by host processes using eBPF! (4 months ago)
 1. [**alicangunduz/nacizane**](https://github.com/alicangunduz/nacizane/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/alicangunduz/nacizane?style=social)](https://github.com/alicangunduz/nacizane/stargazers) - Nacizane.co , anonim olarak geri bildirim vermenizi sağlayan bir uygulama. İnsanların birbirlerine dürüst ve yapıcı geri bildirimlerde bulunmalarını kolaylaştırır. (5 months ago)
@@ -37,9 +37,9 @@
 
 #### ⭐ Recent stars
 
-- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands (3 days ago)
+- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands (4 days ago)
 - [stackblitz/starters](https://github.com/stackblitz/starters) - StackBlitz Starter Project (1 week ago)
-- [fir-lang/fir](https://github.com/fir-lang/fir) (2 weeks ago)
+- [fir-lang/fir](https://github.com/fir-lang/fir) (3 weeks ago)
 - [kro-run/kro](https://github.com/kro-run/kro) - kro | Kube Resource Orchestrator (3 weeks ago)
 - [gregorojstersek/resources-to-become-a-great-engineering-leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader) - List of books, blogs, newsletters and people! (3 weeks ago)
 - [bouncmpe/bouncmpe.github.io](https://github.com/bouncmpe/bouncmpe.github.io) - Website for Boğaziçi University Computer Engineering  (1 month ago)
