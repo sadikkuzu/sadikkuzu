@@ -37,10 +37,10 @@
 
 #### ⭐ Recent stars
 
-- [osquery/osquery-go](https://github.com/osquery/osquery-go) - Go bindings for osquery (1 day ago)
-- [ankitects/anki](https://github.com/ankitects/anki) - Anki&#39;s shared backend and web components, and the Qt frontend (1 day ago)
-- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands (5 days ago)
-- [stackblitz/starters](https://github.com/stackblitz/starters) - StackBlitz Starter Project (1 week ago)
+- [osquery/osquery-go](https://github.com/osquery/osquery-go) - Go bindings for osquery (2 days ago)
+- [ankitects/anki](https://github.com/ankitects/anki) - Anki&#39;s shared backend and web components, and the Qt frontend (2 days ago)
+- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands (6 days ago)
+- [stackblitz/starters](https://github.com/stackblitz/starters) - StackBlitz Starter Project (2 weeks ago)
 - [fir-lang/fir](https://github.com/fir-lang/fir) (3 weeks ago)
 - [kro-run/kro](https://github.com/kro-run/kro) - kro | Kube Resource Orchestrator (3 weeks ago)
 - [gregorojstersek/resources-to-become-a-great-engineering-leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader) - List of books, blogs, newsletters and people! (4 weeks ago)
