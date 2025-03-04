@@ -36,6 +36,7 @@
 
 #### ⭐ Recent stars
 
+- [czifro/gvm](https://github.com/czifro/gvm) - A simple Golang version manager (today)
 - [osquery/osquery-go](https://github.com/osquery/osquery-go) - Go bindings for osquery (5 days ago)
 - [ankitects/anki](https://github.com/ankitects/anki) - Anki&#39;s shared backend and web components, and the Qt frontend (5 days ago)
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands (1 week ago)
@@ -45,7 +46,6 @@
 - [gregorojstersek/resources-to-become-a-great-engineering-leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader) - List of books, blogs, newsletters and people! (1 month ago)
 - [bouncmpe/bouncmpe.github.io](https://github.com/bouncmpe/bouncmpe.github.io) - Website for Boğaziçi University Computer Engineering  (1 month ago)
 - [bttger/contributing-gen](https://github.com/bttger/contributing-gen) - A CONTRIBUTING.md generator - A guideline to communicate how people should contribute to your project. (1 month ago)
-- [Privia-Security/KeyDetector](https://github.com/Privia-Security/KeyDetector) - Keyword Search in Android Apps (2 months ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
