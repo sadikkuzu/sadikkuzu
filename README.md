@@ -36,7 +36,7 @@
 
 #### ⭐ Recent stars
 
-- [czifro/gvm](https://github.com/czifro/gvm) - A simple Golang version manager (2 days ago)
+- [czifro/gvm](https://github.com/czifro/gvm) - A simple Golang version manager (3 days ago)
 - [osquery/osquery-go](https://github.com/osquery/osquery-go) - Go bindings for osquery (1 week ago)
 - [ankitects/anki](https://github.com/ankitects/anki) - Anki&#39;s shared backend and web components, and the Qt frontend (1 week ago)
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands (1 week ago)
