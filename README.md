@@ -30,8 +30,6 @@
 1. [**openbao/openbao**](https://github.com/openbao/openbao/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/openbao/openbao?style=social)](https://github.com/openbao/openbao/stargazers) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. (7 months ago)
 1. [**suttacentral/suttacentral**](https://github.com/suttacentral/suttacentral/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/suttacentral/suttacentral?style=social)](https://github.com/suttacentral/suttacentral/stargazers) - SuttaCentral website application (10 months ago)
 1. [**Kludex/fastapi-tips**](https://github.com/Kludex/fastapi-tips/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/Kludex/fastapi-tips?style=social)](https://github.com/Kludex/fastapi-tips/stargazers) - FastAPI Tips by The FastAPI Expert! (10 months ago)
-1. [**serhatbolsu/robotframework-appiumlibrary**](https://github.com/serhatbolsu/robotframework-appiumlibrary/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/serhatbolsu/robotframework-appiumlibrary?style=social)](https://github.com/serhatbolsu/robotframework-appiumlibrary/stargazers) - AppiumLibrary is an appium testing library for RobotFramework (1 year ago)
-1. [**mongodb-labs/full-stack-fastapi-mongodb**](https://github.com/mongodb-labs/full-stack-fastapi-mongodb/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/mongodb-labs/full-stack-fastapi-mongodb?style=social)](https://github.com/mongodb-labs/full-stack-fastapi-mongodb/stargazers) - Full stack, modern web application generator. Using FastAPI, MongoDB as database, Docker, automatic HTTPS and more. (1 year ago)
 
 
 #### ⭐ Recent stars
