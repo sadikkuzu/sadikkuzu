@@ -34,6 +34,8 @@
 
 #### ⭐ Recent stars
 
+- [christianh814/kargo-demo-deploy](https://github.com/christianh814/kargo-demo-deploy) (today)
+- [christianh814/kargo-demo-app](https://github.com/christianh814/kargo-demo-app) - Sample Application for Demoing Kargo (today)
 - [DannyBen/bashly](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator (1 day ago)
 - [czifro/gvm](https://github.com/czifro/gvm) - A simple Golang version manager (1 week ago)
 - [osquery/osquery-go](https://github.com/osquery/osquery-go) - Go bindings for osquery (1 week ago)
@@ -42,8 +44,6 @@
 - [stackblitz/starters](https://github.com/stackblitz/starters) - StackBlitz Starter Project (3 weeks ago)
 - [fir-lang/fir](https://github.com/fir-lang/fir) (1 month ago)
 - [kro-run/kro](https://github.com/kro-run/kro) - kro | Kube Resource Orchestrator (1 month ago)
-- [gregorojstersek/resources-to-become-a-great-engineering-leader](https://github.com/gregorojstersek/resources-to-become-a-great-engineering-leader) - List of books, blogs, newsletters and people! (1 month ago)
-- [bouncmpe/bouncmpe.github.io](https://github.com/bouncmpe/bouncmpe.github.io) - Website for Boğaziçi University Computer Engineering  (2 months ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
