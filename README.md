@@ -34,14 +34,14 @@
 
 #### ⭐ Recent stars
 
-- [christianh814/kargo-demo-deploy](https://github.com/christianh814/kargo-demo-deploy) (4 days ago)
-- [christianh814/kargo-demo-app](https://github.com/christianh814/kargo-demo-app) - Sample Application for Demoing Kargo (4 days ago)
-- [DannyBen/bashly](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator (5 days ago)
+- [christianh814/kargo-demo-deploy](https://github.com/christianh814/kargo-demo-deploy) (5 days ago)
+- [christianh814/kargo-demo-app](https://github.com/christianh814/kargo-demo-app) - Sample Application for Demoing Kargo (5 days ago)
+- [DannyBen/bashly](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator (6 days ago)
 - [czifro/gvm](https://github.com/czifro/gvm) - A simple Golang version manager (1 week ago)
 - [osquery/osquery-go](https://github.com/osquery/osquery-go) - Go bindings for osquery (2 weeks ago)
 - [ankitects/anki](https://github.com/ankitects/anki) - Anki&#39;s shared backend and web components, and the Qt frontend (2 weeks ago)
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands (3 weeks ago)
-- [stackblitz/starters](https://github.com/stackblitz/starters) - StackBlitz Starter Project (4 weeks ago)
+- [stackblitz/starters](https://github.com/stackblitz/starters) - StackBlitz Starter Project (1 month ago)
 - [fir-lang/fir](https://github.com/fir-lang/fir) (1 month ago)
 - [kro-run/kro](https://github.com/kro-run/kro) - kro | Kube Resource Orchestrator (1 month ago)
 
