@@ -34,8 +34,8 @@
 
 #### ⭐ Recent stars
 
-- [christianh814/kargo-demo-deploy](https://github.com/christianh814/kargo-demo-deploy) (6 days ago)
-- [christianh814/kargo-demo-app](https://github.com/christianh814/kargo-demo-app) - Sample Application for Demoing Kargo (6 days ago)
+- [christianh814/kargo-demo-deploy](https://github.com/christianh814/kargo-demo-deploy) (1 week ago)
+- [christianh814/kargo-demo-app](https://github.com/christianh814/kargo-demo-app) - Sample Application for Demoing Kargo (1 week ago)
 - [DannyBen/bashly](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator (1 week ago)
 - [czifro/gvm](https://github.com/czifro/gvm) - A simple Golang version manager (2 weeks ago)
 - [osquery/osquery-go](https://github.com/osquery/osquery-go) - Go bindings for osquery (2 weeks ago)
