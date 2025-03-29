@@ -34,13 +34,13 @@
 
 #### ⭐ Recent stars
 
-- [resmoio/kubernetes-event-exporter](https://github.com/resmoio/kubernetes-event-exporter) - Export Kubernetes events to multiple destinations with routing and filtering (1 day ago)
+- [resmoio/kubernetes-event-exporter](https://github.com/resmoio/kubernetes-event-exporter) - Export Kubernetes events to multiple destinations with routing and filtering (2 days ago)
 - [christianh814/kargo-demo-deploy](https://github.com/christianh814/kargo-demo-deploy) (2 weeks ago)
 - [christianh814/kargo-demo-app](https://github.com/christianh814/kargo-demo-app) - Sample Application for Demoing Kargo (2 weeks ago)
 - [DannyBen/bashly](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator (2 weeks ago)
 - [czifro/gvm](https://github.com/czifro/gvm) - A simple Golang version manager (3 weeks ago)
-- [osquery/osquery-go](https://github.com/osquery/osquery-go) - Go bindings for osquery (4 weeks ago)
-- [ankitects/anki](https://github.com/ankitects/anki) - Anki&#39;s shared backend and web components, and the Qt frontend (4 weeks ago)
+- [osquery/osquery-go](https://github.com/osquery/osquery-go) - Go bindings for osquery (1 month ago)
+- [ankitects/anki](https://github.com/ankitects/anki) - Anki&#39;s shared backend and web components, and the Qt frontend (1 month ago)
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands (1 month ago)
 - [stackblitz/starters](https://github.com/stackblitz/starters) - StackBlitz Starter Project (1 month ago)
 - [fir-lang/fir](https://github.com/fir-lang/fir) (1 month ago)
