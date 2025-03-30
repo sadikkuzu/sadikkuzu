@@ -35,6 +35,7 @@
 
 #### ⭐ Recent stars
 
+- [adhtruong/mirrors-typos](https://github.com/adhtruong/mirrors-typos) (today)
 - [resmoio/kubernetes-event-exporter](https://github.com/resmoio/kubernetes-event-exporter) - Export Kubernetes events to multiple destinations with routing and filtering (3 days ago)
 - [christianh814/kargo-demo-deploy](https://github.com/christianh814/kargo-demo-deploy) (2 weeks ago)
 - [christianh814/kargo-demo-app](https://github.com/christianh814/kargo-demo-app) - Sample Application for Demoing Kargo (2 weeks ago)
@@ -44,7 +45,6 @@
 - [ankitects/anki](https://github.com/ankitects/anki) - Anki&#39;s shared backend and web components, and the Qt frontend (1 month ago)
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands (1 month ago)
 - [stackblitz/starters](https://github.com/stackblitz/starters) - StackBlitz Starter Project (1 month ago)
-- [fir-lang/fir](https://github.com/fir-lang/fir) (1 month ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
