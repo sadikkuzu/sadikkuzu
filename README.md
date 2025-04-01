@@ -20,9 +20,9 @@
 - [ [muhammed-gumus](https://github.com/muhammed-gumus) Muhammed Gümüş ]
 
 #### 🚀 &nbsp; Open source projects I've contributed to
-1. [**Doist/todoist-api-python**](https://github.com/Doist/todoist-api-python/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/Doist/todoist-api-python?style=social)](https://github.com/Doist/todoist-api-python/stargazers) - A python wrapper for the Todoist REST API. (today)
-1. [**OpenBB-finance/OpenBB**](https://github.com/OpenBB-finance/OpenBB/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/OpenBB-finance/OpenBB?style=social)](https://github.com/OpenBB-finance/OpenBB/stargazers) - Investment Research for Everyone, Everywhere. (today)
-1. [**adhtruong/mirrors-typos**](https://github.com/adhtruong/mirrors-typos/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/adhtruong/mirrors-typos?style=social)](https://github.com/adhtruong/mirrors-typos/stargazers) -  (1 day ago)
+1. [**Doist/todoist-api-python**](https://github.com/Doist/todoist-api-python/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/Doist/todoist-api-python?style=social)](https://github.com/Doist/todoist-api-python/stargazers) - A python wrapper for the Todoist REST API. (1 day ago)
+1. [**OpenBB-finance/OpenBB**](https://github.com/OpenBB-finance/OpenBB/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/OpenBB-finance/OpenBB?style=social)](https://github.com/OpenBB-finance/OpenBB/stargazers) - Investment Research for Everyone, Everywhere. (1 day ago)
+1. [**adhtruong/mirrors-typos**](https://github.com/adhtruong/mirrors-typos/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/adhtruong/mirrors-typos?style=social)](https://github.com/adhtruong/mirrors-typos/stargazers) -  (2 days ago)
 1. [**spiffe/spike**](https://github.com/spiffe/spike/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/spiffe/spike?style=social)](https://github.com/spiffe/spike/stargazers) - SPIKE is a lightweight secrets store that uses SPIFFE as its identity control plane. It protects your secrets and helps your ops, SREs, and sysadmins manage sensitive data securely with minimal overhead. (3 weeks ago)
 1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-G1**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-G1?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/stargazers) - Project for SWE 574 - Group 1 (1 month ago)
 1. [**kro-run/kro**](https://github.com/kro-run/kro/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/kro-run/kro?style=social)](https://github.com/kro-run/kro/stargazers) - kro | Kube Resource Orchestrator (1 month ago)
@@ -37,12 +37,12 @@
 
 #### ⭐ Recent stars
 
-- [adhtruong/mirrors-typos](https://github.com/adhtruong/mirrors-typos) (1 day ago)
-- [resmoio/kubernetes-event-exporter](https://github.com/resmoio/kubernetes-event-exporter) - Export Kubernetes events to multiple destinations with routing and filtering (4 days ago)
+- [adhtruong/mirrors-typos](https://github.com/adhtruong/mirrors-typos) (2 days ago)
+- [resmoio/kubernetes-event-exporter](https://github.com/resmoio/kubernetes-event-exporter) - Export Kubernetes events to multiple destinations with routing and filtering (5 days ago)
 - [christianh814/kargo-demo-deploy](https://github.com/christianh814/kargo-demo-deploy) (2 weeks ago)
 - [christianh814/kargo-demo-app](https://github.com/christianh814/kargo-demo-app) - Sample Application for Demoing Kargo (2 weeks ago)
-- [DannyBen/bashly](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator (2 weeks ago)
-- [czifro/gvm](https://github.com/czifro/gvm) - A simple Golang version manager (3 weeks ago)
+- [DannyBen/bashly](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator (3 weeks ago)
+- [czifro/gvm](https://github.com/czifro/gvm) - A simple Golang version manager (4 weeks ago)
 - [osquery/osquery-go](https://github.com/osquery/osquery-go) - Go bindings for osquery (1 month ago)
 - [ankitects/anki](https://github.com/ankitects/anki) - Anki&#39;s shared backend and web components, and the Qt frontend (1 month ago)
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands (1 month ago)
