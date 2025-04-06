@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [0vm](https://github.com/0vm) Ak ]
 - [ [standardgalactic](https://github.com/standardgalactic) Cogito Ergo Sum ]
 - [ [miraccan00](https://github.com/miraccan00)   Mirac Can Yılmaz ]
 - [ [trinhminhtriet](https://github.com/trinhminhtriet) Triet Trinh ]
@@ -17,7 +18,6 @@
 - [ [whitemike889](https://github.com/whitemike889) Michael T Hickman ]
 - [ [cyasar34](https://github.com/cyasar34) Lect. Çisem YAŞAR ]
 - [ [itsKayWat](https://github.com/itsKayWat) itsKayWat ]
-- [ [muhammed-gumus](https://github.com/muhammed-gumus) Muhammed Gümüş ]
 
 #### 🚀 &nbsp; Open source projects I've contributed to
 1. [**Doist/todoist-api-python**](https://github.com/Doist/todoist-api-python/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/Doist/todoist-api-python?style=social)](https://github.com/Doist/todoist-api-python/stargazers) - A python wrapper for the Todoist REST API. (6 days ago)
