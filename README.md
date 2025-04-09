@@ -11,13 +11,13 @@
 - [ [efekcss](https://github.com/efekcss) Hasan Efe Kocasu ]
 - [ [0joseDark](https://github.com/0joseDark) jose ]
 - [ [CodeEvolv](https://github.com/CodeEvolv) Evolv ]
-- [ [0vm](https://github.com/0vm) Ak ]
 - [ [standardgalactic](https://github.com/standardgalactic) Cogito Ergo Sum ]
 - [ [miraccan00](https://github.com/miraccan00)   Mirac Can Yılmaz ]
 - [ [trinhminhtriet](https://github.com/trinhminhtriet) Triet Trinh ]
 - [ [LinuxJS](https://github.com/LinuxJS) Meow ]
 - [ [rashidmakki](https://github.com/rashidmakki) Rashid Makki ]
 - [ [bayram-ozkan](https://github.com/bayram-ozkan) Bayram OZKAN ]
+- [ [whitemike889](https://github.com/whitemike889) Michael T Hickman ]
 
 #### 🚀 &nbsp; Open source projects I've contributed to
 1. [**Doist/todoist-api-python**](https://github.com/Doist/todoist-api-python/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/Doist/todoist-api-python?style=social)](https://github.com/Doist/todoist-api-python/stargazers) - A python wrapper for the Todoist REST API. (1 week ago)
