@@ -37,11 +37,11 @@
 
 #### ⭐ Recent stars
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified (5 days ago)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified (6 days ago)
 - [adhtruong/mirrors-typos](https://github.com/adhtruong/mirrors-typos) (1 week ago)
 - [resmoio/kubernetes-event-exporter](https://github.com/resmoio/kubernetes-event-exporter) - Export Kubernetes events to multiple destinations with routing and filtering (2 weeks ago)
-- [christianh814/kargo-demo-deploy](https://github.com/christianh814/kargo-demo-deploy) (4 weeks ago)
-- [christianh814/kargo-demo-app](https://github.com/christianh814/kargo-demo-app) - Sample Application for Demoing Kargo (4 weeks ago)
+- [christianh814/kargo-demo-deploy](https://github.com/christianh814/kargo-demo-deploy) (1 month ago)
+- [christianh814/kargo-demo-app](https://github.com/christianh814/kargo-demo-app) - Sample Application for Demoing Kargo (1 month ago)
 - [DannyBen/bashly](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator (1 month ago)
 - [czifro/gvm](https://github.com/czifro/gvm) - A simple Golang version manager (1 month ago)
 - [osquery/osquery-go](https://github.com/osquery/osquery-go) - Go bindings for osquery (1 month ago)
