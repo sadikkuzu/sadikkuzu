@@ -20,7 +20,7 @@
 - [ [rashidmakki](https://github.com/rashidmakki) Rashid Makki ]
 
 #### 🚀 &nbsp; Open source projects I've contributed to
-1. [**piyush1146115/Kubernetes-Up-and-Running**](https://github.com/piyush1146115/Kubernetes-Up-and-Running/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/piyush1146115/Kubernetes-Up-and-Running?style=social)](https://github.com/piyush1146115/Kubernetes-Up-and-Running/stargazers) - Examples and sneak peek of Kubernetes Up and Running Book. 3rd ed. (2 days ago)
+1. [**piyush1146115/Kubernetes-Up-and-Running**](https://github.com/piyush1146115/Kubernetes-Up-and-Running/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/piyush1146115/Kubernetes-Up-and-Running?style=social)](https://github.com/piyush1146115/Kubernetes-Up-and-Running/stargazers) - Examples and sneak peek of Kubernetes Up and Running Book. 3rd ed. (3 days ago)
 1. [**Doist/todoist-api-python**](https://github.com/Doist/todoist-api-python/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/Doist/todoist-api-python?style=social)](https://github.com/Doist/todoist-api-python/stargazers) - A python wrapper for the Todoist REST API. (2 weeks ago)
 1. [**OpenBB-finance/OpenBB**](https://github.com/OpenBB-finance/OpenBB/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/OpenBB-finance/OpenBB?style=social)](https://github.com/OpenBB-finance/OpenBB/stargazers) - Investment Research for Everyone, Everywhere. (2 weeks ago)
 1. [**adhtruong/mirrors-typos**](https://github.com/adhtruong/mirrors-typos/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/adhtruong/mirrors-typos?style=social)](https://github.com/adhtruong/mirrors-typos/stargazers) -  (2 weeks ago)
@@ -38,7 +38,7 @@
 
 #### ⭐ Recent stars
 
-- [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code (today)
+- [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code (1 day ago)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified (1 week ago)
 - [adhtruong/mirrors-typos](https://github.com/adhtruong/mirrors-typos) (2 weeks ago)
 - [resmoio/kubernetes-event-exporter](https://github.com/resmoio/kubernetes-event-exporter) - Export Kubernetes events to multiple destinations with routing and filtering (3 weeks ago)
