@@ -38,6 +38,7 @@
 
 #### ⭐ Recent stars
 
+- [koksay/signature-approved](https://github.com/koksay/signature-approved) (today)
 - [dashapetr/document-agent](https://github.com/dashapetr/document-agent) - Quickly build a document processing agent with AWS Bedrock agents (today)
 - [flanksource/canary-checker](https://github.com/flanksource/canary-checker) - Kubernetes Native Health Check Platform (1 day ago)
 - [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code (2 days ago)
@@ -47,7 +48,6 @@
 - [christianh814/kargo-demo-deploy](https://github.com/christianh814/kargo-demo-deploy) (1 month ago)
 - [christianh814/kargo-demo-app](https://github.com/christianh814/kargo-demo-app) - Sample Application for Demoing Kargo (1 month ago)
 - [DannyBen/bashly](https://github.com/DannyBen/bashly) - Bash command line framework and CLI generator (1 month ago)
-- [czifro/gvm](https://github.com/czifro/gvm) - A simple Golang version manager (1 month ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
