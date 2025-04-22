@@ -20,7 +20,7 @@
 - [ [bayram-ozkan](https://github.com/bayram-ozkan) Bayram OZKAN ]
 
 #### 🚀 &nbsp; Open source projects I've contributed to
-1. [**piyush1146115/Kubernetes-Up-and-Running**](https://github.com/piyush1146115/Kubernetes-Up-and-Running/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/piyush1146115/Kubernetes-Up-and-Running?style=social)](https://github.com/piyush1146115/Kubernetes-Up-and-Running/stargazers) - Examples and sneak peek of Kubernetes Up and Running Book. 3rd ed. (6 days ago)
+1. [**piyush1146115/Kubernetes-Up-and-Running**](https://github.com/piyush1146115/Kubernetes-Up-and-Running/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/piyush1146115/Kubernetes-Up-and-Running?style=social)](https://github.com/piyush1146115/Kubernetes-Up-and-Running/stargazers) - Examples and sneak peek of Kubernetes Up and Running Book. 3rd ed. (1 week ago)
 1. [**OpenBB-finance/OpenBB**](https://github.com/OpenBB-finance/OpenBB/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/OpenBB-finance/OpenBB?style=social)](https://github.com/OpenBB-finance/OpenBB/stargazers) - Investment Research for Everyone, Everywhere. (3 weeks ago)
 1. [**Doist/todoist-api-python**](https://github.com/Doist/todoist-api-python/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/Doist/todoist-api-python?style=social)](https://github.com/Doist/todoist-api-python/stargazers) - A python wrapper for the Todoist REST API. (3 weeks ago)
 1. [**adhtruong/mirrors-typos**](https://github.com/adhtruong/mirrors-typos/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/adhtruong/mirrors-typos?style=social)](https://github.com/adhtruong/mirrors-typos/stargazers) -  (3 weeks ago)
@@ -38,10 +38,10 @@
 
 #### ⭐ Recent stars
 
-- [koksay/signature-approved](https://github.com/koksay/signature-approved) (2 days ago)
-- [dashapetr/document-agent](https://github.com/dashapetr/document-agent) - Quickly build a document processing agent with AWS Bedrock agents (2 days ago)
-- [flanksource/canary-checker](https://github.com/flanksource/canary-checker) - Kubernetes Native Health Check Platform (3 days ago)
-- [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code (4 days ago)
+- [koksay/signature-approved](https://github.com/koksay/signature-approved) (3 days ago)
+- [dashapetr/document-agent](https://github.com/dashapetr/document-agent) - Quickly build a document processing agent with AWS Bedrock agents (3 days ago)
+- [flanksource/canary-checker](https://github.com/flanksource/canary-checker) - Kubernetes Native Health Check Platform (4 days ago)
+- [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code (5 days ago)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified (2 weeks ago)
 - [adhtruong/mirrors-typos](https://github.com/adhtruong/mirrors-typos) (3 weeks ago)
 - [resmoio/kubernetes-event-exporter](https://github.com/resmoio/kubernetes-event-exporter) - Export Kubernetes events to multiple destinations with routing and filtering (3 weeks ago)
