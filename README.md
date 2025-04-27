@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [MedoAlshafei](https://github.com/MedoAlshafei) MedoAlshafei ]
 - [ [bengisusaahin](https://github.com/bengisusaahin) Bengisu Şahin ]
 - [ [efekcss](https://github.com/efekcss) Hasan Efe Kocasu ]
 - [ [0joseDark](https://github.com/0joseDark) jose ]
@@ -17,7 +18,6 @@
 - [ [trinhminhtriet](https://github.com/trinhminhtriet) Triet Trinh ]
 - [ [LinuxJS](https://github.com/LinuxJS) Meow ]
 - [ [rashidmakki](https://github.com/rashidmakki) Rashid Makki ]
-- [ [bayram-ozkan](https://github.com/bayram-ozkan) Bayram OZKAN ]
 
 #### 🚀 &nbsp; Open source projects I've contributed to
 1. [**piyush1146115/Kubernetes-Up-and-Running**](https://github.com/piyush1146115/Kubernetes-Up-and-Running/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/piyush1146115/Kubernetes-Up-and-Running?style=social)](https://github.com/piyush1146115/Kubernetes-Up-and-Running/stargazers) - Examples and sneak peek of Kubernetes Up and Running Book. 3rd ed. (1 week ago)
