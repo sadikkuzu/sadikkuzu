@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [Sathiyapramod](https://github.com/Sathiyapramod) Sathiyapramod Raghavendran ]
 - [ [autkuyavuz](https://github.com/autkuyavuz) Utku  ]
 - [ [MedoAlshafei](https://github.com/MedoAlshafei) MedoAlshafei ]
 - [ [bengisusaahin](https://github.com/bengisusaahin) Bengisu Şahin ]
@@ -17,7 +18,6 @@
 - [ [standardgalactic](https://github.com/standardgalactic) Cogito Ergo Sum ]
 - [ [miraccan00](https://github.com/miraccan00)   Mirac Can Yılmaz ]
 - [ [trinhminhtriet](https://github.com/trinhminhtriet) Triet Trinh ]
-- [ [LinuxJS](https://github.com/LinuxJS) Meow ]
 
 #### 🚀 &nbsp; Open source projects I've contributed to
 1. [**piyush1146115/Kubernetes-Up-and-Running**](https://github.com/piyush1146115/Kubernetes-Up-and-Running/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/piyush1146115/Kubernetes-Up-and-Running?style=social)](https://github.com/piyush1146115/Kubernetes-Up-and-Running/stargazers) - Examples and sneak peek of Kubernetes Up and Running Book. 3rd ed. (2 weeks ago)
