@@ -39,11 +39,11 @@
 #### ⭐ Recent stars
 
 - [apache/answer](https://github.com/apache/answer) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer. (1 week ago)
-- [koksay/signature-approved](https://github.com/koksay/signature-approved) (1 week ago)
-- [dashapetr/document-agent](https://github.com/dashapetr/document-agent) - Quickly build a document processing agent with AWS Bedrock agents (1 week ago)
+- [koksay/signature-approved](https://github.com/koksay/signature-approved) (2 weeks ago)
+- [dashapetr/document-agent](https://github.com/dashapetr/document-agent) - Quickly build a document processing agent with AWS Bedrock agents (2 weeks ago)
 - [flanksource/canary-checker](https://github.com/flanksource/canary-checker) - Kubernetes Native Health Check Platform (2 weeks ago)
 - [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code (2 weeks ago)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified (3 weeks ago)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified (4 weeks ago)
 - [adhtruong/mirrors-typos](https://github.com/adhtruong/mirrors-typos) (1 month ago)
 - [resmoio/kubernetes-event-exporter](https://github.com/resmoio/kubernetes-event-exporter) - Export Kubernetes events to multiple destinations with routing and filtering (1 month ago)
 - [christianh814/kargo-demo-deploy](https://github.com/christianh814/kargo-demo-deploy) (1 month ago)
