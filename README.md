@@ -20,6 +20,7 @@
 - [ [LinuxJS](https://github.com/LinuxJS) Meow ]
 
 #### 🚀 &nbsp; Open source projects I've contributed to
+1. [**helmfile/helmfile**](https://github.com/helmfile/helmfile/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/helmfile/helmfile?style=social)](https://github.com/helmfile/helmfile/stargazers) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. (today)
 1. [**ulgens/django-official-tutorial**](https://github.com/ulgens/django-official-tutorial/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/ulgens/django-official-tutorial?style=social)](https://github.com/ulgens/django-official-tutorial/stargazers) -  (2 days ago)
 1. [**piyush1146115/Kubernetes-Up-and-Running**](https://github.com/piyush1146115/Kubernetes-Up-and-Running/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/piyush1146115/Kubernetes-Up-and-Running?style=social)](https://github.com/piyush1146115/Kubernetes-Up-and-Running/stargazers) - Examples and sneak peek of Kubernetes Up and Running Book. 3rd ed. (2 weeks ago)
 1. [**OpenBB-finance/OpenBB**](https://github.com/OpenBB-finance/OpenBB/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/OpenBB-finance/OpenBB?style=social)](https://github.com/OpenBB-finance/OpenBB/stargazers) - Investment Research for Everyone, Everywhere. (1 month ago)
