@@ -45,7 +45,7 @@
 - [apache/answer](https://github.com/apache/answer) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer. (3 weeks ago)
 - [koksay/signature-approved](https://github.com/koksay/signature-approved) (3 weeks ago)
 - [dashapetr/document-agent](https://github.com/dashapetr/document-agent) - Quickly build a document processing agent with AWS Bedrock agents (3 weeks ago)
-- [flanksource/canary-checker](https://github.com/flanksource/canary-checker) - Kubernetes Native Health Check Platform (3 weeks ago)
+- [flanksource/canary-checker](https://github.com/flanksource/canary-checker) - Kubernetes Native Health Check Platform (4 weeks ago)
 - [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code (4 weeks ago)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified (1 month ago)
 - [adhtruong/mirrors-typos](https://github.com/adhtruong/mirrors-typos) (1 month ago)
