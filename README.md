@@ -39,6 +39,7 @@
 
 #### ⭐ Recent stars
 
+- [mkauers/matrix-multiplication](https://github.com/mkauers/matrix-multiplication) - Matrix multiplication schemes (today)
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant (1 week ago)
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. (1 week ago)
 - [ulgens/django-official-tutorial](https://github.com/ulgens/django-official-tutorial) (1 week ago)
@@ -48,7 +49,6 @@
 - [flanksource/canary-checker](https://github.com/flanksource/canary-checker) - Kubernetes Native Health Check Platform (4 weeks ago)
 - [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code (4 weeks ago)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified (1 month ago)
-- [adhtruong/mirrors-typos](https://github.com/adhtruong/mirrors-typos) (1 month ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
