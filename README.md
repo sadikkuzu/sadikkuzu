@@ -39,6 +39,7 @@
 
 #### ⭐ Recent stars
 
+- [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. (today)
 - [serkanh/sre-bot](https://github.com/serkanh/sre-bot) (today)
 - [kubernetes-client/python](https://github.com/kubernetes-client/python) - Official Python client library for kubernetes (today)
 - [mkauers/matrix-multiplication](https://github.com/mkauers/matrix-multiplication) - Matrix multiplication schemes (2 days ago)
@@ -48,7 +49,6 @@
 - [apache/answer](https://github.com/apache/answer) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer. (3 weeks ago)
 - [koksay/signature-approved](https://github.com/koksay/signature-approved) (4 weeks ago)
 - [dashapetr/document-agent](https://github.com/dashapetr/document-agent) - Quickly build a document processing agent with AWS Bedrock agents (4 weeks ago)
-- [flanksource/canary-checker](https://github.com/flanksource/canary-checker) - Kubernetes Native Health Check Platform (1 month ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
