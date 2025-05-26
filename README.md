@@ -40,6 +40,7 @@
 
 #### ⭐ Recent stars
 
+- [VeriTeknik/pluggedin-app](https://github.com/VeriTeknik/pluggedin-app) (today)
 - [github/gh-copilot](https://github.com/github/gh-copilot) - Ask for assistance right in your terminal. (1 day ago)
 - [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. (1 week ago)
 - [serkanh/sre-bot](https://github.com/serkanh/sre-bot) (1 week ago)
@@ -49,7 +50,6 @@
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. (3 weeks ago)
 - [ulgens/django-official-tutorial](https://github.com/ulgens/django-official-tutorial) (3 weeks ago)
 - [apache/answer](https://github.com/apache/answer) - A Q&amp;A platform software for teams at any scales. Whether it&#39;s a community forum, help center, or knowledge management platform, you can always count on Apache Answer. (1 month ago)
-- [koksay/signature-approved](https://github.com/koksay/signature-approved) (1 month ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
