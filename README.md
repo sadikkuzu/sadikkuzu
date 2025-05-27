@@ -31,7 +31,7 @@
 1. [**spiffe/spike**](https://github.com/spiffe/spike/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/spiffe/spike?style=social)](https://github.com/spiffe/spike/stargazers) - SPIKE is a lightweight secrets store that uses SPIFFE as its identity control plane. It protects your secrets and helps your ops, SREs, and sysadmins manage sensitive data securely with minimal overhead. (2 months ago)
 1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-G1**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-G1?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/stargazers) - Project for SWE 574 - Group 1 (3 months ago)
 1. [**kro-run/kro**](https://github.com/kro-run/kro/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/kro-run/kro?style=social)](https://github.com/kro-run/kro/stargazers) - kro | Kube Resource Orchestrator (3 months ago)
-1. [**kubernetes/kompose**](https://github.com/kubernetes/kompose/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/kubernetes/kompose?style=social)](https://github.com/kubernetes/kompose/stargazers) - Convert Compose to Kubernetes (6 months ago)
+1. [**kubernetes/kompose**](https://github.com/kubernetes/kompose/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/kubernetes/kompose?style=social)](https://github.com/kubernetes/kompose/stargazers) - Convert Compose to Kubernetes (7 months ago)
 1. [**furkanonder/DnsTrace**](https://github.com/furkanonder/DnsTrace/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/furkanonder/DnsTrace?style=social)](https://github.com/furkanonder/DnsTrace/stargazers) - Monitor DNS queries by host processes using eBPF! (7 months ago)
 1. [**alicangunduz/nacizane**](https://github.com/alicangunduz/nacizane/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/alicangunduz/nacizane?style=social)](https://github.com/alicangunduz/nacizane/stargazers) - Nacizane.co , anonim olarak geri bildirim vermenizi sağlayan bir uygulama. İnsanların birbirlerine dürüst ve yapıcı geri bildirimlerde bulunmalarını kolaylaştırır. (8 months ago)
 1. [**grafana/grafana**](https://github.com/grafana/grafana/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/grafana/grafana?style=social)](https://github.com/grafana/grafana/stargazers) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  (9 months ago)
@@ -40,8 +40,8 @@
 
 #### ⭐ Recent stars
 
-- [VeriTeknik/pluggedin-app](https://github.com/VeriTeknik/pluggedin-app) (today)
-- [github/gh-copilot](https://github.com/github/gh-copilot) - Ask for assistance right in your terminal. (1 day ago)
+- [VeriTeknik/pluggedin-app](https://github.com/VeriTeknik/pluggedin-app) (1 day ago)
+- [github/gh-copilot](https://github.com/github/gh-copilot) - Ask for assistance right in your terminal. (2 days ago)
 - [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. (1 week ago)
 - [serkanh/sre-bot](https://github.com/serkanh/sre-bot) (1 week ago)
 - [kubernetes-client/python](https://github.com/kubernetes-client/python) - Official Python client library for kubernetes (1 week ago)
