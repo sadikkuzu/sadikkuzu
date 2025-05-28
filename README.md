@@ -40,8 +40,8 @@
 
 #### ⭐ Recent stars
 
-- [VeriTeknik/pluggedin-app](https://github.com/VeriTeknik/pluggedin-app) (1 day ago)
-- [github/gh-copilot](https://github.com/github/gh-copilot) - Ask for assistance right in your terminal. (2 days ago)
+- [VeriTeknik/pluggedin-app](https://github.com/VeriTeknik/pluggedin-app) (2 days ago)
+- [github/gh-copilot](https://github.com/github/gh-copilot) - Ask for assistance right in your terminal. (3 days ago)
 - [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. (1 week ago)
 - [serkanh/sre-bot](https://github.com/serkanh/sre-bot) (1 week ago)
 - [kubernetes-client/python](https://github.com/kubernetes-client/python) - Official Python client library for kubernetes (1 week ago)
