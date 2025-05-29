@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [mustafacryptolife](https://github.com/mustafacryptolife) mustafa saleh ]
 - [ [kadirkiras](https://github.com/kadirkiras) Kadir Kiraş ]
 - [ [Telebox222](https://github.com/Telebox222) Tiger 222 ]
 - [ [Sathiyapramod](https://github.com/Sathiyapramod) Sathiyapramod Raghavendran ]
@@ -17,7 +18,6 @@
 - [ [efekcss](https://github.com/efekcss) Hasan Efe Kocasu ]
 - [ [0joseDark](https://github.com/0joseDark) jose ]
 - [ [CodeEvolv](https://github.com/CodeEvolv) Evolv ]
-- [ [standardgalactic](https://github.com/standardgalactic) Cogito Ergo Sum ]
 
 #### 🚀 &nbsp; Open source projects I've contributed to
 1. [**serkanh/sre-bot**](https://github.com/serkanh/sre-bot/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/serkanh/sre-bot?style=social)](https://github.com/serkanh/sre-bot/stargazers) -  (1 week ago)
