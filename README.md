@@ -20,7 +20,7 @@
 - [ [efekcss](https://github.com/efekcss) Hasan Efe Kocasu ]
 
 #### 🚀 &nbsp; Open source projects I've contributed to
-1. [**serkanh/sre-bot**](https://github.com/serkanh/sre-bot/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/serkanh/sre-bot?style=social)](https://github.com/serkanh/sre-bot/stargazers) -  (1 week ago)
+1. [**serkanh/sre-bot**](https://github.com/serkanh/sre-bot/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/serkanh/sre-bot?style=social)](https://github.com/serkanh/sre-bot/stargazers) -  (2 weeks ago)
 1. [**GoogleCloudPlatform/kubectl-ai**](https://github.com/GoogleCloudPlatform/kubectl-ai/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/GoogleCloudPlatform/kubectl-ai?style=social)](https://github.com/GoogleCloudPlatform/kubectl-ai/stargazers) - AI powered Kubernetes Assistant (3 weeks ago)
 1. [**helmfile/helmfile**](https://github.com/helmfile/helmfile/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/helmfile/helmfile?style=social)](https://github.com/helmfile/helmfile/stargazers) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. (3 weeks ago)
 1. [**ulgens/django-official-tutorial**](https://github.com/ulgens/django-official-tutorial/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/ulgens/django-official-tutorial?style=social)](https://github.com/ulgens/django-official-tutorial/stargazers) -  (4 weeks ago)
@@ -40,11 +40,11 @@
 
 #### ⭐ Recent stars
 
-- [VeriTeknik/pluggedin-app](https://github.com/VeriTeknik/pluggedin-app) (5 days ago)
-- [github/gh-copilot](https://github.com/github/gh-copilot) - Ask for assistance right in your terminal. (6 days ago)
-- [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. (1 week ago)
-- [serkanh/sre-bot](https://github.com/serkanh/sre-bot) (1 week ago)
-- [kubernetes-client/python](https://github.com/kubernetes-client/python) - Official Python client library for kubernetes (1 week ago)
+- [VeriTeknik/pluggedin-app](https://github.com/VeriTeknik/pluggedin-app) (6 days ago)
+- [github/gh-copilot](https://github.com/github/gh-copilot) - Ask for assistance right in your terminal. (1 week ago)
+- [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. (2 weeks ago)
+- [serkanh/sre-bot](https://github.com/serkanh/sre-bot) (2 weeks ago)
+- [kubernetes-client/python](https://github.com/kubernetes-client/python) - Official Python client library for kubernetes (2 weeks ago)
 - [mkauers/matrix-multiplication](https://github.com/mkauers/matrix-multiplication) - Matrix multiplication schemes (2 weeks ago)
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant (3 weeks ago)
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. (3 weeks ago)
