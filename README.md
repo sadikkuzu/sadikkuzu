@@ -10,7 +10,6 @@
 
 - [ [aysecevikbas](https://github.com/aysecevikbas)  ]
 - [ [gkandemi](https://github.com/gkandemi) Gökhan Kandemir ]
-- [ [mustafacryptolife](https://github.com/mustafacryptolife) mustafa saleh ]
 - [ [kadirkiras](https://github.com/kadirkiras) Kadir Kiraş ]
 - [ [Telebox222](https://github.com/Telebox222) Tiger 222 ]
 - [ [Sathiyapramod](https://github.com/Sathiyapramod) Sathiyapramod Raghavendran ]
@@ -18,6 +17,7 @@
 - [ [MedoAlshafei](https://github.com/MedoAlshafei) MedoAlshafei ]
 - [ [bengisusaahin](https://github.com/bengisusaahin) Bengisu Şahin ]
 - [ [efekcss](https://github.com/efekcss) Hasan Efe Kocasu ]
+- [ [0joseDark](https://github.com/0joseDark) jose ]
 
 #### 🚀 &nbsp; Open source projects I've contributed to
 1. [**serkanh/sre-bot**](https://github.com/serkanh/sre-bot/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/serkanh/sre-bot?style=social)](https://github.com/serkanh/sre-bot/stargazers) -  (2 weeks ago)
