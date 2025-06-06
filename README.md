@@ -45,7 +45,7 @@
 - [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. (2 weeks ago)
 - [serkanh/sre-bot](https://github.com/serkanh/sre-bot) (2 weeks ago)
 - [kubernetes-client/python](https://github.com/kubernetes-client/python) - Official Python client library for kubernetes (2 weeks ago)
-- [mkauers/matrix-multiplication](https://github.com/mkauers/matrix-multiplication) - Matrix multiplication schemes (2 weeks ago)
+- [mkauers/matrix-multiplication](https://github.com/mkauers/matrix-multiplication) - Matrix multiplication schemes (3 weeks ago)
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant (4 weeks ago)
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. (1 month ago)
 - [ulgens/django-official-tutorial](https://github.com/ulgens/django-official-tutorial) (1 month ago)
