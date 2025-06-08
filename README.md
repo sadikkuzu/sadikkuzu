@@ -40,6 +40,7 @@
 
 #### ⭐ Recent stars
 
+- [serkanh/google-adk-starter](https://github.com/serkanh/google-adk-starter) (today)
 - [datalab-to/marker](https://github.com/datalab-to/marker) - Convert PDF to markdown &#43; JSON quickly with high accuracy (1 day ago)
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change (2 days ago)
 - [VeriTeknik/pluggedin-app](https://github.com/VeriTeknik/pluggedin-app) (1 week ago)
@@ -49,7 +50,6 @@
 - [kubernetes-client/python](https://github.com/kubernetes-client/python) - Official Python client library for kubernetes (3 weeks ago)
 - [mkauers/matrix-multiplication](https://github.com/mkauers/matrix-multiplication) - Matrix multiplication schemes (3 weeks ago)
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant (1 month ago)
-- [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. (1 month ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
