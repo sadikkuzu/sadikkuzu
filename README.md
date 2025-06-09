@@ -40,10 +40,10 @@
 
 #### ⭐ Recent stars
 
-- [serkanh/google-adk-starter](https://github.com/serkanh/google-adk-starter) (today)
-- [datalab-to/marker](https://github.com/datalab-to/marker) - Convert PDF to markdown &#43; JSON quickly with high accuracy (1 day ago)
-- [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change (2 days ago)
-- [VeriTeknik/pluggedin-app](https://github.com/VeriTeknik/pluggedin-app) (1 week ago)
+- [serkanh/google-adk-starter](https://github.com/serkanh/google-adk-starter) (1 day ago)
+- [datalab-to/marker](https://github.com/datalab-to/marker) - Convert PDF to markdown &#43; JSON quickly with high accuracy (2 days ago)
+- [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change (3 days ago)
+- [VeriTeknik/pluggedin-app](https://github.com/VeriTeknik/pluggedin-app) (2 weeks ago)
 - [github/gh-copilot](https://github.com/github/gh-copilot) - Ask for assistance right in your terminal. (2 weeks ago)
 - [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. (3 weeks ago)
 - [serkanh/sre-bot](https://github.com/serkanh/sre-bot) (3 weeks ago)
