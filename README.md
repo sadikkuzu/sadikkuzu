@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [seckinyasar](https://github.com/seckinyasar) Seckin Yasar ]
 - [ [zelihaerim](https://github.com/zelihaerim) Zeliha Erim ]
 - [ [aysecevikbas](https://github.com/aysecevikbas)  ]
 - [ [gkandemi](https://github.com/gkandemi) Gökhan Kandemir ]
@@ -17,7 +18,6 @@
 - [ [autkuyavuz](https://github.com/autkuyavuz) Utku  ]
 - [ [MedoAlshafei](https://github.com/MedoAlshafei) MedoAlshafei ]
 - [ [bengisusaahin](https://github.com/bengisusaahin) Bengisu Şahin ]
-- [ [efekcss](https://github.com/efekcss) Hasan Efe Kocasu ]
 
 #### 🚀 &nbsp; Open source projects I've contributed to
 1. [**apple/container**](https://github.com/apple/container/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/apple/container?style=social)](https://github.com/apple/container/stargazers) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It&#39;s written in Swift, and optimized for Apple silicon.  (today)
@@ -41,11 +41,11 @@
 
 #### ⭐ Recent stars
 
-- [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS. (today)
-- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It&#39;s written in Swift, and optimized for Apple silicon.  (today)
-- [serkanh/google-adk-starter](https://github.com/serkanh/google-adk-starter) (1 day ago)
-- [datalab-to/marker](https://github.com/datalab-to/marker) - Convert PDF to markdown &#43; JSON quickly with high accuracy (2 days ago)
-- [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change (3 days ago)
+- [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS. (1 day ago)
+- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It&#39;s written in Swift, and optimized for Apple silicon.  (1 day ago)
+- [serkanh/google-adk-starter](https://github.com/serkanh/google-adk-starter) (2 days ago)
+- [datalab-to/marker](https://github.com/datalab-to/marker) - Convert PDF to markdown &#43; JSON quickly with high accuracy (3 days ago)
+- [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change (4 days ago)
 - [VeriTeknik/pluggedin-app](https://github.com/VeriTeknik/pluggedin-app) (2 weeks ago)
 - [github/gh-copilot](https://github.com/github/gh-copilot) - Ask for assistance right in your terminal. (2 weeks ago)
 - [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. (3 weeks ago)
