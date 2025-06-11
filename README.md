@@ -41,6 +41,7 @@
 
 #### ⭐ Recent stars
 
+- [cloudflare/workers-oauth-provider](https://github.com/cloudflare/workers-oauth-provider) - OAuth provider library for Cloudflare Workers (today)
 - [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS. (2 days ago)
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It&#39;s written in Swift, and optimized for Apple silicon.  (2 days ago)
 - [serkanh/google-adk-starter](https://github.com/serkanh/google-adk-starter) (3 days ago)
@@ -50,7 +51,6 @@
 - [github/gh-copilot](https://github.com/github/gh-copilot) - Ask for assistance right in your terminal. (2 weeks ago)
 - [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. (3 weeks ago)
 - [serkanh/sre-bot](https://github.com/serkanh/sre-bot) (3 weeks ago)
-- [kubernetes-client/python](https://github.com/kubernetes-client/python) - Official Python client library for kubernetes (3 weeks ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
