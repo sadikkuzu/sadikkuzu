@@ -20,7 +20,7 @@
 - [ [MedoAlshafei](https://github.com/MedoAlshafei) MedoAlshafei ]
 
 #### 🚀 &nbsp; Open source projects I've contributed to
-1. [**apple/container**](https://github.com/apple/container/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/apple/container?style=social)](https://github.com/apple/container/stargazers) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It&#39;s written in Swift, and optimized for Apple silicon.  (today)
+1. [**apple/container**](https://github.com/apple/container/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/apple/container?style=social)](https://github.com/apple/container/stargazers) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It&#39;s written in Swift, and optimized for Apple silicon.  (1 day ago)
 1. [**serkanh/sre-bot**](https://github.com/serkanh/sre-bot/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/serkanh/sre-bot?style=social)](https://github.com/serkanh/sre-bot/stargazers) -  (3 weeks ago)
 1. [**GoogleCloudPlatform/kubectl-ai**](https://github.com/GoogleCloudPlatform/kubectl-ai/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/GoogleCloudPlatform/kubectl-ai?style=social)](https://github.com/GoogleCloudPlatform/kubectl-ai/stargazers) - AI powered Kubernetes Assistant (1 month ago)
 1. [**helmfile/helmfile**](https://github.com/helmfile/helmfile/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/helmfile/helmfile?style=social)](https://github.com/helmfile/helmfile/stargazers) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. (1 month ago)
@@ -41,11 +41,11 @@
 
 #### ⭐ Recent stars
 
-- [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS. (1 day ago)
-- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It&#39;s written in Swift, and optimized for Apple silicon.  (1 day ago)
-- [serkanh/google-adk-starter](https://github.com/serkanh/google-adk-starter) (2 days ago)
-- [datalab-to/marker](https://github.com/datalab-to/marker) - Convert PDF to markdown &#43; JSON quickly with high accuracy (3 days ago)
-- [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change (4 days ago)
+- [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS. (2 days ago)
+- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It&#39;s written in Swift, and optimized for Apple silicon.  (2 days ago)
+- [serkanh/google-adk-starter](https://github.com/serkanh/google-adk-starter) (3 days ago)
+- [datalab-to/marker](https://github.com/datalab-to/marker) - Convert PDF to markdown &#43; JSON quickly with high accuracy (4 days ago)
+- [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change (5 days ago)
 - [VeriTeknik/pluggedin-app](https://github.com/VeriTeknik/pluggedin-app) (2 weeks ago)
 - [github/gh-copilot](https://github.com/github/gh-copilot) - Ask for assistance right in your terminal. (2 weeks ago)
 - [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. (3 weeks ago)
