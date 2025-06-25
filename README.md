@@ -41,11 +41,11 @@
 
 #### ⭐ Recent stars
 
-- [karpathy/micrograd](https://github.com/karpathy/micrograd) - A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API (3 days ago)
+- [karpathy/micrograd](https://github.com/karpathy/micrograd) - A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API (4 days ago)
 - [kubernetes-sigs/inference-perf](https://github.com/kubernetes-sigs/inference-perf) - GenAI inference performance benchmarking tool (1 week ago)
 - [kaito-project/kaito](https://github.com/kaito-project/kaito) - Kubernetes AI Toolchain Operator (1 week ago)
-- [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic&#39;s Interactive Prompt Engineering Tutorial (1 week ago)
-- [cloudflare/workers-oauth-provider](https://github.com/cloudflare/workers-oauth-provider) - OAuth provider library for Cloudflare Workers (1 week ago)
+- [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic&#39;s Interactive Prompt Engineering Tutorial (2 weeks ago)
+- [cloudflare/workers-oauth-provider](https://github.com/cloudflare/workers-oauth-provider) - OAuth provider library for Cloudflare Workers (2 weeks ago)
 - [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS. (2 weeks ago)
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It&#39;s written in Swift, and optimized for Apple silicon.  (2 weeks ago)
 - [serkanh/google-adk-starter](https://github.com/serkanh/google-adk-starter) (2 weeks ago)
