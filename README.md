@@ -9,7 +9,6 @@
 #### 🔭 &nbsp; Check out my recent followers
 
 - [ [buraksocial](https://github.com/buraksocial) Burâk ]
-- [ [BitMorphX](https://github.com/BitMorphX) BitMorphX ]
 - [ [ishandutta2007](https://github.com/ishandutta2007) ishan dutta ]
 - [ [helallao](https://github.com/helallao) Ali Yaşar ]
 - [ [aalvaropc](https://github.com/aalvaropc) alvarop ]
@@ -18,6 +17,7 @@
 - [ [seckinyasar](https://github.com/seckinyasar) Seckin Yasar ]
 - [ [zelihaerim](https://github.com/zelihaerim) Zeliha Erim ]
 - [ [aysecevikbas](https://github.com/aysecevikbas)  ]
+- [ [gkandemi](https://github.com/gkandemi) Gökhan Kandemir ]
 
 #### 🚀 &nbsp; Open source projects I've contributed to
 1. [**apple/container**](https://github.com/apple/container/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/apple/container?style=social)](https://github.com/apple/container/stargazers) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (2 weeks ago)
