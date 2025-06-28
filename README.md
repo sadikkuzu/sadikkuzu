@@ -9,6 +9,7 @@
 #### 🔭 &nbsp; Check out my recent followers
 
 - [ [buraksocial](https://github.com/buraksocial) Burâk ]
+- [ [BitMorphX](https://github.com/BitMorphX) BitMorphX ]
 - [ [ishandutta2007](https://github.com/ishandutta2007) ishan dutta ]
 - [ [helallao](https://github.com/helallao) Ali Yaşar ]
 - [ [aalvaropc](https://github.com/aalvaropc) alvarop ]
@@ -17,7 +18,6 @@
 - [ [seckinyasar](https://github.com/seckinyasar) Seckin Yasar ]
 - [ [zelihaerim](https://github.com/zelihaerim) Zeliha Erim ]
 - [ [aysecevikbas](https://github.com/aysecevikbas)  ]
-- [ [gkandemi](https://github.com/gkandemi) Gökhan Kandemir ]
 
 #### 🚀 &nbsp; Open source projects I've contributed to
 1. [**google-gemini/gemini-cli**](https://github.com/google-gemini/gemini-cli/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=social)](https://github.com/google-gemini/gemini-cli/stargazers) - An open-source AI agent that brings the power of Gemini directly into your terminal. (today)
