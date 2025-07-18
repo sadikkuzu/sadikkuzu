@@ -32,7 +32,7 @@
 1. [**OpenBB-finance/OpenBB**](https://github.com/OpenBB-finance/OpenBB/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/OpenBB-finance/OpenBB?style=social)](https://github.com/OpenBB-finance/OpenBB/stargazers) - Investment Research for Everyone, Everywhere. (3 months ago)
 1. [**adhtruong/mirrors-typos**](https://github.com/adhtruong/mirrors-typos/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/adhtruong/mirrors-typos?style=social)](https://github.com/adhtruong/mirrors-typos/stargazers) -  (3 months ago)
 1. [**spiffe/spike**](https://github.com/spiffe/spike/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/spiffe/spike?style=social)](https://github.com/spiffe/spike/stargazers) - SPIKE is a lightweight secrets store that uses SPIFFE as its identity control plane. It protects your secrets and helps your ops, SREs, and sysadmins manage sensitive data securely with minimal overhead. (4 months ago)
-1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-G1**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-G1?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/stargazers) - Project for SWE 574 - Group 1 (4 months ago)
+1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-G1**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-G1?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/stargazers) - Project for SWE 574 - Group 1 (5 months ago)
 1. [**kro-run/kro**](https://github.com/kro-run/kro/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/kro-run/kro?style=social)](https://github.com/kro-run/kro/stargazers) - kro | Kube Resource Orchestrator (5 months ago)
 1. [**kubernetes/kompose**](https://github.com/kubernetes/kompose/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/kubernetes/kompose?style=social)](https://github.com/kubernetes/kompose/stargazers) - Convert Compose to Kubernetes (8 months ago)
 1. [**furkanonder/DnsTrace**](https://github.com/furkanonder/DnsTrace/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/furkanonder/DnsTrace?style=social)](https://github.com/furkanonder/DnsTrace/stargazers) - Monitor DNS queries by host processes using eBPF! (9 months ago)
@@ -43,10 +43,10 @@
 
 #### ⭐ Recent stars
 
-- [tugot17/pmpp](https://github.com/tugot17/pmpp) - Complete solutions to the Programming Massively Parallel Processors Edition 4 (3 days ago)
+- [tugot17/pmpp](https://github.com/tugot17/pmpp) - Complete solutions to the Programming Massively Parallel Processors Edition 4 (4 days ago)
 - [hdenizdogan/turuserver](https://github.com/hdenizdogan/turuserver) - home server (2 weeks ago)
 - [eunomia-bpf/bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - eBPF Developer Tutorial: Learning eBPF Step by Step with Examples (2 weeks ago)
-- [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) - The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google. (2 weeks ago)
+- [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) - The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google. (3 weeks ago)
 - [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts (3 weeks ago)
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (3 weeks ago)
 - [karpathy/micrograd](https://github.com/karpathy/micrograd) - A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API (3 weeks ago)
