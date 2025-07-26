@@ -17,7 +17,7 @@
 - [ [helallao](https://github.com/helallao) Ali Yaşar ]
 - [ [aalvaropc](https://github.com/aalvaropc) alvarop ]
 - [ [keremcaliskan](https://github.com/keremcaliskan) Kerem Çalışkan ]
-- [ [seckinyasar](https://github.com/seckinyasar) Seckin Yasar ]
+- [ [zelihaerim](https://github.com/zelihaerim) Zeliha Erim ]
 
 #### 🚀 &nbsp; Open source projects I've contributed to
 1. [**modelcontextprotocol/go-sdk**](https://github.com/modelcontextprotocol/go-sdk/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/modelcontextprotocol/go-sdk?style=social)](https://github.com/modelcontextprotocol/go-sdk/stargazers) - The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google. (3 weeks ago)
