@@ -43,7 +43,7 @@
 
 #### ⭐ Recent stars
 
-- [n0xa/SecKC-MHN-Globe](https://github.com/n0xa/SecKC-MHN-Globe) - Terminal UI Visualization for SecKC MHN Attack Map (4 days ago)
+- [n0xa/SecKC-MHN-Globe](https://github.com/n0xa/SecKC-MHN-Globe) - Terminal UI Visualization for SecKC MHN Attack Map (5 days ago)
 - [isovalent/CKS-Study-Guide](https://github.com/isovalent/CKS-Study-Guide) - Certified Kubernetes Security Specialist (CKS) Study Guide (1 week ago)
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub&#39;s official MCP Server (1 week ago)
 - [tugot17/pmpp](https://github.com/tugot17/pmpp) - Complete solutions to the Programming Massively Parallel Processors Edition 4 (2 weeks ago)
