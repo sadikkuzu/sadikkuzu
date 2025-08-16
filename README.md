@@ -23,7 +23,7 @@
 1. [**modelcontextprotocol/go-sdk**](https://github.com/modelcontextprotocol/go-sdk/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/modelcontextprotocol/go-sdk?style=social)](https://github.com/modelcontextprotocol/go-sdk/stargazers) - The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google. (1 month ago)
 1. [**google-gemini/gemini-cli**](https://github.com/google-gemini/gemini-cli/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=social)](https://github.com/google-gemini/gemini-cli/stargazers) - An open-source AI agent that brings the power of Gemini directly into your terminal. (1 month ago)
 1. [**apple/container**](https://github.com/apple/container/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/apple/container?style=social)](https://github.com/apple/container/stargazers) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (2 months ago)
-1. [**serkanh/sre-bot**](https://github.com/serkanh/sre-bot/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/serkanh/sre-bot?style=social)](https://github.com/serkanh/sre-bot/stargazers) -  (2 months ago)
+1. [**serkanh/sre-bot**](https://github.com/serkanh/sre-bot/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/serkanh/sre-bot?style=social)](https://github.com/serkanh/sre-bot/stargazers) -  (3 months ago)
 1. [**GoogleCloudPlatform/kubectl-ai**](https://github.com/GoogleCloudPlatform/kubectl-ai/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/GoogleCloudPlatform/kubectl-ai?style=social)](https://github.com/GoogleCloudPlatform/kubectl-ai/stargazers) - AI powered Kubernetes Assistant (3 months ago)
 1. [**helmfile/helmfile**](https://github.com/helmfile/helmfile/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/helmfile/helmfile?style=social)](https://github.com/helmfile/helmfile/stargazers) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. (3 months ago)
 1. [**ulgens/django-official-tutorial**](https://github.com/ulgens/django-official-tutorial/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/ulgens/django-official-tutorial?style=social)](https://github.com/ulgens/django-official-tutorial/stargazers) -  (3 months ago)
@@ -42,7 +42,7 @@
 
 #### ⭐ Recent stars
 
-- [wojciech12/talk_intro_OpenPolicyAgent](https://github.com/wojciech12/talk_intro_OpenPolicyAgent) - How Open Policy Agent (OPA) and policy-as-a-code address a wide range of problems from implementing policies, and checks, to application customisation and configuration.  (1 day ago)
+- [wojciech12/talk_intro_OpenPolicyAgent](https://github.com/wojciech12/talk_intro_OpenPolicyAgent) - How Open Policy Agent (OPA) and policy-as-a-code address a wide range of problems from implementing policies, and checks, to application customisation and configuration.  (2 days ago)
 - [n0xa/SecKC-MHN-Globe](https://github.com/n0xa/SecKC-MHN-Globe) - Terminal UI Visualization for SecKC MHN Attack Map (2 weeks ago)
 - [isovalent/CKS-Study-Guide](https://github.com/isovalent/CKS-Study-Guide) - Certified Kubernetes Security Specialist (CKS) Study Guide (3 weeks ago)
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub&#39;s official MCP Server (3 weeks ago)
