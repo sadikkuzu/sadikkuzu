@@ -8,12 +8,12 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [Arison99](https://github.com/Arison99) Byonanebye Arison ]
 - [ [oluiscabral](https://github.com/oluiscabral) Luis Cabral ]
 - [ [nnayz](https://github.com/nnayz) Nasrul Huda ]
 - [ [muzeyyenbutun](https://github.com/muzeyyenbutun) Müzeyyen Bütün ]
 - [ [erenaslandev](https://github.com/erenaslandev) Eren Aslan ]
 - [ [balajiCubie](https://github.com/balajiCubie) Balaji K ]
-- [ [buraksocial](https://github.com/buraksocial) Burâk ]
 - [ [BitMorphX](https://github.com/BitMorphX) BitMorphX ]
 - [ [aalvaropc](https://github.com/aalvaropc) alvarop ]
 - [ [keremcaliskan](https://github.com/keremcaliskan) Kerem Çalışkan ]
