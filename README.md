@@ -8,7 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
-- [ [oluiscabral](https://github.com/oluiscabral) Luis Cabral ]
+- [ [oluiscabral](https://github.com/oluiscabral) oluiscabral ]
 - [ [nnayz](https://github.com/nnayz) Nasrul Huda ]
 - [ [muzeyyenbutun](https://github.com/muzeyyenbutun) Müzeyyen Bütün ]
 - [ [erenaslandev](https://github.com/erenaslandev) Eren Aslan ]
@@ -42,9 +42,9 @@
 
 #### ⭐ Recent stars
 
-- [wojciech12/talk_intro_OpenPolicyAgent](https://github.com/wojciech12/talk_intro_OpenPolicyAgent) - How Open Policy Agent (OPA) and policy-as-a-code address a wide range of problems from implementing policies, and checks, to application customisation and configuration.  (5 days ago)
+- [wojciech12/talk_intro_OpenPolicyAgent](https://github.com/wojciech12/talk_intro_OpenPolicyAgent) - How Open Policy Agent (OPA) and policy-as-a-code address a wide range of problems from implementing policies, and checks, to application customisation and configuration.  (6 days ago)
 - [n0xa/SecKC-MHN-Globe](https://github.com/n0xa/SecKC-MHN-Globe) - Terminal UI Visualization for SecKC MHN Attack Map (3 weeks ago)
-- [isovalent/CKS-Study-Guide](https://github.com/isovalent/CKS-Study-Guide) - Certified Kubernetes Security Specialist (CKS) Study Guide (3 weeks ago)
+- [isovalent/CKS-Study-Guide](https://github.com/isovalent/CKS-Study-Guide) - Certified Kubernetes Security Specialist (CKS) Study Guide (4 weeks ago)
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub&#39;s official MCP Server (1 month ago)
 - [tugot17/pmpp](https://github.com/tugot17/pmpp) - Complete solutions to the Programming Massively Parallel Processors Edition 4 (1 month ago)
 - [hdenizdogan/turuserver](https://github.com/hdenizdogan/turuserver) - home server (1 month ago)
