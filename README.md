@@ -34,7 +34,7 @@
 1. [**spiffe/spike**](https://github.com/spiffe/spike/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/spiffe/spike?style=social)](https://github.com/spiffe/spike/stargazers) - SPIKE is a lightweight secrets store that uses SPIFFE as its identity control plane. It protects your secrets and helps your ops, SREs, and sysadmins manage sensitive data securely with minimal overhead. (5 months ago)
 1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-G1**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-G1?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/stargazers) - Project for SWE 574 - Group 1 (6 months ago)
 1. [**kro-run/kro**](https://github.com/kro-run/kro/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/kro-run/kro?style=social)](https://github.com/kro-run/kro/stargazers) - kro | Kube Resource Orchestrator (6 months ago)
-1. [**kubernetes/kompose**](https://github.com/kubernetes/kompose/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/kubernetes/kompose?style=social)](https://github.com/kubernetes/kompose/stargazers) - Convert Compose to Kubernetes (9 months ago)
+1. [**kubernetes/kompose**](https://github.com/kubernetes/kompose/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/kubernetes/kompose?style=social)](https://github.com/kubernetes/kompose/stargazers) - Convert Compose to Kubernetes (10 months ago)
 1. [**furkanonder/DnsTrace**](https://github.com/furkanonder/DnsTrace/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/furkanonder/DnsTrace?style=social)](https://github.com/furkanonder/DnsTrace/stargazers) - Monitor DNS queries by host processes using eBPF! (10 months ago)
 1. [**alicangunduz/nacizane**](https://github.com/alicangunduz/nacizane/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/alicangunduz/nacizane?style=social)](https://github.com/alicangunduz/nacizane/stargazers) - Nacizane.co , anonim olarak geri bildirim vermenizi sağlayan bir uygulama. İnsanların birbirlerine dürüst ve yapıcı geri bildirimlerde bulunmalarını kolaylaştırır. (11 months ago)
 
@@ -42,14 +42,14 @@
 #### ⭐ Recent stars
 
 - [wojciech12/talk_intro_OpenPolicyAgent](https://github.com/wojciech12/talk_intro_OpenPolicyAgent) - How Open Policy Agent (OPA) and policy-as-a-code address a wide range of problems from implementing policies, and checks, to application customisation and configuration.  (1 week ago)
-- [n0xa/SecKC-MHN-Globe](https://github.com/n0xa/SecKC-MHN-Globe) - Terminal UI Visualization for SecKC MHN Attack Map (3 weeks ago)
+- [n0xa/SecKC-MHN-Globe](https://github.com/n0xa/SecKC-MHN-Globe) - Terminal UI Visualization for SecKC MHN Attack Map (4 weeks ago)
 - [isovalent/CKS-Study-Guide](https://github.com/isovalent/CKS-Study-Guide) - Certified Kubernetes Security Specialist (CKS) Study Guide (1 month ago)
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub&#39;s official MCP Server (1 month ago)
 - [tugot17/pmpp](https://github.com/tugot17/pmpp) - Complete solutions to the Programming Massively Parallel Processors Edition 4 (1 month ago)
 - [hdenizdogan/turuserver](https://github.com/hdenizdogan/turuserver) - home server (1 month ago)
 - [eunomia-bpf/bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - eBPF Developer Tutorial: Learning eBPF Step by Step with Examples (1 month ago)
 - [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) - The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google. (1 month ago)
-- [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts (1 month ago)
+- [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts (2 months ago)
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (2 months ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
