@@ -8,7 +8,6 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
-- [ [Arison99](https://github.com/Arison99) Byonanebye Arison ]
 - [ [lrepo52](https://github.com/lrepo52)  ]
 - [ [oluiscabral](https://github.com/oluiscabral) oluiscabral ]
 - [ [nnayz](https://github.com/nnayz) Nasrul Huda ]
@@ -18,6 +17,7 @@
 - [ [BitMorphX](https://github.com/BitMorphX) BitMorphX ]
 - [ [aalvaropc](https://github.com/aalvaropc) alvarop ]
 - [ [keremcaliskan](https://github.com/keremcaliskan) Kerem Çalışkan ]
+- [ [zelihaerim](https://github.com/zelihaerim) Zeliha Erim ]
 
 #### 🚀 &nbsp; Open source projects I've contributed to
 1. [**modelcontextprotocol/go-sdk**](https://github.com/modelcontextprotocol/go-sdk/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/modelcontextprotocol/go-sdk?style=social)](https://github.com/modelcontextprotocol/go-sdk/stargazers) - The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google. (1 month ago)
