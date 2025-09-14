@@ -36,7 +36,7 @@
 1. [**kubernetes-sigs/kro**](https://github.com/kubernetes-sigs/kro/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/kubernetes-sigs/kro?style=social)](https://github.com/kubernetes-sigs/kro/stargazers) - kro | Kube Resource Orchestrator (7 months ago)
 1. [**kubernetes/kompose**](https://github.com/kubernetes/kompose/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/kubernetes/kompose?style=social)](https://github.com/kubernetes/kompose/stargazers) - Convert Compose to Kubernetes (10 months ago)
 1. [**furkanonder/DnsTrace**](https://github.com/furkanonder/DnsTrace/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/furkanonder/DnsTrace?style=social)](https://github.com/furkanonder/DnsTrace/stargazers) - Monitor DNS queries by host processes using eBPF! (11 months ago)
-1. [**alicangunduz/nacizane**](https://github.com/alicangunduz/nacizane/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/alicangunduz/nacizane?style=social)](https://github.com/alicangunduz/nacizane/stargazers) - Nacizane.co , anonim olarak geri bildirim vermenizi sağlayan bir uygulama. İnsanların birbirlerine dürüst ve yapıcı geri bildirimlerde bulunmalarını kolaylaştırır. (11 months ago)
+1. [**alicangunduz/nacizane**](https://github.com/alicangunduz/nacizane/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/alicangunduz/nacizane?style=social)](https://github.com/alicangunduz/nacizane/stargazers) - Nacizane.co , anonim olarak geri bildirim vermenizi sağlayan bir uygulama. İnsanların birbirlerine dürüst ve yapıcı geri bildirimlerde bulunmalarını kolaylaştırır. (1 year ago)
 
 
 #### ⭐ Recent stars
