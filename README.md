@@ -34,7 +34,7 @@
 1. [**spiffe/spike**](https://github.com/spiffe/spike/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/spiffe/spike?style=social)](https://github.com/spiffe/spike/stargazers) - SPIKE is a lightweight secrets store that uses SPIFFE as its identity control plane. It protects your secrets and helps your ops, SREs, and sysadmins manage sensitive data securely with minimal overhead. (6 months ago)
 1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-G1**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-G1?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/stargazers) - Project for SWE 574 - Group 1 (7 months ago)
 1. [**kubernetes-sigs/kro**](https://github.com/kubernetes-sigs/kro/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/kubernetes-sigs/kro?style=social)](https://github.com/kubernetes-sigs/kro/stargazers) - kro | Kube Resource Orchestrator (7 months ago)
-1. [**kubernetes/kompose**](https://github.com/kubernetes/kompose/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/kubernetes/kompose?style=social)](https://github.com/kubernetes/kompose/stargazers) - Convert Compose to Kubernetes (10 months ago)
+1. [**kubernetes/kompose**](https://github.com/kubernetes/kompose/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/kubernetes/kompose?style=social)](https://github.com/kubernetes/kompose/stargazers) - Convert Compose to Kubernetes (11 months ago)
 1. [**furkanonder/DnsTrace**](https://github.com/furkanonder/DnsTrace/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/furkanonder/DnsTrace?style=social)](https://github.com/furkanonder/DnsTrace/stargazers) - Monitor DNS queries by host processes using eBPF! (11 months ago)
 
 
@@ -48,7 +48,7 @@
 - [hdenizdogan/turuserver](https://github.com/hdenizdogan/turuserver) - home server (2 months ago)
 - [eunomia-bpf/bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) - eBPF Developer Tutorial: Learning eBPF Step by Step with Examples (2 months ago)
 - [modelcontextprotocol/go-sdk](https://github.com/modelcontextprotocol/go-sdk) - The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google. (2 months ago)
-- [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts (2 months ago)
+- [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts (3 months ago)
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal. (3 months ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
