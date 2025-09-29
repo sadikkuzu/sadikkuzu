@@ -20,6 +20,7 @@
 - [ [nnayz](https://github.com/nnayz) Nasrul Huda ]
 
 #### 🚀 &nbsp; Open source projects I've contributed to
+1. [**kagent-dev/kagent**](https://github.com/kagent-dev/kagent/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/kagent-dev/kagent?style=social)](https://github.com/kagent-dev/kagent/stargazers) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord (today)
 1. [**modelcontextprotocol/go-sdk**](https://github.com/modelcontextprotocol/go-sdk/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/modelcontextprotocol/go-sdk?style=social)](https://github.com/modelcontextprotocol/go-sdk/stargazers) - The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google. (3 months ago)
 1. [**google-gemini/gemini-cli**](https://github.com/google-gemini/gemini-cli/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=social)](https://github.com/google-gemini/gemini-cli/stargazers) - An open-source AI agent that brings the power of Gemini directly into your terminal. (3 months ago)
 1. [**apple/container**](https://github.com/apple/container/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/apple/container?style=social)](https://github.com/apple/container/stargazers) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (3 months ago)
