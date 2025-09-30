@@ -12,12 +12,12 @@
 - [ [omersuve](https://github.com/omersuve) Ömer Faruk Süve ]
 - [ [ilkerulusoy](https://github.com/ilkerulusoy) Ilker Ulusoy ]
 - [ [fikretipek](https://github.com/fikretipek) Fikret İPEK ]
-- [ [seckinyasar](https://github.com/seckinyasar) Seckin Yasar ]
 - [ [helallao](https://github.com/helallao) Ali Yaşar ]
 - [ [slavaGanzin](https://github.com/slavaGanzin) Slava ]
 - [ [abdullahaktel-getir](https://github.com/abdullahaktel-getir)  ]
 - [ [oluiscabral](https://github.com/oluiscabral) oluiscabral ]
 - [ [nnayz](https://github.com/nnayz) Nasrul Huda ]
+- [ [muzeyyenbutun](https://github.com/muzeyyenbutun) Müzeyyen Bütün ]
 
 #### 🚀 &nbsp; Open source projects I've contributed to
 1. [**kagent-dev/kagent**](https://github.com/kagent-dev/kagent/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/kagent-dev/kagent?style=social)](https://github.com/kagent-dev/kagent/stargazers) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord (1 day ago)
