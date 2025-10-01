@@ -8,7 +8,6 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
-- [ [lrepo52](https://github.com/lrepo52)  ]
 - [ [onutc](https://github.com/onutc) Onur ]
 - [ [cderinbogaz](https://github.com/cderinbogaz) Jay Derinbogaz ]
 - [ [omersuve](https://github.com/omersuve) Ömer Faruk Süve ]
@@ -18,6 +17,7 @@
 - [ [abdullahaktel-getir](https://github.com/abdullahaktel-getir)  ]
 - [ [oluiscabral](https://github.com/oluiscabral) oluiscabral ]
 - [ [nnayz](https://github.com/nnayz) Nasrul Huda ]
+- [ [muzeyyenbutun](https://github.com/muzeyyenbutun) Müzeyyen Bütün ]
 
 #### 🚀 &nbsp; Open source projects I've contributed to
 1. [**kagent-dev/kagent**](https://github.com/kagent-dev/kagent/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/kagent-dev/kagent?style=social)](https://github.com/kagent-dev/kagent/stargazers) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord (2 days ago)
