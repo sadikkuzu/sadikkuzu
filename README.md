@@ -9,7 +9,6 @@
 #### 🔭 &nbsp; Check out my recent followers
 
 - [ [Gabrieliam42](https://github.com/Gabrieliam42) Gabriel Sandu ]
-- [ [Arison99](https://github.com/Arison99) Byonanebye Arison ]
 - [ [sphinxzerd](https://github.com/sphinxzerd)  ]
 - [ [onutc](https://github.com/onutc) Onur ]
 - [ [cderinbogaz](https://github.com/cderinbogaz) Jay Derinbogaz ]
@@ -18,6 +17,7 @@
 - [ [fikretipek](https://github.com/fikretipek) Fikret İPEK ]
 - [ [slavaGanzin](https://github.com/slavaGanzin) Slava ]
 - [ [abdullahaktel-getir](https://github.com/abdullahaktel-getir)  ]
+- [ [oluiscabral](https://github.com/oluiscabral) oluiscabral ]
 
 #### 🚀 &nbsp; Open source projects I've contributed to
 1. [**kagent-dev/kagent**](https://github.com/kagent-dev/kagent/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/kagent-dev/kagent?style=social)](https://github.com/kagent-dev/kagent/stargazers) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord (5 days ago)
