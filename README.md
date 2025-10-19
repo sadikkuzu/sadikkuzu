@@ -43,7 +43,7 @@
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance (1 week ago)
 - [osolmaz/manim-euclid-elements](https://github.com/osolmaz/manim-euclid-elements) - A video rendering of Euclid&#39;s Elements using Manim (2 weeks ago)
 - [BogdanTheGeek/blog](https://github.com/BogdanTheGeek/blog) - source code of my blog (2 weeks ago)
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord (2 weeks ago)
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord (3 weeks ago)
 - [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.  (3 weeks ago)
 - [wojciech12/talk_intro_OpenPolicyAgent](https://github.com/wojciech12/talk_intro_OpenPolicyAgent) - How Open Policy Agent (OPA) and policy-as-a-code address a wide range of problems from implementing policies, and checks, to application customisation and configuration.  (2 months ago)
 - [n0xa/SecKC-MHN-Globe](https://github.com/n0xa/SecKC-MHN-Globe) - Terminal UI Visualization for SecKC MHN Attack Map (2 months ago)
