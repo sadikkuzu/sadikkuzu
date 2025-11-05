@@ -40,8 +40,8 @@
 
 #### ⭐ Recent stars
 
-- [eminalemdar/2048](https://github.com/eminalemdar/2048) (3 days ago)
-- [rh-ai-quickstart/lemonade-stand-assistant](https://github.com/rh-ai-quickstart/lemonade-stand-assistant) - AI-powered customer service assistant with guardrails for safe, compliant interactions using an LLM and multiple detector models. (3 days ago)
+- [eminalemdar/2048](https://github.com/eminalemdar/2048) (4 days ago)
+- [rh-ai-quickstart/lemonade-stand-assistant](https://github.com/rh-ai-quickstart/lemonade-stand-assistant) - AI-powered customer service assistant with guardrails for safe, compliant interactions using an LLM and multiple detector models. (4 days ago)
 - [afazio1/http-server-c](https://github.com/afazio1/http-server-c) (1 week ago)
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance (4 weeks ago)
 - [osolmaz/manim-euclid-elements](https://github.com/osolmaz/manim-euclid-elements) - A video rendering of Euclid&#39;s Elements using Manim (1 month ago)
