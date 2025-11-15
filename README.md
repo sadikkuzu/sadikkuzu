@@ -34,14 +34,14 @@
 1. [**Doist/todoist-api-python**](https://github.com/Doist/todoist-api-python/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/Doist/todoist-api-python?style=social)](https://github.com/Doist/todoist-api-python/stargazers) - A python wrapper for the Todoist REST API. (7 months ago)
 1. [**adhtruong/mirrors-typos**](https://github.com/adhtruong/mirrors-typos/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/adhtruong/mirrors-typos?style=social)](https://github.com/adhtruong/mirrors-typos/stargazers) -  (7 months ago)
 1. [**spiffe/spike**](https://github.com/spiffe/spike/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/spiffe/spike?style=social)](https://github.com/spiffe/spike/stargazers) - SPIKE is a lightweight secrets store that uses SPIFFE as its identity control plane. It protects your secrets and helps your ops, SREs, and sysadmins manage sensitive data securely with minimal overhead. (8 months ago)
-1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-G1**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-G1?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/stargazers) - Project for SWE 574 - Group 1 (8 months ago)
+1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-G1**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-G1?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/stargazers) - Project for SWE 574 - Group 1 (9 months ago)
 1. [**kubernetes-sigs/kro**](https://github.com/kubernetes-sigs/kro/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/kubernetes-sigs/kro?style=social)](https://github.com/kubernetes-sigs/kro/stargazers) - kro | Kube Resource Orchestrator (9 months ago)
 
 
 #### ⭐ Recent stars
 
-- [eminalemdar/2048](https://github.com/eminalemdar/2048) (1 week ago)
-- [rh-ai-quickstart/lemonade-stand-assistant](https://github.com/rh-ai-quickstart/lemonade-stand-assistant) - AI-powered customer service assistant with guardrails for safe, compliant interactions using an LLM and multiple detector models. (1 week ago)
+- [eminalemdar/2048](https://github.com/eminalemdar/2048) (2 weeks ago)
+- [rh-ai-quickstart/lemonade-stand-assistant](https://github.com/rh-ai-quickstart/lemonade-stand-assistant) - AI-powered customer service assistant with guardrails for safe, compliant interactions using an LLM and multiple detector models. (2 weeks ago)
 - [afazio1/http-server-c](https://github.com/afazio1/http-server-c) (2 weeks ago)
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance (1 month ago)
 - [osolmaz/manim-euclid-elements](https://github.com/osolmaz/manim-euclid-elements) - A video rendering of Euclid&#39;s Elements using Manim (1 month ago)
