@@ -40,7 +40,7 @@
 
 #### ⭐ Recent stars
 
-- [google-github-actions/run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli) - A GitHub Action invoking the Gemini CLI. (1 day ago)
+- [google-github-actions/run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli) - A GitHub Action invoking the Gemini CLI. (2 days ago)
 - [eminalemdar/2048](https://github.com/eminalemdar/2048) (2 weeks ago)
 - [rh-ai-quickstart/lemonade-stand-assistant](https://github.com/rh-ai-quickstart/lemonade-stand-assistant) - AI-powered customer service assistant with guardrails for safe, compliant interactions using an LLM and multiple detector models. (2 weeks ago)
 - [afazio1/http-server-c](https://github.com/afazio1/http-server-c) (3 weeks ago)
