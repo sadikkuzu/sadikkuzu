@@ -20,7 +20,7 @@
 - [ [ilkerulusoy](https://github.com/ilkerulusoy) Ilker Ulusoy ]
 
 #### 🚀 &nbsp; Open source projects I've contributed to
-1. [**astral-sh/uv**](https://github.com/astral-sh/uv/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/astral-sh/uv?style=social)](https://github.com/astral-sh/uv/stargazers) - An extremely fast Python package and project manager, written in Rust. (3 weeks ago)
+1. [**astral-sh/uv**](https://github.com/astral-sh/uv/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/astral-sh/uv?style=social)](https://github.com/astral-sh/uv/stargazers) - An extremely fast Python package and project manager, written in Rust. (4 weeks ago)
 1. [**kagent-dev/kagent**](https://github.com/kagent-dev/kagent/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/kagent-dev/kagent?style=social)](https://github.com/kagent-dev/kagent/stargazers) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord (1 month ago)
 1. [**modelcontextprotocol/go-sdk**](https://github.com/modelcontextprotocol/go-sdk/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/modelcontextprotocol/go-sdk?style=social)](https://github.com/modelcontextprotocol/go-sdk/stargazers) - The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google. (4 months ago)
 1. [**google-gemini/gemini-cli**](https://github.com/google-gemini/gemini-cli/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=social)](https://github.com/google-gemini/gemini-cli/stargazers) - An open-source AI agent that brings the power of Gemini directly into your terminal. (4 months ago)
@@ -40,7 +40,7 @@
 
 #### ⭐ Recent stars
 
-- [google-github-actions/run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli) - A GitHub Action invoking the Gemini CLI. (4 days ago)
+- [google-github-actions/run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli) - A GitHub Action invoking the Gemini CLI. (5 days ago)
 - [eminalemdar/2048](https://github.com/eminalemdar/2048) (3 weeks ago)
 - [rh-ai-quickstart/lemonade-stand-assistant](https://github.com/rh-ai-quickstart/lemonade-stand-assistant) - AI-powered customer service assistant with guardrails for safe, compliant interactions using an LLM and multiple detector models. (3 weeks ago)
 - [afazio1/http-server-c](https://github.com/afazio1/http-server-c) (3 weeks ago)
@@ -48,7 +48,7 @@
 - [osolmaz/manim-euclid-elements](https://github.com/osolmaz/manim-euclid-elements) - A video rendering of Euclid&#39;s Elements using Manim (1 month ago)
 - [BogdanTheGeek/blog](https://github.com/BogdanTheGeek/blog) - source code of my blog (1 month ago)
 - [kagent-dev/kagent](https://github.com/kagent-dev/kagent) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord (1 month ago)
-- [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.  (1 month ago)
+- [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.  (2 months ago)
 - [wojciech12/talk_intro_OpenPolicyAgent](https://github.com/wojciech12/talk_intro_OpenPolicyAgent) - How Open Policy Agent (OPA) and policy-as-a-code address a wide range of problems from implementing policies, and checks, to application customisation and configuration.  (3 months ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
