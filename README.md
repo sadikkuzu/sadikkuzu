@@ -22,7 +22,7 @@
 #### 🚀 &nbsp; Open source projects I've contributed to
 1. [**astral-sh/uv**](https://github.com/astral-sh/uv/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/astral-sh/uv?style=social)](https://github.com/astral-sh/uv/stargazers) - An extremely fast Python package and project manager, written in Rust. (1 month ago)
 1. [**kagent-dev/kagent**](https://github.com/kagent-dev/kagent/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/kagent-dev/kagent?style=social)](https://github.com/kagent-dev/kagent/stargazers) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord (1 month ago)
-1. [**modelcontextprotocol/go-sdk**](https://github.com/modelcontextprotocol/go-sdk/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/modelcontextprotocol/go-sdk?style=social)](https://github.com/modelcontextprotocol/go-sdk/stargazers) - The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google. (4 months ago)
+1. [**modelcontextprotocol/go-sdk**](https://github.com/modelcontextprotocol/go-sdk/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/modelcontextprotocol/go-sdk?style=social)](https://github.com/modelcontextprotocol/go-sdk/stargazers) - The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google. (5 months ago)
 1. [**google-gemini/gemini-cli**](https://github.com/google-gemini/gemini-cli/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=social)](https://github.com/google-gemini/gemini-cli/stargazers) - An open-source AI agent that brings the power of Gemini directly into your terminal. (5 months ago)
 1. [**apple/container**](https://github.com/apple/container/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/apple/container?style=social)](https://github.com/apple/container/stargazers) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (5 months ago)
 1. [**serkanh/sre-bot**](https://github.com/serkanh/sre-bot/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/serkanh/sre-bot?style=social)](https://github.com/serkanh/sre-bot/stargazers) -  (6 months ago)
@@ -43,11 +43,11 @@
 - [google-github-actions/run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli) - A GitHub Action invoking the Gemini CLI. (1 week ago)
 - [eminalemdar/2048](https://github.com/eminalemdar/2048) (3 weeks ago)
 - [rh-ai-quickstart/lemonade-stand-assistant](https://github.com/rh-ai-quickstart/lemonade-stand-assistant) - AI-powered customer service assistant with guardrails for safe, compliant interactions using an LLM and multiple detector models. (3 weeks ago)
-- [afazio1/http-server-c](https://github.com/afazio1/http-server-c) (4 weeks ago)
+- [afazio1/http-server-c](https://github.com/afazio1/http-server-c) (1 month ago)
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance (1 month ago)
 - [osolmaz/manim-euclid-elements](https://github.com/osolmaz/manim-euclid-elements) - A video rendering of Euclid&#39;s Elements using Manim (1 month ago)
 - [BogdanTheGeek/blog](https://github.com/BogdanTheGeek/blog) - source code of my blog (1 month ago)
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord (1 month ago)
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord (2 months ago)
 - [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.  (2 months ago)
 - [wojciech12/talk_intro_OpenPolicyAgent](https://github.com/wojciech12/talk_intro_OpenPolicyAgent) - How Open Policy Agent (OPA) and policy-as-a-code address a wide range of problems from implementing policies, and checks, to application customisation and configuration.  (3 months ago)
 
