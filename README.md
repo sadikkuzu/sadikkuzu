@@ -10,7 +10,6 @@
 
 - [ [filedonkey](https://github.com/filedonkey) FileDonkey ]
 - [ [seckinyasar](https://github.com/seckinyasar) Seckin Yasar ]
-- [ [CelaDaniel](https://github.com/CelaDaniel) Daniel Cela ]
 - [ [helallao](https://github.com/helallao) Ali Yaşar ]
 - [ [18w](https://github.com/18w) Mert ]
 - [ [sphinxzerd](https://github.com/sphinxzerd)  ]
@@ -18,6 +17,7 @@
 - [ [cderinbogaz](https://github.com/cderinbogaz) Jay Derinbogaz ]
 - [ [omersuve](https://github.com/omersuve) Ömer Faruk Süve ]
 - [ [ilkerulusoy](https://github.com/ilkerulusoy) Ilker Ulusoy ]
+- [ [fikretipek](https://github.com/fikretipek) Fikret İPEK ]
 
 #### 🚀 &nbsp; Open source projects I've contributed to
 1. [**astral-sh/uv**](https://github.com/astral-sh/uv/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/astral-sh/uv?style=social)](https://github.com/astral-sh/uv/stargazers) - An extremely fast Python package and project manager, written in Rust. (1 month ago)
