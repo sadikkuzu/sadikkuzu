@@ -40,6 +40,7 @@
 
 #### ⭐ Recent stars
 
+- [harehare/mq](https://github.com/harehare/mq) - jq-like command-line tool for markdown processing (today)
 - [devanshbatham/Everything-About-DNS](https://github.com/devanshbatham/Everything-About-DNS) - DNS Explained : This repo aims to explain the basics of DNS at different levels of complexity for readers with various technical backgrounds. (today)
 - [karpathy/llm-council](https://github.com/karpathy/llm-council) - LLM Council works together to answer your hardest questions (1 day ago)
 - [google-github-actions/run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli) - A GitHub Action invoking the Gemini CLI. (2 weeks ago)
@@ -49,7 +50,6 @@
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance (2 months ago)
 - [osolmaz/manim-euclid-elements](https://github.com/osolmaz/manim-euclid-elements) - A video rendering of Euclid&#39;s Elements using Manim (2 months ago)
 - [BogdanTheGeek/blog](https://github.com/BogdanTheGeek/blog) - source code of my blog (2 months ago)
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord (2 months ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
