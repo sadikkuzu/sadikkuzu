@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [CelaFlori](https://github.com/CelaFlori) Flori Cela ]
 - [ [Muneef-Nk](https://github.com/Muneef-Nk) Muhammed Muneef M ]
 - [ [filedonkey](https://github.com/filedonkey) FileDonkey ]
 - [ [seckinyasar](https://github.com/seckinyasar) Seckin Yasar ]
@@ -17,7 +18,6 @@
 - [ [onutc](https://github.com/onutc) Onur ]
 - [ [cderinbogaz](https://github.com/cderinbogaz) Jay Derinbogaz ]
 - [ [omersuve](https://github.com/omersuve) Ömer Faruk Süve ]
-- [ [ilkerulusoy](https://github.com/ilkerulusoy) Ilker Ulusoy ]
 
 #### 🚀 &nbsp; Open source projects I've contributed to
 1. [**astral-sh/uv**](https://github.com/astral-sh/uv/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/astral-sh/uv?style=social)](https://github.com/astral-sh/uv/stargazers) - An extremely fast Python package and project manager, written in Rust. (1 month ago)
@@ -40,6 +40,7 @@
 
 #### ⭐ Recent stars
 
+- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - Cloudflare error page generator (today)
 - [harehare/mq](https://github.com/harehare/mq) - jq-like command-line tool for markdown processing (1 day ago)
 - [devanshbatham/Everything-About-DNS](https://github.com/devanshbatham/Everything-About-DNS) - DNS Explained : This repo aims to explain the basics of DNS at different levels of complexity for readers with various technical backgrounds. (1 day ago)
 - [karpathy/llm-council](https://github.com/karpathy/llm-council) - LLM Council works together to answer your hardest questions (2 days ago)
@@ -49,7 +50,6 @@
 - [afazio1/http-server-c](https://github.com/afazio1/http-server-c) (1 month ago)
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance (2 months ago)
 - [osolmaz/manim-euclid-elements](https://github.com/osolmaz/manim-euclid-elements) - A video rendering of Euclid&#39;s Elements using Manim (2 months ago)
-- [BogdanTheGeek/blog](https://github.com/BogdanTheGeek/blog) - source code of my blog (2 months ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
