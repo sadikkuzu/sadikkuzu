@@ -25,7 +25,7 @@
 1. [**modelcontextprotocol/go-sdk**](https://github.com/modelcontextprotocol/go-sdk/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/modelcontextprotocol/go-sdk?style=social)](https://github.com/modelcontextprotocol/go-sdk/stargazers) - The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google. (5 months ago)
 1. [**google-gemini/gemini-cli**](https://github.com/google-gemini/gemini-cli/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=social)](https://github.com/google-gemini/gemini-cli/stargazers) - An open-source AI agent that brings the power of Gemini directly into your terminal. (5 months ago)
 1. [**apple/container**](https://github.com/apple/container/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/apple/container?style=social)](https://github.com/apple/container/stargazers) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (6 months ago)
-1. [**serkanh/sre-bot**](https://github.com/serkanh/sre-bot/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/serkanh/sre-bot?style=social)](https://github.com/serkanh/sre-bot/stargazers) -  (6 months ago)
+1. [**serkanh/sre-bot**](https://github.com/serkanh/sre-bot/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/serkanh/sre-bot?style=social)](https://github.com/serkanh/sre-bot/stargazers) -  (7 months ago)
 1. [**GoogleCloudPlatform/kubectl-ai**](https://github.com/GoogleCloudPlatform/kubectl-ai/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/GoogleCloudPlatform/kubectl-ai?style=social)](https://github.com/GoogleCloudPlatform/kubectl-ai/stargazers) - AI powered Kubernetes Assistant (7 months ago)
 1. [**helmfile/helmfile**](https://github.com/helmfile/helmfile/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/helmfile/helmfile?style=social)](https://github.com/helmfile/helmfile/stargazers) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. (7 months ago)
 1. [**ulgens/django-official-tutorial**](https://github.com/ulgens/django-official-tutorial/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/ulgens/django-official-tutorial?style=social)](https://github.com/ulgens/django-official-tutorial/stargazers) -  (7 months ago)
@@ -40,10 +40,10 @@
 
 #### ⭐ Recent stars
 
-- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - Cloudflare error page generator (3 days ago)
-- [harehare/mq](https://github.com/harehare/mq) - jq-like command-line tool for markdown processing (4 days ago)
-- [devanshbatham/Everything-About-DNS](https://github.com/devanshbatham/Everything-About-DNS) - DNS Explained : This repo aims to explain the basics of DNS at different levels of complexity for readers with various technical backgrounds. (4 days ago)
-- [karpathy/llm-council](https://github.com/karpathy/llm-council) - LLM Council works together to answer your hardest questions (5 days ago)
+- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - Cloudflare error page generator (4 days ago)
+- [harehare/mq](https://github.com/harehare/mq) - jq-like command-line tool for markdown processing (5 days ago)
+- [devanshbatham/Everything-About-DNS](https://github.com/devanshbatham/Everything-About-DNS) - DNS Explained : This repo aims to explain the basics of DNS at different levels of complexity for readers with various technical backgrounds. (5 days ago)
+- [karpathy/llm-council](https://github.com/karpathy/llm-council) - LLM Council works together to answer your hardest questions (6 days ago)
 - [google-github-actions/run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli) - A GitHub Action invoking the Gemini CLI. (3 weeks ago)
 - [eminalemdar/2048](https://github.com/eminalemdar/2048) (1 month ago)
 - [rh-ai-quickstart/lemonade-stand-assistant](https://github.com/rh-ai-quickstart/lemonade-stand-assistant) - AI-powered customer service assistant with guardrails for safe, compliant interactions using an LLM and multiple detector models. (1 month ago)
