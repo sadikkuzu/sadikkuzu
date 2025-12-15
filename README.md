@@ -34,16 +34,16 @@
 1. [**OpenBB-finance/OpenBB**](https://github.com/OpenBB-finance/OpenBB/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/OpenBB-finance/OpenBB?style=social)](https://github.com/OpenBB-finance/OpenBB/stargazers) - Financial data platform for analysts, quants and AI agents. (8 months ago)
 1. [**adhtruong/mirrors-typos**](https://github.com/adhtruong/mirrors-typos/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/adhtruong/mirrors-typos?style=social)](https://github.com/adhtruong/mirrors-typos/stargazers) -  (8 months ago)
 1. [**spiffe/spike**](https://github.com/spiffe/spike/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/spiffe/spike?style=social)](https://github.com/spiffe/spike/stargazers) - SPIKE is a lightweight secrets store that uses SPIFFE as its identity control plane. It protects your secrets and helps your ops, SREs, and sysadmins manage sensitive data securely with minimal overhead. (9 months ago)
-1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-G1**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-G1?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/stargazers) - Project for SWE 574 - Group 1 (9 months ago)
+1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-G1**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-G1?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/stargazers) - Project for SWE 574 - Group 1 (10 months ago)
 1. [**kubernetes-sigs/kro**](https://github.com/kubernetes-sigs/kro/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/kubernetes-sigs/kro?style=social)](https://github.com/kubernetes-sigs/kro/stargazers) - kro | Kube Resource Orchestrator (10 months ago)
 
 
 #### ⭐ Recent stars
 
-- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - Cloudflare error page generator (4 days ago)
-- [harehare/mq](https://github.com/harehare/mq) - jq-like command-line tool for markdown processing (5 days ago)
-- [devanshbatham/Everything-About-DNS](https://github.com/devanshbatham/Everything-About-DNS) - DNS Explained : This repo aims to explain the basics of DNS at different levels of complexity for readers with various technical backgrounds. (5 days ago)
-- [karpathy/llm-council](https://github.com/karpathy/llm-council) - LLM Council works together to answer your hardest questions (6 days ago)
+- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - Cloudflare error page generator (5 days ago)
+- [harehare/mq](https://github.com/harehare/mq) - jq-like command-line tool for markdown processing (6 days ago)
+- [devanshbatham/Everything-About-DNS](https://github.com/devanshbatham/Everything-About-DNS) - DNS Explained : This repo aims to explain the basics of DNS at different levels of complexity for readers with various technical backgrounds. (6 days ago)
+- [karpathy/llm-council](https://github.com/karpathy/llm-council) - LLM Council works together to answer your hardest questions (1 week ago)
 - [google-github-actions/run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli) - A GitHub Action invoking the Gemini CLI. (3 weeks ago)
 - [eminalemdar/2048](https://github.com/eminalemdar/2048) (1 month ago)
 - [rh-ai-quickstart/lemonade-stand-assistant](https://github.com/rh-ai-quickstart/lemonade-stand-assistant) - AI-powered customer service assistant with guardrails for safe, compliant interactions using an LLM and multiple detector models. (1 month ago)
