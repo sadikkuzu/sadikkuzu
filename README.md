@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [alpenberger](https://github.com/alpenberger)  ]
 - [ [S4IL21](https://github.com/S4IL21) S4IL ]
 - [ [18w](https://github.com/18w) Mert ]
 - [ [sphinxzerd](https://github.com/sphinxzerd)  ]
@@ -17,7 +18,6 @@
 - [ [ilkerulusoy](https://github.com/ilkerulusoy) Ilker Ulusoy ]
 - [ [fikretipek](https://github.com/fikretipek) Fikret İPEK ]
 - [ [slavaGanzin](https://github.com/slavaGanzin) Slava ]
-- [ [abdullahaktel-getir](https://github.com/abdullahaktel-getir)  ]
 
 #### 🚀 &nbsp; Open source projects I've contributed to
 1. [**astral-sh/uv**](https://github.com/astral-sh/uv/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/astral-sh/uv?style=social)](https://github.com/astral-sh/uv/stargazers) - An extremely fast Python package and project manager, written in Rust. (2 months ago)
