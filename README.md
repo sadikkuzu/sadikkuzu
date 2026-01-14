@@ -34,14 +34,14 @@
 1. [**Doist/todoist-api-python**](https://github.com/Doist/todoist-api-python/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/Doist/todoist-api-python?style=social)](https://github.com/Doist/todoist-api-python/stargazers) - A python wrapper for the Todoist REST API. (9 months ago)
 1. [**adhtruong/mirrors-typos**](https://github.com/adhtruong/mirrors-typos/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/adhtruong/mirrors-typos?style=social)](https://github.com/adhtruong/mirrors-typos/stargazers) -  (9 months ago)
 1. [**spiffe/spike**](https://github.com/spiffe/spike/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/spiffe/spike?style=social)](https://github.com/spiffe/spike/stargazers) - SPIKE is a lightweight secrets store that uses SPIFFE as its identity control plane. It protects your secrets and helps your ops, SREs, and sysadmins manage sensitive data securely with minimal overhead. (10 months ago)
-1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-G1**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-G1?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/stargazers) - Project for SWE 574 - Group 1 (10 months ago)
+1. [**SWE574-Fall2023-Group1/SWE574-Fall2023-G1**](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/SWE574-Fall2023-Group1/SWE574-Fall2023-G1?style=social)](https://github.com/SWE574-Fall2023-Group1/SWE574-Fall2023-G1/stargazers) - Project for SWE 574 - Group 1 (11 months ago)
 1. [**kubernetes-sigs/kro**](https://github.com/kubernetes-sigs/kro/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/kubernetes-sigs/kro?style=social)](https://github.com/kubernetes-sigs/kro/stargazers) - kro | Kube Resource Orchestrator (11 months ago)
 
 
 #### ⭐ Recent stars
 
 - [git-cores/awesome-math-stuff](https://github.com/git-cores/awesome-math-stuff) - A list of awesome math/science-related courses (1 week ago)
-- [enderkus/modern-bash-scripting](https://github.com/enderkus/modern-bash-scripting) - Kitap, Linux dünyasında terminal, otomasyon ve sistem yönetimi konularında yetkinlik kazanmak isteyenler için kapsamlı, Türkçe bir rehberdir. (1 week ago)
+- [enderkus/modern-bash-scripting](https://github.com/enderkus/modern-bash-scripting) - Kitap, Linux dünyasında terminal, otomasyon ve sistem yönetimi konularında yetkinlik kazanmak isteyenler için kapsamlı, Türkçe bir rehberdir. (2 weeks ago)
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. (2 weeks ago)
 - [YunoHost/yunohost](https://github.com/YunoHost/yunohost) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash. (2 weeks ago)
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ (3 weeks ago)
