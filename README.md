@@ -46,7 +46,7 @@
 - [YunoHost/yunohost](https://github.com/YunoHost/yunohost) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash. (2 weeks ago)
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ (3 weeks ago)
 - [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills (3 weeks ago)
-- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - Cloudflare error page generator (unofficial) (1 month ago)
+- [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — A customizable Cloudflare error page generator (unofficial) (1 month ago)
 - [harehare/mq](https://github.com/harehare/mq) - jq-like command-line tool for markdown processing (1 month ago)
 - [devanshbatham/Everything-About-DNS](https://github.com/devanshbatham/Everything-About-DNS) - DNS Explained : This repo aims to explain the basics of DNS at different levels of complexity for readers with various technical backgrounds. (1 month ago)
 - [karpathy/llm-council](https://github.com/karpathy/llm-council) - LLM Council works together to answer your hardest questions (1 month ago)
