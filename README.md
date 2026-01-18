@@ -40,12 +40,12 @@
 
 #### ⭐ Recent stars
 
-- [probberechts/soccerdata](https://github.com/probberechts/soccerdata) - ⛏⚽ Scrape soccer data from Club Elo, ESPN, FBref, Football-Data.co.uk, FotMob, Sofascore, SoFIFA, Understat and WhoScored.  (today)
-- [open-experiments/agent-exchange](https://github.com/open-experiments/agent-exchange) - Agent Discovery &amp; Work Exchange Platform (today)
+- [probberechts/soccerdata](https://github.com/probberechts/soccerdata) - ⛏⚽ Scrape soccer data from Club Elo, ESPN, FBref, Football-Data.co.uk, FotMob, Sofascore, SoFIFA, Understat and WhoScored.  (1 day ago)
+- [open-experiments/agent-exchange](https://github.com/open-experiments/agent-exchange) - Agent Discovery &amp; Work Exchange Platform (1 day ago)
 - [git-cores/awesome-math-stuff](https://github.com/git-cores/awesome-math-stuff) - A list of awesome math/science-related courses (2 weeks ago)
 - [enderkus/modern-bash-scripting](https://github.com/enderkus/modern-bash-scripting) - Kitap, Linux dünyasında terminal, otomasyon ve sistem yönetimi konularında yetkinlik kazanmak isteyenler için kapsamlı, Türkçe bir rehberdir. (2 weeks ago)
-- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. (2 weeks ago)
-- [YunoHost/yunohost](https://github.com/YunoHost/yunohost) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash. (2 weeks ago)
+- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. (3 weeks ago)
+- [YunoHost/yunohost](https://github.com/YunoHost/yunohost) - YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash. (3 weeks ago)
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ (4 weeks ago)
 - [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills (4 weeks ago)
 - [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) - ✅Browser ❌Cloudflare ✅Host — Generator of customized Cloudflare error pages (unofficial) (1 month ago)
