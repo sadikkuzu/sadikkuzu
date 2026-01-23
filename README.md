@@ -9,7 +9,6 @@
 #### 🔭 &nbsp; Check out my recent followers
 
 - [ [NavneetBende](https://github.com/NavneetBende) The Curious Ted ]
-- [ [mikechiloane](https://github.com/mikechiloane) Mike Nhlanhla Chiloane ]
 - [ [rodrigogalura](https://github.com/rodrigogalura) Rodrigo Galura ]
 - [ [alpenberger](https://github.com/alpenberger)  ]
 - [ [S4IL21](https://github.com/S4IL21) S4IL ]
@@ -18,6 +17,7 @@
 - [ [onutc](https://github.com/onutc) Onur ]
 - [ [cderinbogaz](https://github.com/cderinbogaz) Jay Derinbogaz ]
 - [ [omersuve](https://github.com/omersuve) Ömer Faruk Süve ]
+- [ [ilkerulusoy](https://github.com/ilkerulusoy) Ilker Ulusoy ]
 
 #### 🚀 &nbsp; Open source projects I've contributed to
 1. [**astral-sh/uv**](https://github.com/astral-sh/uv/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/astral-sh/uv?style=social)](https://github.com/astral-sh/uv/stargazers) - An extremely fast Python package and project manager, written in Rust. (2 months ago)
