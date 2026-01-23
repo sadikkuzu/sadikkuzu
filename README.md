@@ -40,8 +40,8 @@
 
 #### ⭐ Recent stars
 
-- [probberechts/soccerdata](https://github.com/probberechts/soccerdata) - ⛏⚽ Scrape soccer data from Club Elo, ESPN, FBref, Football-Data.co.uk, FotMob, Sofascore, SoFIFA, Understat and WhoScored.  (5 days ago)
-- [open-experiments/agent-exchange](https://github.com/open-experiments/agent-exchange) - Agent Discovery &amp; Work Exchange Platform (5 days ago)
+- [probberechts/soccerdata](https://github.com/probberechts/soccerdata) - ⛏⚽ Scrape soccer data from Club Elo, ESPN, FBref, Football-Data.co.uk, FotMob, Sofascore, SoFIFA, Understat and WhoScored.  (6 days ago)
+- [open-experiments/agent-exchange](https://github.com/open-experiments/agent-exchange) - Agent Discovery &amp; Work Exchange Platform (6 days ago)
 - [git-cores/awesome-math-stuff](https://github.com/git-cores/awesome-math-stuff) - A list of awesome math/science-related courses (2 weeks ago)
 - [enderkus/modern-bash-scripting](https://github.com/enderkus/modern-bash-scripting) - Kitap, Linux dünyasında terminal, otomasyon ve sistem yönetimi konularında yetkinlik kazanmak isteyenler için kapsamlı, Türkçe bir rehberdir. (3 weeks ago)
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. (3 weeks ago)
