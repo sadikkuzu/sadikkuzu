@@ -8,7 +8,6 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
-- [ [procerezo](https://github.com/procerezo) procerezo ]
 - [ [NavneetBende](https://github.com/NavneetBende) The Curious Ted ]
 - [ [rodrigogalura](https://github.com/rodrigogalura) Rodrigo Galura ]
 - [ [alpenberger](https://github.com/alpenberger)  ]
@@ -18,6 +17,7 @@
 - [ [onutc](https://github.com/onutc) Onur ]
 - [ [cderinbogaz](https://github.com/cderinbogaz) Jay Derinbogaz ]
 - [ [omersuve](https://github.com/omersuve) Ömer Faruk Süve ]
+- [ [ilkerulusoy](https://github.com/ilkerulusoy) Ilker Ulusoy ]
 
 #### 🚀 &nbsp; Open source projects I've contributed to
 1. [**astral-sh/uv**](https://github.com/astral-sh/uv/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/astral-sh/uv?style=social)](https://github.com/astral-sh/uv/stargazers) - An extremely fast Python package and project manager, written in Rust. (3 months ago)
@@ -40,8 +40,8 @@
 
 #### ⭐ Recent stars
 
-- [layer5io/kanvas-docker-extension](https://github.com/layer5io/kanvas-docker-extension) - Docker Kanvas Extension (2 days ago)
-- [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state (6 days ago)
+- [layer5io/kanvas-docker-extension](https://github.com/layer5io/kanvas-docker-extension) - Docker Kanvas Extension (3 days ago)
+- [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state (1 week ago)
 - [probberechts/soccerdata](https://github.com/probberechts/soccerdata) - ⛏⚽ Scrape soccer data from Club Elo, ESPN, FBref, Football-Data.co.uk, Sofascore, SoFIFA, Understat and WhoScored.  (2 weeks ago)
 - [open-experiments/agent-exchange](https://github.com/open-experiments/agent-exchange) - Agent Discovery &amp; Work Exchange Platform (2 weeks ago)
 - [git-cores/awesome-math-stuff](https://github.com/git-cores/awesome-math-stuff) - A list of awesome math/science-related courses (1 month ago)
