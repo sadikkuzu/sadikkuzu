@@ -16,7 +16,7 @@
 - [ [sphinxzerd](https://github.com/sphinxzerd)  ]
 - [ [onutc](https://github.com/onutc) Onur ]
 - [ [cderinbogaz](https://github.com/cderinbogaz) Jay Derinbogaz ]
-- [ [omersuve](https://github.com/omersuve) Ömer Faruk Süve ]
+- [ [omersuve](https://github.com/omersuve) Ömer Süve ]
 - [ [ilkerulusoy](https://github.com/ilkerulusoy) Ilker Ulusoy ]
 
 #### 🚀 &nbsp; Open source projects I've contributed to
