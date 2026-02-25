@@ -38,6 +38,7 @@
 
 #### ⭐ Recent stars
 
+- [mpolatcan/kubeagle](https://github.com/mpolatcan/kubeagle) (today)
 - [github/gh-aw](https://github.com/github/gh-aw) - GitHub Agentic Workflows (1 week ago)
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (2 weeks ago)
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. (2 weeks ago)
@@ -47,7 +48,6 @@
 - [probberechts/soccerdata](https://github.com/probberechts/soccerdata) - ⛏⚽ Scrape soccer data from Club Elo, ESPN, FBref, Football-Data.co.uk, Sofascore, SoFIFA, Understat and WhoScored.  (1 month ago)
 - [open-experiments/agent-exchange](https://github.com/open-experiments/agent-exchange) - Agent Discovery &amp; Work Exchange Platform (1 month ago)
 - [git-cores/awesome-math-stuff](https://github.com/git-cores/awesome-math-stuff) - A list of awesome math/science-related courses (1 month ago)
-- [enderkus/modern-bash-scripting](https://github.com/enderkus/modern-bash-scripting) - Kitap, Linux dünyasında terminal, otomasyon ve sistem yönetimi konularında yetkinlik kazanmak isteyenler için kapsamlı, Türkçe bir rehberdir. (1 month ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
