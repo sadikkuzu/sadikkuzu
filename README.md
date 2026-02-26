@@ -38,6 +38,7 @@
 
 #### ⭐ Recent stars
 
+- [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database (today)
 - [mpolatcan/kubeagle](https://github.com/mpolatcan/kubeagle) (1 day ago)
 - [github/gh-aw](https://github.com/github/gh-aw) - GitHub Agentic Workflows (1 week ago)
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (2 weeks ago)
@@ -47,7 +48,6 @@
 - [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state (1 month ago)
 - [probberechts/soccerdata](https://github.com/probberechts/soccerdata) - ⛏⚽ Scrape soccer data from Club Elo, ESPN, FBref, Football-Data.co.uk, Sofascore, SoFIFA, Understat and WhoScored.  (1 month ago)
 - [open-experiments/agent-exchange](https://github.com/open-experiments/agent-exchange) - Agent Discovery &amp; Work Exchange Platform (1 month ago)
-- [git-cores/awesome-math-stuff](https://github.com/git-cores/awesome-math-stuff) - A list of awesome math/science-related courses (1 month ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
