@@ -21,7 +21,7 @@
 
 #### 🚀 &nbsp; Open source projects I've contributed to
 1. [**astral-sh/uv**](https://github.com/astral-sh/uv/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/astral-sh/uv?style=social)](https://github.com/astral-sh/uv/stargazers) - An extremely fast Python package and project manager, written in Rust. (4 months ago)
-1. [**kagent-dev/kagent**](https://github.com/kagent-dev/kagent/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/kagent-dev/kagent?style=social)](https://github.com/kagent-dev/kagent/stargazers) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord (4 months ago)
+1. [**kagent-dev/kagent**](https://github.com/kagent-dev/kagent/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/kagent-dev/kagent?style=social)](https://github.com/kagent-dev/kagent/stargazers) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord (5 months ago)
 1. [**modelcontextprotocol/go-sdk**](https://github.com/modelcontextprotocol/go-sdk/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/modelcontextprotocol/go-sdk?style=social)](https://github.com/modelcontextprotocol/go-sdk/stargazers) - The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google. (8 months ago)
 1. [**google-gemini/gemini-cli**](https://github.com/google-gemini/gemini-cli/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=social)](https://github.com/google-gemini/gemini-cli/stargazers) - An open-source AI agent that brings the power of Gemini directly into your terminal. (8 months ago)
 1. [**apple/container**](https://github.com/apple/container/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/apple/container?style=social)](https://github.com/apple/container/stargazers) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (8 months ago)
@@ -38,13 +38,13 @@
 
 #### ⭐ Recent stars
 
-- [mpolatcan/kubeagle](https://github.com/mpolatcan/kubeagle) (today)
+- [mpolatcan/kubeagle](https://github.com/mpolatcan/kubeagle) (1 day ago)
 - [github/gh-aw](https://github.com/github/gh-aw) - GitHub Agentic Workflows (1 week ago)
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (2 weeks ago)
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. (2 weeks ago)
 - [nth5693/gemini-kit](https://github.com/nth5693/gemini-kit) - 🚀 19 AI Agents &#43; 44 Commands for Gemini CLI - Code 10x faster with auto planning, testing, review &amp; security (2 weeks ago)
 - [layer5io/kanvas-docker-extension](https://github.com/layer5io/kanvas-docker-extension) - Docker Kanvas Extension (3 weeks ago)
-- [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state (4 weeks ago)
+- [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state (1 month ago)
 - [probberechts/soccerdata](https://github.com/probberechts/soccerdata) - ⛏⚽ Scrape soccer data from Club Elo, ESPN, FBref, Football-Data.co.uk, Sofascore, SoFIFA, Understat and WhoScored.  (1 month ago)
 - [open-experiments/agent-exchange](https://github.com/open-experiments/agent-exchange) - Agent Discovery &amp; Work Exchange Platform (1 month ago)
 - [git-cores/awesome-math-stuff](https://github.com/git-cores/awesome-math-stuff) - A list of awesome math/science-related courses (1 month ago)
