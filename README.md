@@ -38,6 +38,7 @@
 
 #### ⭐ Recent stars
 
+- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. (today)
 - [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database (1 day ago)
 - [mpolatcan/kubeagle](https://github.com/mpolatcan/kubeagle) (2 days ago)
 - [github/gh-aw](https://github.com/github/gh-aw) - GitHub Agentic Workflows (1 week ago)
@@ -47,7 +48,6 @@
 - [layer5io/kanvas-docker-extension](https://github.com/layer5io/kanvas-docker-extension) - Docker Kanvas Extension (3 weeks ago)
 - [philippemerle/KubeDiagrams](https://github.com/philippemerle/KubeDiagrams) - Generate Kubernetes architecture diagrams from Kubernetes manifest files, kustomization files, Helm charts, helmfiles, and actual cluster state (1 month ago)
 - [probberechts/soccerdata](https://github.com/probberechts/soccerdata) - ⛏⚽ Scrape soccer data from Club Elo, ESPN, FBref, Football-Data.co.uk, Sofascore, SoFIFA, Understat and WhoScored.  (1 month ago)
-- [open-experiments/agent-exchange](https://github.com/open-experiments/agent-exchange) - Agent Discovery &amp; Work Exchange Platform (1 month ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
