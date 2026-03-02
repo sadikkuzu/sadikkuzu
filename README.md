@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [ybadk](https://github.com/ybadk) Thapelo Thooe ]
 - [ [andrewflynn20](https://github.com/andrewflynn20)  ]
 - [ [keysemails](https://github.com/keysemails) premiumnpc ]
 - [ [helallao](https://github.com/helallao) Ali Yaşar ]
@@ -17,7 +18,6 @@
 - [ [lalomorales22](https://github.com/lalomorales22) lalo adrian morales ]
 - [ [NavneetBende](https://github.com/NavneetBende) The Curious Ted ]
 - [ [rodrigogalura](https://github.com/rodrigogalura) Rodrigo Galura ]
-- [ [alpenberger](https://github.com/alpenberger)  ]
 
 #### 🚀 &nbsp; Open source projects I've contributed to
 1. [**astral-sh/uv**](https://github.com/astral-sh/uv/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/astral-sh/uv?style=social)](https://github.com/astral-sh/uv/stargazers) - An extremely fast Python package and project manager, written in Rust. (4 months ago)
