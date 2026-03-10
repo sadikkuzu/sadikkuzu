@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [Pyshkin1978](https://github.com/Pyshkin1978) AG ]
 - [ [helallao](https://github.com/helallao) Ali Yaşar ]
 - [ [ilkerulusoy](https://github.com/ilkerulusoy) Ilker Ulusoy ]
 - [ [ybadk](https://github.com/ybadk) Thapelo Thooe ]
@@ -17,7 +18,6 @@
 - [ [24601](https://github.com/24601) Basit Mustafa ]
 - [ [lalomorales22](https://github.com/lalomorales22) lalo adrian morales ]
 - [ [NavneetBende](https://github.com/NavneetBende) The Curious Ted ]
-- [ [rodrigogalura](https://github.com/rodrigogalura) Rodrigo Galura ]
 
 #### 🚀 &nbsp; Open source projects I've contributed to
 1. [**astral-sh/uv**](https://github.com/astral-sh/uv/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/astral-sh/uv?style=social)](https://github.com/astral-sh/uv/stargazers) - An extremely fast Python package and project manager, written in Rust. (4 months ago)
@@ -38,6 +38,7 @@
 
 #### ⭐ Recent stars
 
+- [f/agentlytics](https://github.com/f/agentlytics) - Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code (today)
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development (1 day ago)
 - [robinebers/openusage](https://github.com/robinebers/openusage) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source. (1 day ago)
 - [prof-oguzergin/bilgisayar-mimarisi](https://github.com/prof-oguzergin/bilgisayar-mimarisi) - Bilgisayar Mimarisi: RISC-V Tabanlı Yaklaşım — Açık kaynak Türkçe ders kitabı (CC BY-NC-ND 4.0) (2 days ago)
@@ -47,7 +48,6 @@
 - [bagder/dancer-416](https://github.com/bagder/dancer-416) - Dancer 4.16 - snapshot of the last Dancer release we made on March 18 2001 (1 week ago)
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. (1 week ago)
 - [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database (1 week ago)
-- [mpolatcan/kubeagle](https://github.com/mpolatcan/kubeagle) (1 week ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
