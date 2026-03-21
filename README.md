@@ -37,7 +37,7 @@
 
 #### ⭐ Recent stars
 
-- [f/wvw.dev](https://github.com/f/wvw.dev) - The distributed app store for vibe-coded projects. Federated, AI-curated, fully static on GitHub Pages. (5 days ago)
+- [f/wvw.dev](https://github.com/f/wvw.dev) - The distributed app store for vibe-coded projects. Federated, AI-curated, fully static on GitHub Pages. (6 days ago)
 - [f/agentlytics](https://github.com/f/agentlytics) - Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code (1 week ago)
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development (1 week ago)
 - [robinebers/openusage](https://github.com/robinebers/openusage) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source. (1 week ago)
