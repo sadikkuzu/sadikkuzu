@@ -38,7 +38,7 @@
 #### ⭐ Recent stars
 
 - [f/wvw.dev](https://github.com/f/wvw.dev) - The distributed app store for vibe-coded projects. Federated, AI-curated, fully static on GitHub Pages. (1 week ago)
-- [f/agentlytics](https://github.com/f/agentlytics) - Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code (1 week ago)
+- [f/agentlytics](https://github.com/f/agentlytics) - Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code (2 weeks ago)
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development (2 weeks ago)
 - [robinebers/openusage](https://github.com/robinebers/openusage) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source. (2 weeks ago)
 - [prof-oguzergin/bilgisayar-mimarisi](https://github.com/prof-oguzergin/bilgisayar-mimarisi) - Bilgisayar Mimarisi: RISC-V Tabanlı Yaklaşım — Açık kaynak Türkçe ders kitabı (CC BY-NC-ND 4.0) (2 weeks ago)
