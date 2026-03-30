@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [safazahi4989](https://github.com/safazahi4989) Safaa Sader ]
 - [ [suuani](https://github.com/suuani) dickdocker ]
 - [ [yyongwh](https://github.com/yyongwh)  ]
 - [ [runawaydevil](https://github.com/runawaydevil)  ]
@@ -17,7 +18,6 @@
 - [ [andrewflynn20](https://github.com/andrewflynn20)  ]
 - [ [keysemails](https://github.com/keysemails) premiumnpc ]
 - [ [CARLOSMANZUETA2000](https://github.com/CARLOSMANZUETA2000)  ]
-- [ [24601](https://github.com/24601) Basit Mustafa ]
 
 #### 🚀 &nbsp; Open source projects I've contributed to
 1. [**astral-sh/uv**](https://github.com/astral-sh/uv/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/astral-sh/uv?style=social)](https://github.com/astral-sh/uv/stargazers) - An extremely fast Python package and project manager, written in Rust. (5 months ago)
@@ -39,13 +39,13 @@
 
 - [f/wvw.dev](https://github.com/f/wvw.dev) - The distributed app store for vibe-coded projects. Federated, AI-curated, fully static on GitHub Pages. (2 weeks ago)
 - [f/agentlytics](https://github.com/f/agentlytics) - Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code (2 weeks ago)
-- [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development (2 weeks ago)
-- [robinebers/openusage](https://github.com/robinebers/openusage) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source. (2 weeks ago)
+- [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development (3 weeks ago)
+- [robinebers/openusage](https://github.com/robinebers/openusage) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source. (3 weeks ago)
 - [prof-oguzergin/bilgisayar-mimarisi](https://github.com/prof-oguzergin/bilgisayar-mimarisi) - Bilgisayar Mimarisi: RISC-V Tabanlı Yaklaşım — Açık kaynak Türkçe ders kitabı (CC BY-NC-ND 4.0) (3 weeks ago)
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills. (3 weeks ago)
 - [dtolnay/rust-toolchain](https://github.com/dtolnay/rust-toolchain) - Concise GitHub Action for installing a Rust toolchain (3 weeks ago)
 - [mrshu/github-statuses](https://github.com/mrshu/github-statuses) - A Flat Data attempt at historically documenting GitHub statuses (3 weeks ago)
-- [bagder/dancer-416](https://github.com/bagder/dancer-416) - Dancer 4.16 - snapshot of the last Dancer release we made on March 18 2001 (3 weeks ago)
+- [bagder/dancer-416](https://github.com/bagder/dancer-416) - Dancer 4.16 - snapshot of the last Dancer release we made on March 18 2001 (4 weeks ago)
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. (1 month ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
