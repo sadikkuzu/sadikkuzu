@@ -16,7 +16,7 @@
 - [ [ilkerulusoy](https://github.com/ilkerulusoy) Ilker Ulusoy ]
 - [ [ybadk](https://github.com/ybadk) Thapelo Thooe ]
 - [ [andrewflynn20](https://github.com/andrewflynn20)  ]
-- [ [keysemails](https://github.com/keysemails) premiumnpc ]
+- [ [keysemails](https://github.com/keysemails) nichenpc ]
 - [ [CARLOSMANZUETA2000](https://github.com/CARLOSMANZUETA2000)  ]
 
 #### 🚀 &nbsp; Open source projects I've contributed to
