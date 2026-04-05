@@ -37,13 +37,13 @@
 
 #### ⭐ Recent stars
 
-- [anthropics/courses](https://github.com/anthropics/courses) - Anthropic&#39;s educational courses (3 days ago)
-- [f/wvw.dev](https://github.com/f/wvw.dev) - The distributed app store for vibe-coded projects. Federated, AI-curated, fully static on GitHub Pages. (2 weeks ago)
+- [anthropics/courses](https://github.com/anthropics/courses) - Anthropic&#39;s educational courses (4 days ago)
+- [f/wvw.dev](https://github.com/f/wvw.dev) - The distributed app store for vibe-coded projects. Federated, AI-curated, fully static on GitHub Pages. (3 weeks ago)
 - [f/agentlytics](https://github.com/f/agentlytics) - Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code (3 weeks ago)
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development (3 weeks ago)
 - [robinebers/openusage](https://github.com/robinebers/openusage) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source. (3 weeks ago)
-- [prof-oguzergin/bilgisayar-mimarisi](https://github.com/prof-oguzergin/bilgisayar-mimarisi) - Bilgisayar Mimarisi: RISC-V Tabanlı Yaklaşım — Açık kaynak Türkçe ders kitabı (CC BY-NC-ND 4.0) (3 weeks ago)
-- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills. (3 weeks ago)
+- [prof-oguzergin/bilgisayar-mimarisi](https://github.com/prof-oguzergin/bilgisayar-mimarisi) - Bilgisayar Mimarisi: RISC-V Tabanlı Yaklaşım — Açık kaynak Türkçe ders kitabı (CC BY-NC-ND 4.0) (4 weeks ago)
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills. (4 weeks ago)
 - [dtolnay/rust-toolchain](https://github.com/dtolnay/rust-toolchain) - Concise GitHub Action for installing a Rust toolchain (1 month ago)
 - [mrshu/github-statuses](https://github.com/mrshu/github-statuses) - The &#34;Missing GitHub Status Page&#34; -- a Flat Data attempt at historically documenting GitHub statuses (1 month ago)
 - [bagder/dancer-416](https://github.com/bagder/dancer-416) - Dancer 4.16 - snapshot of the last Dancer release we made on March 18 2001 (1 month ago)
