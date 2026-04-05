@@ -11,7 +11,7 @@
 - [ [safazahi4989](https://github.com/safazahi4989) Safaa Sader ]
 - [ [suuani](https://github.com/suuani) dickdocker ]
 - [ [yyongwh](https://github.com/yyongwh)  ]
-- [ [runawaydevil](https://github.com/runawaydevil) EntropyH ]
+- [ [runawaydevil](https://github.com/runawaydevil) P ]
 - [ [Pyshkin1978](https://github.com/Pyshkin1978) AG ]
 - [ [ilkerulusoy](https://github.com/ilkerulusoy) Ilker Ulusoy ]
 - [ [ybadk](https://github.com/ybadk) Thapelo Thooe ]
