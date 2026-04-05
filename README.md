@@ -30,9 +30,6 @@
 1. [**helmfile/helmfile**](https://github.com/helmfile/helmfile/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/helmfile/helmfile?style=social)](https://github.com/helmfile/helmfile/stargazers) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. (11 months ago)
 1. [**ulgens/django-official-tutorial**](https://github.com/ulgens/django-official-tutorial/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/ulgens/django-official-tutorial?style=social)](https://github.com/ulgens/django-official-tutorial/stargazers) -  (11 months ago)
 1. [**piyush1146115/Kubernetes-Up-and-Running**](https://github.com/piyush1146115/Kubernetes-Up-and-Running/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/piyush1146115/Kubernetes-Up-and-Running?style=social)](https://github.com/piyush1146115/Kubernetes-Up-and-Running/stargazers) - Examples and sneak peek of Kubernetes Up and Running Book. 3rd ed. (11 months ago)
-1. [**Doist/todoist-api-python**](https://github.com/Doist/todoist-api-python/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/Doist/todoist-api-python?style=social)](https://github.com/Doist/todoist-api-python/stargazers) - A python wrapper for the Todoist REST API. (1 year ago)
-1. [**OpenBB-finance/OpenBB**](https://github.com/OpenBB-finance/OpenBB/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/OpenBB-finance/OpenBB?style=social)](https://github.com/OpenBB-finance/OpenBB/stargazers) - Financial data platform for analysts, quants and AI agents. (1 year ago)
-1. [**adhtruong/mirrors-typos**](https://github.com/adhtruong/mirrors-typos/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/adhtruong/mirrors-typos?style=social)](https://github.com/adhtruong/mirrors-typos/stargazers) -  (1 year ago)
 
 
 #### ⭐ Recent stars
