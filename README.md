@@ -11,7 +11,7 @@
 - [ [safazahi4989](https://github.com/safazahi4989) Safaa Sader ]
 - [ [suuani](https://github.com/suuani) dickdocker ]
 - [ [yyongwh](https://github.com/yyongwh)  ]
-- [ [runawaydevil](https://github.com/runawaydevil) P ]
+- [ [runawaydevil](https://github.com/runawaydevil) Pablo Murad ]
 - [ [Pyshkin1978](https://github.com/Pyshkin1978) AG ]
 - [ [ilkerulusoy](https://github.com/ilkerulusoy) Ilker Ulusoy ]
 - [ [ybadk](https://github.com/ybadk) Thapelo Thooe ]
@@ -36,7 +36,7 @@
 
 - [anthropics/courses](https://github.com/anthropics/courses) - Anthropic&#39;s educational courses (1 week ago)
 - [f/wvw.dev](https://github.com/f/wvw.dev) - The distributed app store for vibe-coded projects. Federated, AI-curated, fully static on GitHub Pages. (3 weeks ago)
-- [f/agentlytics](https://github.com/f/agentlytics) - Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code (4 weeks ago)
+- [f/agentlytics](https://github.com/f/agentlytics) - Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code (1 month ago)
 - [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development (1 month ago)
 - [robinebers/openusage](https://github.com/robinebers/openusage) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source. (1 month ago)
 - [prof-oguzergin/bilgisayar-mimarisi](https://github.com/prof-oguzergin/bilgisayar-mimarisi) - Bilgisayar Mimarisi: RISC-V Tabanlı Yaklaşım — Açık kaynak Türkçe ders kitabı (CC BY-NC-ND 4.0) (1 month ago)
