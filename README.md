@@ -34,6 +34,7 @@
 
 #### ⭐ Recent stars
 
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (today)
 - [anthropics/courses](https://github.com/anthropics/courses) - Anthropic&#39;s educational courses (1 week ago)
 - [f/wvw.dev](https://github.com/f/wvw.dev) - The distributed app store for vibe-coded projects. Federated, AI-curated, fully static on GitHub Pages. (4 weeks ago)
 - [f/agentlytics](https://github.com/f/agentlytics) - Comprehensive analytics dashboard for AI coding agents — Cursor, Windsurf, Claude Code, VS Code Copilot, Zed, Antigravity, OpenCode, Command Code (1 month ago)
@@ -43,7 +44,6 @@
 - [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills. (1 month ago)
 - [dtolnay/rust-toolchain](https://github.com/dtolnay/rust-toolchain) - Concise GitHub Action for installing a Rust toolchain (1 month ago)
 - [mrshu/github-statuses](https://github.com/mrshu/github-statuses) - The &#34;Missing GitHub Status Page&#34; -- a Flat Data attempt at historically documenting GitHub statuses (1 month ago)
-- [bagder/dancer-416](https://github.com/bagder/dancer-416) - Dancer 4.16 - snapshot of the last Dancer release we made on March 18 2001 (1 month ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
