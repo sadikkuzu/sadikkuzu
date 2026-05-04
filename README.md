@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [dracoloveforall-crypto](https://github.com/dracoloveforall-crypto)  ]
 - [ [ikramagix](https://github.com/ikramagix) Ikrame Saadi ]
 - [ [0xhustlerr](https://github.com/0xhustlerr) hustler ]
 - [ [OmiOmi0716](https://github.com/OmiOmi0716) Tzu sheng Huang A Xuan ]
@@ -17,7 +18,6 @@
 - [ [suuani](https://github.com/suuani) dickdocker ]
 - [ [yyongwh](https://github.com/yyongwh)  ]
 - [ [runawaydevil](https://github.com/runawaydevil) Pablo Murad ]
-- [ [Pyshkin1978](https://github.com/Pyshkin1978) AG ]
 
 #### 🚀 &nbsp; Open source projects I've contributed to
 1. [**astral-sh/uv**](https://github.com/astral-sh/uv/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/astral-sh/uv?style=social)](https://github.com/astral-sh/uv/stargazers) - An extremely fast Python package and project manager, written in Rust. (6 months ago)
