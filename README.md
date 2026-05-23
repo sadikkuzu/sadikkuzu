@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [procerezo](https://github.com/procerezo) procerezo ]
 - [ [mogz44](https://github.com/mogz44) Muhammed Oğuz ]
 - [ [dracoloveforall-crypto](https://github.com/dracoloveforall-crypto)  ]
 - [ [ikramagix](https://github.com/ikramagix) Ikrame Saadi ]
@@ -17,7 +18,6 @@
 - [ [senabuse](https://github.com/senabuse)  ]
 - [ [safazahi4989](https://github.com/safazahi4989) Safaa Sader ]
 - [ [suuani](https://github.com/suuani) dickdocker ]
-- [ [yyongwh](https://github.com/yyongwh)  ]
 
 #### 🚀 &nbsp; Open source projects I've contributed to
 1. [**rtk-ai/rtk**](https://github.com/rtk-ai/rtk/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/rtk-ai/rtk?style=social)](https://github.com/rtk-ai/rtk/stargazers) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (2 weeks ago)
