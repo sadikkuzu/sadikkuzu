@@ -21,8 +21,7 @@
 {{ end -}}
 {{ end -}}
 {{- end}}
-
-[Full list of contributions](contributions.md)
+1. [Full list of contributions](contributions.md)
 
 #### ⭐ Recent stars
 {{range recentStars 10}}
