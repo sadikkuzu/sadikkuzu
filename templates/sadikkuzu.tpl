@@ -12,7 +12,7 @@
 {{- end}}
 
 #### 🚀 &nbsp; Open source projects I've contributed to
-{{range recentContributions 100 }}
+{{- range recentContributions 100 }}
 {{- if (ne "sadikkuzu" (slice .Repo.Name 0 9)) -}}
 {{- if (ne "SweDinamo" (slice .Repo.Name 0 9)) -}}
 {{- if (ne "msgsumat" (slice .Repo.Name 0 8)) -}}
