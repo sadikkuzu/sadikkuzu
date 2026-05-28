@@ -27,8 +27,8 @@
 1. [**google-gemini/gemini-cli**](https://github.com/google-gemini/gemini-cli/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=social)](https://github.com/google-gemini/gemini-cli/stargazers) - An open-source AI agent that brings the power of Gemini directly into your terminal. (11 months ago)
 1. [**apple/container**](https://github.com/apple/container/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/apple/container?style=social)](https://github.com/apple/container/stargazers) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (11 months ago)
 
-[Full list of contributions](contributions.md)
 
+[Full list of contributions](contributions.md)
 
 #### ⭐ Recent stars
 
