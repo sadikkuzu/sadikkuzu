@@ -22,6 +22,8 @@
 {{ end -}}
 {{- end}}
 
+[Full list of contributions](contributions.md)
+
 #### ⭐ Recent stars
 {{range recentStars 10}}
 - [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .StarredAt}})
