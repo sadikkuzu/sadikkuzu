@@ -20,7 +20,7 @@
 {{ end -}}
 {{ end -}}
 {{ end -}}
-{{- end}}
+{{- end -}}
 1. [Full list of contributions](contributions.md)
 
 #### ⭐ Recent stars
