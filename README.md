@@ -47,10 +47,6 @@
 
 ![BOUN](https://github.com/sadikkuzu/sadikkuzu/assets/23168063/c4686502-9896-4af6-86d3-229dac1baa32)
 
-#### 🎧 &nbsp; Good beats
-
-[![Mr. Kuzu's Recently Played Music on Spotify](https://spotify-recently-played-readme.vercel.app/api?user=5cfgfpgmik69ly41rspaiod2a&count=3&unique=1)](https://open.spotify.com/user/5cfgfpgmik69ly41rspaiod2a)
-
 ---
 
 [![Update-action status](https://github.com/sadikkuzu/sadikkuzu/actions/workflows/sadikkuzu.yml/badge.svg)](https://github.com/sadikkuzu/sadikkuzu/actions/workflows/sadikkuzu.yml)
