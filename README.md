@@ -25,14 +25,14 @@
 1. [**kagent-dev/kagent**](https://github.com/kagent-dev/kagent/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/kagent-dev/kagent?style=social)](https://github.com/kagent-dev/kagent/stargazers) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord (8 months ago)
 1. [**modelcontextprotocol/go-sdk**](https://github.com/modelcontextprotocol/go-sdk/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/modelcontextprotocol/go-sdk?style=social)](https://github.com/modelcontextprotocol/go-sdk/stargazers) - The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google. (11 months ago)
 1. [**google-gemini/gemini-cli**](https://github.com/google-gemini/gemini-cli/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=social)](https://github.com/google-gemini/gemini-cli/stargazers) - An open-source AI agent that brings the power of Gemini directly into your terminal. (11 months ago)
-1. [**apple/container**](https://github.com/apple/container/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/apple/container?style=social)](https://github.com/apple/container/stargazers) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (11 months ago)
+1. [**apple/container**](https://github.com/apple/container/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/apple/container?style=social)](https://github.com/apple/container/stargazers) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (1 year ago)
 1. [Full list of contributions](contributions.md)
 
 #### ⭐ Recent stars
 
-- [hdenizdogan/huddle-moderator](https://github.com/hdenizdogan/huddle-moderator) - An easy tool to shuffle members&#39; talking order, keep a timer and highlight the speaker. (today)
-- [daronyondem/claude-architect-exam-guide](https://github.com/daronyondem/claude-architect-exam-guide) - Community study guide for the Claude Certified Architect – Foundations certification exam (5 days ago)
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. (6 days ago)
+- [hdenizdogan/huddle-moderator](https://github.com/hdenizdogan/huddle-moderator) - An easy tool to shuffle members&#39; talking order, keep a timer and highlight the speaker. (1 day ago)
+- [daronyondem/claude-architect-exam-guide](https://github.com/daronyondem/claude-architect-exam-guide) - Community study guide for the Claude Certified Architect – Foundations certification exam (6 days ago)
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. (1 week ago)
 - [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability. (1 week ago)
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server (1 week ago)
 - [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) - agent multiplexer that lives in your terminal. (1 week ago)
