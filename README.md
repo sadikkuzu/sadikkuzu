@@ -30,13 +30,13 @@
 
 #### ⭐ Recent stars
 
-- [ozgurcd/gograph](https://github.com/ozgurcd/gograph) - Local-only Go static analysis engine with a built-in MCP server. Gives AI coding agents deterministic structural awareness: call graphs, impact analysis, symbol search, and more. (2 days ago)
-- [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins. (4 days ago)
-- [plastic-labs/honcho](https://github.com/plastic-labs/honcho) -  Memory library for building stateful agents (5 days ago)
-- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (5 days ago)
-- [mpolatcan/hermes-setup](https://github.com/mpolatcan/hermes-setup) (5 days ago)
+- [ozgurcd/gograph](https://github.com/ozgurcd/gograph) - Local-only Go static analysis engine with a built-in MCP server. Gives AI coding agents deterministic structural awareness: call graphs, impact analysis, symbol search, and more. (3 days ago)
+- [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins. (5 days ago)
+- [plastic-labs/honcho](https://github.com/plastic-labs/honcho) -  Memory library for building stateful agents (6 days ago)
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (6 days ago)
+- [mpolatcan/hermes-setup](https://github.com/mpolatcan/hermes-setup) (6 days ago)
 - [hdenizdogan/huddle-moderator](https://github.com/hdenizdogan/huddle-moderator) - An easy tool to shuffle members&#39; talking order, keep a timer and highlight the speaker. (1 week ago)
-- [daronyondem/claude-architect-exam-guide](https://github.com/daronyondem/claude-architect-exam-guide) - Community study guide for the Claude Certified Architect – Foundations certification exam (1 week ago)
+- [daronyondem/claude-architect-exam-guide](https://github.com/daronyondem/claude-architect-exam-guide) - Community study guide for the Claude Certified Architect – Foundations certification exam (2 weeks ago)
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. (2 weeks ago)
 - [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability. (2 weeks ago)
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server (2 weeks ago)
