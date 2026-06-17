@@ -29,6 +29,7 @@
 
 #### ⭐ Recent stars
 
+- [saidsurucu/edevlet-eimza-mac-arm64](https://github.com/saidsurucu/edevlet-eimza-mac-arm64) - e-Devlet E-İmza (Türksat) için native Apple Silicon (arm64) .app paketleyici — gömülü Java 11, çift-tıkla açılır (today)
 - [ozgurcd/gograph](https://github.com/ozgurcd/gograph) - Local-only Go static analysis engine with a built-in MCP server. Gives AI coding agents deterministic structural awareness: call graphs, impact analysis, symbol search, and more. (1 week ago)
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins. (1 week ago)
 - [plastic-labs/honcho](https://github.com/plastic-labs/honcho) -  Memory library for building stateful agents (1 week ago)
@@ -38,7 +39,6 @@
 - [daronyondem/claude-architect-exam-guide](https://github.com/daronyondem/claude-architect-exam-guide) - Community study guide for the Claude Certified Architect – Foundations certification exam (2 weeks ago)
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. (2 weeks ago)
 - [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - See where your AI tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability. npx codeburn (3 weeks ago)
-- [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server (3 weeks ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
