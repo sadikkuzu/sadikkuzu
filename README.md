@@ -29,16 +29,16 @@
 
 #### ⭐ Recent stars
 
-- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect (2 days ago)
+- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect (3 days ago)
 - [saidsurucu/edevlet-eimza-mac-arm64](https://github.com/saidsurucu/edevlet-eimza-mac-arm64) - e-Devlet E-İmza (Türksat) için native Apple Silicon (arm64) .app paketleyici — gömülü Java 11, çift-tıkla açılır (1 week ago)
 - [ozgurcd/gograph](https://github.com/ozgurcd/gograph) - Local-only Go static analysis engine with a built-in MCP server. Gives AI coding agents deterministic structural awareness: call graphs, impact analysis, symbol search, and more. (2 weeks ago)
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins. (2 weeks ago)
-- [plastic-labs/honcho](https://github.com/plastic-labs/honcho) -  Memory library for building stateful agents (2 weeks ago)
-- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (2 weeks ago)
-- [mpolatcan/hermes-setup](https://github.com/mpolatcan/hermes-setup) (2 weeks ago)
+- [plastic-labs/honcho](https://github.com/plastic-labs/honcho) -  Memory library for building stateful agents (3 weeks ago)
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (3 weeks ago)
+- [mpolatcan/hermes-setup](https://github.com/mpolatcan/hermes-setup) (3 weeks ago)
 - [hdenizdogan/huddle-moderator](https://github.com/hdenizdogan/huddle-moderator) - An easy tool to shuffle members&#39; talking order, keep a timer and highlight the speaker. (3 weeks ago)
 - [daronyondem/claude-architect-exam-guide](https://github.com/daronyondem/claude-architect-exam-guide) - Community study guide for the Claude Certified Architect – Foundations certification exam (4 weeks ago)
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. (4 weeks ago)
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. (1 month ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
