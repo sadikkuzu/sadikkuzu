@@ -24,7 +24,6 @@
 1. [**astral-sh/uv**](https://github.com/astral-sh/uv/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/astral-sh/uv?style=social)](https://github.com/astral-sh/uv/stargazers) - An extremely fast Python package and project manager, written in Rust. (8 months ago)
 1. [**kagent-dev/kagent**](https://github.com/kagent-dev/kagent/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/kagent-dev/kagent?style=social)](https://github.com/kagent-dev/kagent/stargazers) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord (9 months ago)
 1. [**modelcontextprotocol/go-sdk**](https://github.com/modelcontextprotocol/go-sdk/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/modelcontextprotocol/go-sdk?style=social)](https://github.com/modelcontextprotocol/go-sdk/stargazers) - The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google. (1 year ago)
-1. [**google-gemini/gemini-cli**](https://github.com/google-gemini/gemini-cli/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=social)](https://github.com/google-gemini/gemini-cli/stargazers) - An open-source AI agent that brings the power of Gemini directly into your terminal. (1 year ago)
 1. [Full list of contributions](contributions.md)
 
 #### ⭐ Recent stars
