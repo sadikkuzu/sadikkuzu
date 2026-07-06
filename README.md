@@ -20,7 +20,7 @@
 - [ [0xhustlerr](https://github.com/0xhustlerr) hustler ]
 
 #### 🚀 &nbsp; Open source projects I've contributed to
-1. [**rtk-ai/rtk**](https://github.com/rtk-ai/rtk/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/rtk-ai/rtk?style=social)](https://github.com/rtk-ai/rtk/stargazers) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (1 month ago)
+1. [**rtk-ai/rtk**](https://github.com/rtk-ai/rtk/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/rtk-ai/rtk?style=social)](https://github.com/rtk-ai/rtk/stargazers) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (2 months ago)
 1. [**astral-sh/uv**](https://github.com/astral-sh/uv/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/astral-sh/uv?style=social)](https://github.com/astral-sh/uv/stargazers) - An extremely fast Python package and project manager, written in Rust. (8 months ago)
 1. [**kagent-dev/kagent**](https://github.com/kagent-dev/kagent/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/kagent-dev/kagent?style=social)](https://github.com/kagent-dev/kagent/stargazers) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord (9 months ago)
 1. [Full list of contributions](contributions.md)
@@ -31,7 +31,7 @@
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect (1 week ago)
 - [saidsurucu/edevlet-eimza-mac-arm64](https://github.com/saidsurucu/edevlet-eimza-mac-arm64) - e-Devlet E-İmza (Türksat) için native Apple Silicon (arm64) .app paketleyici — gömülü Java 11, çift-tıkla açılır (2 weeks ago)
 - [ozgurcd/gograph](https://github.com/ozgurcd/gograph) - Local-only Go static analysis engine with a built-in MCP server. Gives AI coding agents deterministic structural awareness: call graphs, impact analysis, symbol search, and more. (3 weeks ago)
-- [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins. (3 weeks ago)
+- [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins. (4 weeks ago)
 - [plastic-labs/honcho](https://github.com/plastic-labs/honcho) -  Memory library for building stateful agents (4 weeks ago)
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (4 weeks ago)
 - [mpolatcan/hermes-setup](https://github.com/mpolatcan/hermes-setup) (4 weeks ago)
