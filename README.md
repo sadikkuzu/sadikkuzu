@@ -29,9 +29,9 @@
 
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code &#43; database schema &#43; infrastructure in one graph. (1 week ago)
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect (1 week ago)
-- [saidsurucu/edevlet-eimza-mac-arm64](https://github.com/saidsurucu/edevlet-eimza-mac-arm64) - e-Devlet E-İmza (Türksat) için native Apple Silicon (arm64) .app paketleyici — gömülü Java 11, çift-tıkla açılır (2 weeks ago)
-- [ozgurcd/gograph](https://github.com/ozgurcd/gograph) - Local-only Go static analysis engine with a built-in MCP server. Gives AI coding agents deterministic structural awareness: call graphs, impact analysis, symbol search, and more. (3 weeks ago)
-- [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins. (4 weeks ago)
+- [saidsurucu/edevlet-eimza-mac-arm64](https://github.com/saidsurucu/edevlet-eimza-mac-arm64) - e-Devlet E-İmza (Türksat) için native Apple Silicon (arm64) .app paketleyici — gömülü Java 11, çift-tıkla açılır (3 weeks ago)
+- [ozgurcd/gograph](https://github.com/ozgurcd/gograph) - Local-only Go static analysis engine with a built-in MCP server. Gives AI coding agents deterministic structural awareness: call graphs, impact analysis, symbol search, and more. (4 weeks ago)
+- [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins. (1 month ago)
 - [plastic-labs/honcho](https://github.com/plastic-labs/honcho) -  Memory library for building stateful agents (1 month ago)
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (1 month ago)
 - [mpolatcan/hermes-setup](https://github.com/mpolatcan/hermes-setup) (1 month ago)
