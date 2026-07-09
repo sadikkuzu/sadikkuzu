@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [ilmtechfoundation](https://github.com/ilmtechfoundation) ILM Tech Foundation ]
 - [ [Batool110313](https://github.com/Batool110313)  ]
 - [ [sifynj](https://github.com/sifynj)  ]
 - [ [MilleniumSpark](https://github.com/MilleniumSpark)  ]
@@ -17,7 +18,6 @@
 - [ [okkesyetim](https://github.com/okkesyetim) okkes ]
 - [ [mogz44](https://github.com/mogz44) Muhammed Oğuz ]
 - [ [dracoloveforall-crypto](https://github.com/dracoloveforall-crypto)  ]
-- [ [ikramagix](https://github.com/ikramagix) Ikrame Saadi ]
 
 #### 🚀 &nbsp; Open source projects I've contributed to
 1. [**rtk-ai/rtk**](https://github.com/rtk-ai/rtk/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/rtk-ai/rtk?style=social)](https://github.com/rtk-ai/rtk/stargazers) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (2 months ago)
