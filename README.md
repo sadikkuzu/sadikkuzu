@@ -12,7 +12,7 @@
 - [ [Batool110313](https://github.com/Batool110313)  ]
 - [ [sifynj](https://github.com/sifynj)  ]
 - [ [MilleniumSpark](https://github.com/MilleniumSpark)  ]
-- [ [harshmishrahm01](https://github.com/harshmishrahm01) Harsh Mishra ]
+- [ [cosmicvi](https://github.com/cosmicvi) cosmicvitality ]
 - [ [credkellar-boop](https://github.com/credkellar-boop) Darion Kellar ]
 - [ [ozgurcd](https://github.com/ozgurcd) Ozgur Demir ]
 - [ [okkesyetim](https://github.com/okkesyetim) okkes ]
