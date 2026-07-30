@@ -10,7 +10,7 @@
 
 - [ [Dvurechensky](https://github.com/Dvurechensky) Dvurechensky ]
 - [ [ilmtechfoundation](https://github.com/ilmtechfoundation) ILM Tech Foundation ]
-- [ [Batool110313](https://github.com/Batool110313)  ]
+- [ [Batool110313](https://github.com/Batool110313) Batool ]
 - [ [sifynj](https://github.com/sifynj)  ]
 - [ [MilleniumSpark](https://github.com/MilleniumSpark)  ]
 - [ [cosmicvi](https://github.com/cosmicvi) cosmicvitality ]
