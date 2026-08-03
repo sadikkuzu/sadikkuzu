@@ -35,7 +35,7 @@
 - [plastic-labs/honcho](https://github.com/plastic-labs/honcho) -  Memory library for building stateful agents (1 month ago)
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (1 month ago)
 - [mpolatcan/hermes-setup](https://github.com/mpolatcan/hermes-setup) (1 month ago)
-- [hdenizdogan/huddle-moderator](https://github.com/hdenizdogan/huddle-moderator) - An easy tool to shuffle members&#39; talking order, keep a timer and highlight the speaker. (1 month ago)
+- [hdenizdogan/huddle-moderator](https://github.com/hdenizdogan/huddle-moderator) - An easy tool to shuffle members&#39; talking order, keep a timer and highlight the speaker. (2 months ago)
 - [daronyondem/claude-architect-exam-guide](https://github.com/daronyondem/claude-architect-exam-guide) - Community study guide for the Claude Certified Architect – Foundations certification exam (2 months ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
