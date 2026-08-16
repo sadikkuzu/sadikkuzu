@@ -29,7 +29,7 @@
 
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store. (1 month ago)
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect (1 month ago)
-- [saidsurucu/edevlet-eimza-mac-arm64](https://github.com/saidsurucu/edevlet-eimza-mac-arm64) - e-Devlet E-İmza (Türksat) için native Apple Silicon (arm64) .app paketleyici — gömülü Java 11, çift-tıkla açılır (1 month ago)
+- [saidsurucu/edevlet-eimza-mac-arm64](https://github.com/saidsurucu/edevlet-eimza-mac-arm64) - e-Devlet E-İmza (Türksat) için native Apple Silicon (arm64) .app paketleyici — gömülü Java 11, çift-tıkla açılır (2 months ago)
 - [ozgurcd/gograph](https://github.com/ozgurcd/gograph) - Local-only Go static analysis engine with a built-in MCP server. Gives AI coding agents deterministic structural awareness: call graphs, impact analysis, symbol search, and more. (2 months ago)
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins. (2 months ago)
 - [plastic-labs/honcho](https://github.com/plastic-labs/honcho) -  Memory library for building stateful agents (2 months ago)
