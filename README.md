@@ -27,7 +27,7 @@
 
 #### ⭐ Recent stars
 
-- [ozdil/omarchy-security-sentinel](https://github.com/ozdil/omarchy-security-sentinel) - Unified cyber defense, hardware security sentinel, and privacy hub for Omarchy Linux. (today)
+- [ozdil/omarchy-security-sentinel](https://github.com/ozdil/omarchy-security-sentinel) - Unified cyber defense, hardware security sentinel, and privacy hub for Omarchy Linux. (1 day ago)
 - [rosera/pet-theory](https://github.com/rosera/pet-theory) - Pet Theory (Qwiklabs Quest) (2 weeks ago)
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store. (2 months ago)
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect (2 months ago)
