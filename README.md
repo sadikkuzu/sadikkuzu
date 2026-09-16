@@ -27,8 +27,8 @@
 
 #### ⭐ Recent stars
 
-- [murattahtaci/turkish-bank-logos-svg](https://github.com/murattahtaci/turkish-bank-logos-svg) - Türkiye&#39;deki 35 banka ve 5 ödeme / e-para kuruluşunun orijinal SVG logoları · Original SVG logos of 35 banks and 5 payment / e-money institutions in Turkey (today)
-- [ozdil/omarchy-security-sentinel](https://github.com/ozdil/omarchy-security-sentinel) - Unified cyber defense, hardware security sentinel, and privacy hub for Omarchy Linux. (4 days ago)
+- [murattahtaci/turkish-bank-logos-svg](https://github.com/murattahtaci/turkish-bank-logos-svg) - Türkiye&#39;deki 35 banka ve 5 ödeme / e-para kuruluşunun orijinal SVG logoları · Original SVG logos of 35 banks and 5 payment / e-money institutions in Turkey (1 day ago)
+- [ozdil/omarchy-security-sentinel](https://github.com/ozdil/omarchy-security-sentinel) - Unified cyber defense, hardware security sentinel, and privacy hub for Omarchy Linux. (5 days ago)
 - [rosera/pet-theory](https://github.com/rosera/pet-theory) - Pet Theory (Qwiklabs Quest) (3 weeks ago)
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store. (2 months ago)
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect (2 months ago)
