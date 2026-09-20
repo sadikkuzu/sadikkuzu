@@ -27,6 +27,7 @@
 
 #### ⭐ Recent stars
 
+- [mustafaakin/jev-cpu](https://github.com/mustafaakin/jev-cpu) - A CPU emulator with Jev choosing one instruction at a time. No ROM, with registers, RAM, and serial I/O. (today)
 - [microsoft/tgrep](https://github.com/microsoft/tgrep) - Trigram-indexed grep with a client/server architecture for fast regex search in large codebases locally (today)
 - [murattahtaci/turkish-bank-logos-svg](https://github.com/murattahtaci/turkish-bank-logos-svg) - Türkiye&#39;deki 35 banka ve 5 ödeme / e-para kuruluşunun orijinal SVG logoları · Original SVG logos of 35 banks and 5 payment / e-money institutions in Turkey (5 days ago)
 - [ozdil/omarchy-security-sentinel](https://github.com/ozdil/omarchy-security-sentinel) - Unified cyber defense, hardware security sentinel, and privacy hub for Omarchy Linux. (1 week ago)
@@ -36,7 +37,6 @@
 - [ozgurcd/gograph](https://github.com/ozgurcd/gograph) - Local-only Go static analysis engine with a built-in MCP server. Gives AI coding agents deterministic structural awareness: call graphs, impact analysis, symbol search, and more. (3 months ago)
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins. (3 months ago)
 - [plastic-labs/honcho](https://github.com/plastic-labs/honcho) -  Memory library for building stateful agents (3 months ago)
-- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (3 months ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
