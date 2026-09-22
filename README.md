@@ -21,17 +21,17 @@
 
 #### 🚀 &nbsp; Open source projects I've contributed to
 1. [**rtk-ai/rtk**](https://github.com/rtk-ai/rtk/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/rtk-ai/rtk?style=social)](https://github.com/rtk-ai/rtk/stargazers) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (4 months ago)
-1. [**astral-sh/uv**](https://github.com/astral-sh/uv/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/astral-sh/uv?style=social)](https://github.com/astral-sh/uv/stargazers) - An extremely fast Python package and project manager, written in Rust. (10 months ago)
+1. [**astral-sh/uv**](https://github.com/astral-sh/uv/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/astral-sh/uv?style=social)](https://github.com/astral-sh/uv/stargazers) - An extremely fast Python package and project manager, written in Rust. (11 months ago)
 1. [**kagent-dev/kagent**](https://github.com/kagent-dev/kagent/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/kagent-dev/kagent?style=social)](https://github.com/kagent-dev/kagent/stargazers) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord (11 months ago)
 1. [Full list of contributions](contributions.md)
 
 #### ⭐ Recent stars
 
-- [mustafaakin/jev-cpu](https://github.com/mustafaakin/jev-cpu) - A CPU emulator with Jev choosing one instruction at a time. No ROM, with registers, RAM, and serial I/O. (1 day ago)
-- [microsoft/tgrep](https://github.com/microsoft/tgrep) - Trigram-indexed grep with a client/server architecture for fast regex search in large codebases locally (1 day ago)
-- [murattahtaci/turkish-bank-logos-svg](https://github.com/murattahtaci/turkish-bank-logos-svg) - Türkiye&#39;deki 35 banka ve 5 ödeme / e-para kuruluşunun orijinal SVG logoları · Original SVG logos of 35 banks and 5 payment / e-money institutions in Turkey (6 days ago)
+- [mustafaakin/jev-cpu](https://github.com/mustafaakin/jev-cpu) - A CPU emulator with Jev choosing one instruction at a time. No ROM, with registers, RAM, and serial I/O. (2 days ago)
+- [microsoft/tgrep](https://github.com/microsoft/tgrep) - Trigram-indexed grep with a client/server architecture for fast regex search in large codebases locally (2 days ago)
+- [murattahtaci/turkish-bank-logos-svg](https://github.com/murattahtaci/turkish-bank-logos-svg) - Türkiye&#39;deki 35 banka ve 5 ödeme / e-para kuruluşunun orijinal SVG logoları · Original SVG logos of 35 banks and 5 payment / e-money institutions in Turkey (1 week ago)
 - [ozdil/omarchy-security-sentinel](https://github.com/ozdil/omarchy-security-sentinel) - Unified cyber defense, hardware security sentinel, and privacy hub for Omarchy Linux. (1 week ago)
-- [rosera/pet-theory](https://github.com/rosera/pet-theory) - Pet Theory (Qwiklabs Quest) (4 weeks ago)
+- [rosera/pet-theory](https://github.com/rosera/pet-theory) - Pet Theory (Qwiklabs Quest) (1 month ago)
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store. (2 months ago)
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect (2 months ago)
 - [ozgurcd/gograph](https://github.com/ozgurcd/gograph) - Local-only Go static analysis engine with a built-in MCP server. Gives AI coding agents deterministic structural awareness: call graphs, impact analysis, symbol search, and more. (3 months ago)
