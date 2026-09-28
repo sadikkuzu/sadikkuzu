@@ -27,6 +27,7 @@
 
 #### ⭐ Recent stars
 
+- [Kastamonu-Belediye-Baskanligi/.github](https://github.com/Kastamonu-Belediye-Baskanligi/.github) - T.C. Kastamonu Belediyesi GitHub Organizasyon Profili ve Kurumsal Yapılandırması (today)
 - [google/ax](https://github.com/google/ax) - Google&#39;s open agentic orchestration runtime (5 days ago)
 - [mustafaakin/jev-cpu](https://github.com/mustafaakin/jev-cpu) - A CPU emulator with Jev choosing one instruction at a time. No ROM, with registers, RAM, and serial I/O. (1 week ago)
 - [microsoft/tgrep](https://github.com/microsoft/tgrep) - Trigram-indexed grep with a client/server architecture for fast regex search in large codebases locally (1 week ago)
@@ -36,7 +37,6 @@
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store. (3 months ago)
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect (3 months ago)
 - [ozgurcd/gograph](https://github.com/ozgurcd/gograph) - Local-only Go static analysis engine with a built-in MCP server. Gives AI coding agents deterministic structural awareness: call graphs, impact analysis, symbol search, and more. (3 months ago)
-- [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins. (3 months ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
