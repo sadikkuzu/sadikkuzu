@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [ReazGan](https://github.com/ReazGan) Baran Ayaztas ]
 - [ [Ali-hey-0](https://github.com/Ali-hey-0) Ali Heydari ]
 - [ [lxcadoza993](https://github.com/lxcadoza993)  ]
 - [ [HuckleR2003](https://github.com/HuckleR2003) Marcin &#34;HuckleR&#34; Firmuga ]
@@ -17,7 +18,6 @@
 - [ [MilleniumSpark](https://github.com/MilleniumSpark)  ]
 - [ [cosmicvi](https://github.com/cosmicvi) cosmicvitality ]
 - [ [ozgurcd](https://github.com/ozgurcd) Ozgur Demir ]
-- [ [okkesyetim](https://github.com/okkesyetim) okkes ]
 
 #### 🚀 &nbsp; Open source projects I've contributed to
 1. [**rtk-ai/rtk**](https://github.com/rtk-ai/rtk/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/rtk-ai/rtk?style=social)](https://github.com/rtk-ai/rtk/stargazers) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (5 months ago)
@@ -26,8 +26,8 @@
 
 #### ⭐ Recent stars
 
-- [jaredpalmer/kev](https://github.com/jaredpalmer/kev) - Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own (today)
-- [Kastamonu-Belediye-Baskanligi/.github](https://github.com/Kastamonu-Belediye-Baskanligi/.github) - T.C. Kastamonu Belediyesi GitHub Organizasyon Profili ve Kurumsal Yapılandırması (6 days ago)
+- [jaredpalmer/kev](https://github.com/jaredpalmer/kev) - Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own (1 day ago)
+- [Kastamonu-Belediye-Baskanligi/.github](https://github.com/Kastamonu-Belediye-Baskanligi/.github) - T.C. Kastamonu Belediyesi GitHub Organizasyon Profili ve Kurumsal Yapılandırması (1 week ago)
 - [google/ax](https://github.com/google/ax) - Google&#39;s open agentic orchestration runtime (1 week ago)
 - [mustafaakin/jev-cpu](https://github.com/mustafaakin/jev-cpu) - A CPU emulator with Jev choosing one instruction at a time. No ROM, with registers, RAM, and serial I/O. (2 weeks ago)
 - [microsoft/tgrep](https://github.com/microsoft/tgrep) - Trigram-indexed grep with a client/server architecture for fast regex search in large codebases locally (2 weeks ago)
