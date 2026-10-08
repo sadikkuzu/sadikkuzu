@@ -26,8 +26,8 @@
 
 #### ⭐ Recent stars
 
-- [floci-io/floci](https://github.com/floci-io/floci) - Light, fluffy, and always free - The AWS Local Emulator alternative (1 day ago)
-- [jaredpalmer/kev](https://github.com/jaredpalmer/kev) - Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own (3 days ago)
+- [floci-io/floci](https://github.com/floci-io/floci) - Light, fluffy, and always free - The AWS Local Emulator alternative (2 days ago)
+- [jaredpalmer/kev](https://github.com/jaredpalmer/kev) - Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own (4 days ago)
 - [Kastamonu-Belediye-Baskanligi/.github](https://github.com/Kastamonu-Belediye-Baskanligi/.github) - T.C. Kastamonu Belediyesi GitHub Organizasyon Profili ve Kurumsal Yapılandırması (1 week ago)
 - [google/ax](https://github.com/google/ax) - Google&#39;s open agentic orchestration runtime (2 weeks ago)
 - [mustafaakin/jev-cpu](https://github.com/mustafaakin/jev-cpu) - A CPU emulator with Jev choosing one instruction at a time. No ROM, with registers, RAM, and serial I/O. (2 weeks ago)
