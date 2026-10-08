@@ -26,6 +26,7 @@
 
 #### ⭐ Recent stars
 
+- [openai/math](https://github.com/openai/math) (today)
 - [floci-io/floci](https://github.com/floci-io/floci) - Light, fluffy, and always free - The AWS Local Emulator alternative (2 days ago)
 - [jaredpalmer/kev](https://github.com/jaredpalmer/kev) - Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own (4 days ago)
 - [Kastamonu-Belediye-Baskanligi/.github](https://github.com/Kastamonu-Belediye-Baskanligi/.github) - T.C. Kastamonu Belediyesi GitHub Organizasyon Profili ve Kurumsal Yapılandırması (1 week ago)
@@ -35,7 +36,6 @@
 - [murattahtaci/turkish-bank-logos-svg](https://github.com/murattahtaci/turkish-bank-logos-svg) - Türkiye&#39;deki 35 banka ve 5 ödeme / e-para kuruluşunun orijinal SVG logoları · Original SVG logos of 35 banks and 5 payment / e-money institutions in Turkey (3 weeks ago)
 - [ozdil/omarchy-security-sentinel](https://github.com/ozdil/omarchy-security-sentinel) - Unified cyber security sentinel for Omarchy Linux: BadUSB hardware guard, kernel integrity auditor, and zero-trust privacy monitor. (3 weeks ago)
 - [rosera/pet-theory](https://github.com/rosera/pet-theory) - Pet Theory (Qwiklabs Quest) (1 month ago)
-- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store. (3 months ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
