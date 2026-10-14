@@ -26,14 +26,14 @@
 
 #### ⭐ Recent stars
 
-- [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) (today)
-- [anthropics/anthropic-sdk-go](https://github.com/anthropics/anthropic-sdk-go) - Access to Anthropic&#39;s safety-first language model APIs via Go (today)
-- [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 (5 days ago)
-- [openai/math](https://github.com/openai/math) (5 days ago)
+- [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) (1 day ago)
+- [anthropics/anthropic-sdk-go](https://github.com/anthropics/anthropic-sdk-go) - Access to Anthropic&#39;s safety-first language model APIs via Go (1 day ago)
+- [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 (6 days ago)
+- [openai/math](https://github.com/openai/math) (6 days ago)
 - [floci-io/floci](https://github.com/floci-io/floci) - Light, fluffy, and always free - The AWS Local Emulator alternative (1 week ago)
 - [jaredpalmer/kev](https://github.com/jaredpalmer/kev) - Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own (1 week ago)
 - [Kastamonu-Belediye-Baskanligi/.github](https://github.com/Kastamonu-Belediye-Baskanligi/.github) - T.C. Kastamonu Belediyesi GitHub Organizasyon Profili ve Kurumsal Yapılandırması (2 weeks ago)
-- [google/ax](https://github.com/google/ax) - Google&#39;s open agentic orchestration runtime (2 weeks ago)
+- [google/ax](https://github.com/google/ax) - Google&#39;s open agentic orchestration runtime (3 weeks ago)
 - [mustafaakin/jev-cpu](https://github.com/mustafaakin/jev-cpu) - A CPU emulator with Jev choosing one instruction at a time. No ROM, with registers, RAM, and serial I/O. (3 weeks ago)
 - [microsoft/tgrep](https://github.com/microsoft/tgrep) - Trigram-indexed grep with a client/server architecture for fast regex search in large codebases locally (3 weeks ago)
 
