@@ -8,7 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
-- [ [ReazGan](https://github.com/ReazGan) Baran Ayaztas ]
+- [ [ReazGan](https://github.com/ReazGan) Rıza Baran Ayaztaş ]
 - [ [Ali-hey-0](https://github.com/Ali-hey-0) Ali Heydari ]
 - [ [lxcadoza993](https://github.com/lxcadoza993)  ]
 - [ [HuckleR2003](https://github.com/HuckleR2003) Marcin &#34;HuckleR&#34; Firmuga ]
@@ -26,10 +26,10 @@
 
 #### ⭐ Recent stars
 
-- [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) (1 day ago)
-- [anthropics/anthropic-sdk-go](https://github.com/anthropics/anthropic-sdk-go) - Access to Anthropic&#39;s safety-first language model APIs via Go (1 day ago)
-- [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 (6 days ago)
-- [openai/math](https://github.com/openai/math) (6 days ago)
+- [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) (2 days ago)
+- [anthropics/anthropic-sdk-go](https://github.com/anthropics/anthropic-sdk-go) - Access to Anthropic&#39;s safety-first language model APIs via Go (2 days ago)
+- [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 (1 week ago)
+- [openai/math](https://github.com/openai/math) (1 week ago)
 - [floci-io/floci](https://github.com/floci-io/floci) - Light, fluffy, and always free - The AWS Local Emulator alternative (1 week ago)
 - [jaredpalmer/kev](https://github.com/jaredpalmer/kev) - Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own (1 week ago)
 - [Kastamonu-Belediye-Baskanligi/.github](https://github.com/Kastamonu-Belediye-Baskanligi/.github) - T.C. Kastamonu Belediyesi GitHub Organizasyon Profili ve Kurumsal Yapılandırması (2 weeks ago)
