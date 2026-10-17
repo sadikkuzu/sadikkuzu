@@ -26,10 +26,10 @@
 
 #### ⭐ Recent stars
 
-- [aabacchus/where](https://github.com/aabacchus/where) - Plot a map of the locations of your pubnix users (1 day ago)
-- [1jehuang/jcode](https://github.com/1jehuang/jcode) - High performance coding agent harness written in rust (1 day ago)
-- [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) (3 days ago)
-- [anthropics/anthropic-sdk-go](https://github.com/anthropics/anthropic-sdk-go) - Access to Anthropic&#39;s safety-first language model APIs via Go (3 days ago)
+- [aabacchus/where](https://github.com/aabacchus/where) - Plot a map of the locations of your pubnix users (2 days ago)
+- [1jehuang/jcode](https://github.com/1jehuang/jcode) - High performance coding agent harness written in rust (2 days ago)
+- [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) (4 days ago)
+- [anthropics/anthropic-sdk-go](https://github.com/anthropics/anthropic-sdk-go) - Access to Anthropic&#39;s safety-first language model APIs via Go (4 days ago)
 - [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 (1 week ago)
 - [openai/math](https://github.com/openai/math) (1 week ago)
 - [floci-io/floci](https://github.com/floci-io/floci) - Light, fluffy, and always free - The AWS Local Emulator alternative (1 week ago)
