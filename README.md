@@ -10,7 +10,6 @@
 
 - [ [anilcanboga](https://github.com/anilcanboga)  ]
 - [ [ReazGan](https://github.com/ReazGan) Rıza Baran Ayaztaş ]
-- [ [Ali-hey-0](https://github.com/Ali-hey-0) Ali Heydari ]
 - [ [lxcadoza993](https://github.com/lxcadoza993)  ]
 - [ [HuckleR2003](https://github.com/HuckleR2003) Marcin &#34;HuckleR&#34; Firmuga ]
 - [ [Dvurechensky](https://github.com/Dvurechensky) Dvurechensky ]
@@ -18,6 +17,7 @@
 - [ [sifynj](https://github.com/sifynj)  ]
 - [ [MilleniumSpark](https://github.com/MilleniumSpark)  ]
 - [ [cosmicvi](https://github.com/cosmicvi) cosmicvitality ]
+- [ [ozgurcd](https://github.com/ozgurcd) Ozgur Demir ]
 
 #### 🚀 &nbsp; Open source projects I've contributed to
 1. [**rtk-ai/rtk**](https://github.com/rtk-ai/rtk/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/rtk-ai/rtk?style=social)](https://github.com/rtk-ai/rtk/stargazers) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (5 months ago)
@@ -35,7 +35,7 @@
 - [floci-io/floci](https://github.com/floci-io/floci) - Light, fluffy, and always free - The AWS Local Emulator alternative (1 week ago)
 - [jaredpalmer/kev](https://github.com/jaredpalmer/kev) - Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own (2 weeks ago)
 - [Kastamonu-Belediye-Baskanligi/.github](https://github.com/Kastamonu-Belediye-Baskanligi/.github) - T.C. Kastamonu Belediyesi GitHub Organizasyon Profili ve Kurumsal Yapılandırması (2 weeks ago)
-- [google/ax](https://github.com/google/ax) - Google&#39;s open agentic orchestration runtime (3 weeks ago)
+- [google/ax](https://github.com/google/ax) - Agent Executor (AX) is Google&#39;s open agentic orchestration runtime (3 weeks ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
