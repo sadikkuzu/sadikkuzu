@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [0vm](https://github.com/0vm) Ak ]
 - [ [ArshiaIlaty](https://github.com/ArshiaIlaty) Arshia Ilaty ]
 - [ [ReazGan](https://github.com/ReazGan) Rıza Baran Ayaztaş ]
 - [ [lxcadoza993](https://github.com/lxcadoza993)  ]
@@ -17,7 +18,6 @@
 - [ [sifynj](https://github.com/sifynj)  ]
 - [ [MilleniumSpark](https://github.com/MilleniumSpark)  ]
 - [ [cosmicvi](https://github.com/cosmicvi) cosmicvitality ]
-- [ [ozgurcd](https://github.com/ozgurcd) Ozgur Demir ]
 
 #### 🚀 &nbsp; Open source projects I've contributed to
 1. [**rtk-ai/rtk**](https://github.com/rtk-ai/rtk/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/rtk-ai/rtk?style=social)](https://github.com/rtk-ai/rtk/stargazers) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (5 months ago)
