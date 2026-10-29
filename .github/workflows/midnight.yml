@@ -12,12 +12,10 @@ jobs:
     steps:
       - uses: actions/checkout@v7
 
-      - uses: muesli/readme-scribe@master
+      - name: Render README
         env:
-          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
-        with:
-          template: "templates/sadikkuzu.tpl"
-          writeTo: "README.md"
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/render_readme.py
 
       - uses: actions/upload-artifact@v7
         with:
@@ -29,7 +27,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           commit_message: Hello new day!
-          branch: master
           commit_user_name: nights watch 🤖
           commit_user_email: sadikkuzu@hotmail.com
           commit_author: nights watch 🤖 <sadikkuzu@hotmail.com>
