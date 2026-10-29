@@ -1,0 +1,12 @@
+rules:
+  artipacked:
+    # git-auto-commit-action pushes with the credentials persisted by checkout.
+    # Only README.md is uploaded as an artifact, not .git.
+    ignore:
+      - midnight.yml
+      - sadikkuzu.yml
+  unpinned-uses:
+    config:
+      policies:
+        # Tag/branch refs (e.g. @v5) are fine; SHA pinning not required.
+        "*": ref-pin

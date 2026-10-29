@@ -1,8 +1,38 @@
+default_language_version:
+    python: python3.12
 repos:
 -   repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v6.0.0
     hooks:
     -   id: end-of-file-fixer
     -   id: trailing-whitespace
+        args: [--markdown-linebreak-ext=md]
+    -   id: mixed-line-ending
+        args: [--fix=lf]
     -   id: check-yaml
     -   id: check-merge-conflict
+    -   id: check-added-large-files
+    -   id: check-case-conflict
+    -   id: detect-private-key
+-   repo: https://github.com/rhysd/actionlint
+    rev: v1.7.12
+    hooks:
+    -   id: actionlint
+-   repo: https://github.com/python-jsonschema/check-jsonschema
+    rev: 0.39.0
+    hooks:
+    -   id: check-github-workflows
+-   repo: https://github.com/woodruffw/zizmor-pre-commit
+    rev: v1.31.1
+    hooks:
+    -   id: zizmor
+-   repo: https://github.com/gitleaks/gitleaks
+    rev: v8.30.1
+    hooks:
+    -   id: gitleaks
+-   repo: https://github.com/codespell-project/codespell
+    rev: v2.4.3
+    hooks:
+    -   id: codespell
+        args: [--ignore-words-list=boun]
+        exclude: ^(README\.md|contributions\.md)$
