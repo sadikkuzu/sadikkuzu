@@ -7,26 +7,16 @@
 
 
 #### 🔭 &nbsp; Check out my recent followers
-{{range followers 10}}
-- [ [{{.Login}}]({{.URL}}) {{.Name}} ]
-{{- end}}
+
+{{followers}}
 
 #### 🚀 &nbsp; Open source projects I've contributed to
-{{range recentContributions 100 -}}
-{{- if (ne "sadikkuzu" (slice .Repo.Name 0 9)) -}}
-{{- if (ne "SweDinamo" (slice .Repo.Name 0 9)) -}}
-{{- if (ne "msgsumat" (slice .Repo.Name 0 8)) -}}
-1. [**{{.Repo.Name}}**]({{.Repo.URL}}/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/{{.Repo.Name}}?style=social)](https://github.com/{{.Repo.Name}}/stargazers) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-{{ end -}}
-{{ end -}}
-{{ end -}}
-{{- end -}}
+{{contributions}}
 1. [Full list of contributions](contributions.md)
 
 #### ⭐ Recent stars
-{{range recentStars 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .StarredAt}})
-{{- end }}
+
+{{stars}}
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
