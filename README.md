@@ -12,12 +12,12 @@
 - [ [0vm](https://github.com/0vm) Ak ]
 - [ [ArshiaIlaty](https://github.com/ArshiaIlaty) Arshia Ilaty ]
 - [ [ReazGan](https://github.com/ReazGan) Rıza Baran Ayaztaş ]
-- [ [lxcadoza993](https://github.com/lxcadoza993)  ]
 - [ [HuckleR2003](https://github.com/HuckleR2003) Marcin &#34;HuckleR&#34; Firmuga ]
 - [ [Dvurechensky](https://github.com/Dvurechensky) Dvurechensky ]
 - [ [ilmtechfoundation](https://github.com/ilmtechfoundation) ILM Tech Foundation ]
 - [ [sifynj](https://github.com/sifynj)  ]
 - [ [MilleniumSpark](https://github.com/MilleniumSpark)  ]
+- [ [cosmicvi](https://github.com/cosmicvi) cosmicvitality ]
 
 #### 🚀 &nbsp; Open source projects I've contributed to
 1. [**rtk-ai/rtk**](https://github.com/rtk-ai/rtk/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/rtk-ai/rtk?style=social)](https://github.com/rtk-ai/rtk/stargazers) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (5 months ago)
