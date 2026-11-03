@@ -25,6 +25,7 @@
 
 #### ⭐ Recent stars
 
+- [totaldrop-app/totaldrop](https://github.com/totaldrop-app/totaldrop) - Send any file to anyone, anywhere. Free, open source, end-to-end encrypted. No account required. (today)
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps (1 week ago)
 - [aabacchus/where](https://github.com/aabacchus/where) - Plot a map of the locations of your pubnix users (2 weeks ago)
 - [1jehuang/jcode](https://github.com/1jehuang/jcode) - High performance coding agent harness written in Rust, built for heavy multi-agent dev workflows (2 weeks ago)
@@ -34,7 +35,6 @@
 - [openai/math](https://github.com/openai/math) (3 weeks ago)
 - [floci-io/floci](https://github.com/floci-io/floci) - Light, fluffy, and always free - The AWS Local Emulator alternative (4 weeks ago)
 - [jaredpalmer/kev](https://github.com/jaredpalmer/kev) - Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own (1 month ago)
-- [Kastamonu-Belediye-Baskanligi/.github](https://github.com/Kastamonu-Belediye-Baskanligi/.github) - T.C. Kastamonu Belediyesi GitHub Organizasyon Profili ve Kurumsal Yapılandırması (1 month ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
