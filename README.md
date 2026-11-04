@@ -25,7 +25,7 @@
 
 #### ⭐ Recent stars
 
-- [totaldrop-app/totaldrop](https://github.com/totaldrop-app/totaldrop) - Send any file to anyone, anywhere. Free, open source, end-to-end encrypted. No account required. (today)
+- [totaldrop-app/totaldrop](https://github.com/totaldrop-app/totaldrop) - Send any file to anyone, anywhere. Free, open source, end-to-end encrypted. No account required. (1 day ago)
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps (1 week ago)
 - [aabacchus/where](https://github.com/aabacchus/where) - Plot a map of the locations of your pubnix users (2 weeks ago)
 - [1jehuang/jcode](https://github.com/1jehuang/jcode) - High performance coding agent harness written in Rust, built for heavy multi-agent dev workflows (2 weeks ago)
