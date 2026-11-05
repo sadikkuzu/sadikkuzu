@@ -12,12 +12,18 @@ jobs:
     steps:
       - uses: actions/checkout@v7
 
-      - uses: muesli/readme-scribe@master
+      - uses: actions/setup-go@v7
+        with:
+          go-version: stable
+          cache: false
+
+      - name: Install markscribe
+        run: go install github.com/muesli/markscribe@master
+
+      - name: Render README
         env:
           GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
-        with:
-          template: "templates/sadikkuzu.tpl"
-          writeTo: "README.md"
+        run: markscribe -write README.md templates/sadikkuzu.tpl
 
       - uses: actions/upload-artifact@v7
         with:
@@ -29,7 +35,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           commit_message: Hello new day!
-          branch: master
           commit_user_name: nights watch 🤖
           commit_user_email: sadikkuzu@hotmail.com
           commit_author: nights watch 🤖 <sadikkuzu@hotmail.com>
