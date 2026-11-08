@@ -20,12 +20,13 @@
 - [ [sifynj](https://github.com/sifynj)  ]
 
 #### 🚀 &nbsp; Open source projects I've contributed to
-1. [**totaldrop-app/totaldrop**](https://github.com/totaldrop-app/totaldrop/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/totaldrop-app/totaldrop?style=social)](https://github.com/totaldrop-app/totaldrop/stargazers) - Send any file to anyone, anywhere. Free, open source, end-to-end encrypted. No account required. (1 day ago)
+1. [**totaldrop-app/totaldrop**](https://github.com/totaldrop-app/totaldrop/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/totaldrop-app/totaldrop?style=social)](https://github.com/totaldrop-app/totaldrop/stargazers) - Send any file to anyone, anywhere. Free, open source, end-to-end encrypted. No account required. (today)
 1. [**rtk-ai/rtk**](https://github.com/rtk-ai/rtk/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/rtk-ai/rtk?style=social)](https://github.com/rtk-ai/rtk/stargazers) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (6 months ago)
 1. [Full list of contributions](contributions.md)
 
 #### ⭐ Recent stars
 
+- [yucezerey/turkish-anti-ai-skill](https://github.com/yucezerey/turkish-anti-ai-skill) - Türkçe metinlerdeki yapay zeka izlerini (AI slop, translationese, çeviri kokan cümle mimarisi ve TDK hatalarını) temizleyen Agent Skill ve Humanizer paketi. (today)
 - [totaldrop-app/totaldrop](https://github.com/totaldrop-app/totaldrop) - Send any file to anyone, anywhere. Free, open source, end-to-end encrypted. No account required. (5 days ago)
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps (2 weeks ago)
 - [aabacchus/where](https://github.com/aabacchus/where) - Plot a map of the locations of your pubnix users (3 weeks ago)
@@ -35,7 +36,6 @@
 - [JustVugg/colibri](https://github.com/JustVugg/colibri) - A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own. (1 month ago)
 - [openai/math](https://github.com/openai/math) (1 month ago)
 - [floci-io/floci](https://github.com/floci-io/floci) - Light, fluffy, and always free - The AWS Local Emulator alternative (1 month ago)
-- [jaredpalmer/kev](https://github.com/jaredpalmer/kev) - Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own (1 month ago)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sadikkuzu&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
