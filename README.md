@@ -11,7 +11,7 @@
 - [ [arvelquigley99](https://github.com/arvelquigley99) Aveline Quigley ]
 - [ [rafaelbmateus](https://github.com/rafaelbmateus) Rafael Mateus ]
 - [ [alztrk](https://github.com/alztrk) Alican Öztürk ]
-- [ [0vm](https://github.com/0vm) Ak ]
+- [ [0vm](https://github.com/0vm) Dion Tag ]
 - [ [ArshiaIlaty](https://github.com/ArshiaIlaty) Arshia Ilaty ]
 - [ [ReazGan](https://github.com/ReazGan) Rıza Baran Ayaztaş ]
 - [ [HuckleR2003](https://github.com/HuckleR2003) Marcin &#34;HuckleR&#34; Firmuga ]
