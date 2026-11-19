@@ -20,7 +20,7 @@
 - [ [okkesyetim](https://github.com/okkesyetim) okkes ]
 
 #### 🚀 &nbsp; Open source projects I've contributed to
-1. [**totaldrop-app/totaldrop**](https://github.com/totaldrop-app/totaldrop/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/totaldrop-app/totaldrop?style=social)](https://github.com/totaldrop-app/totaldrop/stargazers) - Send any file to anyone, anywhere. Free, open source, end-to-end encrypted. No account required. (4 days ago)
+1. [**totaldrop-app/totaldrop**](https://github.com/totaldrop-app/totaldrop/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/totaldrop-app/totaldrop?style=social)](https://github.com/totaldrop-app/totaldrop/stargazers) - Send any file to anyone, anywhere. Free, open source, end-to-end encrypted. No account required. (5 days ago)
 1. [**rtk-ai/rtk**](https://github.com/rtk-ai/rtk/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/rtk-ai/rtk?style=social)](https://github.com/rtk-ai/rtk/stargazers) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (6 months ago)
 1. [Full list of contributions](contributions.md)
 
@@ -29,7 +29,7 @@
 - [joydle/borg](https://github.com/joydle/borg) - Supervised agent runtime for Rust: compose LLM calls into pipelines that cancel, isolate panics, retry, budget and resume. (1 week ago)
 - [yucezerey/turkish-anti-ai-skill](https://github.com/yucezerey/turkish-anti-ai-skill) - Türkçe metinlerdeki yapay zeka izlerini (AI slop, translationese, çeviri kokan cümle mimarisi ve TDK hatalarını) temizleyen Agent Skill ve Humanizer paketi. (1 week ago)
 - [totaldrop-app/totaldrop](https://github.com/totaldrop-app/totaldrop) - Send any file to anyone, anywhere. Free, open source, end-to-end encrypted. No account required. (2 weeks ago)
-- [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps (3 weeks ago)
+- [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps (4 weeks ago)
 - [aabacchus/where](https://github.com/aabacchus/where) - Plot a map of the locations of your pubnix users (1 month ago)
 - [1jehuang/jcode](https://github.com/1jehuang/jcode) - High performance coding agent harness written in Rust, built for heavy multi-agent dev workflows (1 month ago)
 - [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) (1 month ago)
