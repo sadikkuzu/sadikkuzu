@@ -8,6 +8,7 @@
 
 #### 🔭 &nbsp; Check out my recent followers
 
+- [ [fanyzp](https://github.com/fanyzp) Fanny. Z.P ]
 - [ [alztrk](https://github.com/alztrk) Alican Öztürk ]
 - [ [ArshiaIlaty](https://github.com/ArshiaIlaty) Arshia Ilaty ]
 - [ [ReazGan](https://github.com/ReazGan) Rıza Baran Ayaztaş ]
@@ -17,7 +18,6 @@
 - [ [MilleniumSpark](https://github.com/MilleniumSpark)  ]
 - [ [cosmicvi](https://github.com/cosmicvi) cosmicvitality ]
 - [ [ozgurcd](https://github.com/ozgurcd) Ozgur Demir ]
-- [ [okkesyetim](https://github.com/okkesyetim) okkes ]
 
 #### 🚀 &nbsp; Open source projects I've contributed to
 1. [**totaldrop-app/totaldrop**](https://github.com/totaldrop-app/totaldrop/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/totaldrop-app/totaldrop?style=social)](https://github.com/totaldrop-app/totaldrop/stargazers) - Send any file to anyone, anywhere. Free, open source, end-to-end encrypted. No account required. (1 week ago)
