@@ -26,8 +26,8 @@
 
 #### ⭐ Recent stars
 
-- [joydle/borg](https://github.com/joydle/borg) - Supervised agent runtime for Rust: compose LLM calls into pipelines that cancel, isolate panics, retry, budget and resume. (1 week ago)
-- [yucezerey/turkish-anti-ai-skill](https://github.com/yucezerey/turkish-anti-ai-skill) - Türkçe metinlerdeki yapay zeka izlerini (AI slop, translationese, çeviri kokan cümle mimarisi ve TDK hatalarını) temizleyen Agent Skill ve Humanizer paketi. (1 week ago)
+- [joydle/borg](https://github.com/joydle/borg) - Supervised agent runtime for Rust: compose LLM calls into pipelines that cancel, isolate panics, retry, budget and resume. (2 weeks ago)
+- [yucezerey/turkish-anti-ai-skill](https://github.com/yucezerey/turkish-anti-ai-skill) - Türkçe metinlerdeki yapay zeka izlerini (AI slop, translationese, çeviri kokan cümle mimarisi ve TDK hatalarını) temizleyen Agent Skill ve Humanizer paketi. (2 weeks ago)
 - [totaldrop-app/totaldrop](https://github.com/totaldrop-app/totaldrop) - Send any file to anyone, anywhere. Free, open source, end-to-end encrypted. No account required. (2 weeks ago)
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps (1 month ago)
 - [aabacchus/where](https://github.com/aabacchus/where) - Plot a map of the locations of your pubnix users (1 month ago)
