@@ -16,7 +16,9 @@
 {{- if (ne "sadikkuzu" (slice .Repo.Name 0 9)) -}}
 {{- if (ne "SweDinamo" (slice .Repo.Name 0 9)) -}}
 {{- if (ne "msgsumat" (slice .Repo.Name 0 8)) -}}
+{{- if (ne "totaldrop-app/" (slice (printf "%-14s" .Repo.Name) 0 14)) -}}
 1. [**{{.Repo.Name}}**]({{.Repo.URL}}/commits?author=sadikkuzu) [![](https://img.shields.io/github/stars/{{.Repo.Name}}?style=social)](https://github.com/{{.Repo.Name}}/stargazers) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+{{ end -}}
 {{ end -}}
 {{ end -}}
 {{ end -}}
